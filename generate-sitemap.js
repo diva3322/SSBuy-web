@@ -3,7 +3,7 @@ const path = require('path');
 const { XMLBuilder } = require('fast-xml-parser'); // 輕量級 XML 構建器
 
 // --- 設定您的網站基本資訊 ---
-const BASE_URL = 'www.ssbuy.tw; // <-- **請修改成您的網站根 URL**
+const BASE_URL = 'https://www.ssbuy.tw/'; // <-- **請修改成您的網站根 URL**
 const PAGES_DIR = './'; // <-- 您的網站根目錄，通常是 './' 或 './docs'
 
 // 可以指定哪些檔案或資料夾需要被包含或排除
