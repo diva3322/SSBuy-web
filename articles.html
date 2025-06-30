@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 更新後的 Title Tag 和 Meta Description -->
+    <title>遊戲攻略與最新資訊 - SSbuy最安全的手遊代儲</title>
+    <meta name="description" content="提供多款熱門手遊的最新遊戲攻略、活動資訊與深度分析，助您輕鬆玩轉遊戲！SSbuy最安全的手遊代儲平台。">
+    <link rel="canonical" href="https://www.ssbuy.tw/articles.html" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    
+    <!-- 1. Tailwind CSS CDN (應在所有其他樣式/腳本之前，除了自定義的 CSS) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'Kanit', 'Noto Sans TC', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- 2. React 和 ReactDOM 的 CDN (應在 Babel 之前) -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    
+    <!-- 3. Babel (用於在瀏覽器中轉譯 JSX，應在 React/ReactDOM 之後) -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <!-- 4. 您的主要網站 JS 檔案 (script.js)，應在所有其他 CDN 腳本之後，並加上 defer -->
+    <script src="script.js?ver=2" defer></script> 
+</head>
+<body class="articles-page">
+  <!-- Sidebar (桌機用) -->
+  <div class="sidebar">
+    <a href="https://www.ssbuy.tw/">
+      <img src="logo.jpg" alt="公司 LOGO" class="company-logo" />
+    </a>
+    <ul>
+      <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
+      <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
+      <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
+      <li><a href="https://www.ssbuy.tw/articles.html">攻略資訊</a></li>
+    </ul>
+  </div>
+
+  <!-- 頂部圖片 -->
+  <div class="header-wrapper">
+    <a href="https://www.ssbuy.tw/">
+      <img src="logobanner.jpg" alt="速速幫你儲手遊" class="header-img"/>
+    </a>
+  </div>
+
+  <!-- 小螢幕 MENU -->
+  <div class="mobile-top-bar">
+    <button class="mobile-menu-toggle">
+      <span class="hamburger-icon">☰</span> MENU
+    </button>
+  </div>
+  <div class="mobile-dropdown-menu">
+    <ul>
+      <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
+      <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
+      <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
+      <li><a href="https://www.ssbuy.tw/articles.html">攻略資訊</a></li>
+    </ul>
+  </div>
+
+  <main class="main-content">
+    <h1 class="articles-title">攻略資訊</h1>
+    <div class="articles-banner">
+        <img src="articlesbanner.jpg" alt="文章橫幅">
+    </div>
+
+    <!-- React 應用程式將在此處渲染 -->
+    <div id="react-app-root" class="w-full max-w-4xl mx-auto mb-8 bg-gray-800 p-6 rounded-lg shadow-xl"></div>
+
+    <input type="text" id="searchBox" class="articles-search-bar" placeholder="搜尋文章...">
+    <div id="articlesGrid" class="article-grid">
+        <!-- 文章卡片會在這裡動態載入 -->
+        <!-- 這是範例文章卡片，您可以根據實際數據結構和需求調整 -->
+        <a href="article-detail.html" class="article-card">
+            <img src="images/article1.jpg" alt="文章封面">
+            <div class="article-card-content">
+                <h3>遊戲攻略標題範例</h3>
+                <p>這是一個遊戲攻略的簡短描述。點擊查看更多！</p>
+                <div class="article-meta">
+                    <span>日期: 2025-06-25</span>
+                    <a href="#">閱讀更多</a>
+                </div>
+            </div>
+        </a>
+        <!-- 更多文章卡片 -->
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div style="display: flex; justify-content: center; gap:0.4vw;">
+        <a href="https://www.ssbuy.tw/purchase-guide.html">購買教學</a> |
+        <a href="https://www.ssbuy.tw/contact.html">聯絡我們</a> |
+        <a href="https://www.ssbuy.tw/disclaimer.html">免責條款</a> |
+        <a href="https://www.ssbuy.tw/terms-of-service.html">服務條款</a> |
+        <a href="https://www.ssbuy.tw/account-verification.html">帳戶認證</a> |
+        <a href="https://www.ssbuy.tw/articles.html">攻略資訊</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- React App 程式碼應放在所有相關 CDN 載入後，且 ReactDOM 渲染目標之後 -->
+  <script type="text/babel">
+    // App.js
+    const { useState, useEffect } = React; // 從 React 庫中解構 useState 和 useEffect
+
+    // 主應用程式組件
+    function App() {
+      const [gameName, setGameName] = useState(''); // 用於儲存使用者輸入的遊戲名稱
+      const [articleTitle, setArticleTitle] = useState(''); // 用於儲存生成的文章標題
+      const [articleContent, setArticleContent] = useState(''); // 用於儲存生成的文章內容
+      const [loading, setLoading] = useState(false); // 控制載入狀態
+      const [error, setError] = useState(''); // 儲存錯誤訊息
+      const [initialLoadGame, setInitialLoadGame] = useState(false); // 追蹤是否為初次載入並自動生成
+
+      // 處理遊戲名稱輸入框的變化
+      const handleGameNameChange = (event) => {
+        setGameName(event.target.value);
+      };
+
+      // 呼叫 Gemini API 生成文章的非同步函數
+      const generateArticle = async () => {
+        if (!gameName.trim()) {
+          setError('請輸入遊戲名稱。');
+          return;
+        }
+
+        setLoading(true); // 開始載入
+        setError(''); // 清除之前的錯誤訊息
+        setArticleTitle(''); // 清空之前的文章標題
+        setArticleContent(''); // 清空之前的文章內容
+
+        try {
+          const prompt = `請為遊戲 '${gameName}' 撰寫一篇約 500 字的攻略文章，包含遊戲簡介、新手入門指南、核心玩法解析、以及一些進階技巧。請以繁體中文和易懂的口吻撰寫，並提供文章標題和內容。`;
+          
+          let chatHistory = [];
+          chatHistory.push({ role: "user", parts: [{ text: prompt }] });
+
+          const payload = {
+            contents: chatHistory,
+            generationConfig: {
+              responseMimeType: "application/json", // 要求 JSON 格式的回應
+              responseSchema: {
+                type: "OBJECT",
+                properties: {
+                  "title": { "type": "STRING" },
+                  "content": { "type": "STRING" }
+                },
+                "propertyOrdering": ["title", "content"] // 確保順序
+              }
+            }
+          };
+
+          // 注意：API_KEY 這裡留空，Canvas 環境會自動注入
+          const apiKey = ""; 
+          const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+
+          const response = await fetch(apiUrl, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+          });
+
+          if (!response.ok) {
+            throw new Error(`API 請求失敗: ${response.status} ${response.statusText}`);
+          }
+
+          const result = await response.json();
+          
+          if (result.candidates && result.candidates.length > 0 &&
+              result.candidates[0].content && result.candidates[0].content.parts &&
+              result.candidates[0].content.parts.length > 0) {
+            
+            const jsonText = result.candidates[0].content.parts[0].text;
+            const parsedJson = JSON.parse(jsonText); // 解析 LLM 返回的 JSON 字串
+
+            setArticleTitle(parsedJson.title || '未能生成標題');
+            setArticleContent(parsedJson.content || '未能生成文章內容。');
+          } else {
+            setError('API 回應格式不正確或沒有內容。');
+          }
+
+        } catch (err) {
+          console.error("生成文章時發生錯誤:", err);
+          setError(`生成文章失敗: ${err.message || '未知錯誤'}`);
+        } finally {
+          setLoading(false); // 結束載入
+        }
+      };
+
+      // 在組件初次載入時，檢查 URL 參數並自動填入遊戲名稱
+      useEffect(() => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const gameParam = urlParams.get('game');
+        if (gameParam) {
+          const decodedGameName = decodeURIComponent(gameParam);
+          setGameName(decodedGameName);
+          setInitialLoadGame(true); // 標記為初次載入並帶有遊戲名稱
+          // 不在此處直接呼叫 generateArticle，讓它在按鈕點擊時觸發
+          // 或者可以選擇在 initialLoadGame 為 true 時自動觸發一次，這取決於您想要的行為
+          // 如果要自動觸發，可以這樣做：
+          // generateArticle(); 
+        }
+      }, []); // 空依賴陣列表示只在組件掛載時執行一次
+
+      // 如果是初次載入且帶有遊戲名稱，則自動觸發生成文章
+      useEffect(() => {
+        if (initialLoadGame && gameName) {
+          generateArticle();
+          setInitialLoadGame(false); // 防止重複觸發
+        }
+      }, [initialLoadGame, gameName]); // 依賴 gameName 確保其值已更新
+
+      return (
+        <div className="bg-gray-700 text-white p-6 rounded-lg shadow-lg mb-8 mx-auto max-w-4xl border border-gray-600">
+          <h2 className="text-3xl font-bold text-yellow-400 mb-6 text-center rounded-md p-2 bg-gray-800 shadow-md">攻略自動生成工具</h2>
+          
+          <div className="mb-6 flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-4">
+            <input
+              type="text"
+              value={gameName}
+              onChange={handleGameNameChange}
+              placeholder="請輸入遊戲名稱，例如：原神"
+              className="flex-grow w-full md:w-auto p-3 text-lg bg-gray-900 border border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500 text-gray-200 placeholder-gray-400 transition duration-300 ease-in-out"
+              disabled={loading}
+            />
+            <button
+              onClick={generateArticle}
+              className="w-full md:w-auto px-6 py-3 bg-yellow-500 text-gray-900 font-semibold text-lg rounded-lg shadow-md hover:bg-yellow-600 focus:outline-none focus:ring-2 focus:ring-yellow-500 focus:ring-opacity-75 transition duration-300 ease-in-out transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed"
+              disabled={loading}
+            >
+              {/* 按鈕文字根據是否有遊戲名稱和載入狀態變化 */}
+              {loading ? (
+                <span className="flex items-center justify-center">
+                  <svg className="animate-spin h-5 w-5 mr-3 text-gray-900" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  生成中...
+                </span>
+              ) : (gameName ? '顯示攻略' : '生成攻略')} {/* 修改按鈕文字 */}
+            </button>
+          </div>
+
+          {error && (
+            <div className="bg-red-800 text-red-200 p-3 rounded-lg mb-6 text-center border border-red-600">
+              錯誤: {error}
+            </div>
+          )}
+
+          {articleTitle && articleContent && (
+            <div className="mt-8 bg-gray-800 p-6 rounded-lg shadow-inner border border-gray-600">
+              <h3 className="text-2xl font-bold text-green-400 mb-4 text-center pb-2 border-b border-gray-600">
+                {articleTitle}
+              </h3>
+              <p className="text-gray-300 leading-relaxed whitespace-pre-wrap">
+                {articleContent}
+              </p>
+            </div>
+          )}
+
+          {!articleTitle && !articleContent && !loading && !error && (
+            <div className="mt-8 text-gray-400 text-center text-lg italic">
+              在此輸入遊戲名稱，即可自動生成攻略文章。
+            </div>
+          )}
+        </div>
+      );
+    }
+
+    // 將 App 組件渲染到 DOM 中
+    const domNode = document.getElementById('react-app-root');
+    if (domNode) {
+      // 檢查 ReactDOM 和 ReactDOM.createRoot 是否存在，以處理潛在的載入問題或版本差異
+      if (typeof ReactDOM !== 'undefined' && typeof ReactDOM.createRoot === 'function') {
+        const root = ReactDOM.createRoot(domNode);
+        root.render(<App />);
+      } else {
+        // 如果 ReactDOM 未載入或 createRoot 不存在，顯示錯誤訊息
+        console.error("ReactDOM 或 ReactDOM.createRoot 未定義。無法渲染 React 應用程式。");
+        domNode.innerHTML = "<div style='color: red; text-align: center; padding: 20px; background-color: #333; border-radius: 8px;'>錯誤：無法載入攻略生成工具。請檢查您的網路連線或瀏覽器主控台是否有錯誤訊息。</div>";
+      }
+    }
+  </script>
+</body>
+</html>

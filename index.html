@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>速速幫你儲手遊</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"/>
+  <link rel="canonical" href="https://www.ssbuy.tw/" />
+  
+  <script>
+        // 確保頁面載入後執行此腳本
+        document.addEventListener('DOMContentLoaded', function() {
+            // 檢查當前 URL 是否以 '/index.html' 結尾
+            // 使用 window.location.pathname 可以避免影響 URL 查詢參數
+            if (window.location.pathname.endsWith('/index.html')) {
+                // 將瀏覽器重新導向到根目錄
+                // window.location.origin 獲取協議、域名和端口 (例如: https://www.ssbuy.tw)
+                // window.location.search 獲取查詢參數 (例如: ?param=value)
+                // window.location.hash 獲取錨點 (例如: #section)
+                window.location.replace(window.location.origin + '/' + window.location.search + window.location.hash);
+            }
+        });
+  </script>
+  
+  <script src="script.js" defer></script>
+</head>
+<body class="index-page mobile-vertical">
+  <!-- Sidebar (桌機用) -->
+  <div class="sidebar">
+    <a href="https://www.ssbuy.tw/">
+      <img src="logo.jpg" alt="公司 LOGO" class="company-logo" />
+    </a>
+		<ul>
+		  <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
+		  <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
+		  <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
+		  <li><a href="https://www.ssbuy.tw/articles.html">攻略資訊</a></li>
+		</ul>
+  </div>
+
+  <!-- 頂部圖片 -->
+  <div class="header-wrapper">
+    <a href="https://lihi.cc/OjPRl">
+      <img src="logobanner.jpg" alt="速速幫你儲手遊" class="header-img"/>
+    </a>
+  </div>
+
+  <!-- 小螢幕 MENU -->
+  <div class="mobile-top-bar">
+    <button class="mobile-menu-toggle">
+      <span class="hamburger-icon">☰</span> MENU
+    </button>
+  </div>
+  <div class="mobile-dropdown-menu">
+	<ul>
+	  <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
+	  <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
+	  <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
+	  <li><a href="https://www.ssbuy.tw/articles.html">攻略資訊</a></li>
+	</ul>
+  </div>
+
+  <!-- 卡片主區 -->
+  <div class="main-content">
+    <h1>速速幫你儲手遊</h1>
+    <div id="gamesWrapper" class="games-wrapper-2col"></div>
+  <!-- JavaScript 會在這裡塞入兩個 game-slider-container -->
+  </div>
+
+  <footer>
+		<div style="display: flex; justify-content: center; gap:0.4vw;">
+		  <a href="https://www.ssbuy.tw/purchase-guide.html">購買教學</a> |
+		  <a href="https://www.ssbuy.tw/contact.html">聯絡我們</a> |
+		  <a href="https://www.ssbuy.tw/disclaimer.html">免責條款</a> |
+		  <a href="https://www.ssbuy.tw/terms-of-service.html">服務條款</a> |
+		  <a href="https://www.ssbuy.tw/account-verification.html">帳戶認證</a> |
+		  <a href="https://www.ssbuy.tw/articles.html">攻略資訊</a>
+		</div>
+    </div>
+  </footer>
+</body>
+</html>
