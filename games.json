@@ -1,0 +1,5511 @@
+{
+  "巔峰極速": {
+    "logo": "images/巔峰極速.jpg",
+    "products": [
+      {
+        "name": "鑽石 60顆",
+        "price": 30
+      },
+      {
+        "name": "鑽石 300顆",
+        "price": 150
+      },
+      {
+        "name": "鑽石 680顆",
+        "price": 270
+      },
+      {
+        "name": "鑽石 980顆",
+        "price": 430
+      },
+      {
+        "name": "鑽石 1280顆",
+        "price": 540
+      },
+      {
+        "name": "鑽石 1980顆",
+        "price": 810
+      },
+      {
+        "name": "鑽石 3280顆",
+        "price": 1340
+      },
+      {
+        "name": "鑽石6480顆",
+        "price": 2590
+      },
+      {
+        "name": "月卡",
+        "price": 150
+      },
+      {
+        "name": "高級合約",
+        "price": 270
+      },
+      {
+        "name": "特級合約",
+        "price": 540
+      },
+      {
+        "name": "合約組合禮包",
+        "price": 1420
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/RacingMasterHMT/",
+      "官方網站": "https://www.facebook.com/RacingMasterHMT/",
+      "禮包碼": "gift-codes.html?game=巔峰極速",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B7%94%E5%B3%B0%E6%A5%B5%E9%80%9F/id6450006659",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=70804"
+    },
+    "description": "《巔峰極速》是與Codemasters®深度合作, 3A級巔峰品質擬真競速遊戲。 玩家可以自由收集、改裝超過100款正版授權的豪華車輛，馳騁在全世界的街道與專業賽道上，感受極致光影與真實轟鳴聲帶來的沉浸體驗，更擁有豐富的競速玩法，立即加入與其他玩家進行即時競速對決，突破賽車的速度極限！"
+  },
+  "原神": {
+    "logo": "images/原神.jpg",
+    "products": [
+      {
+        "name": "創世結晶 60顆",
+        "price": 30
+      },
+      {
+        "name": "創世結晶 300顆",
+        "price": 150
+      },
+      {
+        "name": "創世結晶 980顆",
+        "price": 410
+      },
+      {
+        "name": "創世結晶 1980顆",
+        "price": 800
+      },
+      {
+        "name": "創世結晶 3280顆",
+        "price": 1340
+      },
+      {
+        "name": "創世結晶 6480顆",
+        "price": 2540
+      },
+      {
+        "name": "空月祝福",
+        "price": 150
+      },
+      {
+        "name": "珍珠紀行",
+        "price": 260
+      },
+      {
+        "name": "珍珠之歌",
+        "price": 520
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Genshinimpact.tw/",
+      "官方網站": "https://genshin.hoyoverse.com/zh-tw",
+      "禮包碼": "gift-codes.html?game=原神",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8E%9F%E7%A5%9E/id1517783697",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=36730"
+    },
+    "description": "《原神》是一款開放世界冒險角色扮演遊戲。 踏上跨越奇幻世界提瓦特大陸的旅程。 在這個廣闊世界中，探索七個國家，遇到擁有獨特性格和能力的不同角色，並與他們一起對抗強大的敵人，並同時尋找您失散的手足。 自由冒險，沈浸在充滿生命力的世界中，讓好奇心引領您揭開它所有的神秘面紗。"
+  },
+  "極速快感": {
+    "logo": "images/極速快感.jpg",
+    "products": [
+      {
+        "name": "66點券",
+        "price": 30
+      },
+      {
+        "name": "340點券",
+        "price": 155
+      },
+      {
+        "name": "660點券",
+        "price": 290
+      },
+      {
+        "name": "980點券",
+        "price": 440
+      },
+      {
+        "name": "1980點券",
+        "price": 870
+      },
+      {
+        "name": "2580點券",
+        "price": 1160
+      },
+      {
+        "name": "3380點券",
+        "price": 1480
+      },
+      {
+        "name": "6580點券",
+        "price": 2850
+      },
+      {
+        "name": "月卡",
+        "price": 155
+      },
+      {
+        "name": "普通通行證",
+        "price": 290
+      },
+      {
+        "name": "豪華通行證",
+        "price": 590
+      },
+      {
+        "name": "超值理財",
+        "price": 290
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/nfsm.garena.tw/",
+      "官方網站": "https://www.facebook.com/nfsm.garena.tw/",
+      "禮包碼": "gift-codes.html?game=極速快感",
+      "App Store": "https://apps.apple.com/tw/app/%E6%A5%B5%E9%80%9F%E5%BF%AB%E6%84%9F-%E9%9B%86%E7%B5%90/id6499305055",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78069"
+    },
+    "description": "《極速快感：集結》（英語：Need for Speed Mobile，中國大陸譯作「極品飛車：集結」）是一款由騰訊遊戲旗下天美工作室群開發、美商藝電發行的開放世界競速手機遊戲，台灣、香港和澳門地區由Garena代理發行。"
+  },
+  "俠客傳說：小小英雄": {
+    "logo": "images/俠客傳說小小英雄.jpg",
+    "products": [
+      {
+        "name": "9999仙玉",
+        "price": 8540
+      },
+      {
+        "name": "3290仙玉",
+        "price": 2790
+      },
+      {
+        "name": "1690仙玉",
+        "price": 1450
+      },
+      {
+        "name": "670仙玉",
+        "price": 580
+      },
+      {
+        "name": "330仙玉",
+        "price": 290
+      },
+      {
+        "name": "170仙玉",
+        "price": 155
+      },
+      {
+        "name": "33仙玉",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/SSHERO.TW/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.xxyx.tw.and",
+      "禮包碼": "gift-codes.html?game=俠客傳說：小小英雄",
+      "App Store": "https://apps.apple.com/tw/app/%E4%BF%A0%E5%AE%A2%E5%82%B3%E8%AA%AA-%E5%B0%8F%E5%B0%8F%E8%8B%B1%E9%9B%84/id6736904440",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81562"
+    },
+    "description": "有你的地方，就有江湖。"
+  },
+  "逆水寒": {
+    "logo": "images/逆水寒.jpg",
+    "products": [
+      {
+        "name": "6480玉",
+        "price": 2590
+      },
+      {
+        "name": "3280玉",
+        "price": 1400
+      },
+      {
+        "name": "1980玉",
+        "price": 840
+      },
+      {
+        "name": "980玉",
+        "price": 420
+      },
+      {
+        "name": "300玉",
+        "price": 155
+      },
+      {
+        "name": "60玉",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/JusticeHMT/",
+      "官方網站": "https://www.swordofjustice.com/",
+      "禮包碼": "gift-codes.html?game=逆水寒",
+      "App Store": "https://apps.apple.com/tw/app/%E9%80%86%E6%B0%B4%E5%AF%92/id6474654939",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=77001"
+    },
+    "description": "新武俠大世界冒險RPG《俠客傳說：小小英雄》"
+  },
+  "RO仙境傳說：一定要可愛": {
+    "logo": "images/RO仙境傳說一定要可愛.jpg",
+    "products": [
+      {
+        "name": "4500鑽",
+        "price": 2520
+      },
+      {
+        "name": "3000鑽",
+        "price": 1720
+      },
+      {
+        "name": "1500鑽",
+        "price": 860
+      },
+      {
+        "name": "750鑽",
+        "price": 430
+      },
+      {
+        "name": "450鑽",
+        "price": 260
+      },
+      {
+        "name": "225鑽",
+        "price": 140
+      },
+      {
+        "name": "75鑽",
+        "price": 50
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/ROCTW.Gravity/",
+      "官方網站": "https://www.facebook.com/ROCTW.Gravity/",
+      "禮包碼": "gift-codes.html?game=RO仙境傳說：一定要可愛",
+      "App Store": "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8F%AF%E6%84%9B/id6738032840",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81921"
+    },
+    "description": "可不可愛？我們說了算！"
+  },
+  "RO新世代": {
+    "logo": "images/RO新世代.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/ROXNextGeneration/",
+      "官方網站": "https://www.facebook.com/ROXNextGeneration/",
+      "禮包碼": "gift-codes.html?game=RO新世代",
+      "App Store": "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E6%96%B0%E4%B8%96%E4%BB%A3%E7%9A%84%E8%AA%95%E7%94%9F/id1516214913",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=37030"
+    },
+    "description": "官方正版RO最新作「RO仙境傳説：新世代的誕生」，煥新啓航！不刪檔公測開啟！"
+  },
+  "上古：龍神覺醒": {
+    "logo": "images/上古龍神覺醒.jpg",
+    "products": [
+      {
+        "name": "9999紅寶石",
+        "price": 2750
+      },
+      {
+        "name": "4999紅寶石",
+        "price": 1380
+      },
+      {
+        "name": "2999紅寶石",
+        "price": 830
+      },
+      {
+        "name": "1999紅寶石",
+        "price": 550
+      },
+      {
+        "name": "1499紅寶石",
+        "price": 430
+      },
+      {
+        "name": "999紅寶石",
+        "price": 290
+      },
+      {
+        "name": "499紅寶石",
+        "price": 150
+      },
+      {
+        "name": "99紅寶石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DragonGodTW/",
+      "官方網站": "https://www.facebook.com/DragonGodTW/",
+      "禮包碼": "gift-codes.html?game=上古：龍神覺醒",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%8A%E5%8F%A4-%E9%BE%8D%E7%A5%9E%E8%A6%BA%E9%86%92-%E6%89%93%E7%8E%8B%E6%8E%89%E5%AF%B6%E7%88%BD/id6468944878",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79559"
+    },
+    "description": "首款龍主題MMO鉅作！"
+  },
+  "小艦艦超勇": {
+    "logo": "images/小艦艦超勇.jpg",
+    "products": [
+      {
+        "name": "9999冰海水晶",
+        "price": 2790
+      },
+      {
+        "name": "4999冰海水晶",
+        "price": 1450
+      },
+      {
+        "name": "1999冰海水晶",
+        "price": 580
+      },
+      {
+        "name": "999冰海水晶",
+        "price": 290
+      },
+      {
+        "name": "499冰海水晶",
+        "price": 160
+      },
+      {
+        "name": "99冰海水晶",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/HighSeasHero.tw/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.wwv.global&hl=zh",
+      "禮包碼": "gift-codes.html?game=小艦艦超勇",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%8F%E8%89%A6%E8%89%A6%E8%B6%85%E5%8B%87/id6621220868",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81411"
+    },
+    "description": "無止境的武器升級，打造你的最強艦隊！"
+  },
+  "天使軍團": {
+    "logo": "images/天使軍團.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/AngelLegionOfficial/posts/%E5%A4%A9%E4%BD%BF%E8%BB%8D%E5%9C%982%E9%80%B1%E5%B9%B4-part3-%E9%87%8D%E7%BD%AE-%E8%A8%98%E6%86%B6%E5%9B%9E%E6%BA%AF%E6%85%B6%E5%85%B8%E5%B0%87%E5%95%9F%E7%86%B1%E6%83%85%E5%9B%9B%E6%BA%A2%E8%A6%AA%E6%84%9B%E7%9A%84%E6%8C%87%E6%8F%AE%E5%AE%98%E9%80%99%E8%A3%A1%E6%98%AF%E5%AE%93%E9%9B%85%E7%9A%84%E5%AE%98%E6%96%B9%E7%99%BC%E8%A8%80%E5%92%B3%E5%92%B3%E9%A6%96%E5%85%88%E7%9C%9F%E7%9A%84%E5%BE%88%E6%84%9F%E8%AC%9D%E6%8C%87%E6%8F%AE%E5%AE%98%E5%85%A9%E5%B9%B4%E4%BB%A5%E4%BE%86%E7%9A%84%E9%99%AA%E4%BC%B4%E5%AE%93%E9%9B%85%E7%9C%9F%E7%9A%84%E5%BE%88%E9%96%8B%E5%BF%83%E8%83%BD%E5%A4%A0%E8%88%87%E6%8C%87%E6%8F%AE%E5%AE%98%E7%9B%B8%E9%81%87%E5%9C%A8/362697805201340/",
+      "官方網站": "https://www.facebook.com/AngelLegionOfficial/posts/%E5%A4%A9%E4%BD%BF%E8%BB%8D%E5%9C%982%E9%80%B1%E5%B9%B4-part3-%E9%87%8D%E7%BD%AE-%E8%A8%98%E6%86%B6%E5%9B%9E%E6%BA%AF%E6%85%B6%E5%85%B8%E5%B0%87%E5%95%9F%E7%86%B1%E6%83%85%E5%9B%9B%E6%BA%A2%E8%A6%AA%E6%84%9B%E7%9A%84%E6%8C%87%E6%8F%AE%E5%AE%98%E9%80%99%E8%A3%A1%E6%98%AF%E5%AE%93%E9%9B%85%E7%9A%84%E5%AE%98%E6%96%B9%E7%99%BC%E8%A8%80%E5%92%B3%E5%92%B3%E9%A6%96%E5%85%88%E7%9C%9F%E7%9A%84%E5%BE%88%E6%84%9F%E8%AC%9D%E6%8C%87%E6%8F%AE%E5%AE%98%E5%85%A9%E5%B9%B4%E4%BB%A5%E4%BE%86%E7%9A%84%E9%99%AA%E4%BC%B4%E5%AE%93%E9%9B%85%E7%9C%9F%E7%9A%84%E5%BE%88%E9%96%8B%E5%BF%83%E8%83%BD%E5%A4%A0%E8%88%87%E6%8C%87%E6%8F%AE%E5%AE%98%E7%9B%B8%E9%81%87%E5%9C%A8/362697805201340/",
+      "禮包碼": "gift-codes.html?game=天使軍團",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A5%B3%E7%A5%9E%E8%BB%8D%E5%9C%98/id1477578287",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=38179"
+    },
+    "description": "天使軍團是最新推出的3D天使銀河冒險RPG手遊。 希拉星系，深邃而瑰麗……這裡曾存在著古老時期的文明。"
+  },
+  "天堂W": {
+    "logo": "images/天堂W.jpg",
+    "products": [
+      {
+        "name": "5900商品",
+        "price": 5300
+      },
+      {
+        "name": "2600商品",
+        "price": 2360
+      },
+      {
+        "name": "1300商品",
+        "price": 1180
+      },
+      {
+        "name": "780商品",
+        "price": 730
+      },
+      {
+        "name": "260商品",
+        "price": 250
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/LineageWOfficial.TW/",
+      "官方網站": "https://lineagew.plaync.com/hk/",
+      "禮包碼": "gift-codes.html?game=天堂W",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A4%A9%E5%A0%82w/id1444980563",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=71905"
+    },
+    "description": "《天堂W》是繼承PC MMORPG天堂正統性的跨平台遊戲，全球單一版本服務，即時AI翻譯；Full 3D畫面和斜45度視角開發的暗黑奇幻世界；將天堂的核心內容戰鬥社群延伸到世界。"
+  },
+  "少女前線2：追放": {
+    "logo": "images/少女前線2追放.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/EXILIUMTW/",
+      "官方網站": "https://www.facebook.com/EXILIUMTW/",
+      "禮包碼": "gift-codes.html?game=少女前線2：追放",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%B7%9A2-%E8%BF%BD%E6%94%BE/id6499011827",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=70502"
+    },
+    "description": "講述了指揮官與格里芬之間無法調和的理念衝突，導致指揮官選擇自我流放，成為賞金獵人。"
+  },
+  "幻獸傳說Ｍ": {
+    "logo": "images/幻獸傳說Ｍ.jpg",
+    "products": [
+      {
+        "name": "6488彩鑽",
+        "price": 2790
+      },
+      {
+        "name": "3280彩鑽",
+        "price": 1450
+      },
+      {
+        "name": "1980彩鑽",
+        "price": 880
+      },
+      {
+        "name": "1280彩鑽",
+        "price": 580
+      },
+      {
+        "name": "980彩鑽",
+        "price": 430
+      },
+      {
+        "name": "680彩鑽",
+        "price": 290
+      },
+      {
+        "name": "300彩鑽",
+        "price": 160
+      },
+      {
+        "name": "60彩鑽",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Fantasiaworld2025/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.winds.gptw",
+      "禮包碼": "gift-codes.html?game=幻獸傳說Ｍ",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B9%BB%E7%8D%B8%E5%82%B3%E8%AA%AA%EF%BD%8D/id6473504793",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80879"
+    },
+    "description": "2025年萬眾期待的幻獸手遊來啦！異世界捉獸育獸RPG《幻獸傳說M》現已上市！豆花蔡黃汝可愛代言，演繹疾海兔！"
+  },
+  "未定事件簿": {
+    "logo": "images/未定事件簿.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TearsofThemis.cnt/",
+      "官方網站": "https://www.facebook.com/TearsofThemis.cnt/",
+      "禮包碼": "gift-codes.html?game=未定事件簿",
+      "App Store": "https://apps.apple.com/tw/app/%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF/id1517956613",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=37060"
+    },
+    "description": "當正義與邪惡的界定越來越模糊，妳手中的天平將會傾向何方？一場戀愛與推理的冒險，此刻，邀妳共赴。"
+  },
+  "永恆靈魂": {
+    "logo": "images/永恆靈魂.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/EversoulTW/",
+      "官方網站": "https://www.facebook.com/EversoulTW/",
+      "禮包碼": "gift-codes.html?game=永恆靈魂",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B0%B8%E6%81%86%E9%9D%88%E9%AD%82/id1626247427",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=71746"
+    },
+    "description": "末日的今天，精靈們等候您的指示…救援者，帶領著她們的靈魂活下去吧。"
+  },
+  "守住呀主公": {
+    "logo": "images/守住呀主公.jpg",
+    "products": [
+      {
+        "name": "6000元寶",
+        "price": 2790
+      },
+      {
+        "name": "3000元寶",
+        "price": 1450
+      },
+      {
+        "name": "1800元寶",
+        "price": 870
+      },
+      {
+        "name": "1200元寶",
+        "price": 580
+      },
+      {
+        "name": "900元寶",
+        "price": 430
+      },
+      {
+        "name": "600元寶",
+        "price": 290
+      },
+      {
+        "name": "300元寶",
+        "price": 150
+      },
+      {
+        "name": "60元寶",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/tf.haagames/",
+      "官方網站": "https://tf.haagame.com/",
+      "禮包碼": "gift-codes.html?game=守住呀主公",
+      "App Store": "https://apps.apple.com/tw/app/%E5%AE%88%E4%BD%8F%E5%91%80%E4%B8%BB%E5%85%AC-%E9%80%813000%E6%8A%BD/id6736643346",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81374"
+    },
+    "description": "喜歡策略塔防、鍾愛三國名將的你，絕對不容錯過這款高畫質3D塔防力作！豐富的塔防玩法、酷炫的技能特效，讓你盡享爽快的遊戲體驗。"
+  },
+  "吟遊戰記": {
+    "logo": "images/吟遊戰記.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2790
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1450
+      },
+      {
+        "name": "1980鑽石",
+        "price": 870
+      },
+      {
+        "name": "1280鑽石",
+        "price": 580
+      },
+      {
+        "name": "980鑽石",
+        "price": 440
+      },
+      {
+        "name": "680鑽石",
+        "price": 290
+      },
+      {
+        "name": "300鑽石",
+        "price": 150
+      },
+      {
+        "name": "60鑽石",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/gamelife.tw/posts/%E9%A2%A8%E6%A0%BC%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%98%AF%E6%8C%BA%E6%9C%89%E5%86%92%E9%9A%AA%E6%84%9F%E7%9A%84%E5%90%9F%E9%81%8A%E6%88%B0%E8%A8%98-%E5%85%AC%E6%B8%AC/1078503917620009/",
+      "官方網站": "https://apps.apple.com/mo/app/%E5%90%9F%E9%81%8A%E6%88%B0%E8%A8%98-stellar-traveler/id6499259212",
+      "禮包碼": "gift-codes.html?game=吟遊戰記",
+      "App Store": "https://apps.apple.com/tw/app/%E5%90%9F%E9%81%8A%E6%88%B0%E8%A8%98-stellar-traveler/id6499259212",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=34394"
+    },
+    "description": "新感覺放置型勇者冒險RPG，登入即可獲得免費9999連抽！輕鬆休閒的冒險，來一場解放雙手的戰鬥吧！"
+  },
+  "我獨自升級：ARISE": {
+    "logo": "images/我獨自升級ARISE.jpg",
+    "products": [
+      {
+        "name": "8700鑽",
+        "price": 1940
+      },
+      {
+        "name": "4750鑽",
+        "price": 1150
+      },
+      {
+        "name": "2600鑽",
+        "price": 620
+      },
+      {
+        "name": "1150鑽",
+        "price": 280
+      },
+      {
+        "name": "335鑽",
+        "price": 90
+      },
+      {
+        "name": "110鑽",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/SoloLevelingARISE.TC/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=zh",
+      "禮包碼": "gift-codes.html?game=我獨自升級：ARISE",
+      "App Store": "https://apps.apple.com/tw/app/%E6%88%91%E7%8D%A8%E8%87%AA%E5%8D%87%E7%B4%9A-arise/id1662742277",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=77218"
+    },
+    "description": "德國最強的獵人，也是世界獵人排名第12名的S級「萊納德．尼爾曼」已加入完成！"
+  },
+  "命運聖契：少女的羈絆": {
+    "logo": "images/命運聖契少女的羈絆.jpg",
+    "products": [
+      {
+        "name": "6480星鑽",
+        "price": 2790
+      },
+      {
+        "name": "3280星鑽",
+        "price": 1450
+      },
+      {
+        "name": "1980星鑽",
+        "price": 880
+      },
+      {
+        "name": "980星鑽",
+        "price": 440
+      },
+      {
+        "name": "300星鑽",
+        "price": 160
+      },
+      {
+        "name": "60星鑽",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/@fategirls.mover/",
+      "官方網站": "https://www.facebook.com/fategirls.mover/posts/%E5%A5%B3%E7%A5%9E%E5%8A%A9%E7%90%86%E6%A1%83%E4%B9%83%E6%9C%A8%E9%A6%99%E5%A5%88%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E9%82%8A%E9%A0%90%E7%B4%84%E5%8D%B3%E9%80%81%E8%B6%85%E7%A8%80%E6%9C%89%E9%99%90%E5%AE%9A%E6%99%82%E8%A3%9Dhttpsemovergamescomsakwp%E4%B8%8A%E7%8F%AD%E6%83%B3%E8%A6%81%E5%81%B7%E5%81%B7%E6%91%B8%E9%AD%9A%E4%B8%8D%E8%A2%AB%E7%99%BC%E7%8F%BE%E9%80%99%E6%AC%A1%E6%9C%89%E5%A5%B3%E7%A5%9E%E5%8A%A9%E7%90%86%E6%A1%83%E4%B9%83%E6%9C%A8%E9%A6%99%E5%A5%88%E4%BF%9D%E8%AD%89%E8%AE%93%E4%BD%A0%E5%AE%89%E5%85%A8%E9%81%8E/122135259872569827/",
+      "禮包碼": "gift-codes.html?game=命運聖契：少女的羈絆",
+      "App Store": "https://apps.apple.com/tw/app/%E5%91%BD%E9%81%8B%E8%81%96%E5%A5%91-%E5%B0%91%E5%A5%B3%E7%9A%84%E7%BE%88%E7%B5%86/id6535676007",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81682"
+    },
+    "description": "2025首款命運少女輕放置RPG手遊《命運聖契：少女的羈絆》霜糖奇典活动開啟！登錄可得自選SSR、限定頭像框及海量高價值虛寶。"
+  },
+  "放置軍團": {
+    "logo": "images/放置軍團.jpg",
+    "products": [
+      {
+        "name": "6480氪晶",
+        "price": 2540
+      },
+      {
+        "name": "3280氪晶",
+        "price": 1280
+      },
+      {
+        "name": "1280氪晶",
+        "price": 600
+      },
+      {
+        "name": "680氪晶",
+        "price": 280
+      },
+      {
+        "name": "300氪晶",
+        "price": 150
+      }
+    ],
+    "social": {
+      "Facebook": "https://m.facebook.com/p/%E6%94%BE%E7%BD%AE%E8%BB%8D%E5%9C%98-idle-legion-61550847554459/",
+      "官方網站": "https://www.taptap.cn/app/157905/topic",
+      "禮包碼": "gift-codes.html?game=放置軍團",
+      "App Store": "https://apps.apple.com/tw/app/%E6%94%BE%E7%BD%AE%E8%BB%8D%E5%9C%98/id6446485518",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=76419"
+    },
+    "description": "我們敬愛的魔王大人在與人類的決戰中，因為死亡騎士臨陣倒戈，被人類打碎成了渣渣。我們三個忠心耿耿的小鬼抬著魔王的靈魂碎片，躲進了一座廢棄的地下城。在這裡我們要重新建立地下城，儲備物資，集結軍團！"
+  },
+  "明日方舟": {
+    "logo": "images/明日方舟.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/arknightstw/",
+      "官方網站": "https://ak.hypergryph.com/",
+      "禮包碼": "gift-codes.html?game=明日方舟",
+      "App Store": "https://apps.apple.com/tw/app/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/id1490985322",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=33651"
+    },
+    "description": "迷宮裡……竟然存在這樣的地方？準備好刀劍和法杖，也別忘了鍋、鏟和調味料！準備好了嗎，我們要開動了喔！"
+  },
+  "屍鬼三國": {
+    "logo": "images/屍鬼三國.jpg",
+    "products": [
+      {
+        "name": "6000金玉",
+        "price": 2790
+      },
+      {
+        "name": "3000金玉",
+        "price": 1440
+      },
+      {
+        "name": "1800金玉",
+        "price": 880
+      },
+      {
+        "name": "900金玉",
+        "price": 440
+      },
+      {
+        "name": "300金玉",
+        "price": 160
+      },
+      {
+        "name": "60金玉",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/sgsgtw/",
+      "官方網站": "https://www.facebook.com/sgsgtw/",
+      "禮包碼": "gift-codes.html?game=屍鬼三國",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B1%8D%E9%AC%BC%E4%B8%89%E5%9C%8B/id6738575003",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82085"
+    },
+    "description": "獨一款屍鬼化的三國卡牌手遊上市啦！新世代三國卡牌鉅作，融合了ARPG的開放世界設計，你可以在屍鬼橫行的三國亂世中自由探索。"
+  },
+  "星鏈計畫：未來少女": {
+    "logo": "images/星鏈計畫未來少女.jpg",
+    "products": [
+      {
+        "name": "5500星際比特",
+        "price": 2150
+      },
+      {
+        "name": "4400星際比特",
+        "price": 1750
+      },
+      {
+        "name": "2750星際比特",
+        "price": 1130
+      },
+      {
+        "name": "1650星際比特",
+        "price": 700
+      },
+      {
+        "name": "750星際比特",
+        "price": 340
+      },
+      {
+        "name": "165星際比特",
+        "price": 90
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/StarseedAsniaTriggerCNT/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.com2us.starseedgl.android.google.global.normal&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=星鏈計畫：未來少女",
+      "App Store": "https://apps.apple.com/tw/app/%E6%98%9F%E9%8F%88%E8%A8%88%E7%95%AB-%E6%9C%AA%E4%BE%86%E5%B0%91%E5%A5%B3/id6504904399",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79380"
+    },
+    "description": "在無盡的絕望中，為少女們構築希望藍圖！"
+  },
+  "英雄之王": {
+    "logo": "images/英雄之王.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/LordofHeroesGlobal/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.clovergames.lordofheroes&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=英雄之王",
+      "App Store": "https://apps.apple.com/tw/app/%E8%8B%B1%E9%9B%84%E4%B9%8B%E7%8E%8B/id1496742556",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=38318"
+    },
+    "description": "除了我們分享的遊戲畫面、影片和其他細節之外，我還想讓大家了解我們對遊戲的期望與願景。\n我們希望能藉由《英雄之王》捕捉遊戲的本質。"
+  },
+  "英雄聯盟": {
+    "logo": "images/英雄聯盟.jpg",
+    "products": [
+      {
+        "name": "12150聯盟幣",
+        "price": 2420
+      },
+      {
+        "name": "7050聯盟幣",
+        "price": 1450
+      },
+      {
+        "name": "3500聯盟幣",
+        "price": 740
+      },
+      {
+        "name": "1380聯盟幣",
+        "price": 300
+      },
+      {
+        "name": "660聯盟幣",
+        "price": 150
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/leagueoflegendstw/",
+      "官方網站": "https://www.leagueoflegends.com/zh-tw/",
+      "禮包碼": "gift-codes.html?game=英雄聯盟",
+      "App Store": "https://apps.apple.com/tw/app/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%BF%80%E9%AC%A5%E5%B3%BD%E8%B0%B7/id1501301871",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=17532"
+    },
+    "description": ""
+  },
+  "恐龍突變": {
+    "logo": "images/恐龍突變.jpg",
+    "products": [
+      {
+        "name": "1490商品",
+        "price": 1290
+      },
+      {
+        "name": "1290商品",
+        "price": 1120
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "790商品",
+        "price": 680
+      },
+      {
+        "name": "690商品",
+        "price": 600
+      },
+      {
+        "name": "490商品",
+        "price": 430
+      },
+      {
+        "name": "320商品",
+        "price": 280
+      },
+      {
+        "name": "190商品",
+        "price": 170
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/permalink.php/?story_fbid=516665384070202&id=100071802342039&locale=zh_TW",
+      "官方網站": "https://forum.gamer.com.tw/C.php?bsn=80814&snA=9",
+      "禮包碼": "gift-codes.html?game=恐龍突變",
+      "App Store": "https://apps.apple.com/tw/app/%E6%81%90%E9%BE%8D%E7%AA%81%E8%AE%8A-t-rex/id6451176533",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80814"
+    },
+    "description": "» 配對以產生受精卵: 進行戰略性交配以創造更強大的恐龍。» 點擊孵化無限的蛋: 不斷擴展你的恐龍收藏。"
+  },
+  "神域": {
+    "logo": "images/神域.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/MythicHeroesTW/",
+      "官方網站": "https://www.facebook.com/MythicHeroesTW/",
+      "禮包碼": "gift-codes.html?game=神域",
+      "App Store": "https://apps.apple.com/tw/app/%E7%A5%9E%E5%9F%9F-mythic-heroes/id1580031550",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=73031"
+    },
+    "description": "對抗邪惡勢力，策略過人的您並非孤軍奮戰，來自世界各地且為數眾多的神話英雄，正等待您的召喚！透過遊戲掛機得到的寶石、材料及各種資源，一支強而有力且技能靈活的自訂專屬軍團，就在您的股掌之間！"
+  },
+  "崩壞：星穹鐵道": {
+    "logo": "images/崩壞星穹鐵道.jpg",
+    "products": [
+      {
+        "name": "6480古老夢華",
+        "price": 2490
+      },
+      {
+        "name": "3280古老夢華",
+        "price": 1250
+      },
+      {
+        "name": "1980古老夢華",
+        "price": 790
+      },
+      {
+        "name": "980古老夢華",
+        "price": 430
+      },
+      {
+        "name": "300古老夢華",
+        "price": 150
+      },
+      {
+        "name": "60古老夢華",
+        "price": 30
+      },
+      {
+        "name": "列車補給憑證",
+        "price": 150
+      },
+      {
+        "name": "無名客的榮勳",
+        "price": 260
+      },
+      {
+        "name": "無名客的獎章",
+        "price": 520
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/HonkaiStarRail.CHT/",
+      "官方網站": "https://hsr.hoyoverse.com/zh-tw/home",
+      "禮包碼": "gift-codes.html?game=崩壞：星穹鐵道",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B4%A9%E5%A3%9E-%E6%98%9F%E7%A9%B9%E9%90%B5%E9%81%93/id1599719154",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=72822"
+    },
+    "description": "這片銀河中有名為「星神」的存在，祂們造就現實，抹消星辰，在無數「世界」中留下祂們的痕跡。你——一名特殊的旅客，將偕同繼承「開拓」意志的同伴們，乘坐星穹列車穿越銀河，沿著某位「星神」曾經所行之途前進。你將由此探索新的文明、結識新的夥伴、在無數光怪陸離的「世界」之間展開新的冒險。所有你想知道的，都將在群星中找到解答。\n那麼，準備好開始這段「開拓」之旅了嗎？"
+  },
+  "救世者之樹：新世界": {
+    "logo": "images/救世者之樹新世界.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TOS.Neverland.TW/",
+      "官方網站": "https://www.facebook.com/TOS.Neverland.TW/",
+      "禮包碼": "gift-codes.html?game=救世者之樹：新世界",
+      "App Store": "https://apps.apple.com/tw/app/%E6%95%91%E4%B8%96%E8%80%85%E4%B9%8B%E6%A8%B9-%E6%96%B0%E4%B8%96%E7%95%8C/id6480159275",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79148"
+    },
+    "description": "在重磅上線的樹緣系統中，舉行浪漫的樹緣典禮；集結戰友做好準備，迎戰魔神副本BOSS！\n新手可領取70抽、金色時裝4件套還有限定自選坐騎！\n\n讓我們來看看來自亞洲11地區的勇者們的留言！\n-「日本韓國泰國的妹妹都搶著跟我結緣…好難選哦！」 --來自世界頻道的建巨集007號\n樹緣系統重磅上線，在全服玩家的見證和祝福下，完成盛大浪漫的樹緣典禮！還會擁有一個共同的家園，一起創造美好生活！"
+  },
+  "球球英雄": {
+    "logo": "images/球球英雄.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2720
+      },
+      {
+        "name": "1690商品",
+        "price": 1390
+      },
+      {
+        "name": "990商品",
+        "price": 840
+      },
+      {
+        "name": "670商品",
+        "price": 560
+      },
+      {
+        "name": "330商品",
+        "price": 280
+      },
+      {
+        "name": "170商品",
+        "price": 150
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/fusioncrushTW/",
+      "官方網站": "https://www.facebook.com/fusioncrushTW/",
+      "禮包碼": "gift-codes.html?game=球球英雄",
+      "App Store": "https://apps.apple.com/tw/app/%E7%90%83%E7%90%83%E8%8B%B1%E9%9B%84-pvp%E5%A1%94%E9%98%B2/id1518970399",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=71394"
+    },
+    "description": "怪物們在這一天毫無預兆地突然降臨，城市與家園都籠罩在猙獰與陰霾中。\n我們需要你，勇士！為我們抵禦黑暗勢力！\n來吧！和我們一起，召喚出賦有神奇力量的球球，與黑暗勢力戰鬥！"
+  },
+  "第七史詩": {
+    "logo": "images/第七史詩.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2720
+      },
+      {
+        "name": "1690商品",
+        "price": 1390
+      },
+      {
+        "name": "990商品",
+        "price": 840
+      },
+      {
+        "name": "670商品",
+        "price": 560
+      },
+      {
+        "name": "330商品",
+        "price": 280
+      },
+      {
+        "name": "170商品",
+        "price": 150
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/EpicSevenTW/",
+      "官方網站": "https://page.onstove.com/epicseven/TW",
+      "禮包碼": "gift-codes.html?game=第七史詩",
+      "App Store": "https://apps.apple.com/tw/app/%E7%AC%AC%E4%B8%83%E5%8F%B2%E8%A9%A9/id1322399438",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=34880"
+    },
+    "description": "第七個世界的故事...生命的女神迪彩將自己的權勢瓜分，創造出聖約的繼承者及神獸"
+  },
+  "創世紀戰M：阿修羅計畫": {
+    "logo": "images/創世紀戰M阿修羅計畫.jpg",
+    "products": [
+      {
+        "name": "6350鑽石",
+        "price": 2790
+      },
+      {
+        "name": "4400鑽石",
+        "price": 1980
+      },
+      {
+        "name": "3200鑽石",
+        "price": 1450
+      },
+      {
+        "name": "1850鑽石",
+        "price": 860
+      },
+      {
+        "name": "1250鑽石",
+        "price": 590
+      },
+      {
+        "name": "900鑽石",
+        "price": 440
+      },
+      {
+        "name": "310鑽石",
+        "price": 160
+      },
+      {
+        "name": "60鑽石",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/GenesisM.ASURA/",
+      "官方網站": "https://www.facebook.com/GenesisM.ASURA/",
+      "禮包碼": "gift-codes.html?game=創世紀戰M：阿修羅計畫",
+      "App Store": "https://apps.apple.com/tw/app/%E5%89%B5%E4%B8%96%E7%B4%80%E6%88%B0m-%E9%98%BF%E4%BF%AE%E7%BE%85%E8%A8%88%E7%95%AB/id6503430688",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78762"
+    },
+    "description": "富饒廣闊的安塔利亞大陸，因戰爭爆發一切風雲變色，飽受戰爭欺凌，\n王女伊歐林帶著王國騎士團，憑藉勇氣與智慧復國，對抗艱難命運。\n面對強大武力的蓋席勒帝國，也絕不屈服！"
+  },
+  "最強宗師": {
+    "logo": "images/最強宗師.jpg",
+    "products": [
+      {
+        "name": "99.99美金仙玉",
+        "price": 2840
+      },
+      {
+        "name": "49.99美金仙玉",
+        "price": 1430
+      },
+      {
+        "name": "29.99美金仙玉",
+        "price": 870
+      },
+      {
+        "name": "19.99美金仙玉",
+        "price": 580
+      },
+      {
+        "name": "14.99美金仙玉",
+        "price": 440
+      },
+      {
+        "name": "9.99美金仙玉",
+        "price": 290
+      },
+      {
+        "name": "4.99美金仙玉",
+        "price": 150
+      },
+      {
+        "name": "1.99美金仙玉",
+        "price": 60
+      },
+      {
+        "name": "0.99美金仙玉",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/grandmasters.mover/",
+      "官方網站": "https://www.facebook.com/grandmasters.mover/",
+      "禮包碼": "gift-codes.html?game=最強宗師",
+      "App Store": "https://apps.apple.com/tw/app/%E6%9C%80%E5%BC%B7%E5%AE%97%E5%B8%AB/id6648774034",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81775"
+    },
+    "description": "《最強宗師》是一款最強卡牌策略RPG，在這裡，每位角色都有獨特特質，不存在廢卡，所有資源都能無損傳承，讓你輕鬆成為最強宗師！躺平掛機也能生產材料，輕鬆實現戰力飆升。策略搭配、多樣玩法，帶你領略充滿熱血與智慧的宗門修煉之路！在這裡，人人都可以是主角，天選之人，唯我最強！"
+  },
+  "無期迷途": {
+    "logo": "images/無期迷途.jpg",
+    "products": [
+      {
+        "name": "6480晶源",
+        "price": 2360
+      },
+      {
+        "name": "3280晶源",
+        "price": 1200
+      },
+      {
+        "name": "1980晶源",
+        "price": 800
+      },
+      {
+        "name": "980晶源",
+        "price": 420
+      },
+      {
+        "name": "300晶源",
+        "price": 150
+      },
+      {
+        "name": "60晶源",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Pathtonowhere.tw/",
+      "官方網站": "https://ptn.aisnogames.com/zh-TW/home",
+      "禮包碼": "gift-codes.html?game=無期迷途",
+      "App Store": "https://apps.apple.com/tw/app/%E7%84%A1%E6%9C%9F%E8%BF%B7%E9%80%94/id1606685106",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=75802"
+    },
+    "description": "《無期迷途》是款以混沌都市為主題的RPG即時策略攻防手遊。身為【米諾斯危機管理局】局長的你，將親手追蹤並收容擁有特殊力量的異能使者——禁閉者們。使用禁閉者的禁忌力量，揭開隱藏在這個世界的真相！\n「您好，新任的局長，我們一直都在等你。」這裡是米諾斯危機管理局，一座收容禁閉者的隱密場所。而您——令人尊敬的局長，將在此釋放其中最強大的禁閉者們。他們或舉止優雅，或性情乖張，或美艷狡猾；唯一的共同點他們都有不為人知的過去，以及超越常人的超凡之力。\n局長，請盡情使用他們的力量，深入狄斯城的禁區，尋找讓世界異變的源頭，解開瘋狂恐怖謎團，去扭轉命運吧！"
+  },
+  "絕區零": {
+    "logo": "images/絕區零.jpg",
+    "products": [
+      {
+        "name": "6480菲林底片",
+        "price": 2520
+      },
+      {
+        "name": "3280菲林底片",
+        "price": 1350
+      },
+      {
+        "name": "1980菲林底片",
+        "price": 840
+      },
+      {
+        "name": "980菲林底片",
+        "price": 440
+      },
+      {
+        "name": "300菲林底片",
+        "price": 150
+      },
+      {
+        "name": "60菲林底片",
+        "price": 30
+      },
+      {
+        "name": "繩網會員",
+        "price": 150
+      },
+      {
+        "name": "成長計畫",
+        "price": 270
+      },
+      {
+        "name": "典藏計畫",
+        "price": 540
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/ZZZ.Official.CHT/",
+      "官方網站": "https://zenless.hoyoverse.com/zh-tw/main",
+      "禮包碼": "gift-codes.html?game=絕區零",
+      "App Store": "https://apps.apple.com/tw/app/%E7%B5%95%E5%8D%80%E9%9B%B6/id1606356401",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=74860"
+    },
+    "description": "遊戲故事發生在被神秘災害「空洞」所侵襲的後世界末日世界中，主角是一位名為「繩匠」的角色，負責引導人們進入「空洞」並與怪物「以骸」戰鬥。"
+  },
+  "傳說對決": {
+    "logo": "images/傳說對決.jpg",
+    "products": [
+      {
+        "name": "4128點券",
+        "price": 2780
+      },
+      {
+        "name": "3692點券",
+        "price": 2490
+      },
+      {
+        "name": "2943點券",
+        "price": 2020
+      },
+      {
+        "name": "2047點券",
+        "price": 1430
+      },
+      {
+        "name": "1466點券",
+        "price": 1040
+      },
+      {
+        "name": "1092點券",
+        "price": 790
+      },
+      {
+        "name": "728點券",
+        "price": 540
+      },
+      {
+        "name": "364點券",
+        "price": 300
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/AoVTW/",
+      "官方網站": "https://www.facebook.com/AoVTW/",
+      "禮包碼": "gift-codes.html?game=傳說對決",
+      "App Store": "https://apps.apple.com/tw/app/garena-%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA-%E5%82%B3%E8%AA%AA%E5%AF%B6%E8%97%8F%E7%89%88%E6%9C%AC/id1089079153",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=30518"
+    },
+    "description": "Garena 傳說對決是一款節奏快速、輕鬆又不失競技成分的MOBA 手遊，經典玩法加上獨特的輪盤指向施法的直覺操作模式，輕鬆競技於指掌之間！"
+  },
+  "楓之谷M": {
+    "logo": "images/楓之谷M.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2720
+      },
+      {
+        "name": "1690商品",
+        "price": 1390
+      },
+      {
+        "name": "990商品",
+        "price": 840
+      },
+      {
+        "name": "670商品",
+        "price": 560
+      },
+      {
+        "name": "330商品",
+        "price": 280
+      },
+      {
+        "name": "170商品",
+        "price": 150
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TW.PlayMapleM/",
+      "官方網站": "https://www.facebook.com/TW.PlayMapleM/",
+      "禮包碼": "gift-codes.html?game=楓之谷M",
+      "App Store": "https://apps.apple.com/tw/app/%E6%A5%93%E4%B9%8B%E8%B0%B7m/id1290086677",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=29461"
+    },
+    "description": "《楓之谷M》是一款由Nexon開發的免費大型多人線上角色扮演遊戲，是基於《楓之谷》的移動版。 遊戲中玩家可以扮演來自各地的角色，進行冒險、戰鬥、任務、以及和其他玩家互動。"
+  },
+  "鳴潮": {
+    "logo": "images/鳴潮.jpg",
+    "products": [
+      {
+        "name": "6480月相",
+        "price": 2550
+      },
+      {
+        "name": "3280月相",
+        "price": 1350
+      },
+      {
+        "name": "1980月相",
+        "price": 840
+      },
+      {
+        "name": "980月相",
+        "price": 430
+      },
+      {
+        "name": "300月相",
+        "price": 150
+      },
+      {
+        "name": "60月相",
+        "price": 30
+      },
+      {
+        "name": "月相觀測卡",
+        "price": 150
+      },
+      {
+        "name": "寰宇頻道",
+        "price": 260
+      },
+      {
+        "name": "寰宇特約",
+        "price": 520
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/@WutheringWaves.ZH/",
+      "官方網站": "https://wutheringwaves.kurogames.com/zh-tw",
+      "禮包碼": "gift-codes.html?game=鳴潮",
+      "App Store": "https://apps.apple.com/tw/app/%E9%B3%B4%E6%BD%AE/id6475033368",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=74934"
+    },
+    "description": "《鳴潮》是一款末世題材的開放世界遊戲，具有高自由度且豐富的內容。 遊戲玩法包括攀爬、滑翔、採集等開放世界要素，還新增了「跑牆」的元素。 本作動作方面採用玩家能夠「閃避」和「彈刀」兩種招架方式。"
+  },
+  "劍與遠征：啟程": {
+    "logo": "images/劍與遠征啟程.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/AFKJourneyZH/",
+      "官方網站": "https://www.facebook.com/AFKJourneyZH/",
+      "禮包碼": "gift-codes.html?game=劍與遠征：啟程",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8A%8D%E8%88%87%E9%81%A0%E5%BE%81-%E5%95%9F%E7%A8%8B/id1628970855",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=75975"
+    },
+    "description": "《劍與遠征：啟程》是一款全球多平台的輕鬆放置大世界RPG遊戲，由放置始祖《劍與遠征》開發團隊所打造。 玩家將集結超過百位不同能力、各具魅力的英雄夥伴，與他們一起探索名為「伊索米亞」的廣闊大世界，並逐漸揭開其中秘辛"
+  },
+  "熱血大作戰": {
+    "logo": "images/熱血大作戰.jpg",
+    "products": [
+      {
+        "name": "6580元寶",
+        "price": 2750
+      },
+      {
+        "name": "3380元寶",
+        "price": 1450
+      },
+      {
+        "name": "1980元寶",
+        "price": 880
+      },
+      {
+        "name": "980元寶",
+        "price": 450
+      },
+      {
+        "name": "340元寶",
+        "price": 160
+      },
+      {
+        "name": "66元寶",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/NekketsuBattles/",
+      "官方網站": "https://www.facebook.com/NekketsuBattles/",
+      "禮包碼": "gift-codes.html?game=熱血大作戰",
+      "App Store": "https://apps.apple.com/tw/app/%E6%95%91%E4%B8%96%E4%B8%BB%E8%B6%85%E5%BF%99-%E7%A5%9E%E5%85%B5%E5%87%BA%E4%B8%96/id6615069116",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81017"
+    },
+    "description": "《熱血大作戰》是一款輕策略街機放置型RPG遊戲，它結合了經典復古的畫風和無厘頭的搞怪元素。 遊戲以熱血沸騰的戰鬥和獨特的玩法，讓玩家重溫經典遊戲的感動，並與朋友一同體驗遊戲的樂趣。"
+  },
+  "骷髏傳說：戰神崛起": {
+    "logo": "images/骷髏傳說戰神崛起.jpg",
+    "products": [
+      {
+        "name": "4500000金券",
+        "price": 2200
+      },
+      {
+        "name": "2820000金券",
+        "price": 1380
+      },
+      {
+        "name": "900000金券",
+        "price": 450
+      },
+      {
+        "name": "480000金券",
+        "price": 240
+      },
+      {
+        "name": "300000金券",
+        "price": 160
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/permalink.php/?story_fbid=1076866767790472&id=100064014759876",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.klcqzsjq.and",
+      "禮包碼": "gift-codes.html?game=骷髏傳說：戰神崛起",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AA%B7%E9%AB%8F%E5%82%B3%E8%AA%AA-%E6%88%B0%E7%A5%9E%E5%B4%9B%E8%B5%B7-%E6%89%93%E6%80%AA%E7%9C%9F%E7%88%86%E5%82%A8%E5%80%BC%E5%8D%A1/id6736814034",
+      "巴哈姆特": "https://home.gamer.com.tw/artwork.php?sn=6102034"
+    },
+    "description": "MMORPG遊戲，擁有英雄系統、豐富的戰鬥玩法、打寶交易機制，以及沙城爭霸等特色內容. 玩家可以自由搭配英雄，參與野外PK、奪寶、領地戰等活動，並透過交易系統進行道具和裝備的交易."
+  },
+  "黎明：血色魔女": {
+    "logo": "images/黎明血色魔女.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2790
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1440
+      },
+      {
+        "name": "1980鑽石",
+        "price": 840
+      },
+      {
+        "name": "1280鑽石",
+        "price": 580
+      },
+      {
+        "name": "980鑽石",
+        "price": 440
+      },
+      {
+        "name": "680鑽石",
+        "price": 290
+      },
+      {
+        "name": "300鑽石",
+        "price": 160
+      },
+      {
+        "name": "60鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/reddawntw/",
+      "官方網站": "https://www.facebook.com/reddawntw/",
+      "禮包碼": "gift-codes.html?game=黎明：血色魔女",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BB%8E%E6%98%8E-%E8%A1%80%E8%89%B2%E9%AD%94%E5%A5%B3-%E7%99%BE%E8%90%AC%E7%8F%BE%E9%87%91%E6%8C%91%E6%88%B0%E8%B3%BD/id6503729873",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81258"
+    },
+    "description": "隨著《黎明：血色魔女》的正式上線，遊戲內的五大職業特色也逐漸明朗。 擁有雙面形態的血色魔女，白天為聖潔修女，擅長偽裝偵查等末世生存技巧，而入夜則化身為手持大鐮刀的血色魔女，肆意收割魔物獲取血液，貫徹永恆的生存之道。"
+  },
+  "黎明啟示錄": {
+    "logo": "images/黎明啟示錄.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2720
+      },
+      {
+        "name": "1690商品",
+        "price": 1390
+      },
+      {
+        "name": "990商品",
+        "price": 840
+      },
+      {
+        "name": "670商品",
+        "price": 560
+      },
+      {
+        "name": "330商品",
+        "price": 280
+      },
+      {
+        "name": "170商品",
+        "price": 150
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/MLAdventureTC/",
+      "官方網站": "https://www.facebook.com/MLAdventureTC/",
+      "禮包碼": "gift-codes.html?game=黎明啟示錄",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BB%8E%E6%98%8E%E5%95%9F%E7%A4%BA%E9%8C%84/id1456213261",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=73273"
+    },
+    "description": "有聲有色不俗套的英雄設定，超過90名來源於世界各地的神話人物與歷史大家齊聚一堂，不同信仰的夥伴助力你的異世界之旅！"
+  },
+  "龍魂旅人": {
+    "logo": "images/龍魂旅人.jpg",
+    "products": [
+      {
+        "name": "6580鑽石",
+        "price": 2790
+      },
+      {
+        "name": "3380鑽石",
+        "price": 1460
+      },
+      {
+        "name": "1340鑽石",
+        "price": 580
+      },
+      {
+        "name": "660鑽石",
+        "price": 290
+      },
+      {
+        "name": "340鑽石",
+        "price": 155
+      },
+      {
+        "name": "60鑽石",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61567185942738",
+      "官方網站": "https://www.facebook.com/profile.php?id=61567185942738",
+      "禮包碼": "gift-codes.html?game=龍魂旅人",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BE%8D%E9%AD%82%E6%97%85%E4%BA%BA/id6736734069",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81375"
+    },
+    "description": "一款日系輕鬆番RPG遊戲，玩家將作為失去力量的傳說之龍法夫納，與尋求幫助的傲嬌公主兼屠龍勇士齊格菲，一同穿梭在奇幻世界的相愛相殺之旅。"
+  },
+  "戀與深空": {
+    "logo": "images/戀與深空.jpg",
+    "products": [
+      {
+        "name": "3290商品",
+        "price": 2790
+      },
+      {
+        "name": "1690商品",
+        "price": 1450
+      },
+      {
+        "name": "990商品",
+        "price": 860
+      },
+      {
+        "name": "670商品",
+        "price": 580
+      },
+      {
+        "name": "330商品",
+        "price": 290
+      },
+      {
+        "name": "170商品",
+        "price": 160
+      },
+      {
+        "name": "33商品",
+        "price": 33
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/loveanddeepspace.tw/",
+      "官方網站": "https://www.facebook.com/loveanddeepspace.tw/",
+      "禮包碼": "gift-codes.html?game=戀與深空",
+      "App Store": "https://apps.apple.com/tw/app/%E6%88%80%E8%88%87%E6%B7%B1%E7%A9%BA/id6443468077",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=39445"
+    },
+    "description": "《戀與深空》以「︁愛無界限」︁為核心理念，在科幻宇宙背景下融合緊張刺激的怪物狩獵玩法。 玩家可與五位男主——秦徹，祁煜，黎深、沈星回以及夏以晝——建立情感羈絆。 玩家化身深空獵人，運用名為\"Evol\"的超能力對抗宇宙生命體\"流浪體\"。"
+  },
+  "靈魂衝擊：無限放置": {
+    "logo": "images/靈魂衝擊無限放置.jpg",
+    "products": [
+      {
+        "name": "99900乙醚",
+        "price": 2290
+      },
+      {
+        "name": "49900乙醚",
+        "price": 1180
+      },
+      {
+        "name": "29900乙醚",
+        "price": 720
+      },
+      {
+        "name": "11900乙醚",
+        "price": 280
+      },
+      {
+        "name": "5900乙醚",
+        "price": 150
+      },
+      {
+        "name": "1400乙醚",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/SoulStrikeTW/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.com2usholdings.soulstrike.android.google.global.normal&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=靈魂衝擊：無限放置",
+      "App Store": "https://apps.apple.com/tw/app/%E9%9D%88%E9%AD%82%E8%A1%9D%E6%93%8A-x-%E5%8F%B2%E8%A9%A9%E7%B4%9A%E9%A0%98%E5%9C%B0%E8%A8%AD%E8%A8%88%E5%B8%AB/id6458981827",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78787"
+    },
+    "description": "玩家將透過召喚職業與技能來殲滅蜂擁而至的怪物，稀有的職業將額外擁有特殊的被動技能屬性，可增加角色的暴擊傷害量或是閃避效果等"
+  },
+  "楓葉島": {
+    "logo": "images/楓葉島.jpg",
+    "products": [
+      {
+        "name": "6480彩晶",
+        "price": 2530
+      },
+      {
+        "name": "3280彩晶",
+        "price": 1290
+      },
+      {
+        "name": "1980彩晶",
+        "price": 860
+      },
+      {
+        "name": "980彩晶",
+        "price": 440
+      },
+      {
+        "name": "300彩晶",
+        "price": 160
+      },
+      {
+        "name": "120彩晶",
+        "price": 60
+      },
+      {
+        "name": "60彩晶",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/mapletownfiveelement/",
+      "官方網站": "https://www.facebook.com/mapletownfiveelement/",
+      "禮包碼": "gift-codes.html?game=楓葉島",
+      "App Store": "https://apps.apple.com/tw/app/%E6%A5%93%E8%91%89%E5%B3%B6/id6740199416",
+      "巴哈姆特": "https://home.gamer.com.tw/artwork.php?sn=6095480"
+    },
+    "description": "在一個叫礁石鎮的小鎮中，你緩緩醒來，走出門找到了本地村民，才知道是一個叫“米娜”的小姑娘救了你，得知礁石鎮是由有著同樣遭遇的冒險者們建立。"
+  },
+  "無名江湖": {
+    "logo": "images/無名江湖.jpg",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2790
+      },
+      {
+        "name": "3280元寶",
+        "price": 1400
+      },
+      {
+        "name": "1980元寶",
+        "price": 840
+      },
+      {
+        "name": "1280元寶",
+        "price": 580
+      },
+      {
+        "name": "680元寶",
+        "price": 290
+      },
+      {
+        "name": "300元寶",
+        "price": 160
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/wmjh2023/",
+      "官方網站": "https://www.facebook.com/wmjh2023/",
+      "禮包碼": "gift-codes.html?game=無名江湖",
+      "App Store": "https://apps.apple.com/tw/app/%E7%84%A1%E5%90%8D%E6%B1%9F%E6%B9%96/id6446838877",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78576"
+    },
+    "description": "以收集百家武學為目標的放置類卡牌遊戲。 遊戲中，玩家可以體驗完整的俠客人生，拜師學藝，闖蕩江湖，一步步成為一代大俠的傳奇故事。"
+  },
+  "萬妖領域": {
+    "logo": "images/萬妖領域.jpg",
+    "products": [
+      {
+        "name": "648仙玉",
+        "price": 2580
+      },
+      {
+        "name": "328仙玉",
+        "price": 1370
+      },
+      {
+        "name": "198仙玉",
+        "price": 860
+      },
+      {
+        "name": "128仙玉",
+        "price": 560
+      },
+      {
+        "name": "68仙玉",
+        "price": 280
+      },
+      {
+        "name": "30仙玉",
+        "price": 150
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/wyly.funtales/",
+      "官方網站": "https://www.facebook.com/wyly.funtales/",
+      "禮包碼": "gift-codes.html?game=萬妖領域",
+      "App Store": "https://apps.apple.com/tw/app/%E8%90%AC%E5%A6%96%E9%A0%98%E5%9F%9F-%E8%88%87%E9%AD%94%E6%B3%95%E9%98%BF%E5%AA%BD%E4%B8%80%E8%B5%B7%E6%8D%89%E5%A6%96/id6475022023",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79263"
+    },
+    "description": "終身每日送10連抽，無限策略搭配，無損養成神將，帶給你前所未有的卡牌樂趣，獸戰到底，作妖捉妖隨你意！ 還在精打細算規劃資源，為抽不到喜歡的角色而發愁？ 史上最佛心的《萬妖領域》為您送上終生每日送10連抽，一年3650抽，讓你抽到嫑嫑！"
+  },
+  "一姬當千TD": {
+    "logo": "images/一姬當千TD.jpg",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2580
+      },
+      {
+        "name": "3280元寶",
+        "price": 1290
+      },
+      {
+        "name": "1280元寶",
+        "price": 540
+      },
+      {
+        "name": "300元寶",
+        "price": 150
+      },
+      {
+        "name": "60元寶",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/story.php?story_fbid=122121276110596149&id=61567884483296",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.beauty.td.yjdq&hl=zh",
+      "禮包碼": "gift-codes.html?game=一姬當千TD",
+      "App Store": "N",
+      "巴哈姆特": "https://home.gamer.com.tw/artwork.php?sn=6098853"
+    },
+    "description": "這裡是一姬當千TD的官方中心，歡迎follow我們獲取最新的遊戲訊息。這是一款輕鬆趣味策略塔防遊戲，在遊戲中您將運用策略來合理佈局，通關不同難度的關卡。"
+  },
+  "劍客行": {
+    "logo": "images/劍客行.jpg",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2580
+      },
+      {
+        "name": "3280元寶",
+        "price": 1290
+      },
+      {
+        "name": "1980元寶",
+        "price": 840
+      },
+      {
+        "name": "980元寶",
+        "price": 430
+      },
+      {
+        "name": "680元寶",
+        "price": 280
+      },
+      {
+        "name": "300元寶",
+        "price": 160
+      },
+      {
+        "name": "60元寶",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/61560211292518",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.xmqlhd.jkx.gg&hl=zh",
+      "禮包碼": "gift-codes.html?game=劍客行",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A4%A7%E4%BF%A0%E5%AE%A2-%E9%BE%8D%E8%A1%8C%E5%A4%A9%E4%B8%8B/id1468451508",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=18207"
+    },
+    "description": "故事大綱 展白背負父親「霹雷劍」展雲天被五個結義兄弟以奸計密謀殺害的血海深仇，闖蕩江湖，學成天下第一奇書《鎖骨銷魂天佛卷》，終報父仇，並獨力對抗企圖一統中原武林的強大惡勢力「南海門」，除「三煞」，誅「四凶」，力挽狂瀾，創下赫赫聲名，最終與五個美艷動人的嬌妻隱居洞庭湖畔，成就武林傳奇，一時傳為佳話。"
+  },
+  "時之樹少女": {
+    "logo": "images/時之樹少女.jpg",
+    "products": [
+      {
+        "name": "6870龍玉",
+        "price": 2790
+      },
+      {
+        "name": "3470龍玉",
+        "price": 1440
+      },
+      {
+        "name": "2070龍玉",
+        "price": 840
+      },
+      {
+        "name": "680龍玉",
+        "price": 280
+      },
+      {
+        "name": "330龍玉",
+        "price": 160
+      },
+      {
+        "name": "60龍玉",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/tokinokigirls/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.dazzlefun.miss",
+      "禮包碼": "gift-codes.html?game=時之樹少女",
+      "App Store": "https://apps.apple.com/tw/app/%E6%99%82%E4%B9%8B%E6%A8%B9%E5%B0%91%E5%A5%B3-%E8%BC%95%E6%94%BE%E7%BD%AE%E9%A4%8A%E5%A9%86%E8%B6%85%E6%B2%BB%E6%84%88/id6505133858",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80833"
+    },
+    "description": "❤ 殿下，你回來了!❤"
+  },
+  "錨點降臨Re：Code": {
+    "logo": "images/錨點降臨ReCode.jpg",
+    "products": [
+      {
+        "name": "6480源晶",
+        "price": 2380
+      },
+      {
+        "name": "3280源晶",
+        "price": 1230
+      },
+      {
+        "name": "1980源晶",
+        "price": 750
+      },
+      {
+        "name": "980源晶",
+        "price": 370
+      },
+      {
+        "name": "300源晶",
+        "price": 130
+      },
+      {
+        "name": "60源晶",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/APCbySonet",
+      "官方網站": "https://www.facebook.com/APCbySonet",
+      "禮包碼": "gift-codes.html?game=錨點降臨Re：Code",
+      "App Store": "https://apps.apple.com/tw/app/%E9%8C%A8%E9%BB%9E%E9%99%8D%E8%87%A8-re-code/id6738975202",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=76621"
+    },
+    "description": "結合了半即時戰鬥和深度戰略玩法。 遊戲的背景設定在一場名為「修格爾戰爭」的異空間入侵戰爭之後，人類重建並復甦過來，並建立「空天星鏈」來防禦，利用「安比斯—鏈接系統」打造「戰員」。 玩家可以透過組成戰隊，利用技能與敵人屬性制定戰略，並透過源能技發動連攜攻擊，享受自由搭建的冒險旅程。"
+  },
+  "神契氣靈師": {
+    "logo": "images/神契氣靈師.jpg",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2850
+      },
+      {
+        "name": "3280元寶",
+        "price": 1490
+      },
+      {
+        "name": "1980元寶",
+        "price": 990
+      },
+      {
+        "name": "980元寶",
+        "price": 440
+      },
+      {
+        "name": "300元寶",
+        "price": 160
+      },
+      {
+        "name": "180元寶",
+        "price": 100
+      },
+      {
+        "name": "60元寶",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/sqqls/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.sqqls.gp",
+      "禮包碼": "gift-codes.html?game=神契氣靈師",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A1%94%E9%98%B2%E4%B8%8D%E8%A6%81%E5%81%9C/id6446662152",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82045"
+    },
+    "description": "以「氣靈師」作為其核心職業，遊戲特色包括自由選擇的玩法、BOSS挑戰、情緣系統等。 遊戲中，玩家可以與配對對象結為情緣，並在副本中携手進行挑戰，提升情緣度後更可獲得專屬同心戒和領養寶寶。"
+  },
+  "不休旅途：繪卷世界": {
+    "logo": "images/不休旅途繪卷世界.jpg",
+    "products": [
+      {
+        "name": "3290魔晶",
+        "price": 2850
+      },
+      {
+        "name": "1690魔晶",
+        "price": 1490
+      },
+      {
+        "name": "670魔晶",
+        "price": 590
+      },
+      {
+        "name": "330魔晶",
+        "price": 300
+      },
+      {
+        "name": "170魔晶",
+        "price": 160
+      },
+      {
+        "name": "33魔晶",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/EndlessJourney.TW/",
+      "官方網站": "https://www.facebook.com/EndlessJourney.TW/",
+      "禮包碼": "gift-codes.html?game=不休旅途：繪卷世界",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%8D%E4%BC%91%E6%97%85%E9%80%94-%E7%B9%AA%E5%8D%B7%E4%B8%96%E7%95%8C/id6738110465",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82215"
+    },
+    "description": "你被神秘力量召喚，降臨這片充滿奇幻與挑戰的大地。從新手村到浮空島，從炙熱沙漠到幽深遺跡…… 每一次探索，都是一場全新的發現！這個世界大妖肆虐，動蕩不安。為了保護這個世界的和平與安寧，你召喚出繪卷中的各種夥伴，在這裡，你可以與夥伴締結羈絆，騎乘靈獸奔馳世界，一同踏上打倒大妖的冒險旅途，揭開塵封的秘密！"
+  },
+  "別破防鴨": {
+    "logo": "images/別破防鴨.jpg",
+    "products": [
+      {
+        "name": "150000鑽",
+        "price": 2850
+      },
+      {
+        "name": "75000鑽",
+        "price": 1480
+      },
+      {
+        "name": "30000鑽",
+        "price": 590
+      },
+      {
+        "name": "15000鑽",
+        "price": 290
+      },
+      {
+        "name": "6000鑽",
+        "price": 160
+      },
+      {
+        "name": "1200鑽",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/duckduckwar2024/?locale=zh_TW",
+      "官方網站": "https://apps.apple.com/sg/app/%E5%88%A5%E7%A0%B4%E9%98%B2%E9%B4%A8/id6479684413",
+      "禮包碼": "gift-codes.html?game=別破防鴨",
+      "App Store": "https://apps.apple.com/tw/developer/morefun-technology-limited/id1145709965",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80570"
+    },
+    "description": "寂靜的森林裡，鴨子弓箭手們已準備好守護森林！\n巨量怪物來襲！鴨子莊園危在旦夕！"
+  },
+  "超派救星幫幫忙": {
+    "logo": "images/超派救星幫幫忙.jpg",
+    "products": [
+      {
+        "name": "6480子彈",
+        "price": 2850
+      },
+      {
+        "name": "3280子彈",
+        "price": 1490
+      },
+      {
+        "name": "1980子彈",
+        "price": 880
+      },
+      {
+        "name": "1280子彈",
+        "price": 610
+      },
+      {
+        "name": "680子彈",
+        "price": 290
+      },
+      {
+        "name": "300子彈",
+        "price": 160
+      },
+      {
+        "name": "180子彈",
+        "price": 90
+      },
+      {
+        "name": "120子彈",
+        "price": 70
+      },
+      {
+        "name": "60子彈",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/photo.php?fbid=156455993815492&id=100083532752206&set=a.123725707088521&locale=ms_MY",
+      "官方網站": "https://www.chaopaijiuxing.com/",
+      "禮包碼": "gift-codes.html?game=超派救星幫幫忙",
+      "App Store": "https://apps.apple.com/tw/charts/ipad/%E7%AD%96%E7%95%A5-games/7017",
+      "巴哈姆特": "https://home.gamer.com.tw/artwork.php?sn=6109007"
+    },
+    "description": "是一款全新世代的割草遊戲，將背包管理與彈幕射擊結合。 遊戲的目標是讓玩家在戰鬥中找到腦力與操作的平衡，最大化戰鬥力以戰勝一波波殭屍海。 玩家需要合理分配資源，並進行戰略性思考，才能在遊戲中生存下去。"
+  },
+  "時光大爆炸": {
+    "logo": "images/時光大爆炸.jpg",
+    "products": [
+      {
+        "name": "6480玉壁",
+        "price": 2850
+      },
+      {
+        "name": "3280玉壁",
+        "price": 1490
+      },
+      {
+        "name": "1980玉壁",
+        "price": 880
+      },
+      {
+        "name": "980玉壁",
+        "price": 440
+      },
+      {
+        "name": "680玉壁",
+        "price": 300
+      },
+      {
+        "name": "300玉壁",
+        "price": 160
+      },
+      {
+        "name": "60玉壁",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TimelessTribes/",
+      "官方網站": "https://www.facebook.com/TimelessTribes/",
+      "禮包碼": "gift-codes.html?game=時光大爆炸",
+      "App Store": "https://apps.apple.com/tw/app/%E6%99%82%E5%85%89%E5%A4%A7%E7%88%86%E7%82%B8/id6738897614",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81982"
+    },
+    "description": "穿梭燦爛文明 開啟奇幻之旅，一起體驗從石器時代、到蒸汽時代的多文明經營之路吧~"
+  },
+  "深淵：不滅者": {
+    "logo": "images/深淵不滅者.jpg",
+    "products": [
+      {
+        "name": "6480仙玉",
+        "price": 2850
+      },
+      {
+        "name": "3280仙玉",
+        "price": 1490
+      },
+      {
+        "name": "1980仙玉",
+        "price": 990
+      },
+      {
+        "name": "1280仙玉",
+        "price": 590
+      },
+      {
+        "name": "980仙玉",
+        "price": 440
+      },
+      {
+        "name": "680仙玉",
+        "price": 290
+      },
+      {
+        "name": "300仙玉",
+        "price": 160
+      },
+      {
+        "name": "60仙玉",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/immortalofabyss/",
+      "官方網站": "https://www.facebook.com/immortalofabyss/",
+      "禮包碼": "gift-codes.html?game=深淵：不滅者",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B7%B1%E6%B7%B5-%E4%B8%8D%E6%BB%85%E8%80%85/id6504841121",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82230"
+    },
+    "description": "融合修仙、獸化與深淵副本的暗黑系RPG手遊。 玩家將從地獄深淵重生，透過獸化之道，一路突破地獄層級，踏上復仇之路。 遊戲特色包括：挑戰多樣深淵領主與異鬼妖獸，支援組隊擊殺Boss，孵化、馴養、進化各種強大鬼寵，以及獨特的獸化系統。"
+  },
+  "Last War": {
+    "logo": "images/Last War.jpg",
+    "products": [
+      {
+        "name": "3290禮包",
+        "price": 2550
+      },
+      {
+        "name": "1690禮包",
+        "price": 1320
+      },
+      {
+        "name": "650禮包",
+        "price": 530
+      },
+      {
+        "name": "330禮包",
+        "price": 265
+      },
+      {
+        "name": "170禮包",
+        "price": 150
+      },
+      {
+        "name": "33禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/lastwarsurvival/",
+      "官方網站": "https://www.lastwar.com/",
+      "禮包碼": "gift-codes.html?game=Last War",
+      "App Store": "https://apps.apple.com/tw/app/last-war-survival/id6448786147?l=en-GB",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79869"
+    },
+    "description": "生存策略遊戲，玩家在末日世界中，需要抵抗大量的殭屍，並建立基地、培養軍隊，與其他玩家合作或競爭。 這款遊戲強調團隊合作，玩家可以建立同盟，一起進行集結作戰，例如攻下高階城池或挑戰BOSS，以獲得經驗值和戰力提升。 遊戲的目標是成為世界最強的指揮官，在末日世界中存活下來並取得勝利。"
+  },
+  "勇士不要停": {
+    "logo": "images/勇士不要停.jpg",
+    "products": [
+      {
+        "name": "6000鑽石",
+        "price": 2790
+      },
+      {
+        "name": "3000鑽石",
+        "price": 1470
+      },
+      {
+        "name": "1200鑽石",
+        "price": 580
+      },
+      {
+        "name": "600鑽石",
+        "price": 290
+      },
+      {
+        "name": "300鑽石",
+        "price": 150
+      },
+      {
+        "name": "60鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/herogo.zh/",
+      "官方網站": "https://www.facebook.com/herogo.zh/",
+      "禮包碼": "gift-codes.html?game=勇士不要停",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8B%87%E5%A3%AB%E4%B8%8D%E8%A6%81%E5%81%9C/id6670520817",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81386"
+    },
+    "description": "3D 放置卡牌遊戲，玩家可以在其中輕鬆掛機、躺平，享受隨玩隨停的戰鬥樂趣。 遊戲的特色包括多元的玩法、輕鬆的放置養成、以及豐富的卡牌收集和陣容搭配。"
+  },
+  "元氣火柴人": {
+    "logo": "images/元氣火柴人.jpg",
+    "products": [
+      {
+        "name": "6480彩鑽",
+        "price": 2790
+      },
+      {
+        "name": "3280彩鑽",
+        "price": 1470
+      },
+      {
+        "name": "1980彩鑽",
+        "price": 860
+      },
+      {
+        "name": "1280彩鑽",
+        "price": 630
+      },
+      {
+        "name": "680彩鑽",
+        "price": 290
+      },
+      {
+        "name": "340彩鑽",
+        "price": 160
+      },
+      {
+        "name": "30彩鑽",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/GenkiStickman/",
+      "官方網站": "https://www.facebook.com/GenkiStickman/",
+      "禮包碼": "gift-codes.html?game=元氣火柴人",
+      "App Store": "https://apps.apple.com/tw/app/%E5%85%83%E6%B0%A3%E7%81%AB%E6%9F%B4%E4%BA%BA/id6630378924",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81503"
+    },
+    "description": "它延續了火柴人經典IP，採用可愛Q萌的畫風，讓玩家在放置掛機的過程中體驗輕鬆的樂趣。 遊戲中，玩家可以選擇不同職業的角色，並透過放置掛機快速升級，自動戰鬥推圖，以及輕鬆升級裝備神器。"
+  },
+  "深淵之影": {
+    "logo": "images/深淵之影.jpg",
+    "products": [
+      {
+        "name": "4000金鑽",
+        "price": 170
+      },
+      {
+        "name": "1900金鑽",
+        "price": 80
+      },
+      {
+        "name": "600金鑽",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/story.php?story_fbid=1016300817180401&id=100064014759876",
+      "官方網站": "https://www.facebook.com/100064014759876/posts/%E6%B7%B1%E6%B7%B5%E4%B9%8B%E5%BD%B1-chillyroom-%E6%B6%BC%E5%B1%8B%E9%81%8A%E6%88%B2-12%E6%9C%885%E6%97%A5%E9%80%9A%E7%9F%A5%E4%B8%8A%E6%9E%B6-%E8%A5%BF%E6%96%B9%E9%AD%94%E5%B9%BB%E7%82%BA%E4%B8%BB%E9%A1%8C%E7%9A%84%E4%BF%AF%E8%A6%96%E8%A7%92%E5%8B%95%E4%BD%9Croguelike%E9%81%8A%E6%88%B2-%E6%89%AE%E6%BC%94%E6%88%B0%E5%A3%AB%E5%88%BA%E5%AE%A2%E6%B3%95%E5%B8%AB-%E6%B7%B1%E5%85%A5%E5%9C%B0%E7%89%A2%E4%B8%96%E7%95%8C-%E5%96%AE%E6%A9%9F%E6%9A%A2%E7%8E%A9-%E7%B6%93%E5%85%B8%E5%8B%95/1016300817180401/",
+      "禮包碼": "gift-codes.html?game=深淵之影",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B7%B1%E6%B7%B5%E4%B9%8B%E5%BD%B1-shadow-of-the-depth/id6670242198",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81717"
+    },
+    "description": "以西方魔幻為主題的俯視角動作Roguelike遊戲。 你將在遊戲裡扮演戰士、刺客、法師等角色，深入光影交錯的地牢世界，剷除那些肆虐家園的怪物。 做好準備，走進眼前的深淵吧！ 鐵匠之子亞瑟從小居住的村莊遭到大量魔物入侵肆虐，最終被熊熊火焰所吞噬。"
+  },
+  "玩星派對": {
+    "logo": "images/玩星派對.jpg",
+    "products": [
+      {
+        "name": "6580星鑽",
+        "price": 12790
+      },
+      {
+        "name": "3380星鑽",
+        "price": 1470
+      },
+      {
+        "name": "1980星鑽",
+        "price": 860
+      },
+      {
+        "name": "980星鑽",
+        "price": 430
+      },
+      {
+        "name": "340星鑽",
+        "price": 150
+      },
+      {
+        "name": "66星鑽",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/star.partygo/",
+      "官方網站": "https://www.facebook.com/star.partygo/",
+      "禮包碼": "gift-codes.html?game=玩星派對",
+      "App Store": "https://apps.apple.com/tw/app/%E7%8E%A9%E6%98%9F%E6%B4%BE%E5%B0%8D/id6448721818",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80330"
+    },
+    "description": "多元化的派對樂園平台，擁有各種類型的遊戲等您來挑戰！ 不僅如此，更有豐富的養成元素，讓您可以培養自己的卡牌角色，獲得豐厚獎勵，並且與卡牌角色建立深厚的感情。 全台第一娛樂樂園，收納各種類型的派對遊戲等您來挑戰！"
+  },
+  "進化吧!我的人生": {
+    "logo": "images/進化吧我的人生.jpg",
+    "products": [
+      {
+        "name": "12500水晶",
+        "price": 2790
+      },
+      {
+        "name": "6000水晶",
+        "price": 1450
+      },
+      {
+        "name": "2300水晶",
+        "price": 580
+      },
+      {
+        "name": "1100水晶",
+        "price": 290
+      },
+      {
+        "name": "525水晶",
+        "price": 155
+      },
+      {
+        "name": "100水晶",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/evominelife/",
+      "官方網站": "https://www.facebook.com/evominelife/",
+      "禮包碼": "gift-codes.html?game=進化吧!我的人生",
+      "App Store": "https://apps.apple.com/tw/app/%E9%80%B2%E5%8C%96%E5%90%A7-%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/id6504609086",
+      "巴哈姆特": "https://forum.gamer.com.tw/Co.php?bsn=60603&sn=421"
+    },
+    "description": "本遊戲未涉及任何情節，依遊戲軟體分級辦法分類為普遍級。​本遊戲為免費軟體，另外提供付費加值服務購買虛擬物品。​長時間進行遊戲，請注意使用時間，避免沉迷於遊戲。並已於數位娛樂軟體分級登錄"
+  },
+  "星之夢幻島": {
+    "logo": "images/星之夢幻島.jpg",
+    "products": [
+      {
+        "name": "9000卡巴拉彩晶",
+        "price": 2950
+      },
+      {
+        "name": "4500卡巴拉彩晶",
+        "price": 1480
+      },
+      {
+        "name": "1800卡巴拉彩晶",
+        "price": 600
+      },
+      {
+        "name": "900卡巴拉彩晶",
+        "price": 300
+      },
+      {
+        "name": "450卡巴拉彩晶",
+        "price": 150
+      },
+      {
+        "name": "180卡巴拉彩晶",
+        "price": 70
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TheNeverland.TW/",
+      "官方網站": "https://www.facebook.com/TheNeverlandAW/",
+      "禮包碼": "gift-codes.html?game=星之夢幻島",
+      "App Store": "https://apps.apple.com/tw/app/%E6%98%9F%E4%B9%8B%E5%A4%A2%E5%B9%BB%E5%B3%B6-%E7%95%B0%E4%B8%96%E7%95%8C/id6502818564",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=71614"
+    },
+    "description": "擁有高自由度的森林系輕度冒 險MMORPG，玩家可以運用靈活切換武器的技巧，來 討伐BOSS，或是在廣闊的世界中，享受生活模式玩法 ，獲得意想不到的樂趣。"
+  },
+  "小冰冰傳奇：回到最初": {
+    "logo": "images/小冰冰傳奇回到最初.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2790
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1420
+      },
+      {
+        "name": "1980鑽石",
+        "price": 860
+      },
+      {
+        "name": "980鑽石",
+        "price": 460
+      },
+      {
+        "name": "300鑽石",
+        "price": 155
+      },
+      {
+        "name": "60鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Littleicelegend/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.farlightgames.dgame.gp.apac&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=小冰冰傳奇：回到最初",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%8F%E5%86%B0%E5%86%B0%E5%82%B3%E5%A5%87-%E5%9B%9E%E5%88%B0%E6%9C%80%E5%88%9D/id6478289988",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=26583"
+    },
+    "description": "遊戲以魔幻生物橫行的傳奇大陸為背景，承載著十年青春回憶的經典英雄陸續登場。 玩家在遊戲中將透過策略搭配英雄陣容，改變戰局，體驗策略遊戲的戰鬥快感。"
+  },
+  "江湖風雲傳": {
+    "logo": "images/江湖風雲傳.jpg",
+    "products": [
+      {
+        "name": "64800金錠",
+        "price": 2790
+      },
+      {
+        "name": "32800金錠",
+        "price": 1450
+      },
+      {
+        "name": "19800金錠",
+        "price": 910
+      },
+      {
+        "name": "12800金錠",
+        "price": 600
+      },
+      {
+        "name": "9800金錠",
+        "price": 460
+      },
+      {
+        "name": "5000金錠",
+        "price": 240
+      },
+      {
+        "name": "3000金錠",
+        "price": 150
+      },
+      {
+        "name": "1200金錠",
+        "price": 60
+      },
+      {
+        "name": "600金錠",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/tales.of.jianghu/",
+      "官方網站": "https://www.facebook.com/tales.of.jianghu/",
+      "禮包碼": "gift-codes.html?game=江湖風雲傳",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B1%9F%E6%B9%96%E9%A2%A8%E9%9B%B2%E5%82%B3-%E5%BE%A9%E5%8F%A4%E7%BE%A4%E4%BF%A0%E6%AD%A6%E6%9E%97%E5%86%92%E9%9A%AA/id6566180945",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81432"
+    },
+    "description": "融合經典武俠與復古像素風格的手機RPG，讓玩家體驗快意恩仇的江湖世界。"
+  },
+  "星願之冠：狼少女物語": {
+    "logo": "images/星願之冠狼少女物語.jpg",
+    "products": [
+      {
+        "name": "100K鑽石",
+        "price": 2450
+      },
+      {
+        "name": "50K鑽石",
+        "price": 1090
+      },
+      {
+        "name": "30K鑽石",
+        "price": 710
+      },
+      {
+        "name": "10K鑽石",
+        "price": 270
+      },
+      {
+        "name": "5K鑽石",
+        "price": 150
+      },
+      {
+        "name": "1K鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/permalink.php/?story_fbid=998337172310099&id=100064014759876",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.superplanet.crown&hl=zh",
+      "禮包碼": "gift-codes.html?game=星願之冠：狼少女物語",
+      "App Store": "https://apps.apple.com/tw/app/%E6%98%9F%E9%A1%98%E4%B9%8B%E5%86%A0-%E7%8B%BC%E5%B0%91%E5%A5%B3%E7%89%A9%E8%AA%9E/id6636483923",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81257"
+    },
+    "description": "是一款由SuperPlanet 推出的3D 放置養成遊戲，結合了塔防元素與角色成長系統。 玩家將扮演平凡的狼少女「帕依」，在魔王統治的混亂世界中，被王冠選中，展開拯救自然樂園的冒險旅程。"
+  },
+  "香蕉缺個芭樂": {
+    "logo": "images/香蕉缺個芭樂.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2790
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1450
+      },
+      {
+        "name": "1980鑽石",
+        "price": 910
+      },
+      {
+        "name": "980鑽石",
+        "price": 460
+      },
+      {
+        "name": "300鑽石",
+        "price": 155
+      },
+      {
+        "name": "60鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/PlantTD/",
+      "官方網站": "https://www.facebook.com/PlantTD/",
+      "禮包碼": "gift-codes.html?game=香蕉缺個芭樂",
+      "App Store": "https://apps.apple.com/tw/app/%E9%A6%99%E8%95%89%E7%BC%BA%E5%80%8B%E8%8A%AD%E6%A8%82/id6738383231",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81757"
+    },
+    "description": "是一款無厘頭惡搞風的植物合成塔防遊戲。 遊戲中，玩家可以操控各種可愛的水果英雄，進行合成和雜交，培育出更強大的植物。 此外，遊戲還包含塔防、組隊戰鬥等玩法，讓玩家可以體驗到不同的遊戲樂趣。"
+  },
+  "精靈塔塔開": {
+    "logo": "images/精靈塔塔開.jpg",
+    "products": [
+      {
+        "name": "14000鑽石",
+        "price": 2560
+      },
+      {
+        "name": "6500鑽石",
+        "price": 1290
+      },
+      {
+        "name": "2500鑽石",
+        "price": 610
+      },
+      {
+        "name": "1200鑽石",
+        "price": 290
+      },
+      {
+        "name": "500鑽石",
+        "price": 150
+      },
+      {
+        "name": "80鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/861593769441658/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.domozoo.towerbrawl.thm&hl=gsw",
+      "禮包碼": "gift-codes.html?game=精靈塔塔開",
+      "App Store": "https://apps.apple.com/tw/app/%E7%B2%BE%E9%9D%88%E5%A1%94%E5%A1%94%E9%96%8B/id6557069041",
+      "巴哈姆特": "https://m.facebook.com/loveplay123/photos/%E6%96%B0%E5%93%81%E7%A6%AE%E5%8C%85%E7%B2%BE%E9%9D%88%E5%A1%94%E5%A1%94%E9%96%8B%E7%A6%AE%E5%8C%85%E7%A2%BC-2024%E6%9C%80%E6%96%B0%E5%B7%B4%E5%93%88%E5%BA%8F%E8%99%9F%E5%85%8C%E6%8F%9B%E7%A2%BC%E7%A6%8F%E5%88%A9%E9%81%8A%E6%88%B2httpsreurlccwdj6kx%E6%88%91%E5%80%91%E7%9A%84ythttpsreurlccrvorge/1030062849134600/"
+    },
+    "description": "《精靈塔塔開》是一款結合塔防和自走棋元素的策略對戰手遊，遊戲以魔幻為主題，玩家可以選擇法師、弓箭手、戰士、牧師、召喚師等多種職業，搭配上百張卡牌組建最強戰隊，在戰場上與敵人進行對戰。"
+  },
+  "終末之歌": {
+    "logo": "images/終末之歌.jpg",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2790
+      },
+      {
+        "name": "3280元寶",
+        "price": 1450
+      },
+      {
+        "name": "1980元寶",
+        "price": 910
+      },
+      {
+        "name": "980元寶",
+        "price": 460
+      },
+      {
+        "name": "300元寶",
+        "price": 155
+      },
+      {
+        "name": "60元寶",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://m.facebook.com/61566115185470/about/",
+      "官方網站": "https://www.facebook.com/permalink.php/?story_fbid=1034371565373326&id=100064014759876",
+      "禮包碼": "gift-codes.html?game=終末之歌",
+      "App Store": "N",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81952"
+    },
+    "description": "《終末之歌》是一款基於三國題材的豎版塔防割草遊戲，融合了roguelike 元素，提供玩家多樣化的戰鬥體驗。 遊戲將三國時期的武將以全新的方式呈現，玩家可以收集資源培養武將，並透過戰鬥和副本來體驗三國歷史。"
+  },
+  "森靈奇境": {
+    "logo": "images/森靈奇境.jpg",
+    "products": [
+      {
+        "name": "64800鑽石",
+        "price": 2790
+      },
+      {
+        "name": "32800鑽石",
+        "price": 1450
+      },
+      {
+        "name": "19800鑽石",
+        "price": 870
+      },
+      {
+        "name": "12800鑽石",
+        "price": 580
+      },
+      {
+        "name": "6800鑽石",
+        "price": 290
+      },
+      {
+        "name": "3000鑽石",
+        "price": 155
+      },
+      {
+        "name": "600鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/61556264878782",
+      "官方網站": "https://www.facebook.com/p/%E6%A3%AE%E9%9D%88%E5%A5%87%E5%A2%83-61556264878782/",
+      "禮包碼": "gift-codes.html?game=森靈奇境",
+      "App Store": "https://apps.apple.com/tw/app/%E6%A3%AE%E9%9D%88%E5%A5%87%E5%A2%83/id6473011708",
+      "巴哈姆特": "N"
+    },
+    "description": "「森靈奇境」是由FUNFUN TECHNOLOGU CO.,LIMITED代理發行的角色扮演類遊戲。 在這個奇幻森林中，無限自由的職業選擇讓你可以隨心轉職，沒有任何限制！ 透過最尖端的次世代技術和全開放式全景大地圖，以全3D視角自由運作，滿足你對大世界的一切幻想。 本文將給各位玩家介紹初學者在電腦上的玩法。"
+  },
+  "鬥破蒼穹：蕭門篇": {
+    "logo": "images/鬥破蒼穹蕭門篇.jpg",
+    "products": [
+      {
+        "name": "9999蕭門券",
+        "price": 2790
+      },
+      {
+        "name": "4999蕭門券",
+        "price": 1450
+      },
+      {
+        "name": "2999蕭門券",
+        "price": 860
+      },
+      {
+        "name": "1490蕭門券",
+        "price": 430
+      },
+      {
+        "name": "999蕭門券",
+        "price": 290
+      },
+      {
+        "name": "499蕭門券",
+        "price": 155
+      },
+      {
+        "name": "99蕭門券",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "N",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.tg.dpcq2.tw&hl=zh",
+      "禮包碼": "gift-codes.html?game=鬥破蒼穹：蕭門篇",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AC%A5%E7%A0%B4%E8%92%BC%E7%A9%B9-%E8%95%AD%E9%96%80%E7%AF%87/id6478906219",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81843"
+    },
+    "description": "《鬥破蒼穹：蕭門篇》是一款由Flyburst發行的角色扮演手遊，改編自同名經典玄幻小說。 遊戲完美還原了小說中的斗氣大陸，玩家將扮演主角蕭炎，從一個默默無聞的少年，一步步成長為強大的鬥帝。"
+  },
+  "無畏的狼煙": {
+    "logo": "images/無畏的狼煙.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2790
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1450
+      },
+      {
+        "name": "1980鑽石",
+        "price": 870
+      },
+      {
+        "name": "1280鑽石",
+        "price": 580
+      },
+      {
+        "name": "680鑽石",
+        "price": 290
+      },
+      {
+        "name": "340鑽石",
+        "price": 155
+      },
+      {
+        "name": "60鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/FSLbySonet.TW/",
+      "官方網站": "https://www.facebook.com/FSLbySonet.TW/",
+      "禮包碼": "gift-codes.html?game=無畏的狼煙",
+      "App Store": "https://apps.apple.com/tw/app/%E7%84%A1%E7%95%8F%E7%9A%84%E7%8B%BC%E7%85%99-fearless-signals/id6608964084",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81412"
+    },
+    "description": "《無畏的狼煙》（Fearless Signals）是一款2D放置卡牌遊戲，以歐美潮流塗鴉風格呈現魔幻世界觀。 遊戲中，玩家將扮演領主，率領各族英雄與邪惡勢力作戰，重建大陸，擊退黑暗女神的入侵。"
+  },
+  "代號：無頭": {
+    "logo": "images/代號無頭.jpg",
+    "products": [
+      {
+        "name": "10080鑽石",
+        "price": 2550
+      },
+      {
+        "name": "4620鑽石",
+        "price": 1290
+      },
+      {
+        "name": "1660鑽石",
+        "price": 590
+      },
+      {
+        "name": "820鑽石",
+        "price": 290
+      },
+      {
+        "name": "340鑽石",
+        "price": 150
+      },
+      {
+        "name": "60鑽石",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://forum.gamer.com.tw/B.php?bsn=79451",
+      "官方網站": "https://play.google.com/store/apps/details?id=xyz.lightgame.blade&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=代號：無頭",
+      "App Store": "N",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79451"
+    },
+    "description": "《代號：無頭》是由HZ Game 代理發行的角色扮演遊戲。 這款遊戲將您帶入前所未有的奇幻冒險，成為失去頭顱的魔王，與S級女性角色後援團攜手啟程。 遊戲巧妙融合多元副本挑戰、全球玩家對戰和自動戰鬥系統，帶給您極致的遊戲樂趣。"
+  },
+  "牛頭人GO": {
+    "logo": "images/牛頭人GO.jpg",
+    "products": [
+      {
+        "name": "3290禮包",
+        "price": 2790
+      },
+      {
+        "name": "1690禮包",
+        "price": 1450
+      },
+      {
+        "name": "660禮包",
+        "price": 580
+      },
+      {
+        "name": "330禮包",
+        "price": 290
+      },
+      {
+        "name": "170禮包",
+        "price": 150
+      },
+      {
+        "name": "100禮包",
+        "price": 90
+      },
+      {
+        "name": "33禮包",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TaurenTGO/",
+      "官方網站": "https://www.facebook.com/TaurenTGO/",
+      "禮包碼": "gift-codes.html?game=牛頭人GO",
+      "App Store": "https://apps.apple.com/tw/app/%E7%89%9B%E9%A0%AD%E4%BA%BAgo/id6566178884",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81823"
+    },
+    "description": "《牛頭人GO》是一款由娜瓦遊戲股份有限公司推出的mini英雄進化消除塔防手遊。 玩家將扮演流放者，率領以牛頭人为首的英雄們，與各界域的魔獸戰鬥。 遊戲特色是「消除」和「塔防」的結合，玩家透過消除相同英雄來進化角色，提升實力，抵禦敵人的進攻。"
+  },
+  "派對吧三國": {
+    "logo": "images/派對吧三國.jpg",
+    "products": [
+      {
+        "name": "9999通寶",
+        "price": 2790
+      },
+      {
+        "name": "6999通寶",
+        "price": 1960
+      },
+      {
+        "name": "4999通寶",
+        "price": 1450
+      },
+      {
+        "name": "2999通寶",
+        "price": 880
+      },
+      {
+        "name": "1999通寶",
+        "price": 580
+      },
+      {
+        "name": "1499通寶",
+        "price": 430
+      },
+      {
+        "name": "999通寶",
+        "price": 290
+      },
+      {
+        "name": "899通寶",
+        "price": 260
+      },
+      {
+        "name": "499通寶",
+        "price": 155
+      },
+      {
+        "name": "299通寶",
+        "price": 90
+      },
+      {
+        "name": "199通寶",
+        "price": 60
+      },
+      {
+        "name": "99通寶",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/@partysgtw/?locale=zh_TW",
+      "官方網站": "https://partysg.lumoss.cc/",
+      "禮包碼": "gift-codes.html?game=派對吧三國",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B4%BE%E5%B0%8D%E5%90%A7%E4%B8%89%E5%9C%8B-%E6%B4%BE%E5%B0%8D%E5%92%96%E5%AD%94%E6%98%8E%E8%81%AF%E5%8B%95/id6670526961",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82037"
+    },
+    "description": "《派對吧三國》——上線送1000抽穿越時空的派對，三國化作派對不夜城，帶你進入一個充滿霓虹燈與奇跡的三國世界！ 告別傳統，迎接派對風格的三國世界！ 在霓虹燈下的戰鬥中，幻想的加持讓每位名將展現出前所未有的魅力。 每一次戰鬥都是一場視覺和節奏的盛宴，讓你體驗一個與眾不同的三國戰場。"
+  },
+  "酒酒大俠": {
+    "logo": "images/酒酒大俠.jpg",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2790
+      },
+      {
+        "name": "3280元寶",
+        "price": 1450
+      },
+      {
+        "name": "1980元寶",
+        "price": 880
+      },
+      {
+        "name": "980元寶",
+        "price": 430
+      },
+      {
+        "name": "680元寶",
+        "price": 290
+      },
+      {
+        "name": "300元寶",
+        "price": 160
+      },
+      {
+        "name": "60元寶",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/99DAXIA/",
+      "官方網站": "https://www.facebook.com/99DAXIA/",
+      "禮包碼": "gift-codes.html?game=酒酒大俠",
+      "App Store": "https://apps.apple.com/tw/app/%E9%85%92%E9%85%92%E5%A4%A7%E4%BF%A0/id6739498868",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82071"
+    },
+    "description": "《酒酒大俠》是一款由HK FOREVER99 TECHNOLOGY CO., LIMITED開發的角色扮演遊戲。 遊戲以武俠世界為背景，玩家可以體驗如小說般的沉浸劇情，重現武林恩怨情仇，挑戰各門派秘境，並揭開隱藏的江湖秘密，在遊戲中成為主角，引領主線劇情發展，參與武俠世界的各種冒險。"
+  },
+  "鼠衛家園": {
+    "logo": "images/鼠衛家園.jpg",
+    "products": [
+      {
+        "name": "6480寶石",
+        "price": 2550
+      },
+      {
+        "name": "3280寶石",
+        "price": 1280
+      },
+      {
+        "name": "1280寶石",
+        "price": 590
+      },
+      {
+        "name": "680寶石",
+        "price": 280
+      },
+      {
+        "name": "300寶石",
+        "price": 140
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/3938717226414152/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.digitalconch.nobody.en&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=鼠衛家園",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BC%A0%E8%A1%9B%E5%AE%B6%E5%9C%92/id6670477783",
+      "巴哈姆特": "https://www.facebook.com/p/%E9%BC%A0%E8%A1%9B%E5%AE%B6%E5%9C%92-61565874970374/"
+    },
+    "description": "《鼠衛家園》是一款結合了塔防和Roguelike 元素的行動遊戲，玩家將化身為鼠鼠英雄，守護家園並抵抗來自各方的怪物攻擊。 遊戲玩法強調策略佈置和英雄搭配，玩家需要根據怪物的進攻路線，靈活安排防禦塔和英雄位置，增加防守效率。"
+  },
+  "未頌者之歌：異世界冒險奇譚": {
+    "logo": "images/未頌者之歌異世界冒險奇譚.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2840
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1430
+      },
+      {
+        "name": "1280鑽石",
+        "price": 580
+      },
+      {
+        "name": "680鑽石",
+        "price": 290
+      },
+      {
+        "name": "300鑽石",
+        "price": 160
+      },
+      {
+        "name": "60鑽石",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/chroniclesofunsungheroes/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.lightcore.endlessgradespixelsagatw",
+      "禮包碼": "gift-codes.html?game=未頌者之歌：異世界冒險奇譚",
+      "App Store": "https://apps.apple.com/tw/app/%E6%9C%AA%E9%A0%8C%E8%80%85%E4%B9%8B%E6%AD%8C-%E7%95%B0%E4%B8%96%E7%95%8C%E5%86%92%E9%9A%AA%E5%A5%87%E8%AD%9A/id6737249949",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81960"
+    },
+    "description": "在陷入不斷毀滅與重生輪迴的九界之中，你將化身女武神瓦爾基里，集結未被歌頌的英雄們，於命運洪流中穿越迷霧，追尋破碎神話背後的真相，譜寫抗爭與希望的頌歌，踏上拯救九界眾生的史詩旅程。"
+  },
+  "熱練戰士": {
+    "logo": "images/熱練戰士.jpg",
+    "products": [
+      {
+        "name": "1300紅寶石",
+        "price": 2590
+      },
+      {
+        "name": "350紅寶石",
+        "price": 740
+      },
+      {
+        "name": "65紅寶石",
+        "price": 160
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/permalink.php/?story_fbid=1049879313822551&id=100064014759876",
+      "官方網站": "https://gnn.gamer.com.tw/detail.php?sn=279993",
+      "禮包碼": "gift-codes.html?game=熱練戰士",
+      "App Store": "https://apps.apple.com/tw/app/%E7%86%B1%E7%B7%B4%E6%88%B0%E5%A3%AB/id6737226714",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82105"
+    },
+    "description": "《熱練戰士》是任何人都可以輕鬆享受的2D 動作角色扮演類遊戲，和各種吸引人的英雄在清醒夢大冒險的世界背景下進行愉快的冒險。 以四個遊戲角色來組建起屬於自己的隊伍，擊退一波又一波的怪物後完成遊戲劇情。 除主線故事外，還可以在噩夢入侵、PVP 競技場、地下副本、神的遺物等模式中感受樂趣。"
+  },
+  "聯盟戰棋": {
+    "logo": "images/聯盟戰棋.jpg",
+    "products": [
+      {
+        "name": "11525戰棋幣",
+        "price": 2430
+      },
+      {
+        "name": "5750戰棋幣",
+        "price": 1220
+      },
+      {
+        "name": "4025戰棋幣",
+        "price": 850
+      },
+      {
+        "name": "2525戰棋幣",
+        "price": 550
+      },
+      {
+        "name": "1275戰棋幣",
+        "price": 270
+      },
+      {
+        "name": "575戰棋幣",
+        "price": 140
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TFTTW/",
+      "官方網站": "https://teamfighttactics.leagueoflegends.com/zh-tw/",
+      "禮包碼": "gift-codes.html?game=聯盟戰棋",
+      "App Store": "https://apps.apple.com/tw/app/tft-%E8%81%AF%E7%9B%9F%E6%88%B0%E6%A3%8B/id1501301571",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=38053"
+    },
+    "description": "《聯盟戰棋》（或稱《雲頂之弈》）是由Riot Games 開發的自走棋類電子遊戲，建立在《英雄聯盟》的世界觀之上。 玩家與七名對手競爭，在回合制的戰鬥中組建隊伍，最終爭奪勝利。 遊戲玩法與《刀塔自走棋》類似，玩家從輪流出現的《英雄聯盟》角色中招募棋子，佈置棋位，並在戰鬥中與對手戰鬥。"
+  },
+  "劍客物語": {
+    "logo": "images/劍客物語.jpg",
+    "products": [
+      {
+        "name": "9000紅寶石",
+        "price": 2550
+      },
+      {
+        "name": "4500紅寶石",
+        "price": 1300
+      },
+      {
+        "name": "2700紅寶石",
+        "price": 750
+      },
+      {
+        "name": "9000紅寶石",
+        "price": 270
+      },
+      {
+        "name": "450紅寶石",
+        "price": 160
+      },
+      {
+        "name": "270紅寶石",
+        "price": 90
+      }
+    ],
+    "social": {
+      "Facebook": "https://forum.gamer.com.tw/C.php?bsn=39136&snA=450",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.superplanet.swordmaster&hl=zh",
+      "禮包碼": "gift-codes.html?game=劍客物語",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8A%8D%E5%AE%A2%E7%89%A9%E8%AA%9E/id1521447065",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=39136"
+    },
+    "description": "《劍客物語》是一款由SuperPlanet代理的角色扮演遊戲，屬於動作RPG類型，以「該隱」這個平凡學生穿越到異世界後，成為大劍客，與神話英雄組隊，一起冒險和戰鬥，並揭開隱藏的真相為故事核心。 遊戲特色包括華麗技能、高速連擊、二刀流戰鬥系統、裝備強化、角色成長系統、公會合作以及獨特的故事和冒險模式。"
+  },
+  "人在塔在": {
+    "logo": "images/人在塔在.jpg",
+    "products": [
+      {
+        "name": "14000鑽石",
+        "price": 2750
+      },
+      {
+        "name": "6500鑽石",
+        "price": 1390
+      },
+      {
+        "name": "2500鑽石",
+        "price": 580
+      },
+      {
+        "name": "1200鑽石",
+        "price": 280
+      },
+      {
+        "name": "500鑽石",
+        "price": 160
+      },
+      {
+        "name": "80鑽石",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/CookieRunTOA.TW/",
+      "官方網站": "https://www.facebook.com/CookieRunTOA.TW/",
+      "禮包碼": "gift-codes.html?game=人在塔在",
+      "App Store": "https://apps.apple.com/tw/app/%E8%96%91%E9%A4%85%E4%BA%BA%E4%B9%8B%E5%A1%94/id6449445178",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78614"
+    },
+    "description": "對抗無情的敵人：野蠻的獸人、高聳的巨魔、邪惡的死靈法師、惡魔大軍以及各種史詩級首領。每個敵人都帶來新的挑戰和獨特的戰鬥能力，為這個類型增添了新維度！召喚強大的援軍，指揮你的弓箭手，釋放毀滅性的技能，並通過遊戲內選項升級你的弓箭手和塔樓，以保護王國免受黑暗的侵害！"
+  },
+  "龍語霜城": {
+    "logo": "images/龍語霜城.jpg",
+    "products": [
+      {
+        "name": "30000鑽石",
+        "price": 2600
+      },
+      {
+        "name": "14000鑽石",
+        "price": 1350
+      },
+      {
+        "name": "11000鑽石",
+        "price": 1100
+      },
+      {
+        "name": "8000鑽石",
+        "price": 820
+      },
+      {
+        "name": "5200鑽石",
+        "price": 600
+      },
+      {
+        "name": "3800鑽石",
+        "price": 420
+      },
+      {
+        "name": "2400鑽石",
+        "price": 320
+      },
+      {
+        "name": "1100鑽石",
+        "price": 180
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/PuzzlesAndChaos.TW/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.global.pncktw",
+      "禮包碼": "gift-codes.html?game=龍語霜城",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BE%8D%E8%AA%9E%E9%9C%9C%E5%9F%8E-%E5%85%83%E7%B4%A0%E9%AD%94%E5%9F%9F/id6470185871",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79073"
+    },
+    "description": "《龍語霜城-元素魔域》是由純白之境發行的西方魔幻題材三消策略手機遊戲，於2023年12月7日正式上線。 遊戲將魔幻大世界與三消策略玩法融合，玩家可以在冰天雪地中冒險，喚醒巨龍，拯救被冰封的家園。"
+  },
+  "洛伊的移動要塞": {
+    "logo": "images/洛伊的移動要塞.jpg",
+    "products": [
+      {
+        "name": "2990禮包",
+        "price": 2600
+      },
+      {
+        "name": "2490禮包",
+        "price": 2150
+      },
+      {
+        "name": "2290禮包",
+        "price": 2000
+      },
+      {
+        "name": "1990禮包",
+        "price": 1700
+      },
+      {
+        "name": "1490禮包",
+        "price": 1350
+      },
+      {
+        "name": "1290禮包",
+        "price": 1100
+      },
+      {
+        "name": "990禮包",
+        "price": 880
+      },
+      {
+        "name": "790禮包",
+        "price": 700
+      },
+      {
+        "name": "690禮包",
+        "price": 620
+      },
+      {
+        "name": "525禮包",
+        "price": 490
+      },
+      {
+        "name": "490禮包",
+        "price": 450
+      },
+      {
+        "name": "320禮包",
+        "price": 300
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/%E6%B4%9B%E4%BC%8A%E7%9A%84%E7%A7%BB%E5%8B%95%E8%A6%81%E5%A1%9E-Fortress-Saga-61555050021463/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.cookapps.bm.fortresssaga&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=洛伊的移動要塞",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B4%9B%E4%BC%8A%E7%9A%84%E7%A7%BB%E5%8B%95%E8%A6%81%E5%A1%9E-fortress-saga/id6446308106",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78633"
+    },
+    "description": "《洛伊的移動要塞》是韓國開發商Cookapps推出的放置型城堡養成遊戲。 在一個魔王肆虐的世界裡，英雄們利用世界樹的力量對抗邪惡。 玩家將扮演這些英雄，利用世界樹的種子來建造並培養自己的移動城堡。"
+  },
+  "喵喵王國": {
+    "logo": "images/喵喵王國.jpg",
+    "products": [
+      {
+        "name": "13500寶石",
+        "price": 2300
+      },
+      {
+        "name": "6800寶石",
+        "price": 1150
+      },
+      {
+        "name": "3500寶石",
+        "price": 650
+      },
+      {
+        "name": "1500寶石",
+        "price": 300
+      },
+      {
+        "name": "620寶石",
+        "price": 120
+      },
+      {
+        "name": "150寶石",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://m.facebook.com/100064014759876/posts/%E5%96%B5%E5%96%B5%E7%8E%8B%E5%9C%8B%E8%B2%93%E5%92%AA%E6%94%BE%E7%BD%AErpg-3%E6%9C%8810%E6%97%A5-%E9%80%9A%E7%9F%A5%E4%B8%8A%E6%9E%B6-%E6%97%A5%E7%B3%BB%E4%BA%8C%E6%AC%A1%E5%85%83-%E7%99%82%E7%99%92%E7%B3%BB%E5%8F%AF%E6%84%9B%E8%B2%93%E5%92%AA-idle-rpg-games-%E8%B2%93%E5%92%AA%E9%81%8A%E6%88%B2%E4%BE%86%E8%A5%B2%E4%BC%91%E9%96%92%E6%94%BE%E7%BD%AE-%E6%94%B6%E9%9B%86%E8%B6%85%E5%A4%9A%E8%B2%93%E6%88%B0%E8%8B%B1%E9%9B%84-%E6%89%93%E9%80%A0%E6%9C%80%E5%BC%B7%E9%9A%8A%E4%BC%8D-%E5%AE%8C/1085364083607407/",
+      "官方網站": "https://apps.apple.com/mo/app/%E5%96%B5%E5%96%B5%E7%8E%8B%E5%9C%8B-%E8%B2%93%E5%92%AA%E6%94%BE%E7%BD%AErpg/id1606840138",
+      "禮包碼": "gift-codes.html?game=喵喵王國",
+      "App Store": "https://apps.apple.com/tw/app/%E5%96%B5%E5%96%B5%E7%8E%8B%E5%9C%8B-%E8%B2%93%E5%92%AA%E6%94%BE%E7%BD%AErpg/id1606840138",
+      "巴哈姆特": "https://m.gamer.com.tw/forum/C.php?bsn=71340&snA=3"
+    },
+    "description": "《喵喵王國：貓咪放置rpg》的大體玩法結構為，家園養成+放置對戰，家園養成方面，就是透過放置設施與可愛的貓咪，產出各種道具來培養貓咪（當然也可以只是為了好看養眼），其中你還可以培養貓咪們的好感度，好感度的提升對戰鬥有所加成。"
+  },
+  "東京謎影者": {
+    "logo": "images/東京謎影者.jpg",
+    "products": [
+      {
+        "name": "5000鑽石",
+        "price": 2700
+      },
+      {
+        "name": "2100鑽石",
+        "price": 1100
+      },
+      {
+        "name": "1100鑽石",
+        "price": 580
+      },
+      {
+        "name": "500鑽石",
+        "price": 300
+      },
+      {
+        "name": "325鑽石",
+        "price": 200
+      },
+      {
+        "name": "80鑽石",
+        "price": 60
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TokyoDebunker/?locale=zh_TW",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunker&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=東京謎影者",
+      "App Store": "https://apps.apple.com/tw/app/%E6%9D%B1%E4%BA%AC%E8%AC%8E%E5%BD%B1%E8%80%85/id1453840513",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=37645"
+    },
+    "description": "遊戲故事以Live2D 與漫畫交織展開，講述女主角因被怪異襲擊，遇見將自身出賣給惡魔的「噬魔人」，並被帶至「黑蕊學園」。 在這裡被宣告壽命只剩一年的女主角，為了解開詛咒，將與噬魔人一同調查潛藏於東京市區的怪異事件。"
+  },
+  "戰極死遊": {
+    "logo": "images/戰極死遊.jpg",
+    "products": [
+      {
+        "name": "4955神秘粒子結晶",
+        "price": 1900
+      },
+      {
+        "name": "2793神秘粒子結晶",
+        "price": 1050
+      },
+      {
+        "name": "1396神秘粒子結晶",
+        "price": 540
+      },
+      {
+        "name": "486神秘粒子結晶",
+        "price": 190
+      },
+      {
+        "name": "207神秘粒子結晶",
+        "price": 90
+      },
+      {
+        "name": "68神秘粒子結晶",
+        "price": 35
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/tribenine.ch/",
+      "官方網站": "https://www.facebook.com/tribenine.ch/",
+      "禮包碼": "gift-codes.html?game=戰極死遊",
+      "App Store": "https://apps.apple.com/tw/app/tribe-nine-%E6%88%B0%E6%A5%B5%E6%AD%BB%E9%81%8A/id6737577149",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=72654"
+    },
+    "description": "時間來到20XX年。主宰著新東京國、臉戴面具的謎樣男子「ZERO」宣布，在全國的城市裡「所有事情將以遊戲來做定奪」。自此他便透過「戰極遊戲（Extreme Games）」，通稱「XG」 來統治新東京。"
+  },
+  "進擊的蝸牛": {
+    "logo": "images/進擊的蝸牛.jpg",
+    "products": [
+      {
+        "name": "3290彩鑽",
+        "price": 2750
+      },
+      {
+        "name": "1690彩鑽",
+        "price": 1400
+      },
+      {
+        "name": "670彩鑽",
+        "price": 560
+      },
+      {
+        "name": "330彩鑽",
+        "price": 280
+      },
+      {
+        "name": "170彩鑽",
+        "price": 160
+      },
+      {
+        "name": "33彩鑽",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/531323709571373/",
+      "官方網站": "https://www.facebook.com/photo.php?fbid=122119047320688406&id=61570652196343&set=a.122100289838688406",
+      "禮包碼": "gift-codes.html?game=進擊的蝸牛",
+      "App Store": "https://apps.apple.com/tw/app/%E9%80%B2%E6%93%8A%E7%9A%84%E8%9D%B8%E7%89%9B/id6737221378",
+      "巴哈姆特": "https://home.gamer.com.tw/creationDetail.php?sn=5997365"
+    },
+    "description": "《進擊的蝸牛》是一款放置類手遊，玩家可以輕鬆進行強化和升級，即使在工作或閒暇時也能享受遊戲樂趣。 遊戲中，玩家可以和夥伴一起探索、爬塔，進行自由遠征。"
+  },
+  "純白大作戰": {
+    "logo": "images/純白大作戰.jpg",
+    "products": [
+      {
+        "name": "668寶石",
+        "price": 2750
+      },
+      {
+        "name": "328寶石",
+        "price": 1400
+      },
+      {
+        "name": "198寶石",
+        "price": 950
+      },
+      {
+        "name": "98寶石",
+        "price": 450
+      },
+      {
+        "name": "30寶石",
+        "price": 160
+      },
+      {
+        "name": "60寶石",
+        "price": 60
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/adventureofwhitechord/",
+      "官方網站": "https://www.facebook.com/adventureofwhitechord/",
+      "禮包碼": "gift-codes.html?game=純白大作戰",
+      "App Store": "https://apps.apple.com/tw/app/%E7%B4%94%E7%99%BD%E5%A4%A7%E4%BD%9C%E6%88%B0/id6711351494",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81418"
+    },
+    "description": "本作強調二次元動漫畫風的人物立繪和流暢的動畫表現，玩家將能遇到眾多風格迥異的美少女角色，每一位都擁有獨特而絢麗的技能。 同時將輕鬆的放置玩法與多變的策略相結合。 玩家可以在最小投入下享受遊戲進程，透過精心策劃的策略來克服挑戰。 《純白大作戰》現已開啟預先註冊。"
+  },
+  "黑星勇者": {
+    "logo": "images/黑星勇者.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2700
+      },
+      {
+        "name": "3880鑽石",
+        "price": 1350
+      },
+      {
+        "name": "1280鑽石",
+        "price": 630
+      },
+      {
+        "name": "680鑽石",
+        "price": 300
+      },
+      {
+        "name": "300鑽石",
+        "price": 150
+      },
+      {
+        "name": "60鑽石",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/BlackStarKunpan/?locale=zh_TW",
+      "官方網站": "https://www.facebook.com/BlackStarKunpan/",
+      "禮包碼": "gift-codes.html?game=黑星勇者",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BB%91%E6%98%9F%E5%8B%87%E8%80%85-%E5%83%8F%E7%B4%A0%E9%A2%A8%E6%97%A5%E5%BC%8F%E7%B6%93%E5%85%B8rpg/id6477338312",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79426"
+    },
+    "description": "黑星勇者是一款象素風格的超自由ＲＰＧ手遊，他與手遊伊洛納製作團隊是同一個，也因此在許多地方是相似或熟悉的。 雖然遊戲是傳統的勇者地下城ＲＰＧ模式，但是他也有許多家園生產體系。 不過最為經典重要的是它是一款養成非常自由的手遊。"
+  },
+  "龍之谷：經典再現": {
+    "logo": "images/龍之谷經典再現.jpg",
+    "products": [
+      {
+        "name": "60000龍券",
+        "price": 2550
+      },
+      {
+        "name": "30000龍券",
+        "price": 1350
+      },
+      {
+        "name": "18000龍券",
+        "price": 990
+      },
+      {
+        "name": "12000龍券",
+        "price": 540
+      },
+      {
+        "name": "6000龍券",
+        "price": 270
+      },
+      {
+        "name": "3000龍券",
+        "price": 150
+      },
+      {
+        "name": "600龍券",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DragonNestMClassic/",
+      "官方網站": "https://www.facebook.com/DragonNestMClassic/",
+      "禮包碼": "gift-codes.html?game=龍之谷：經典再現",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BE%8D%E4%B9%8B%E8%B0%B7-%E7%B6%93%E5%85%B8%E5%86%8D%E7%8F%BE/id6743824718",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82314"
+    },
+    "description": "《龍之谷：經典再現》是韓國原廠正版授權，復刻經典的龍之谷遊戲。 這款遊戲以其精緻的畫風、豐富的職業系統、獨特的遊戲機制以及多樣的內容，讓玩家重溫經典的遊戲體驗。 遊戲中，玩家可以扮演不同的職業，例如牧師，體驗不同角色的獨特魅力與戰鬥風格。"
+  },
+  "楓之谷Artale": {
+    "logo": "images/楓之谷Artale.jpg",
+    "products": [
+      {
+        "name": "13200金幣",
+        "price": 1580
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/artale.tw/",
+      "官方網站": "https://maplestoryworlds.nexon.com/zh-tw/play/cabbc2ce91844c79989b18931fe492fe/",
+      "禮包碼": "gift-codes.html?game=楓之谷Artale",
+      "App Store": "https://apps.apple.com/tw/app/maplestory-worlds-%E6%A5%93%E4%B9%8B%E8%B0%B7%E4%B8%96%E7%95%8C/id1553717881",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79354"
+    },
+    "description": "Artale 繁體中文版的懷舊版本其遊戲系統MapleStory Worlds 是Nexon 在2022 年年底推出的一款玩家跟開發者能夠自由運用數千萬個楓之谷物件製作遊戲進行遊戲的一個平台，因此吸引了創作者們開始建立最初楓之谷的設定，打造了這款名為《Artale懷舊楓之谷》的版本"
+  },
+  "出發吧麥芬": {
+    "logo": "images/出發吧麥芬.jpg",
+    "products": [
+      {
+        "name": "6480星鑽",
+        "price": 2390
+      },
+      {
+        "name": "3280星鑽",
+        "price": 1380
+      },
+      {
+        "name": "1980星鑽",
+        "price": 810
+      },
+      {
+        "name": "980星鑽",
+        "price": 410
+      },
+      {
+        "name": "300星鑽",
+        "price": 270
+      },
+      {
+        "name": "60星鑽",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/GoMuffin/",
+      "官方網站": "https://www.facebook.com/GoMuffin/",
+      "禮包碼": "gift-codes.html?game=出發吧麥芬",
+      "App Store": "https://apps.apple.com/tw/app/%E5%87%BA%E7%99%BC%E5%90%A7%E9%BA%A5%E8%8A%AC/id6446155179",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=75400"
+    },
+    "description": "《出發吧麥芬》讓你整天可可愛愛掛機就能成長領被動收入。 只需在空閒時進入遊戲，查看行囊裡多了什麼新裝備，摸頭並餵食一下麥樂獸，就能使其變強大。 當然在駕車兜風途中的Q萌百景、奇珍異獸、帥氣BOSS，也是讓眾多冒險家流連忘返的！"
+  },
+  "RO仙境傳說：守護永恆的愛 Classic": {
+    "logo": "images/RO仙境傳說守護永恆的愛 Classic.jpg",
+    "products": [
+      {
+        "name": "6480萬zeny",
+        "price": 2320
+      },
+      {
+        "name": "3280萬zeny",
+        "price": 1330
+      },
+      {
+        "name": "1280萬zeny",
+        "price": 520
+      },
+      {
+        "name": "680萬zeny",
+        "price": 290
+      },
+      {
+        "name": "300萬zeny",
+        "price": 150
+      },
+      {
+        "name": "180萬zeny",
+        "price": 90
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/RagnarokMClassicTW/",
+      "官方網站": "https://www.facebook.com/RagnarokMClassicTW/",
+      "禮包碼": "gift-codes.html?game=RO仙境傳說：守護永恆的愛 Classic",
+      "App Store": "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E5%AE%88%E8%AD%B7%E6%B0%B8%E6%81%86%E7%9A%84%E6%84%9B-classic/id6741827909",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82344"
+    },
+    "description": "《RO仙境傳說：守護永恆的愛Classic》是RO守愛的返璞歸真版本。 在這裡沒有商城、沒有抽卡要素、沒有各種儲值貨幣，只有擊敗怪物就可掉落的單一貨幣「Zeny」。 在這裡只有大家熟悉的RO六大基礎職業：劍士、魔法師、盜賊、弓箭手、服事、商人。"
+  },
+  "魔力寶貝：復興": {
+    "logo": "images/魔力寶貝復興.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2290
+      },
+      {
+        "name": "4880鑽石",
+        "price": 2000
+      },
+      {
+        "name": "2980鑽石",
+        "price": 1150
+      },
+      {
+        "name": "1980鑽石",
+        "price": 880
+      },
+      {
+        "name": "980鑽石",
+        "price": 450
+      },
+      {
+        "name": "500鑽石",
+        "price": 260
+      },
+      {
+        "name": "300鑽石",
+        "price": 160
+      },
+      {
+        "name": "60鑽石",
+        "price": 50
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/elex.cg/",
+      "官方網站": "https://www.facebook.com/elex.cg/",
+      "禮包碼": "gift-codes.html?game=魔力寶貝：復興",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AD%94%E5%8A%9B%E5%AF%B6%E8%B2%9D-%E5%BE%A9%E8%88%88/id6736690369",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82309"
+    },
+    "description": "《魔力寶貝：復興》是一款由 SQUARE ENIX 正版授權GNN 新聞網 的手機遊戲，它採用了3D引擎提升畫面，同時保留了《魔力寶貝》系列的45度角戰鬥畫面。 遊戲保留了《魔力寶貝》的經典元素，讓玩家體驗橫跨24年IP的魅力，並提供多樣化的寵物培養系統，讓玩家可以培養心儀的寵物。"
+  },
+  "東京喰種Awakening": {
+    "logo": "images/東京喰種Awakening.jpg",
+    "products": [
+      {
+        "name": "8000鑽石",
+        "price": 2680
+      },
+      {
+        "name": "4000鑽石",
+        "price": 1370
+      },
+      {
+        "name": "2000鑽石",
+        "price": 740
+      },
+      {
+        "name": "1200鑽石",
+        "price": 440
+      },
+      {
+        "name": "400鑽石",
+        "price": 160
+      },
+      {
+        "name": "80鑽石",
+        "price": 40
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/tokyoghoulawakening/",
+      "官方網站": "https://www.facebook.com/tokyoghoulawakening/",
+      "禮包碼": "gift-codes.html?game=東京喰種Awakening",
+      "App Store": "https://apps.apple.com/tw/app/%E6%9D%B1%E4%BA%AC%E5%96%B0%E7%A8%AE-awakening/id6739484886",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82398"
+    },
+    "description": "《東京喰種：Awakening》手遊官網 是一名喜愛讀書、就讀于上井大學的學生。 因移植了“喰種” 利世的部分器官，身體成為了“喰種” ，被迫在“喰種” 的世界中生存。 雖身處絕望的深淵，但在與性格和境遇迥異的“喰種” 相處過程中，他的意識逐漸發生了改變，想要斬斷這個世界悲哀的連鎖。"
+  },
+  "晶核": {
+    "logo": "images/晶核.jpg",
+    "products": [
+      {
+        "name": "6480歐珀(首儲雙倍)",
+        "price": 2630
+      },
+      {
+        "name": "3280歐珀(首儲雙倍)",
+        "price": 1340
+      },
+      {
+        "name": "1980歐珀(首儲雙倍)",
+        "price": 860
+      },
+      {
+        "name": "980歐珀(首儲雙倍)",
+        "price": 430
+      },
+      {
+        "name": "300歐珀(首儲雙倍)",
+        "price": 160
+      },
+      {
+        "name": "60歐珀(首儲雙倍)",
+        "price": 40
+      },
+      {
+        "name": "幻晶月令30天",
+        "price": 150
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/CrystalofAtlan.TW/",
+      "官方網站": "https://coa.nvsgames.cn/",
+      "禮包碼": "gift-codes.html?game=晶核",
+      "App Store": "https://apps.apple.com/tw/app/%E6%99%B6%E6%A0%B8/id6453111576",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=75408"
+    },
+    "description": "《晶核》是一款PC行動裝置跨平台互通的魔導龐克合作共鬥動作RPG。 動作格鬥是其核心玩法之一，獨特空中戰鬥系統為玩家帶來更極致的戰鬥體驗。 遊戲含有魔導龐克元素，多職業自由選擇、探索立體箱庭及多人共鬥等玩法。"
+  },
+  "無盡夢迴": {
+    "logo": "images/無盡夢迴.jpg",
+    "products": [
+      {
+        "name": "2990+898夢華",
+        "price": 2520
+      },
+      {
+        "name": "1580+370夢華",
+        "price": 1330
+      },
+      {
+        "name": "990+160夢華",
+        "price": 830
+      },
+      {
+        "name": "490+60夢華",
+        "price": 420
+      },
+      {
+        "name": "150+15夢華",
+        "price": 150
+      },
+      {
+        "name": "30夢華",
+        "price": 40
+      },
+      {
+        "name": "盈月美夢眷",
+        "price": 150
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/dreamzSSG/",
+      "官方網站": "https://www.facebook.com/dreamzSSG/",
+      "禮包碼": "gift-codes.html?game=無盡夢迴",
+      "App Store": "https://apps.apple.com/tw/app/%E7%84%A1%E7%9B%A1%E5%A4%A2%E8%BF%B4/id6740556991",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81091"
+    },
+    "description": "《無盡夢迴》是一款由大宇資訊代理的跨平台本格派無雙動作ARPG手遊，融合日系厚塗美術與Roguelike玩法，玩家化身捕夢者，穿梭奇幻夢境，與多樣夢靈並肩作戰。 遊戲強調「重玩法，輕養成」，提供流暢且極具挑戰性的戰鬥體驗，並為玩家帶來永不重覆的遊戲體驗。"
+  },
+  "RO仙境傳說：放推冒險團": {
+    "logo": "images/RO仙境傳說放推冒險團.jpg",
+    "products": [
+      {
+        "name": "6580金幣",
+        "price": 2659
+      },
+      {
+        "name": "3380金幣",
+        "price": 1385
+      },
+      {
+        "name": "1340金幣",
+        "price": 557
+      },
+      {
+        "name": "980金幣",
+        "price": 407
+      },
+      {
+        "name": "340金幣",
+        "price": 150
+      },
+      {
+        "name": "66金幣",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/rot.gravity/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.gravitycomms.rot.aos",
+      "禮包碼": "gift-codes.html?game=RO仙境傳說：放推冒險團",
+      "App Store": "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E6%94%BE%E6%8E%A8%E5%86%92%E9%9A%AA%E5%9C%98/id6742482846",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82638"
+    },
+    "description": "《RO仙境傳說:放推冒險團》是一款真正為休閒玩家量身打造的手遊。無論你是工作繁忙的上班族，還是喜歡輕鬆遊玩的手遊愛好者，都能在這款遊戲中找到屬於自己的快樂。"
+  },
+  "英雄刷刷刷": {
+    "logo": "images/英雄刷刷刷.jpg",
+    "products": [
+      {
+        "name": "6480暗金幣",
+        "price": 2659
+      },
+      {
+        "name": "3280暗金幣",
+        "price": 1385
+      },
+      {
+        "name": "1980暗金幣",
+        "price": 812
+      },
+      {
+        "name": "1280暗金幣",
+        "price": 557
+      },
+      {
+        "name": "980暗金幣",
+        "price": 407
+      },
+      {
+        "name": "680暗金幣",
+        "price": 274
+      },
+      {
+        "name": "300暗金幣",
+        "price": 150
+      },
+      {
+        "name": "180暗金幣",
+        "price": 89
+      },
+      {
+        "name": "120暗金幣",
+        "price": 53
+      },
+      {
+        "name": "60暗金幣",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/com.megoogames.herotw/",
+      "官方網站": "https://www.facebook.com/com.megoogames.herotw/",
+      "禮包碼": "gift-codes.html?game=英雄刷刷刷",
+      "App Store": "https://apps.apple.com/tw/app/%E8%8B%B1%E9%9B%84%E5%88%B7%E5%88%B7%E5%88%B7/id6742137449",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82726"
+    },
+    "description": "《英雄刷刷刷》上線即推出限時福利「新手魔爐」千抽活動，玩家透過完成日常任務即可獲得「魔爐藥劑」抽獎券，累計抽取達 1,000 次必得神話級侍從「面山」，這位攻守兼備的頂級夥伴能同時提供增傷與減傷光環，助你輕鬆征服暗黑大陸！活動期間完成指定任務即可暢享千次抽取機會，現在加入立即體驗「新手魔爐」帶來的極致戰鬥加成！"
+  },
+  "萬靈物語": {
+    "logo": "images/萬靈物語.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2659
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1385
+      },
+      {
+        "name": "1280鑽石",
+        "price": 557
+      },
+      {
+        "name": "980鑽石",
+        "price": 407
+      },
+      {
+        "name": "300鑽石",
+        "price": 150
+      },
+      {
+        "name": "60鑽石",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/icantw.MR/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.icantw.mr",
+      "禮包碼": "gift-codes.html?game=萬靈物語",
+      "App Store": "https://apps.apple.com/tw/app/%E8%90%AC%E9%9D%88%E7%89%A9%E8%AA%9E/id6743747548",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82705"
+    },
+    "description": "《萬靈物語》是即將上市的MMORPG，5/22日開服以目前資訊判斷是以北歐神話中的「米德加爾」為靈感，設計出具有神樹世界觀的遊戲。 戰寵系統遊戲有戰寵系統，最多可攜帶三隻戰寵參戰。 自動戰鬥系統在主線任務進展到一定程度後，會解鎖自動戰鬥功能。"
+  },
+  "斗羅大陸：逆轉時空": {
+    "logo": "images/斗羅大陸逆轉時空.jpg",
+    "products": [
+      {
+        "name": "648鑽石",
+        "price": 2659
+      },
+      {
+        "name": "328鑽石",
+        "price": 1385
+      },
+      {
+        "name": "198鑽石",
+        "price": 803
+      },
+      {
+        "name": "128鑽石",
+        "price": 557
+      },
+      {
+        "name": "98鑽石",
+        "price": 407
+      },
+      {
+        "name": "30鑽石",
+        "price": 274
+      },
+      {
+        "name": "18鑽石",
+        "price": 150
+      },
+      {
+        "name": "6鑽石",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DLNZSK/",
+      "官方網站": "https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%80%86%E8%BD%AC%E6%97%B6%E7%A9%BA/id6478529670",
+      "禮包碼": "gift-codes.html?game=斗羅大陸：逆轉時空",
+      "App Store": "https://apps.apple.com/tw/app/%E6%96%97%E7%BE%85%E5%A4%A7%E9%99%B8-%E9%80%86%E8%BD%89%E6%99%82%E7%A9%BA/id6740516191",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82386"
+    },
+    "description": "《斗羅大陸：逆轉時空》是一款由《斗羅大陸》小說授權的卡牌回合制戰鬥RPG手遊，玩家扮演時空神位傳承者，受海神唐三委託，穿梭時空，修復歷史裂痕，恢復斗羅大陸的秩序。 遊戲中，玩家將透過時空之力穿越到不同時點，修改被篡改的歷史，讓唐三和小舞的命運重新交織。 遊戲的核心玩法包括：雙型態戰鬥系統（魂師擁有兩種戰鬥型態，可觸發「武魂真身」技能）、魂師與技能的培養等。"
+  },
+  "魔靈召喚：保衛戰": {
+    "logo": "images/魔靈召喚保衛戰.jpg",
+    "products": [
+      {
+        "name": "149000+149000紅水晶",
+        "price": 2659
+      },
+      {
+        "name": "99000+99000紅水晶",
+        "price": 1631
+      },
+      {
+        "name": "49000+49000紅水晶",
+        "price": 975
+      },
+      {
+        "name": "29000+29000紅水晶",
+        "price": 574
+      },
+      {
+        "name": "9900+9900紅水晶",
+        "price": 241
+      },
+      {
+        "name": "3300+3300紅水晶",
+        "price": 89
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/SWarTC/",
+      "官方網站": "https://gnn.gamer.com.tw/detail.php?sn=278484",
+      "禮包碼": "gift-codes.html?game=魔靈召喚：保衛戰",
+      "App Store": "https://apps.apple.com/tw/developer/com2us-corp/id299175870",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81750"
+    },
+    "description": "Com2uS 全新力作《魔靈召喚：保衛戰》今日宣布全球同步上線，官方表示，本作延續全球下載突破 2.7 億次的《魔靈召喚》IP，融合塔防與放置養成玩法，帶來全新 RPG 體驗。現已於 App Store 與 Google Play 雙平台推出。"
+  },
+  "潘多蘭島": {
+    "logo": "images/潘多蘭島.jpg",
+    "products": [
+      {
+        "name": "8200鑽石",
+        "price": 2659
+      },
+      {
+        "name": "4000鑽石",
+        "price": 1385
+      },
+      {
+        "name": "1560鑽石",
+        "price": 557
+      },
+      {
+        "name": "780鑽石",
+        "price": 274
+      },
+      {
+        "name": "300鑽石",
+        "price": 150
+      },
+      {
+        "name": "跳過廣告",
+        "price": 283
+      },
+      {
+        "name": "特權PASS",
+        "price": 812
+      },
+      {
+        "name": "每月PASS",
+        "price": 150
+      },
+      {
+        "name": "體力PASS",
+        "price": 150
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/PandolandTW/",
+      "官方網站": "https://www.facebook.com/PandolandTW/",
+      "禮包碼": "gift-codes.html?game=潘多蘭島",
+      "App Store": "https://apps.apple.com/tw/app/%E6%BD%98%E5%A4%9A%E8%98%AD%E5%B3%B6-pandoland/id6474245208",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80540"
+    },
+    "description": "以被稱為「潘多蘭島(PANDOLAND)」的廣闊未開之地為舞台，化身為探險隊隊長，開啟一場尋找傳說秘寶的旅行式輕鬆冒險RPG ！ 快來蒐集夥伴和寶物、強化你的隊伍、持續開拓未知的新大陸！ 遊戲的舞台是充滿未知領域的神秘世界。 玩家可以自由探索任何引起好奇的地方。"
+  },
+  "電鋸果汁大亂鬥": {
+    "logo": "images/電鋸果汁大亂鬥.jpg",
+    "products": [
+      {
+        "name": "12000鑽石",
+        "price": 2659
+      },
+      {
+        "name": "5000鑽石",
+        "price": 1385
+      },
+      {
+        "name": "2000鑽石",
+        "price": 557
+      },
+      {
+        "name": "900鑽石",
+        "price": 274
+      },
+      {
+        "name": "400鑽石",
+        "price": 150
+      },
+      {
+        "name": "去廣告禮包",
+        "price": 324
+      },
+      {
+        "name": "VIP禮包",
+        "price": 266
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/1329277748069412/posts/1329278518069335/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.loadcomplete.aichainsaw&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=電鋸果汁大亂鬥",
+      "App Store": "https://apps.apple.com/tw/app/%E9%9B%BB%E9%8B%B8%E6%9E%9C%E6%B1%81%E5%A4%A7%E4%BA%82%E9%AC%A5/id6450706268",
+      "巴哈姆特": "https://play.google.com/store/apps/details?id=com.loadcomplete.aichainsaw&hl=zh_TW"
+    },
+    "description": "電鋸果汁大亂鬥是一款獨特的大亨遊戲，玩家使用鏈鋸捕捉逃跑的水果，並銷售美味的果汁！ ▶ 果汁店成功的秘密在於電鋸升級你的電鋸，開始果實狩獵！ 但要小心，有時會出現強大的水果！"
+  },
+  "風色幻想NeXus": {
+    "logo": "images/風色幻想NeXus.jpg",
+    "products": [
+      {
+        "name": "6000幻月石",
+        "price": 2659
+      },
+      {
+        "name": "2980幻月石",
+        "price": 1385
+      },
+      {
+        "name": "2000幻月石",
+        "price": 812
+      },
+      {
+        "name": "1000幻月石",
+        "price": 407
+      },
+      {
+        "name": "300幻月石",
+        "price": 150
+      },
+      {
+        "name": "祭風呢喃",
+        "price": 557
+      },
+      {
+        "name": "風華星輝",
+        "price": 274
+      },
+      {
+        "name": "寶窟之鑰",
+        "price": 150
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/wfnx.gameflier/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.gameflier.wfnx.google",
+      "禮包碼": "gift-codes.html?game=風色幻想NeXus",
+      "App Store": "https://apps.apple.com/tw/app/%E9%A2%A8%E8%89%B2%E5%B9%BB%E6%83%B3nexus/id6505138043",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=74346"
+    },
+    "description": "由遊戲新幹線代理，弘煜科技開發的國產二次元手機遊戲《風色幻想 NeXus》於今（24）日正式上線，官方首度公開 1.0 版本「祭風之約 奏鳴序曲」上市版本內容，主線劇情「奇蹟聖典」篇由風色幻想歷代英雄及十位 VTuber 共同出演，同時將推出「浠 Mizuki」、「 汐 Seki」、「 響 Hibiki 」、「KSP」四名角色，以及釋出由 VTuber「DIKA 豚足姬」演唱的劇情插入曲「赤色的薔薇」，玩家登入遊戲就能領取數名 SSR 角色以及百抽福利。"
+  },
+  "星河訣愛": {
+    "logo": "images/星河訣愛.jpg",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2659
+      },
+      {
+        "name": "3280元寶",
+        "price": 1385
+      },
+      {
+        "name": "1980元寶",
+        "price": 812
+      },
+      {
+        "name": "1280元寶",
+        "price": 557
+      },
+      {
+        "name": "680元寶",
+        "price": 274
+      },
+      {
+        "name": "300元寶",
+        "price": 150
+      },
+      {
+        "name": "60元寶",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/CelestiaSaga/",
+      "官方網站": "https://www.facebook.com/CelestiaSaga/",
+      "禮包碼": "gift-codes.html?game=星河訣愛",
+      "App Store": "https://apps.apple.com/tw/app/%E5%BE%A1%E5%8A%8D-%E6%98%9F%E6%B2%B3%E8%A8%A3%E6%84%9B/id6742213780",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82525"
+    },
+    "description": "由Ori Wish Limited 打造的唯美玄幻MMO《星河訣愛》宣布，邀請禾羽Kimi 首都擔任遊戲中的「星之女神」，重新出發。 官方表示，她將化身為星河中的守護者，掌管星辰之力，冷豔高貴，擁有操控星光的無上法力，引領天命者們揭開宿命之謎，重鑄「星羽」，讓愛與光明永耀星河。"
+  },
+  "kingshot": {
+    "logo": "images/kingshot.jpg",
+    "products": [
+      {
+        "name": "50000鑽石",
+        "price": 2674
+      },
+      {
+        "name": "25000鑽石",
+        "price": 1393
+      },
+      {
+        "name": "10000鑽石",
+        "price": 560
+      },
+      {
+        "name": "5000鑽石",
+        "price": 276
+      },
+      {
+        "name": "2500鑽石",
+        "price": 150
+      },
+      {
+        "name": "500鑽石",
+        "price": 30
+      },
+      {
+        "name": "超值月卡",
+        "price": 275
+      },
+      {
+        "name": "時間周卡",
+        "price": 150
+      },
+      {
+        "name": "建造列隊",
+        "price": 90
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/Kingshot-61560003321785/",
+      "官方網站": "https://www.facebook.com/p/Kingshot-61560003321785/",
+      "禮包碼": "gift-codes.html?game=kingshot",
+      "App Store": "https://apps.apple.com/tw/app/kingshot/id6739554056",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82382"
+    },
+    "description": "《Kingshot》是一款結合策略和放置的中世紀生存遊戲。 玩法獨特、細節豐富，等你來探索！ 一場突如其來的叛亂，改變了整個王朝的命運，隨之而起的戰爭令無數人失去了賴以生存的家園。"
+  },
+  "胡鬧地牢": {
+    "logo": "images/胡鬧地牢.jpg",
+    "products": [
+      {
+        "name": "8100鑽石",
+        "price": 2442
+      },
+      {
+        "name": "3950鑽石",
+        "price": 1234
+      },
+      {
+        "name": "1120鑽石",
+        "price": 413
+      },
+      {
+        "name": "320鑽石",
+        "price": 137
+      },
+      {
+        "name": "60鑽石",
+        "price": 27
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100083532752206/posts/%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5%E8%83%A1%E9%AC%A7%E5%9C%B0%E7%89%A2-line%E8%A8%8E%E8%AB%96%E7%BE%A4httpsreurlccre3b71%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5%E8%83%A1%E9%AC%A7%E5%9C%B0%E7%89%A2-fb%E8%A8%8E%E8%AB%96%E7%BE%A4httpswwwfacebookcomgroups2629931/660847423376344/",
+      "官方網站": "https://www.facebook.com/Wittle.Defender.HMT/",
+      "禮包碼": "gift-codes.html?game=胡鬧地牢",
+      "App Store": "https://apps.apple.com/tw/app/%E8%83%A1%E9%AC%A7%E5%9C%B0%E7%89%A2/id6502815032",
+      "巴哈姆特": "https://forum.gamer.com.tw/C.php?bsn=82709&snA=6"
+    },
+    "description": "《胡鬧地牢》是一款融合塔防+ Roguelike + 卡牌策略的遊戲，玩家將化身地牢指揮官來組合技能各異的英雄小隊，用千奇百怪的戰術擊潰怪物狂潮，發現隱藏的寶藏。 官方表示，《胡鬧地牢》強調簡單上手輕鬆操作，自動戰鬥模式解放玩家雙手，輕鬆享受遊戲樂趣、零門檻感受策略精髓。"
+  },
+  "小小軍團-重生": {
+    "logo": "images/小小軍團-重生.jpg",
+    "products": [
+      {
+        "name": "3240紅鑽",
+        "price": 2442
+      },
+      {
+        "name": "1640紅鑽",
+        "price": 1234
+      },
+      {
+        "name": "640紅鑽",
+        "price": 582
+      },
+      {
+        "name": "340紅鑽",
+        "price": 270
+      },
+      {
+        "name": "150紅鑽",
+        "price": 137
+      },
+      {
+        "name": "30紅鑽",
+        "price": 27
+      },
+      {
+        "name": "超級月卡",
+        "price": 270
+      },
+      {
+        "name": "精品月卡",
+        "price": 137
+      },
+      {
+        "name": "成長禮包",
+        "price": 413
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/AnichiHK/posts/-%E9%BE%8D%E7%A5%9E%E5%BC%B7%E5%8B%A2%E5%9B%9E%E6%AD%B8%E9%82%B1%E7%A6%8F%E9%BE%8D%E7%B0%BD%E6%9B%B8%E6%9C%83%E9%A6%96%E7%99%BBanichi%E5%8B%95%E6%BC%AB%E4%B8%80%E7%95%AA%E8%A1%97-%E7%B6%93%E5%85%B8%E9%A6%99%E6%B8%AF%E6%BC%AB%E7%95%AB%E9%BE%8D%E7%A5%9E32%E5%B9%B4%E5%BE%8C%E5%86%8D%E5%BA%A6%E5%95%8F%E4%B8%96-%E7%8F%BE%E5%A0%B4%E9%99%90%E9%87%8F%E7%99%BC%E5%94%AE%E9%87%8D%E7%A3%85%E5%8E%9F%E7%A8%BF%E9%9B%86%E5%A5%97%E8%A3%9D%E9%A6%99%E6%B8%AF%E6%AE%BF%E5%A0%82%E7%B4%9A%E6%BC%AB%E7%95%AB%E5%AE%B6%E9%82%B1%E7%A6%8F%E9%BE%8D%E5%B0%87%E6%96%BC%E7%B0%BD%E6%9B%B8%E6%9C%83%E7%8F%BE%E8%BA%ABanich/122186603258166529/",
+      "官方網站": "https://www.taptap.cn/app/8745/topic",
+      "禮包碼": "gift-codes.html?game=小小軍團-重生",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%8F%E5%B0%8F%E8%BB%8D%E5%9C%98-%E7%8E%8B%E6%9C%9D/id1605728047",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=24814"
+    },
+    "description": "《小小軍團重生》是一款引人視覺勝出的策略遊戲，在玩法上進行了全面的革新。遊戲為玩家帶來了高清畫質、流暢的動畫和姿勢的特效，使戰鬥場景更加生動。除了重新設計的戰場視角，遊戲還引入了國防部型的陣型和龐大的軍團陣型"
+  },
+  "爪爪遠征": {
+    "logo": "images/爪爪遠征.jpg",
+    "products": [
+      {
+        "name": "99000寶石",
+        "price": 1232
+      },
+      {
+        "name": "49000寶石",
+        "price": 818
+      },
+      {
+        "name": "29000寶石",
+        "price": 578
+      },
+      {
+        "name": "9900寶石",
+        "price": 185
+      },
+      {
+        "name": "4400寶石",
+        "price": 83
+      },
+      {
+        "name": "1500寶石",
+        "price": 28
+      },
+      {
+        "name": "移除廣告月票",
+        "price": 185
+      },
+      {
+        "name": "額外金幣月票",
+        "price": 185
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/photo.php?fbid=10158753246712230&id=218359782229&set=a.10150904765627230",
+      "官方網站": "https://www.facebook.com/100064014759876/posts/%E7%88%AA%E7%88%AA%E9%81%A0%E5%BE%81-%E6%94%BE%E7%BD%AE-rpg-paw-crusaders-idle-rpg-%E5%8F%AF%E6%84%9B%E5%8B%95%E7%89%A9%E6%93%AC%E4%BA%BA%E5%8C%96%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A2%A8%E6%A0%BC-%E8%BC%95%E9%AC%86%E6%94%BE%E7%BD%AE%E7%9A%84%E5%A5%87%E5%B9%BB-rpg-%E9%9B%A2%E7%B7%9A%E6%8E%9B%E6%A9%9F-%E8%BC%95%E9%AC%86%E8%AE%8A%E5%BC%B7-%E6%89%93%E9%80%A0%E4%BD%A0%E7%9A%84%E5%B0%88%E5%B1%AC%E5%8B%95%E7%89%A9%E6%88%B0%E5%A3%AB/1125223029621512/",
+      "禮包碼": "gift-codes.html?game=爪爪遠征",
+      "App Store": "https://apps.apple.com/tw/app/%E9%A3%9B%E9%BE%8D%E5%A4%A7%E4%BA%A8-idle-dragon-tycoon/id1535191407",
+      "巴哈姆特": "https://home.gamer.com.tw/creationDetail.php?sn=6107559"
+    },
+    "description": "《爪爪遠征》是一款輕鬆放置的奇幻RPG。 作為森林聯盟的指揮官，你將集結一眾獨具特色與強大能力的英雄夥伴，打造屬於你的最強小隊，靈活搭配英雄陣容，帶領他們對抗異教徒的入侵。 探索神秘世界、揭開遠古靈魂的秘密，並捍衛雅菲莉亞的和平！ 踏上一場充滿勇氣與冒險的奇幻史詩！"
+  },
+  "勇士團團轉": {
+    "logo": "images/勇士團團轉.jpg",
+    "products": [
+      {
+        "name": "660鑽石",
+        "price": 578
+      },
+      {
+        "name": "280鑽石",
+        "price": 269
+      },
+      {
+        "name": "金幣禮包",
+        "price": 110
+      },
+      {
+        "name": "新手禮包",
+        "price": 83
+      },
+      {
+        "name": "VIP禮包",
+        "price": 411
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/3300890620158851/",
+      "官方網站": "https://home.gamer.com.tw/artwork.php?sn=6122815",
+      "禮包碼": "gift-codes.html?game=勇士團團轉",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8B%87%E5%A3%AB%E5%9C%98%E5%9C%98%E8%BD%89/id6737821799",
+      "巴哈姆特": "https://www.facebook.com/groups/3300890620158851/"
+    },
+    "description": "《勇士團團轉》是一款以骰子為核心的戰鬥遊戲。 玩家需要轉動骰子，並根據骰子的點數來進行移動、戰鬥和觸發各種事件。 遊戲中，玩家需要兼顧戰略思考和運氣，才能在棋盤上取得優勢，讓勇士不斷成長。"
+  },
+  "魁 三國志大戰": {
+    "logo": "images/魁 三國志大戰.jpg",
+    "products": [
+      {
+        "name": "6000魁玉",
+        "price": 1622
+      },
+      {
+        "name": "3000魁玉",
+        "price": 818
+      },
+      {
+        "name": "1600魁玉",
+        "price": 411
+      },
+      {
+        "name": "300魁玉",
+        "price": 83
+      },
+      {
+        "name": "100魁玉",
+        "price": 28
+      },
+      {
+        "name": "戰鬥通行證",
+        "price": 110
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/b3k.zh/",
+      "官方網站": "https://www.facebook.com/b3k.zh/",
+      "禮包碼": "gift-codes.html?game=魁 三國志大戰",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AD%81-%E4%B8%89%E5%9C%8B%E5%BF%97%E5%A4%A7%E6%88%B0/id6742077940",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80626"
+    },
+    "description": "《魁三國志大戰》是由double jump.tokyo 取得SEGA《三國志大戰》授權，開發的軍勢卡牌對戰遊戲。 遊戲中除了有街機版《三國志大戰》的武將外，還加入了專為《魁三國志大戰》繪製的新角色。 遊戲支援PC、Android 和iOS 平台，並提供日文、英文和繁體中文。 本作於2025年3月25日正式上線。"
+  },
+  "tokyo beast": {
+    "logo": "images/tokyo beast.jpg",
+    "products": [
+      {
+        "name": "10000珠寶",
+        "price": 2414
+      },
+      {
+        "name": "6300珠寶",
+        "price": 1622
+      },
+      {
+        "name": "4700珠寶",
+        "price": 1232
+      },
+      {
+        "name": "3100珠寶",
+        "price": 818
+      },
+      {
+        "name": "2000珠寶",
+        "price": 578
+      },
+      {
+        "name": "1000珠寶",
+        "price": 269
+      },
+      {
+        "name": "500珠寶",
+        "price": 138
+      },
+      {
+        "name": "300珠寶",
+        "price": 83
+      },
+      {
+        "name": "100珠寶",
+        "price": 28
+      },
+      {
+        "name": "開服紀念10+1連轉蛋券*10",
+        "price": 2414
+      },
+      {
+        "name": "開服紀念BEAST CHOICE券",
+        "price": 818
+      }
+    ],
+    "social": {
+      "Facebook": "https://m.facebook.com/people/TOKYO-BEAST/61574146102845/",
+      "官方網站": "https://gnn.gamer.com.tw/detail.php?sn=285683",
+      "禮包碼": "gift-codes.html?game=tokyo beast",
+      "App Store": "https://apps.apple.com/tw/app/id6737019483?at=1010l3Vj&ct=GNN",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=286846"
+    },
+    "description": "官方表示，《TOKYO BEAST》是使用區塊鏈技術，為傳統遊戲加上投注要素，以實現一攫千金的狂熱體驗的新作遊戲。 遊戲背景設定在2124 年的東京，擁有自我意志、被稱為複製人的人造人變得普及，人類利用他們謀取非法所得過著富足的生活。"
+  },
+  "切換英雄：放置型RPG": {
+    "logo": "images/切換英雄放置型RPG.jpg",
+    "products": [
+      {
+        "name": "198000寶石",
+        "price": 1867
+      },
+      {
+        "name": "128000寶石",
+        "price": 1232
+      },
+      {
+        "name": "78000寶石",
+        "price": 818
+      },
+      {
+        "name": "38000寶石",
+        "price": 327
+      },
+      {
+        "name": "19800寶石",
+        "price": 185
+      },
+      {
+        "name": "9800寶石",
+        "price": 110
+      },
+      {
+        "name": "去廣告禮包",
+        "price": 185
+      },
+      {
+        "name": "每月副本禮包",
+        "price": 818
+      },
+      {
+        "name": "每周加速禮包",
+        "price": 578
+      },
+      {
+        "name": "每周390禮包",
+        "price": 327
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/permalink.php/?story_fbid=1064030819074067&id=100064014759876",
+      "官方網站": "https://www.facebook.com/100064014759876/posts/%E5%88%87%E6%8F%9B%E8%8B%B1%E9%9B%84-%E6%94%BE%E7%BD%AE%E5%9E%8Brpg-5%E6%9C%8822%E6%97%A5%E6%9B%B4%E6%96%B0-switching-heroes-idle-rpg-%E8%B6%85%E9%AB%98%E5%93%81%E8%B3%AA%E7%95%AB%E9%9D%A2%E6%89%93%E6%93%8A%E6%84%9F%E8%B6%85%E7%88%BD%E7%9A%84%E6%88%B0%E9%AC%A5-%E7%A6%AE%E5%8C%85%E7%A2%BCsh777-%E7%B2%BE%E7%BE%8E%E8%A7%92%E8%89%B2%E8%A8%AD%E8%A8%88-%E7%B0%A1%E5%96%AE%E6%93%8D/1149348033875678/",
+      "禮包碼": "gift-codes.html?game=切換英雄：放置型RPG",
+      "App Store": "https://apps.apple.com/tw/app/%E5%88%87%E6%8F%9B%E8%8B%B1%E9%9B%84-%E6%94%BE%E7%BD%AE%E5%9E%8Brpg/id6473819116",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=71873"
+    },
+    "description": "《切換英雄：放置型RPG》是一款放置型角色扮演遊戲，主打離線也能持續成長的特色。 玩家可以自由搭配不同職業的英雄，打造專屬戰隊，並透過強化裝備和養成英雄來提升戰鬥力。 遊戲中包含多種玩法，如PVE副本、PVP對戰和公會戰等，讓玩家在輕鬆遊玩的同時也能享受豐富的遊戲內容。"
+  },
+  "小死神傳奇": {
+    "logo": "images/小死神傳奇.jpg",
+    "products": [
+      {
+        "name": "50000血石",
+        "price": 2011
+      },
+      {
+        "name": "24300血石",
+        "price": 1066
+      },
+      {
+        "name": "4400血石",
+        "price": 244
+      },
+      {
+        "name": "2140血石",
+        "price": 110
+      },
+      {
+        "name": "420血石",
+        "price": 28
+      },
+      {
+        "name": "790禮包",
+        "price": 653
+      },
+      {
+        "name": "290禮包",
+        "price": 244
+      },
+      {
+        "name": "120禮包",
+        "price": 110
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Littleicelegend/posts/%E8%A6%AA%E6%84%9B%E7%9A%84%E9%9A%8A%E9%95%B7%E5%80%91%E5%A4%A7%E5%AE%B6%E5%A5%BD%E9%80%99%E8%A3%A1%E6%98%AF%E5%B0%8F%E5%86%B0%E5%86%B0%E5%82%B3%E5%A5%87%E5%9B%9E%E5%88%B0%E6%9C%80%E5%88%9D%E7%9A%84%E9%81%8B%E7%87%9F%E5%9C%98%E9%9A%8A%E5%BE%88%E6%8A%B1%E6%AD%89%E8%A6%81%E5%90%91%E5%A4%A7%E5%AE%B6%E5%82%B3%E9%81%9E%E4%B8%80%E5%80%8B%E4%BB%A4%E4%BA%BA%E9%81%BA%E6%86%BE%E7%9A%84%E8%A8%8A%E6%81%AF%E5%8E%9F%E5%AE%9A%E6%96%BC12%E6%9C%885%E6%97%A5%E4%B8%8B%E5%8D%881%E9%BB%9E%E9%96%8B%E5%95%9F%E7%9A%84%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%9B%A0%E7%89%B9%E6%AE%8A%E5%8E%9F%E5%9B%A0%E7%84%A1%E6%B3%95%E5%A6%82%E6%9C%9F%E9%96%8B%E6%94%BE%E5%84%98%E7%AE%A1%E5%86%B0%E9%86%AC%E5%BE%88%E5%8A%AA%E5%8A%9B/1149707397161103/",
+      "官方網站": "https://acg.gamer.com.tw/acgDetail.php?s=145114",
+      "禮包碼": "gift-codes.html?game=小死神傳奇",
+      "App Store": "https://apps.apple.com/tw/developer/daeri-soft/id414170559",
+      "巴哈姆特": "https://acg.gamer.com.tw/acgDetail.php?s=145114"
+    },
+    "description": "《小死神傳奇》放置遊戲的始祖，培養死神的全新故事！比培養死神時代更早的序章，小死神傳奇！請安全地培養剛轉生後脆弱的小小死神！"
+  },
+  "闇影詩章：凌越世界": {
+    "logo": "images/闇影詩章凌越世界.jpg",
+    "products": [
+      {
+        "name": "5000水晶",
+        "price": 1948
+      },
+      {
+        "name": "2350水晶",
+        "price": 984
+      },
+      {
+        "name": "1400水晶",
+        "price": 620
+      },
+      {
+        "name": "920水晶",
+        "price": 419
+      },
+      {
+        "name": "450水晶",
+        "price": 210
+      },
+      {
+        "name": "220水晶",
+        "price": 115
+      },
+      {
+        "name": "60水晶",
+        "price": 32
+      },
+      {
+        "name": "牌組速成禮包",
+        "price": 984
+      },
+      {
+        "name": "新手禮包",
+        "price": 419
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/shadowverse.tw/",
+      "官方網站": "https://gnn.gamer.com.tw/detail.php?sn=286047",
+      "禮包碼": "gift-codes.html?game=闇影詩章：凌越世界",
+      "App Store": "https://apps.apple.com/tw/app/shadowverse-worlds-beyond/id6472019540",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=29330"
+    },
+    "description": "由 Cygames 所推出之新世代數位卡片遊戲《闇影詩章：凌越世界》，在卡片對戰上有著簡易規則卻\n又富含深奧戰略，並透過新增「超進化」、「闇影詩章樂園」等新要素及新內容，從原先的《闇影詩章 Shadowverse》昇華成了一款更具趣味性的線上對戰型數位卡片遊戲。"
+  },
+  "雪月風花": {
+    "logo": "images/雪月風花.jpg",
+    "products": [
+      {
+        "name": "6480珍珠",
+        "price": 2567
+      },
+      {
+        "name": "3280珍珠",
+        "price": 1331
+      },
+      {
+        "name": "1980珍珠",
+        "price": 791
+      },
+      {
+        "name": "1280珍珠",
+        "price": 543
+      },
+      {
+        "name": "680珍珠",
+        "price": 268
+      },
+      {
+        "name": "300珍珠",
+        "price": 138
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/LMeblade/",
+      "官方網站": "https://home.gamer.com.tw/artwork.php?sn=6163550",
+      "禮包碼": "gift-codes.html?game=雪月風花",
+      "App Store": "https://apps.apple.com/tw/app/%E9%9B%AA%E6%9C%88%E9%A2%A8%E8%8A%B1-eternal-blade/id6744101859",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=83057"
+    },
+    "description": "《雪月風花：Eternal Blade》的故事設定在「雪月鏡」墜裂三界屏障之際，玩家將以卡牌為契，駕馭天律與凡俗戰場，親手重寫三界規則。遊戲美術由韓國團隊操刀，採用 Live2D 技術打造動態神將覺醒效果，配合百種陣營形態切換，呈現出史詩級的韓系美學幻想畫面。"
+  },
+  "文明帝國：同盟時代": {
+    "logo": "images/文明帝國同盟時代.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2567
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1331
+      },
+      {
+        "name": "1980鑽石",
+        "price": 791
+      },
+      {
+        "name": "1280鑽石",
+        "price": 543
+      },
+      {
+        "name": "300鑽石",
+        "price": 138
+      },
+      {
+        "name": "基金",
+        "price": 268
+      },
+      {
+        "name": "榮耀月卡",
+        "price": 138
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/CivErasAndAlliesTW/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.t2k.prometheusroa&hl=zh_HK",
+      "禮包碼": "gift-codes.html?game=文明帝國：同盟時代",
+      "App Store": "https://apps.apple.com/tw/app/%E6%96%87%E6%98%8E%E5%B8%9D%E5%9C%8B-%E5%90%8C%E7%9B%9F%E6%99%82%E4%BB%A3/id1617124341",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79696"
+    },
+    "description": "《文明帝國：同盟時代》基於策略遊戲《文明帝國》系列研發，提供玩家無限的探索與戰鬥的可能性。遊戲中，玩家可以親身體驗到探索的樂趣，揭開神秘世界的面紗；感受擴張領土的刺激，建立強大的文明；享受開發資源的成就感，推動文明的發展；以及體驗征服敵人的快感，展現策略與智慧。"
+  },
+  "魔法商店大亨": {
+    "logo": "images/魔法商店大亨.jpg",
+    "products": [
+      {
+        "name": "500寶石",
+        "price": 559
+      },
+      {
+        "name": "300寶石",
+        "price": 397
+      },
+      {
+        "name": "150寶石",
+        "price": 236
+      },
+      {
+        "name": "90寶石",
+        "price": 133
+      },
+      {
+        "name": "50寶石",
+        "price": 80
+      },
+      {
+        "name": "30寶石",
+        "price": 53
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/214123035067318/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.chamelio.magicraft&hl=zh_HK",
+      "禮包碼": "gift-codes.html?game=魔法商店大亨",
+      "App Store": "https://apps.apple.com/tw/app/%E8%A3%BD%E4%BD%9C%E9%AD%94%E6%B3%95-%E5%90%88%E6%88%90%E5%A4%A7%E4%BA%A8/id6450827276",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=274899"
+    },
+    "description": "成為魔法世界的連鎖店商業大亨！ 準備好在魔法世界建造屬於你的商業帝國了嗎？瞭解商場經營的一切，從搬運鋪貨到擺放貨架，甚至培訓新的喵喵員工！"
+  },
+  "新仙劍奇俠傳lite": {
+    "logo": "images/新仙劍奇俠傳lite.jpg",
+    "products": [
+      {
+        "name": "648玉龍",
+        "price": 2450
+      },
+      {
+        "name": "328玉龍",
+        "price": 1328
+      },
+      {
+        "name": "198玉龍",
+        "price": 808
+      },
+      {
+        "name": "98玉龍",
+        "price": 437
+      },
+      {
+        "name": "50玉龍",
+        "price": 273
+      },
+      {
+        "name": "30玉龍",
+        "price": 137
+      },
+      {
+        "name": "8玉龍",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/NCPSAF/",
+      "官方網站": "https://gnn.gamer.com.tw/detail.php?sn=287546",
+      "禮包碼": "gift-codes.html?game=新仙劍奇俠傳lite",
+      "App Store": "https://apps.apple.com/tw/app/%E6%96%B0%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3lite/id6741674989",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=83046"
+    },
+    "description": "由《仙劍奇俠傳》系列正版授權卡牌RPG 手機遊戲《新仙劍奇俠傳Lite》今（20）日宣布正式上市。 官方表示，《新仙劍奇俠傳Lite》集結歷代經典角色，一場全新的仙劍之旅即將到來。"
+  },
+  "神州M": {
+    "logo": "images/神州M.jpg",
+    "products": [
+      {
+        "name": "8250金元寶",
+        "price": 2333
+      },
+      {
+        "name": "3550金元寶",
+        "price": 1030
+      },
+      {
+        "name": "2170金元寶",
+        "price": 631
+      },
+      {
+        "name": "795金元寶",
+        "price": 236
+      },
+      {
+        "name": "355金元寶",
+        "price": 115
+      },
+      {
+        "name": "90金元寶",
+        "price": 29
+      },
+      {
+        "name": "2990禮包",
+        "price": 2333
+      },
+      {
+        "name": "1290禮包",
+        "price": 1030
+      },
+      {
+        "name": "790禮包",
+        "price": 631
+      },
+      {
+        "name": "290禮包",
+        "price": 236
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/szm.ujgame/",
+      "官方網站": "https://www.facebook.com/szm.ujgame/",
+      "禮包碼": "gift-codes.html?game=神州M",
+      "App Store": "https://apps.apple.com/tw/app/%E7%A5%9E%E5%B7%9Em/id1617979084",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=75470"
+    },
+    "description": "《神州M》的核心系統玩法為「武魂」、「降神」及「封獸」，此三大系統為玩家的俠客之旅提供了更多戰力提升及玩法策略變化。 「武魂系統」是玩家提升戰力的重要依據，透過任務、活動或召喚獲得後，可啟用武魂變身並針對戰局變化靈活切換能力，透過合成、暫存與收藏，打造專屬於俠士的武魂圖鑑與外觀風格。"
+  },
+  "英雄傳說：卡卡布三部曲": {
+    "logo": "images/英雄傳說卡卡布三部曲.jpg",
+    "products": [
+      {
+        "name": "5400藍色石榴石",
+        "price": 2333
+      },
+      {
+        "name": "3000藍色石榴石",
+        "price": 1190
+      },
+      {
+        "name": "1200藍色石榴石",
+        "price": 543
+      },
+      {
+        "name": "600藍色石榴石",
+        "price": 268
+      },
+      {
+        "name": "240藍色石榴石",
+        "price": 115
+      },
+      {
+        "name": "60藍色石榴石",
+        "price": 29
+      },
+      {
+        "name": "普通石榴石月卡",
+        "price": 138
+      },
+      {
+        "name": "高級石榴石月卡",
+        "price": 268
+      },
+      {
+        "name": "奢華石榴石月卡",
+        "price": 543
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/legendofheroes.tw/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.hg.legendofheroes.gl",
+      "禮包碼": "gift-codes.html?game=英雄傳說：卡卡布三部曲",
+      "App Store": "https://apps.apple.com/tw/app/%E8%8B%B1%E9%9B%84%E5%82%B3%E8%AA%AA-%E5%8D%A1%E5%8D%A1%E5%B8%83%E4%B8%89%E9%83%A8%E6%9B%B2/id6740768121",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=80736"
+    },
+    "description": "卡卡布三部曲是頗具規模的虛構故事，三段故事分別發生於同一塊大陸、卻互相隔離的三個區域，但故事間又彼此互有關連。 穿越南北的大地的裂縫「卡卡布」，延伸至南邊橫亙東西向的險峻巨大山脈「大蛇的背骨」，兩者相連將三部作品的舞台完全隔絕。"
+  },
+  "胡來英雄": {
+    "logo": "images/胡來英雄.jpg",
+    "products": [
+      {
+        "name": "6000鑽石",
+        "price": 2567
+      },
+      {
+        "name": "3000鑽石",
+        "price": 1331
+      },
+      {
+        "name": "1800鑽石",
+        "price": 791
+      },
+      {
+        "name": "1200鑽石",
+        "price": 543
+      },
+      {
+        "name": "600鑽石",
+        "price": 268
+      },
+      {
+        "name": "300鑽石",
+        "price": 138
+      },
+      {
+        "name": "60鑽石",
+        "price": 29
+      },
+      {
+        "name": "成長基金",
+        "price": 268
+      },
+      {
+        "name": "戰役基金",
+        "price": 268
+      },
+      {
+        "name": "幻塔基金",
+        "price": 543
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100083532752206/posts/%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5darkest-days-%E6%9A%97%E5%A4%9C%E7%B5%95%E6%9C%9B-line%E8%A8%8E%E8%AB%96%E7%BE%A4httpsreurlccrelbex%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5darkest-days-%E6%9A%97%E5%A4%9C%E7%B5%95%E6%9C%9B-fb%E8%A8%8E%E8%AB%96%E7%BE%A4httpsw/649532227841197/",
+      "官方網站": "https://home.gamer.com.tw/artwork.php?sn=6163672",
+      "禮包碼": "gift-codes.html?game=胡來英雄",
+      "App Store": "https://apps.apple.com/tw/app/%E8%83%A1%E4%BE%86%E8%8B%B1%E9%9B%84holy/id6746028316",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=83060"
+    },
+    "description": "親愛的勇者，歡迎進入「胡來國度」！在混沌與秩序交織的「胡來國度」，一場不明危機正悄然蔓延——天空撕裂出詭異的暗影裂隙，大地滋生腐化的魔物，古老的預言警示著末日的臨近。作為被「淨土水晶」選中的勇者，你將從邊陲小鎮出發，集結性格各異的英雄：叛逆的森林精靈、狂熱的機械魔物、英勇的天神戰士……他們或因信念，或因利益，與你共同踏上征程。"
+  },
+  "一天又一天的RPG": {
+    "logo": "images/一天又一天的RPG.jpg",
+    "products": [
+      {
+        "name": "648代金券",
+        "price": 2567
+      },
+      {
+        "name": "448代金券",
+        "price": 1804
+      },
+      {
+        "name": "328代金券",
+        "price": 1331
+      },
+      {
+        "name": "198代金券",
+        "price": 791
+      },
+      {
+        "name": "128代金券",
+        "price": 543
+      },
+      {
+        "name": "98代金券",
+        "price": 397
+      },
+      {
+        "name": "30代金券",
+        "price": 138
+      },
+      {
+        "name": "18代金券",
+        "price": 89
+      },
+      {
+        "name": "12代金券",
+        "price": 62
+      },
+      {
+        "name": "6代金券",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://play.google.com/store/apps/details?id=com.hermes.latmnq",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.hermes.latmnq",
+      "禮包碼": "gift-codes.html?game=一天又一天的RPG",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%80%E5%A4%A9%E5%8F%88%E4%B8%80%E5%A4%A9%E7%9A%84rpg/id6738979426",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=286297"
+    },
+    "description": "《一天又一天的RPG》以「日復一日」的冒險旅程為主題，玩家將在像素世界中扮演主角，透過每日選擇影響角色成長、觸發各種奇遇事件，體驗多重結局與人生百態。 遊戲結合輕鬆放置與策略養成，無論是休閒玩家還是喜愛深度劇情的冒險者，都能找到屬於自己的樂趣。"
+  },
+  "銀與血": {
+    "logo": "images/銀與血.jpg",
+    "products": [
+      {
+        "name": "6200枚月之啼",
+        "price": 2099
+      },
+      {
+        "name": "4200枚月之啼",
+        "price": 1410
+      },
+      {
+        "name": "2300枚月之啼",
+        "price": 791
+      },
+      {
+        "name": "1500枚月之啼",
+        "price": 543
+      },
+      {
+        "name": "720枚月之啼",
+        "price": 268
+      },
+      {
+        "name": "320枚月之啼",
+        "price": 138
+      },
+      {
+        "name": "新月盟約",
+        "price": 138
+      },
+      {
+        "name": "滿月盟約",
+        "price": 397
+      },
+      {
+        "name": "同行見證",
+        "price": 543
+      },
+      {
+        "name": "管家的心意",
+        "price": 268
+      },
+      {
+        "name": "新月之示",
+        "price": 397
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/silverandbloodtwofficial/",
+      "官方網站": "https://www.facebook.com/silverandbloodtwofficial/",
+      "禮包碼": "gift-codes.html?game=銀與血",
+      "App Store": "https://apps.apple.com/tw/app/%E9%8A%80%E8%88%87%E8%A1%80/id6743625615",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78952"
+    },
+    "description": "官方指出，《銀與血》集多元玩法於一身：命運絲線牽引，揭開扣人心弦的劇情；獵殺之夜降臨，強化你的忠誠眷屬；鮮血鬥技場中，與他人一決高下；月暮之城重鑄，成為運籌帷幄的領主。上線期間官方同步攜手多位人氣實況主展開實況試玩活動，全方位解析《銀與血》玩法亮點，助力領主們撰寫屬於自己的勝利史詩。"
+  },
+  "緋石之心": {
+    "logo": "images/緋石之心.jpg",
+    "products": [
+      {
+        "name": "5980金鑽",
+        "price": 2333
+      },
+      {
+        "name": "2980金鑽",
+        "price": 1190
+      },
+      {
+        "name": "1980金鑽",
+        "price": 791
+      },
+      {
+        "name": "1380金鑽",
+        "price": 559
+      },
+      {
+        "name": "660金鑽",
+        "price": 268
+      },
+      {
+        "name": "300金鑽",
+        "price": 133
+      },
+      {
+        "name": "60金鑽",
+        "price": 27
+      },
+      {
+        "name": "標準月卡",
+        "price": 133
+      },
+      {
+        "name": "豪華月卡",
+        "price": 268
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/BraveHeartsTW/",
+      "官方網站": "https://apps.apple.com/cn/app/%E7%BB%AF%E7%9F%B3%E4%B9%8B%E5%BF%83-%E5%93%A5%E7%89%B9%E9%A3%8E%E9%AD%94%E5%B9%BB%E6%97%A0%E5%BA%9F%E5%8D%A1%E6%94%BE%E7%BD%AE%E6%89%8B%E6%B8%B8/id1553031272",
+      "禮包碼": "gift-codes.html?game=緋石之心",
+      "App Store": "https://apps.apple.com/tw/app/%E7%B7%8B%E7%9F%B3%E4%B9%8B%E5%BF%83-brave-hearts/id6745466291",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=286045"
+    },
+    "description": "《緋石之心》以濃厚的哥德藝術風格和末世奇幻世界觀為核心，講述在「神罰」降臨後，失憶的「醫生」將如何踏上覺醒之旅，尋找名為「緋石之心」的神秘力量，重啟文明與秩序。宏大的世界觀、超過 5,000 條主線文本、15 種以上豐富玩法，以及由中日 57 位人氣 CV 傾情演出，打造沉浸式敘事體驗。"
+  },
+  "滔湧少女": {
+    "logo": "images/滔湧少女.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2567
+      },
+      {
+        "name": "4480鑽石",
+        "price": 1804
+      },
+      {
+        "name": "3290鑽石",
+        "price": 1331
+      },
+      {
+        "name": "1980鑽石",
+        "price": 791
+      },
+      {
+        "name": "1280鑽石",
+        "price": 543
+      },
+      {
+        "name": "980鑽石",
+        "price": 397
+      },
+      {
+        "name": "680鑽石",
+        "price": 268
+      },
+      {
+        "name": "300鑽石",
+        "price": 138
+      },
+      {
+        "name": "180鑽石",
+        "price": 89
+      },
+      {
+        "name": "60鑽石",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://play.google.com/store/apps/details?id=com.ujoy.wavegirlsg",
+      "官方網站": "https://forum.gamer.com.tw/B.php?bsn=75325",
+      "禮包碼": "gift-codes.html?game=滔湧少女",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B4%B6%E6%B9%A7%E6%B5%B7%E8%B1%9A/id6480451371",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=75325"
+    },
+    "description": "《洶湧少女～WaveGirls》自事前預約開啟以來，獲得許多社長大人熱情支持，成功解鎖各階段達成獎勵！為慶祝預約人數突破 20 萬，各位社長大人只要在 6 月 25 日遊戲上線後下載並登入遊戲，即可獲得全部事前預約獎勵 —— 結識驍勇善戰又「波濤洶湧」的「海物娘」，帶領她們一起在嶄新的世界中展開冒險吧。"
+  },
+  "漫威祕法狂潮": {
+    "logo": "images/漫威祕法狂潮.jpg",
+    "products": [
+      {
+        "name": "6000夢之石",
+        "price": 2567
+      },
+      {
+        "name": "3000夢之石",
+        "price": 1331
+      },
+      {
+        "name": "1200夢之石",
+        "price": 559
+      },
+      {
+        "name": "600夢之石",
+        "price": 268
+      },
+      {
+        "name": "300夢之石",
+        "price": 138
+      },
+      {
+        "name": "60夢之石",
+        "price": 29
+      },
+      {
+        "name": "月卡",
+        "price": 138
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/marvelmysticmayhemTW/",
+      "官方網站": "https://www.facebook.com/marvelmysticmayhemTW/",
+      "禮包碼": "gift-codes.html?game=漫威祕法狂潮",
+      "App Store": "https://apps.apple.com/tw/developer/envoy-interactive-entertainment-co-ltd/id1463919424?l=en-GB",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=285992"
+    },
+    "description": "《漫威秘法狂潮》打造全新世界觀，在「夢魘（Nightmare）」入侵現實後，將整個宇宙拖入混亂的夢境之中。玩家將在奇異博士與夢遊者的引導下，集結熟悉的漫威英雄們，面對扭曲的反派與自身深層恐懼，包括緋紅女巫的潛意識崩壞、美國隊長的責任與悔恨，揭開一段從未曝光的心理戰線。"
+  },
+  "魔教回歸：2D MMORPG": {
+    "logo": "images/魔教回歸2D MMORPG.jpg",
+    "products": [
+      {
+        "name": "3300寶石",
+        "price": 1943
+      },
+      {
+        "name": "1650寶石",
+        "price": 1030
+      },
+      {
+        "name": "990寶石",
+        "price": 631
+      },
+      {
+        "name": "320寶石",
+        "price": 236
+      },
+      {
+        "name": "96寶石",
+        "price": 53
+      },
+      {
+        "name": "月寶石禮包",
+        "price": 107
+      },
+      {
+        "name": "每周補給禮包",
+        "price": 631
+      },
+      {
+        "name": "初心者機會禮包",
+        "price": 397
+      },
+      {
+        "name": "優厚寶石包",
+        "price": 1804
+      },
+      {
+        "name": "特殊寶石禮包",
+        "price": 236
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TwinsGaming96/",
+      "官方網站": "https://apps.apple.com/tw/developer/daeri-soft/id414170559",
+      "禮包碼": "gift-codes.html?game=魔教回歸：2D MMORPG",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AD%94%E6%95%99%E5%9B%9E%E6%AD%B8-2d-mmorpg/id6736933639",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=277065"
+    },
+    "description": "曾經是天魔的我，醒來後竟回到了低等魔人！上吧！在全新的魔道世界中，成長為天魔的 MMORPG !!\n裝備不用抽！刷裝才是MMORPG的王道！8次轉生與全新轉職！透過覺醒獲得頓悟，最終成為天魔絕非難事！"
+  }
+}

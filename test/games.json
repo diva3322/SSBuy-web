@@ -1,0 +1,62 @@
+{
+  "黎明:血色魔女": {
+    "logo": "images/黎明血色魔女.jpg",
+    "products": [
+      {
+        "name": "鑽石 60顆",
+        "price": 30
+      },
+      {
+        "name": "鑽石 300顆",
+        "price": 150
+      },
+      {
+        "name": "鑽石 680顆",
+        "price": 270
+      },
+      {
+        "name": "鑽石 980顆",
+        "price": 430
+      },
+      {
+        "name": "鑽石 1280顆",
+        "price": 540
+      },
+      {
+        "name": "鑽石 1980顆",
+        "price": 810
+      },
+      {
+        "name": "鑽石 3280顆",
+        "price": 1340
+      },
+      {
+        "name": "鑽石6480顆",
+        "price": 2590
+      },
+      {
+        "name": "月卡",
+        "price": 150
+      },
+      {
+        "name": "高級合約",
+        "price": 270
+      },
+      {
+        "name": "特級合約",
+        "price": 540
+      },
+      {
+        "name": "合約組合禮包",
+        "price": 1420
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/reddawntw/",
+      "官方網站": "https://www.facebook.com/reddawntw/",
+      "禮包碼": "N",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BB%8E%E6%98%8E-%E8%A1%80%E8%89%B2%E9%AD%94%E5%A5%B3-%E7%99%BE%E8%90%AC%E7%8F%BE%E9%87%91%E6%8C%91%E6%88%B0%E8%B3%BD/id6503729873",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81258"
+    }
+  }
+}

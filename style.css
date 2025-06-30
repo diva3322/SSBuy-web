@@ -1,0 +1,1784 @@
+/* 讓所有連結預設為白色，滑鼠懸停變黃色 */ /* 這一行是註解，描述下方代碼的功能 */
+a {
+    color: #fff !important; /* 這一行設定連結文字為白色的 */
+    text-decoration: none; /* 這一行設定連結無底線 */
+}
+
+a:hover {
+    color: #ffcc00 !important; /* 這一行設定連結hover時為黃色 */
+    text-decoration: underline; /* 這一行設定連結hover時加底線 */
+}
+
+body {
+    overflow-x: hidden;  /* 禁止水平滾動，這一行避免出現橫向捲軸 */
+    background-color: #222; /* 這一行設定body背景色為深灰色 */
+    color: #ccc; /* 這一行設定文字顏色為淺灰色 */
+    font-family: 'Kanit', 'Noto Sans TC', sans-serif; /* 這一行設定字體為Kanit和Noto Sans TC，優先使用Kanit */
+    margin: 0; /* 這一行取消body的默認外邊距 */
+    display: flex; /* 這一行讓body使用flex布局 */
+    flex-direction: column; /* 這一行使body內元素垂直排列 */
+    align-items: center; /* 這一行使body內容水平置中 */
+}
+
+.normal {
+  font-weight: normal;
+}
+
+#section3 li {
+  font-weight: normal !important;
+}
+
+/* 新增或調整 style.css 中的樣式來匹配 */
+.articles-page .main-content {
+	margin-left: 13vw;
+	display: flex;
+	flex-direction: column;
+	padding: 3vh;
+	gap: 5px;
+	align-items: center;
+}
+
+.articles-banner {
+	display: block; /* 將圖片轉換為塊級元素 */
+    margin: 0 auto; /* 上下外邊距為0，左右自動，實現水平置中 */
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	border-radius: 8px;
+	margin-bottom: 20px;
+}
+
+.articles-banner img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.articles-search-bar {
+	width: 90%;
+	padding: 10px 15px;
+	border: 1px solid #444;
+	border-radius: 5px;
+	background-color: #333;
+	color: #eee;
+	font-size: 1rem;
+	margin-bottom: 20px;
+}
+
+.articles-section {
+	background-color: #222;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.articles-section h2 {
+	color: #00c300; /* 或您的品牌色 */
+	margin-bottom: 15px;
+	border-bottom: 2px solid #444;
+	padding-bottom: 10px;
+	font-size: 1.8rem;
+}
+
+.article-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+	gap: 20px;
+}
+
+.article-card {
+	background-color: #333;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+	display: flex;
+	flex-direction: column;
+	text-decoration: none; /* 移除連結下劃線 */
+	color: inherit; /* 繼承文字顏色 */
+}
+
+.article-card:hover {
+	transform: translateY(-5px);
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.article-card img {
+	width: 100%;
+	height: 180px; /* 固定圖片高度 */
+	object-fit: cover;
+}
+
+.article-card-content {
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+}
+
+.article-card-content h3 {
+	font-size: 1.2rem;
+	margin-bottom: 10px;
+	color: #eee;
+	line-height: 1.4;
+}
+
+.article-card-content p {
+	font-size: 0.9rem;
+	color: #bbb;
+	margin-bottom: 10px;
+	flex-grow: 1;
+}
+
+.article-meta {
+	font-size: 0.8rem;
+	color: #888;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.article-meta a {
+	color: #00bfff; /* 連結顏色 */
+	text-decoration: none;
+}
+
+.article-meta a:hover {
+	text-decoration: underline;
+}
+
+
+
+/* 側邊欄 */ /* 這一行是註解，標示側邊欄樣式開始 */
+.sidebar {
+    width: 10.4vw; /* 這一行設定側邊欄寬度為視窗寬度的10.4%，響應式設計 */
+    background: #333; /* 這一行設定側邊欄背景色為深灰色 */
+    padding: 1.04vw;  /* 這一行設定側邊欄內邊距為1.04vw */
+    height: 100vh; /* 這一行使側邊欄高度充滿整個視窗高度 */
+    box-shadow: 0.16vw 0 0.52vw rgba(255, 255, 255, 0.1); /* 這一行為側邊欄添加右側陰影效果 */
+    position: fixed; /* 這一行使側邊欄固定於頁面左側 */
+    left: 0; /* 這一行設定側邊欄距離左邊0 */
+    top: 0; /* 這一行設定側邊欄距離頂部0 */
+    display: flex; /* 這一行使用flex布局排列側邊欄內元素 */
+    flex-direction: column; /* 這一行使側邊欄內元素垂直排列 */
+    align-items: center; /* 這一行使側邊欄內元素水平置中 */
+}
+
+.sidebar .company-logo {
+    width: 7.8vw;  /* 這一行設定公司Logo寬度為7.8vw */
+    height: 7.8vw; /* 這一行設定公司Logo高度為7.8vw，保持正方形 */
+    display: block; /* 這一行設定Logo為塊級元素 */
+    margin: 0 auto 1.04vw; /* 這一行設定Logo水平置中且下方有1.04vw間距 */
+    border-radius: 5.2vw; /* 這一行設定Logo邊框為圓角，半徑5.2vw */
+    cursor: pointer; /* 這一行使Logo懸停時顯示手型游標 */
+}
+
+/* 側邊欄 ul */ /* 這一行是註解，標示側邊欄ul樣式開始 */
+.sidebar ul {
+    text-align: center; /* 這一行使ul內文字置中 */
+    line-height: 2.6vh; /* 這一行設定ul內行距為2.6vh */
+}
+
+.sidebar ul li {
+    line-height: 1.8; /* 這一行設定li行距為1.8倍字體大小 */
+    font-size: 1.56vw; /* 這一行設定li字體大小為1.56vw */
+    padding: 0.52vw; /* 這一行設定li內邊距為0.52vw */
+}
+
+.sidebar ul li a {
+    color: #ccc; /* 這一行設定li內連結文字顏色為淺灰色 */
+    text-decoration: none; /* 這一行移除li內連結底線 */
+}
+
+.sidebar ul li:hover {
+    background: rgba(255, 255, 255, 0.2); /* 這一行設定li懸停時背景為半透明白色 */
+}
+
+.sidebar h2 {
+    font-size: 2.08vw; /* 這一行設定h2字體大小為2.08vw */
+    font-weight: bold; /* 這一行設定h2字體為粗體 */
+}
+
+.header-img {
+    height: auto; /* 這一行設定頭部圖片高度自動調整 */
+}
+
+/* 調整遊戲卡片容器顯示方式 */ /* 這一行是註解，標示遊戲卡片容器樣式開始 */
+.game-slider-container {
+    position: relative; /* 這一行使容器使用相對定位 */
+    display: flex; /* 這一行使容器使用flex布局 */
+    align-items: center; /* 這一行使容器內元素垂直置中 */
+    width: 57.3vw; /* 這一行設定容器寬度為57.3vw */
+    margin: -1vh; /* 這一行設定容器負外邊距為-1vw */
+    overflow: hidden; /* 這一行隱藏容器溢出內容 */
+    height: 25vh; /* 這一行設定容器高度為25vh */
+}
+
+.game-slider {
+    display: flex; /* 這一行使滑塊內卡片水平排列 */
+    transition: transform 0.25s ease-in-out; /* 這一行設定滑塊移動動畫，0.5秒緩入緩出 */
+    width: max-content; /* 這一行使滑塊寬度適應內容 */
+}
+
+/* 滑動按鈕樣式 */ /* 這一行是註解，標示滑動按鈕樣式開始 */
+.slider-button {
+    position: absolute; /* 這一行使按鈕使用絕對定位 */
+    top: 50%; /* 這一行使按鈕垂直位於容器中間 */
+    transform: translateY(-50%); /* 這一行使按鈕向上移動自身高度的一半，實現垂直置中 */
+    background-color: rgba(0, 0, 0, 0.75); /* 這一行設定按鈕背景為半透明黑色 */
+    color: #ffcc00; /* 這一行設定按鈕文字為白色 */
+    border: none; /* 這一行移除按鈕邊框 */
+    padding: 0.52vw 0.78vw; /* 這一行設定按鈕內邊距為0.52vw x 0.78vw */
+    cursor: pointer; /* 這一行使按鈕懸停時顯示手型游標 */
+    font-size: 3vh; /* 這一行設定按鈕字體大小為1.04vw */
+    font-weight: bold; /* 這一行設定按鈕字體為粗體 */
+    z-index: 10; /* 這一行確保按鈕位於最上層 */
+}
+
+.slider-button.left {
+    left: 0.52vw; /* 這一行設定左按鈕距離容器左邊0.52vw */
+}
+
+.slider-button.right {
+    right: 0.52vw; /* 這一行設定右按鈕距離容器右邊0.52vw */
+}
+
+.slider-button.left:hover, .slider-button.right:hover {
+    background: #fff; /* 這一行設定按鈕懸停時背景為白色 */
+    color: #000; /* 這一行設定按鈕懸停時文字為黑色 */
+}
+
+/* 確保卡片樣式一致 */ /* 這一行是註解，標示卡片樣式開始 */
+.card {
+    width: 16vh; /* 這一行設定卡片寬度為9.375vw */
+    height: 16vh; /* 這一行設定卡片高度為9.375vw，保持正方形 */
+    position: relative; /* 這一行使卡片使用相對定位 */
+    overflow: hidden; /* 這一行隱藏卡片溢出內容 */
+    border-radius: 0.52vw; /* 這一行設定卡片邊框圓角為0.52vw */
+    background: rgba(255, 255, 255, 0.1); /* 這一行設定卡片背景為半透明白色 */
+    display: flex; /* 這一行使卡片使用flex布局 */
+    align-items: center; /* 這一行使卡片內容垂直置中 */
+    justify-content: center; /* 這一行使卡片內容水平置中 */
+    transition: all 0.1s ease-in-out; /* 這一行設定卡片所有屬性過渡動畫，0.1秒緩入緩出 */
+    box-shadow: 0 0 0.52vw rgba(255, 255, 255, 0.2); /* 這一行為卡片添加陰影效果 */
+    cursor: pointer; /* 這一行使卡片懸停時顯示手型游標 */
+    margin: 0.52vw; /* 這一行設定卡片外邊距為0.52vw */
+}
+
+.card img {
+    width: 100%; /* 這一行設定卡片內圖片寬度為100% */
+    height: 100%; /* 這一行設定卡片內圖片高度為100% */
+    object-fit: cover; /* 這一行使圖片按比例裁剪以填滿卡片 */
+    border-radius: 0.52vw; /* 這一行設定圖片邊框圓角為0.52vw */
+}
+
+.card .game-title {
+    position: absolute; /* 這一行使遊戲標題使用絕對定位 */
+    bottom: 0; /* 這一行使標題位於卡片底部 */
+    width: 100%; /* 這一行設定標題寬度為100% */
+    background: rgba(0, 0, 0, 0.9); /* 這一行設定標題背景為近乎不透明的黑色 */
+    color: #fff; /* 這一行設定標題文字為白色 */
+    font-size: 1.75vh; /* 這一行設定標題字體大小為1.04vw */
+    font-weight: bold; /* 這一行設定標題字體為粗體 */
+    text-align: center; /* 這一行使標題文字置中 */
+    padding: 0.26vw; /* 這一行設定標題內邊距為0.26vw */
+    border-radius: 0 0 0.52vw 0.52vw; /* 這一行設定標題底部左右圓角為0.52vw */
+}
+
+.card:hover {
+    transform: scale(1.1); /* 這一行使卡片懸停時放大1.1倍 */
+    box-shadow: 0 0 0.26vw #ffcc00, 0 0 0.78vw #fff, 0 0 1.56vw #4fff00; /* 這一行設定卡片懸停時的多層陰影效果 */
+}
+
+.game-card {
+    background: rgba(255, 255, 255, 0.1); /* 這一行設定遊戲卡片背景為半透明白色 */
+    margin: 0 1.04vw; /* 這一行設定遊戲卡片左右外邊距為1.04vw */
+    box-shadow: 0 0 0.78vw rgba(255, 255, 255, 0.2); /* 這一行為遊戲卡片添加陰影效果 */
+}
+
+.company-logo {
+    width: 7.8vw; /* 這一行設定公司Logo寬度為7.8vw */
+    height: 7.8vw; /* 這一行設定公司Logo高度為7.8vw，保持正方形 */
+    display: block; /* 這一行設定Logo為塊級元素 */
+    margin: 0 auto 1.04vw; /* 這一行使Logo水平置中且下方有1.04vw間距 */
+    border-radius: 5.2vw; /* 這一行設定Logo邊框圓角為5.2vw */
+    cursor: pointer; /* 這一行使Logo懸停時顯示手型游標 */
+}
+
+.products-box {
+    color: #fff; /* 這一行設定產品盒文字顏色為白色 */
+    display: flex; /* 這一行使產品盒使用flex布局 */
+    flex-direction: column; /* 這一行使產品盒內元素垂直排列 */
+    align-items: flex-start !important; /* 這一行強制產品盒內容左對齊 */
+    justify-content: flex-start !important; /* 這一行強制產品盒內容從頂部開始 */
+    gap: 0.52vw; /* 這一行設定產品盒內元素間距為0.52vw */
+}
+
+.products-box h3 {
+	color: #ffcc00; 
+}
+
+
+/* 設定標題為黃色 */ /* 這一行是註解，標示聯絡容器標題樣式開始 */
+.contact-container h2,
+.contact-container h3 {
+    color: #ffcc00; /* 這一行設定聯絡容器內h2和h3標題為黃色 */
+    line-height: 0.8; /* 這一行設定標題行距為0.8倍字體大小 */
+    margin-bottom: 0.78vw; /* 這一行設定標題下方外邊距為0.78vw */
+}
+
+.contact-container h2 {
+    font-size: 2.4vh; /* 這一行設定h2字體大小為1.87vw */
+}
+
+/* 確保商品列表不會置中 */ /* 這一行是註解，標示商品列表樣式開始 */
+#productList {
+    margin-top: -0.78vw; /* 這一行設定商品列表上方負外邊距為-0.78vw */
+    width: 100%; /* 這一行設定商品列表寬度為100% */
+    display: flex; /* 這一行使商品列表使用flex布局 */
+    gap: 0.26vw; /* 這一行設定商品列表內元素間距為0.26vw */
+    flex-direction: column; /* 這一行使商品列表內元素垂直排列 */
+    align-items: flex-start !important; /* 這一行強制商品列表內容左對齊 */
+    justify-content: flex-start !important; /* 這一行強制商品列表內容從頂部開始 */
+}
+
+/* 單個商品樣式 */ /* 這一行是註解，標示單個商品樣式開始 */
+.product-item {
+    display: flex; /* 這一行使單個商品使用flex布局 */
+    align-items: center; /* 這一行使商品內容垂直置中 */
+    justify-content: flex-start; /* 這一行使商品內容從左開始 */
+    background: #444; /* 這一行設定商品背景為深灰色 */
+    padding: 0.63vw; /* 這一行設定商品內邊距為0.63vw */
+    border-radius: 0.42vw; /* 這一行設定商品邊框圓角為0.42vw */
+    width: 95%; /* 這一行設定商品寬度為23.96vw */
+    height: 2.4vh; /* 這一行設定商品高度為2.41vh */
+    gap: 0.52vw; /* 這一行設定商品內元素間距為0.52vw */
+    margin-bottom: 0.37vh; /* 這一行設定商品下方外邊距為0.37vh */
+}
+
+.product-name {
+    flex-grow: 1; /* 這一行使商品名稱佔據剩餘空間 */
+    text-align: left; /* 這一行使商品名稱左對齊 */
+    font-size: 2.4vh; /* 這一行設定商品名稱字體大小為1.25vw */
+    white-space: nowrap; /* 這一行防止商品名稱換行 */
+    overflow: hidden; /* 這一行隱藏商品名稱溢出部分 */
+    text-overflow: ellipsis; /* 這一行使溢出的商品名稱顯示省略號 */
+}
+
+.price-container {
+  width: 9vw;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bold;
+  font-size: 2.4vh;
+  color: #fff;
+}
+
+/* NT$ 固定寬度 */ /* 這一行是註解，標示貨幣符號樣式開始 */
+.nt-symbol {
+	font-size: 2.4vh; 
+	margin-right: 2px;
+    text-align: left ; /* 這一行使NT$符號左對齊 */
+    font-weight: bold; /* 這一行設定NT$符號字體為粗體 */
+    flex-shrink: 0; /* 這一行防止NT$符號被壓縮 */
+}
+
+/* 價格數字 => no px => no change */ /* 這一行是註解，標示價格數字樣式開始 */
+.price-value {
+	font-size: 2.4vh;
+    font-weight: bold; /* 這一行設定價格數字字體為粗體 */
+    text-align: left; /* 這一行使價格數字左對齊 */
+}
+
+/* 避免名稱過短 => min-width:120px =>120/1920=6.25vw */ /* 這一行是註解，標示避免名稱過短的設定 */
+.product-item span {
+    flex-grow: 1; /* 這一行使span佔據剩餘空間 */
+    text-align: left; /* 這一行使span內文字左對齊 */
+    overflow: hidden; /* 這一行隱藏span溢出內容 */
+    text-overflow: ellipsis; /* 這一行使溢出文字顯示省略號 */
+    min-width: 6.25vw; /* 這一行設定span最小寬度為6.25vw */
+}
+
+/* checkbox: 32px =>1.67vw, border:3px=>0.16vw, margin-right:10px=>0.52vw */ /* 這一行是註解，標示複選框樣式開始 */
+.product-item input[type="checkbox"] {
+    width: 2.4vh; /* 這一行設定複選框寬度為1.67vw */
+    height: 2.4vh; /* 這一行設定複選框高度為1.67vw */
+    appearance: none; /* 這一行移除複選框默認樣式 */
+    border: 0.4vh solid #fff; /* 這一行設定複選框邊框為0.16vw白色 */
+    border-radius: 0.26vh; /* 這一行設定複選框邊框圓角為0.26vw */
+    background-color: transparent; /* 這一行設定複選框背景為透明 */
+    cursor: pointer; /* 這一行使複選框懸停時顯示手型游標 */
+    flex-shrink: 0; /* 這一行防止複選框被壓縮 */
+    margin-right: 0.2vw; /* 這一行設定複選框右側外邊距為0.52vw */
+}
+
+/* checked => no px => no change */ /* 這一行是註解，標示複選框選中樣式開始 */
+.product-item input[type="checkbox"]:checked {
+    background-color: #ffcc00; /* 這一行設定選中時複選框背景為黃色 */
+    border-color: #ffcc00; /* 這一行設定選中時複選框邊框為黃色 */
+}
+
+.product-item input[type="checkbox"]:checked::after {
+    content: "✔"; /* 這一行設定選中時複選框顯示勾勾符號 */
+    font-size: 2.5vh; /* 這一行設定勾勾符號字體大小為1.14vw */
+    font-weight: bold; /* 這一行設定勾勾符號字體為粗體 */
+    color: #ffffff; /* 這一行設定勾勾符號顏色為白色 */
+    display: flex; /* 這一行使勾勾符號使用flex布局 */
+    align-items: center; /* 這一行使勾勾符號垂直置中 */
+    justify-content: center; /* 這一行使勾勾符號水平置中 */
+    width: 100%; /* 這一行設定勾勾符號寬度為100% */
+    height: 100%; /* 這一行設定勾勾符號高度為100% */
+}
+
+/* 讓每個區塊平均分佈 => height:830px => ~76.85vh( if 830/1080?), width:400px => ~20.8vw */ /* 這一行是註解，標示資訊區塊樣式開始 */
+.info-box, .products-box, .login-box {
+	margin-top:2vh;
+    flex: 1; /* 這一行使區塊平均分配剩餘空間 */
+    height: 85vh; /* 這一行設定區塊高度為76.85vh */
+    width: 20.8vw; /* 這一行設定區塊寬度為20.8vw */
+    background: #333; /* 這一行設定區塊背景為深灰色 */
+    padding: 1.04vw; /* 這一行設定區塊內邊距為1.04vw */
+    border-radius: 0.52vw; /* 這一行設定區塊邊框圓角為0.52vw */
+    box-shadow: 0 0 0.52vw rgba(255, 255, 255, 0.1); /* 這一行為區塊添加陰影效果 */
+    display: flex; /* 這一行使區塊使用flex布局 */
+    flex-direction: column; /* 這一行使區塊內元素垂直排列 */
+}
+
+/* 遊戲資訊區 => gap:5px=>0.26vw, padding:20px =>1.04vw */ /* 這一行是註解，標示遊戲資訊區樣式開始 */
+.info-box {
+    text-align: left; /* 這一行使資訊區文字左對齊 */
+    display: flex; /* 這一行使資訊區使用flex布局 */
+    flex-direction: column; /* 這一行使資訊區內元素垂直排列 */
+    align-items: flex-start; /* 這一行使資訊區內容左對齊 */
+    justify-content: flex-start; /* 這一行使資訊區內容從頂部開始 */
+    gap: 0.26vw; /* 這一行設定資訊區內元素間距為0.26vw */
+    padding: 1.04vw; /* 這一行設定資訊區內邊距為1.04vw */
+}
+
+/* 遊戲LOGO => 150=>7.8vw, border-radius=>10px=>0.52vw, margin-bottom:5=>0.26vw */ /* 這一行是註解，標示遊戲Logo樣式開始 */
+.game-logo {
+    width: 14vh; /* 這一行設定遊戲Logo寬度為7.8vw */
+    height: 14vh; /* 這一行設定遊戲Logo高度為7.8vw，保持正方形 */
+    border-radius: 0.52vh; /* 這一行設定遊戲Logo邊框圓角為0.52vw */
+    object-fit: cover; /* 這一行使遊戲Logo圖片按比例裁剪填滿 */
+    display: block; /* 這一行設定遊戲Logo為塊級元素 */
+    margin-bottom: 0.26vh; /* 這一行設定遊戲Logo下方外邊距為0.26vw */
+}
+
+/* #gameTitle => margin-top:-5px=>-0.26vw, margin-bottom:5px=>0.26vw */ /* 這一行是註解，標示遊戲標題樣式開始 */
+#gameTitle {
+    color: #ffcc00; /* 這一行設定遊戲標題文字為白色 */
+    margin-top: -0.26vw; /* 這一行設定遊戲標題上方負外邊距為-0.26vw */
+    margin-bottom: 0.26vw; /* 這一行設定遊戲標題下方外邊距為0.26vw */
+}
+
+/* info-box h3 => margin-top:60px=>3.13vw, margin-bottom:-5px=>-0.26vw */ /* 這一行是註解，標示資訊區h3樣式開始 */
+.info-box h3 {
+    color: #ffcc00; /* 這一行設定h3文字為白色 */
+    align-items: flex-start; /* 這一行使h3內容左對齊 */
+    margin-top: 0; /* 這一行設定h3上方外邊距為3.13vw */
+    margin-bottom: -0.26vw; /* 這一行設定h3下方負外邊距為-0.26vw */
+}
+
+.info-box h2 {
+    color: #ffcc00; /* 這一行設定h3文字為白色 */
+    align-items: flex-start; /* 這一行使h3內容左對齊 */	
+	font-size: 1.17em;
+	margin-top: 1vh;
+}
+
+/* social-media => margin-top:170px=> ~8.85vw */ /* 這一行是註解，標示社交媒體區樣式開始 */
+.social-media {
+    margin-top: 1vh; /* 這一行設定社交媒體區上方外邊距為8.85vw */
+}
+
+.social-media-links {
+    display: flex; /* 這一行使社交媒體連結使用flex布局 */
+    align-items: flex-start; /* 這一行使社交媒體連結內容左對齊 */
+    gap: 26px; /* 這一行設定社交媒體連結間距為26px */
+    justify-content: center; /* 這一行使社交媒體連結水平置中 */
+}
+
+.social-media-links a {
+    color: white; /* 這一行設定社交媒體連結文字為白色 */
+    text-decoration: none; /* 這一行移除社交媒體連結底線 */
+    font-size: 18px; /* 這一行設定社交媒體連結字體大小為18px */
+}
+
+.social-media-links a:hover {
+    color: #ffcc00; /* 這一行設定社交媒體連結懸停時文字為黃色 */
+}
+
+.social-media a {
+    color: #fff; /* 這一行設定社交媒體區內連結文字為白色 */
+}
+
+#gameDescription {
+    margin-top: 20px; /* 這一行設定遊戲描述上方外邊距為20px */
+    margin-bottom: 5px; /* 這一行設定遊戲描述下方外邊距為5px */
+}
+
+/* 登入資訊區 => gap:10px=>0.52vw, padding:20px=>1.04vw */ /* 這一行是註解，標示登入區樣式開始 */
+.login-box {
+    display: flex; /* 這一行使登入區使用flex布局 */
+    flex-direction: column; /* 這一行使登入區內元素垂直排列 */
+    align-items: flex-start; /* 這一行使登入區內容左對齊 */
+    justify-content: flex-start; /* 這一行使登入區內容從頂部開始 */
+    gap: 0.52vw; /* 這一行設定登入區內元素間距為0.52vw */
+    padding: 1.04vw; /* 這一行設定登入區內邊距為1.04vw */
+    padding-top: 1.04vw; /* 這一行設定登入區上方內邊距為1.04vw */
+}
+
+/* login-box h3 => margin-bottom:0 => no px => keep */ /* 這一行是註解，標示登入區h3樣式開始 */
+.login-box h3 {
+    margin-bottom: 0px; /* 這一行設定h3下方外邊距為0px */
+    color: #ffcc00; /* 這一行設定h3文字為白色 */
+}
+
+/* 讓遊戲登入資訊內的每個輸入框 => width:95%, padding:12px=> ~0.63vw, margin:10px=> ~0.52vw */ /* 這一行是註解，標示登入區輸入框樣式開始 */
+.login-box input, .login-box select {
+    width: 95%; /* 這一行設定輸入框和下拉選單寬度為95% */
+    padding: 0.63vw; /* 這一行設定輸入框和下拉選單內邊距為0.63vw */
+    margin: 0.52vw 0; /* 這一行設定輸入框和下拉選單上下外邊距為0.52vw，左右為0 */
+    border: none; /* 這一行移除輸入框和下拉選單邊框 */
+    border-radius: 0.26vw; /* 這一行設定輸入框和下拉選單邊框圓角為0.26vw */
+}
+
+/* total-price => no px => keep */ /* 這一行是註解，標示總價格樣式開始 */
+.total-price {
+    color: yellow; /* 這一行設定總價格文字為黃色 */
+    font-weight: bold; /* 這一行設定總價格字體為粗體 */
+}
+
+/* 結帳按鈕 => font-size:26px=>1.35vw, padding:12px=>0.63vw, margin-top:10px=>0.52vw, border-radius:5px=>0.26vw */ /* 這一行是註解，標示結帳按鈕樣式開始 */
+.checkout-btn {
+    display: block; /* 這一行設定結帳按鈕為塊級元素 */
+    width: 95%; /* 這一行設定結帳按鈕寬度為95% */
+    text-align: center; /* 這一行使結帳按鈕文字置中 */
+    background-color: #ffcc00; /* 這一行設定結帳按鈕背景為黃色 */
+    color: #black; /* 這一行設定結帳按鈕文字為黑色（應修正為#000） */
+    font-size: 1.35vw; /* 這一行設定結帳按鈕字體大小為1.35vw */
+    font-weight: bold; /* 這一行設定結帳按鈕字體為粗體 */
+    padding: 0.63vw; /* 這一行設定結帳按鈕內邊距為0.63vw */
+    margin-top: 0.52vw; /* 這一行設定結帳按鈕上方外邊距為0.52vw */
+    border-radius: 0.26vw; /* 這一行設定結帳按鈕邊框圓角為0.26vw */
+    text-decoration: none; /* 這一行移除結帳按鈕底線 */
+    transition: background 0.3s ease; /* 這一行設定結帳按鈕背景過渡動畫，0.3秒平滑變化 */
+}
+
+/* checkout-btn:hover => background-color => no px => keep */ /* 這一行是註解，標示結帳按鈕懸停樣式開始 */
+.checkout-btn:hover {
+    background-color: #ffaa00; /* 這一行設定結帳按鈕懸停時背景為深黃色 */
+}
+
+/* footer => width:calc(100% - 280px)=>calc(100%-14.58vw), left:250px=>13.02vw, font-size:20px=>1.04vw, padding:10px=>0.52vw */ /* 這一行是註解，標示頁腳樣式開始 */
+footer {
+    width: calc(100% - 14.58vw); /* 這一行設定頁腳寬度為100%減去14.58vw */
+    background: #222; /* 這一行設定頁腳背景為深灰色 */
+    color: #fff; /* 這一行設定頁腳文字為白色 */
+    font-size: 1.75vh; /* 這一行設定頁腳字體大小為1.04vw */
+    padding: 0.52vw 0; /* 這一行設定頁腳上下內邊距為0.52vw，左右為0 */
+    position: fixed; /* 這一行使頁腳固定於頁面底部 */
+    bottom: 0; /* 這一行設定頁腳距離底部0 */
+    left: 13.02vw; /* 這一行設定頁腳距離左側13.02vw */
+    display: flex; /* 這一行使頁腳使用flex布局 */
+    justify-content: center; /* 這一行使頁腳內容水平置中 */
+    align-items: center; /* 這一行使頁腳內容垂直置中 */
+}
+
+/* 讓頁腳內的文字真正扣掉側邊欄後置中 */ /* 這一行是註解，標示頁腳內容樣式開始 */
+.footer-content {
+    width: 100%; /* 這一行設定頁腳內容寬度為100% */
+    text-align: center; /* 這一行使頁腳內容文字置中 */
+}
+
+footer a {
+    color: #fff;  /* 這一行設定頁腳內連結文字為白色 */
+    text-decoration: none; /* 這一行移除頁腳內連結底線 */
+}
+
+footer a:hover {
+    color: #ffcc00;  /* 這一行設定頁腳內連結懸停時文字為黃色 */
+}
+
+/* 首頁畫面設置 => margin-left:250px=>13.02vw, width:calc(100%-290px)=>calc(100%-15.1vw), gap:20px=>1.04vw */ /* 這一行是註解，標示首頁主內容樣式開始 */
+.index-page .main-content {
+    flex-grow: 1; /* 這一行使主內容佔據剩餘空間 */
+    padding: 1.04vw; /* 這一行設定主內容內邊距為1.04vw */
+    margin-left: 13.02vw; /* 這一行設定主內容左側外邊距為13.02vw */
+    width: calc(100% - 15.1vw); /* 這一行設定主內容寬度為100%減去15.1vw */
+    display: flex; /* 這一行使主內容使用flex布局 */
+    flex-direction: column; /* 這一行使主內容內元素垂直排列 */
+    align-items: center; /* 這一行使主內容內容垂直置中 */
+    text-align: center; /* 這一行使主內容文字置中 */
+    gap: 1vw; /* 這一行設定主內容內元素間距為1.04vw */
+}
+
+/* 遊戲下單畫面 => padding:20px=>1.04vw, margin-left:250px=>13.02vw, width:calc(100%-290px)=>calc(100%-15.1vw), gap:20px=>1.04vw */ /* 這一行是註解，標示遊戲詳情主內容樣式開始 */
+.game-detail .main-content {
+    padding: 0vw; /* 這一行設定主內容內邊距為1.04vw */
+    margin-left: 13.02vw; /* 這一行設定主內容左側外邊距為13.02vw */
+    width: calc(100% - 15.1vw); /* 這一行設定主內容寬度為100%減去15.1vw */
+    display: flex; /* 這一行使主內容使用flex布局 */
+    justify-content: space-between; /* 這一行使主內容內元素平均分佈 */
+    align-items: flex-start; /* 這一行使主內容內容從頂部對齊 */
+    gap: 1.04vw; /* 這一行設定主內容內元素間距為1.04vw */
+    flex-wrap: nowrap; /* 這一行防止主內容內元素換行 */
+}
+
+.gfverify-page .main-content {
+    display: flex; /* 這一行使主內容使用flex布局 */
+    justify-content: center; /* 這一行使主內容內容水平置中 */
+    align-items: center; /* 這一行使主內容內容垂直置中 */
+    min-height: calc(100vh - 5.2vw); /* 這一行設定主內容最小高度為100vh減去5.2vw */
+    margin-left: 10.4vw; /* 這一行設定主內容左側外邊距為10.4vw */
+    padding: 2.08vw; /* 這一行設定主內容內邊距為2.08vw */
+}
+
+.gfverify-page .content-box {	
+  max-height: 80%;
+  overflow-y: auto;
+  border-radius: 8px;
+  background: #222;
+  color: white;
+  padding: 2vw;
+  border-radius: 1vw;
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.8);
+  margin-top: 2vh;
+}
+
+.gfverify-page .content-box h1 {
+    color: #ffcc00; /* 這一行設定h1文字為黃色 */
+    text-align: center; /* 這一行使h1文字置中 */
+    font-size: 3vh; /* 這一行設定h1字體大小為1.87vw */
+    margin-bottom: 2.08vw; /* 這一行設定h1下方外邊距為2.08vw */
+}
+
+.gfverify-page .content-box h2 {
+    color: #ffcc00; /* 這一行設定h2文字為黃色 */
+    text-align: center; /* 這一行使h2文字置中 */
+    font-size: 2.4vh; /* 這一行設定h2字體大小為1.67vw */
+}
+
+/* p, li =>22px =>1.14vw */ /* 這一行是註解，標示段落和列表項樣式開始 */
+.gfverify-page p, .gfverify-page li {
+    font-size: 2.1vh; /* 這一行設定段落和列表項字體大小為1.14vw */
+    line-height: 1.4; /* 這一行設定段落和列表項行距為1.8倍字體大小 */
+    text-align: left; /* 這一行使段落和列表項文字左對齊 */
+}
+
+/* ol => padding-left:20px =>1.04vw */ /* 這一行是註解，標示有序列表樣式開始 */
+.gfverify-page ol {
+    padding-left: 1.04vw; /* 這一行設定有序列表左側內邊距為1.04vw */
+}
+
+/* pre => font-size:24px=>1.25vw */ /* 這一行是註解，標示預格式化文字樣式開始 */
+.gfverify-page pre {
+    font-size: 1.8vh; /* 這一行設定預格式化文字字體大小為1.25vw */
+    font-weight: bold; /* 這一行設定預格式化文字字體為粗體 */
+}
+
+/* a => no px => keep */ /* 這一行是註解，標示資訊頁面連結樣式開始 */
+.gfverify-page a {
+    color: #fff; /* 這一行設定連結文字為白色 */
+    text-decoration: none; /* 這一行移除連結底線 */
+}
+
+.gfverify-page a:hover {
+    color: #ffcc00; /* 這一行設定連結懸停時文字為黃色 */
+    text-decoration: underline; /* 這一行設定連結懸停時添加底線 */
+}
+
+.gfverify-page .content-box img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 12px auto;
+  border-radius: 6px;
+}
+
+.image-lightbox-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-lightbox-overlay img {
+  max-width: 95%;
+  max-height: 95%;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+  cursor: zoom-out;
+}
+
+.image-lightbox-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+}
+
+.image-lightbox-overlay.fade-out {
+  animation: fadeOut 0.3s forwards;
+}
+
+.image-lightbox-overlay img {
+  max-width: 95%;
+  max-height: 95%;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+  cursor: zoom-out;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+  }
+}
+
+.small-60 {
+  max-width: 40% !important;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+.small-70 {
+  max-width: 70% !important;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+img.zoomable {
+  display: block;
+  margin: 10px auto;
+}
+
+
+
+/* 設定所有資訊頁面統一的外觀 => margin-left:200px=>10.4vw, padding:40px=>2.08vw, min-height:calc(100vh-100px)=>calc(100vh - ~5.2vw) */ /* 這一行是註解，標示資訊頁面主內容樣式開始 */
+.info-page .main-content {
+    display: flex; /* 這一行使主內容使用flex布局 */
+    justify-content: center; /* 這一行使主內容內容水平置中 */
+    align-items: center; /* 這一行使主內容內容垂直置中 */
+    min-height: calc(100vh - 5.2vw); /* 這一行設定主內容最小高度為100vh減去5.2vw */
+    margin-left: 10.4vw; /* 這一行設定主內容左側外邊距為10.4vw */
+    padding: 2.08vw; /* 這一行設定主內容內邊距為2.08vw */
+}
+
+.info-page .contact-container {
+  background: #333;
+  color: white;
+  padding: 2vw;
+  border-radius: 1vw;
+  box-shadow: 0 0 1vw rgba(255, 255, 255, 0.1);
+  margin: 0 auto;
+}
+
+/* info-page .content-box => width:700px =>36.46vw, padding:60px=>3.13vw, border-radius:100px=>5.2vw, box-shadow =>0.52vw */ /* 這一行是註解，標示資訊頁面內容盒樣式開始 */
+.info-page .content-box {
+	max-height: 80%;
+  background: #222;
+  color: white;
+  padding: 2vw;
+  border-radius: 1vw;
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.8);
+  margin-top: 2vh;
+}
+
+.content-box ol {
+  padding-right: 0.2em;     /* 給數字留點空間 */
+  padding-left: 0.2em;     /* 給數字留點空間 */
+  margin: 0;               /* 移除預設 margin */
+  word-wrap: break-word;   /* 防止長字串撐出框外 */
+  list-style-position: inside;  /* 數字排在內部，避免超出框 */
+}
+
+/* h1 => margin-bottom:40px =>2.08vw, font-size:36px=>1.87vw */ /* 這一行是註解，標示內容盒h1樣式開始 */
+.info-page .content-box h1 {
+    color: #ffcc00; /* 這一行設定h1文字為黃色 */
+    text-align: center; /* 這一行使h1文字置中 */
+    font-size: 3vh; /* 這一行設定h1字體大小為1.87vw */
+    margin-bottom: 2.08vw; /* 這一行設定h1下方外邊距為2.08vw */
+}
+
+.info-page .content-box h2 {
+    color: #ffcc00; /* 這一行設定h2文字為黃色 */
+    text-align: center; /* 這一行使h2文字置中 */
+    font-size: 2.4vh; /* 這一行設定h2字體大小為1.67vw */
+}
+
+/* p, li =>22px =>1.14vw */ /* 這一行是註解，標示段落和列表項樣式開始 */
+.info-page p, .info-page li {
+    font-size: 2.1vh; /* 這一行設定段落和列表項字體大小為1.14vw */
+    line-height: 1.4; /* 這一行設定段落和列表項行距為1.8倍字體大小 */
+    text-align: left; /* 這一行使段落和列表項文字左對齊 */
+}
+
+/* ol => padding-left:20px =>1.04vw */ /* 這一行是註解，標示有序列表樣式開始 */
+.info-page ol {
+    padding-left: 1.04vw; /* 這一行設定有序列表左側內邊距為1.04vw */
+}
+
+/* pre => font-size:24px=>1.25vw */ /* 這一行是註解，標示預格式化文字樣式開始 */
+.info-page pre {
+    font-size: 1.8vh; /* 這一行設定預格式化文字字體大小為1.25vw */
+    font-weight: bold; /* 這一行設定預格式化文字字體為粗體 */
+}
+
+/* a => no px => keep */ /* 這一行是註解，標示資訊頁面連結樣式開始 */
+.info-page a {
+    color: #fff; /* 這一行設定連結文字為白色 */
+    text-decoration: none; /* 這一行移除連結底線 */
+}
+
+.info-page a:hover {
+    color: #ffcc00; /* 這一行設定連結懸停時文字為黃色 */
+    text-decoration: underline; /* 這一行設定連結懸停時添加底線 */
+}
+
+/* new-games-page .main-content => margin-left:220px=>11.45vw, padding:40px=>2.08vw */ /* 這一行是註解，標示新遊戲頁面主內容樣式開始 */
+.new-games-page .main-content {
+    display: flex; /* 這一行使主內容使用flex布局 */
+    flex-direction: column; /* 這一行使主內容內元素垂直排列 */
+    align-items: center; /* 這一行使主內容內容垂直置中 */
+    justify-content: flex; /* 這一行使主內容內容水平置中 */
+    min-height: calc(100vh - 5.2vw); /* 這一行設定主內容最小高度為100vh減去5.2vw */
+    margin-left: 11.45vw; /* 這一行設定主內容左側外邊距為11.45vw */
+    padding: 2.08vw; /* 這一行設定主內容內邊距為2.08vw */
+}
+
+/* new-games-container => gap:20px=>1.04vw, max-width:1400px=>72.9vw, padding:20px=>1.04vw */ /* 這一行是註解，標示新遊戲容器樣式開始 */
+.new-games-container {
+    display: grid; /* 這一行使新遊戲容器使用網格布局 */
+    grid-template-rows: repeat(3, auto); /* 這一行設定網格有3行，高度自適應 */
+    grid-template-columns: repeat(5, 1fr); /* 這一行設定網格有5列，每列等寬 */
+    gap: 1.4vh; /* 這一行設定網格內元素間距為1.04vw */
+    justify-content: center; /* 這一行使網格內容水平置中 */
+    align-items: center; /* 這一行使網格內容垂直置中 */
+    max-width: 72.9vw; /* 這一行設定網格最大寬度為72.9vw */
+    margin: 0 auto; /* 這一行使網格水平置中 */
+    padding: 1.04vw 0; /* 這一行設定網格上下內邊距為1.04vw，左右為0 */
+}
+
+/* new-game-item => no px => keep */ /* 這一行是註解，標示新遊戲項樣式開始 */
+.new-game-item {
+    display: flex; /* 這一行使新遊戲項使用flex布局 */
+    flex-direction: column; /* 這一行使新遊戲項內元素垂直排列 */
+    align-items: center; /* 這一行使新遊戲項內容垂直置中 */
+    text-align: center; /* 這一行使新遊戲項文字置中 */
+}
+
+.new-game-card img {
+    width: 100%; /* 這一行設定新遊戲卡片圖片寬度為100% */
+    height: 100%; /* 這一行設定新遊戲卡片圖片高度為100% */
+    object-fit: cover; /* 這一行使新遊戲卡片圖片按比例裁剪填滿 */
+    border-radius: 0px; /* 這一行設定新遊戲卡片圖片邊框圓角為0px */
+}
+
+.new-game-card:hover {
+    transform: scale(1.1); /* 這一行使新遊戲卡片懸停時放大1.1倍 */
+    box-shadow: 0 0 0.78vw #ffcc00, 0 0 1.56vw #fff, 0 0 2.34vw #4fff00; /* 這一行設定新遊戲卡片懸停時的多層陰影效果 */
+}
+
+/* all-games-page .main-content => margin-left:220px=>11.45vw, width=>calc(100%-220px)=>calc(100%-11.45vw), padding:20px=>1.04vw */ /* 這一行是註解，標示所有遊戲頁面主內容樣式開始 */
+.all-games-page .main-content {
+    margin-left: 11.45vw; /* 這一行設定主內容左側外邊距為11.45vw */
+    width: calc(100% - 11.45vw); /* 這一行設定主內容寬度為100%減去11.45vw */
+    text-align: center; /* 這一行使主內容文字置中 */
+	padding-bottom: 10vh; /* 確保頁面底部留空，不會被 footer 蓋住 */
+}
+
+/* #searchBox => padding:14px=>0.73vw, font-size:18px=>0.94vw, border-radius:10px=>0.52vw */ /* 這一行是註解，標示搜索框樣式開始 */
+#searchBox {
+    width: 50%; /* 這一行設定搜索框寬度為30% */
+    padding: 0.73vh; /* 這一行設定搜索框內邊距為0.73vw */
+    font-size: 2vh; /* 這一行設定搜索框字體大小為0.94vw */
+    border: none; /* 這一行移除搜索框邊框 */
+    border-radius: 0.52vw; /* 這一行設定搜索框邊框圓角為0.52vw */
+    margin-bottom: 0px; /* 這一行設定搜索框下方外邊距為0px */
+}
+
+/* all-games-page .games-grid => margin-left:250px=>13.02vw, gap:50px=>2.6vw, padding:50px=>2.6vw */ /* 這一行是註解，標示所有遊戲網格樣式開始 */
+.all-games-page .games-grid {
+    margin-left: 13.02vw; /* 這一行設定網格左側外邊距為13.02vw */
+    max-width: 90%; /* 這一行設定網格最大寬度為90% */
+    display: grid; /* 這一行使網格使用網格布局 */
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* 這一行設定網格列數自適應，最小150px，每列等寬 */
+    gap: 2.6vw; /* 這一行設定網格內元素間距為2.6vw */
+    padding: 2.6vw; /* 這一行設定網格內邊距為2.6vw */
+    justify-content: center; /* 這一行使網格內容水平置中 */
+    margin: 0 auto; /* 這一行使網格水平置中 */
+}
+
+.all-games-page h1 {
+    color: #ffcc00; /* 這一行設定h1文字為黃色 */
+}
+
+.new-games-page h1 {
+    color: #ffcc00; /* 這一行設定h1文字為黃色 */
+    font-size: 2em; /* 這一行設定h1字體大小為1.87vw */
+    line-height: 2; /* 這一行設定h1行距為2倍字體大小 */
+    margin-bottom: 0vh; /* 這一行設定h1上方負外邊距為-1.04vw */
+}
+
+.index-page h1 {
+    color: #ffcc00; /* 這一行設定h1文字為黃色 */
+}
+
+/* login-box input,select,textarea => keep your no px or do partial */ /* 這一行是註解，標示登入區輸入框、下拉選單和文本區域樣式開始 */
+.login-box input,
+.login-box select,
+.login-box textarea {
+    width: 100%; /* 這一行設定輸入框、下拉選單和文本區域寬度為100% */
+    padding: 0.52vw; /* 這一行設定輸入框、下拉選單和文本區域內邊距為0.52vw */
+    margin-bottom: 0.26vw; /* 這一行設定輸入框、下拉選單和文本區域下方外邊距為0.26vw */
+    border: 1px solid #ccc; /* 這一行設定輸入框、下拉選單和文本區域邊框為1px淺灰色 */
+    border-radius: 0.26vw; /* 這一行設定輸入框、下拉選單和文本區域邊框圓角為0.26vw */
+    box-sizing: border-box; /* 這一行使邊框和內邊距包含在寬高計算中 */
+    font-size: 1.75vh; /* 這一行設定輸入框、下拉選單和文本區域字體大小為0.83vw */
+    font-family: 'Kanit', 'Noto Sans TC', sans-serif; /* 這一行設定輸入框、下拉選單和文本區域字體為Kanit和Noto Sans TC */
+    height: 5vh; /* 這一行設定輸入框、下拉選單和文本區域高度為2.22vh */
+}
+
+/* 這一行設置textarea? => line-height:25px => ~1.3vw */ /* 這一行是註解，標示特定文本區域樣式開始 */
+.login-box textarea#selectedProducts {
+    resize: none; /* 這一行禁止調整文本區域大小 */
+    overflow: hidden; /* 這一行隱藏文本區域溢出內容 */
+    line-height: 1.3vw; /* 這一行設定文本區域行距為1.3vw */
+    font-family: 'Kanit', 'Noto Sans TC', sans-serif; /* 這一行設定文本區域字體為Kanit和Noto Sans TC */
+}
+
+/* 手機頂部條 (漢堡選單) - 固定在 header-wrapper 下方 */
+.mobile-top-bar {
+    position: fixed; /* 固定在頂部 */
+    top: 80px; /* 範例值：緊接在 header-wrapper 之下。實際值請根據 .header-wrapper 的高度調整 */
+    left: 0;
+    width: 100%;
+    z-index: 95; /* 在 mobile-dropdown-menu 和內容之間 */
+    background-color: #222; 
+    padding: 10px 15px;
+    display: none; /* 預設在桌面隱藏，手機顯示 */
+    justify-content: flex-start;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    height: auto; /* 高度自適應 */
+}
+
+.mobile-menu-toggle {
+	width: 100%;
+  background: none; /* 這一行設定漢堡選單按鈕無背景 */
+  border: none; /* 這一行移除漢堡選單按鈕邊框 */
+  color: #ffcc00; /* 這一行設定漢堡選單按鈕文字為白色 */
+  font-size: 1.2rem; /* 這一行設定漢堡選單按鈕字體大小為1.2rem */
+  cursor: pointer; /* 這一行使漢堡選單按鈕懸停時顯示手型游標 */
+	text-align: center;
+}
+
+.hamburger-icon {
+  margin-right: 6px; /* 這一行設定漢堡圖標右側外邊距為6px */
+}
+
+/* 手機下拉選單 - 固定並覆蓋內容，位於 mobile-top-bar 下方 */
+.mobile-dropdown-menu {
+    position: fixed; /* 固定在視窗 */
+    top: 14vh; /* 範例值：緊接在 mobile-top-bar 之下。80px是header, 60px是mobile-top-bar高度 */
+    left: 0;
+    width: 100%;
+    height: 8vh; /* 佔滿剩餘高度 */
+    background-color: rgba(0, 0, 0, 0.9); /* 深色半透明背景，覆蓋內容 */
+    z-index: 99; /* 在內容之上，但在 mobile-top-bar 之下 */
+    overflow-y: auto; /* 允許選單內容滾動 */
+    display: none; /* 預設隱藏 */
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    opacity: 0;
+    transform: translateY(-100%); /* 預設在上方隱藏 */
+	overflow: hidden !important;
+}
+
+/* mobile-dropdown-menu 展開時的樣式 */
+.mobile-dropdown-menu.open {
+	
+    display: block; /* 顯示 */
+    opacity: 1;
+    transform: translateY(0); /* 滑入視窗 */
+}
+
+.mobile-dropdown-menu ul {
+    list-style: none;
+    margin: 1vh;
+    padding: 1px;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.mobile-dropdown-menu ul li {
+    text-align: center;
+    padding: 1vh 0.25vh;
+    font-size: 1rem;
+    border: none;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+}
+
+.social-media {
+  display: block;
+}
+
+.social-line {
+  display: inline;
+  white-space: nowrap; /* ✅ 禁止自動換行 */
+}
+
+.social-line.line2 {
+  margin-left: 8px;
+}
+
+.social-line.line1::after {
+    content: " |";
+}
+
+.banner-image {
+    width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.gift-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.gift-table th,
+.gift-table td {
+    border: 1px solid #aaa;
+    padding: 10px 20px;
+    text-align: left;
+    color: #fff;
+}
+
+.gift-table th {
+    background-color: #333;
+    font-weight: bold;
+}
+
+.gift-table tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.giftcodes-page h2 {
+	color:#ffcc00;
+	font-size:2.4vh;
+	margin-bottom:1vh;
+	margin-top:1vh;
+}
+
+.giftcodes-page h1 {
+	color:#ffcc00;
+	font-size:3.7vh;
+}
+
+.giftcodes-page li{
+	color:white;
+	font-size:2.2vh;
+}
+
+.giftcodes-page p{
+	color:white;
+	font-size:2.2vh;
+}
+
+.giftcodes-page #new-games-container {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.5vh;
+    overflow-x: auto;
+	overflow-y: hidden;
+	padding-top:3vh;
+}
+
+.giftcodes-page .card:hover {
+    transform: scale(1.1); /* 這一行使卡片懸停時放大1.1倍 */
+    box-shadow: 0 0 0.26vw #ffcc00, 0 0 0.78vw #fff, 0 0 1.56vw #4fff00; /* 這一行設定卡片懸停時的多層陰影效果 */
+}
+
+.giftcodes-page #new-games-container .game-card {
+  width: 11vh;          /* ✅ 固定寬 */
+  height: 11vh;          /* ✅ 固定高，卡片永遠是正方形 */
+  overflow: hidden;
+  position: relative;
+  border-radius: 1vh;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 0.52vw rgba(255, 255, 255, 0.2);
+  transition: all 0.1s ease-in-out;
+  cursor: pointer;
+}
+
+.giftcodes-page .card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;     /* ✅ 強制圖片填滿、裁切多餘部分 */
+  border-radius: 1vh;
+}
+
+.giftcodes-page .content-box {
+  margin-top: 5vh; /* 與上方區塊的距離 */
+  margin-bottom: 10vh; /* 與 footer 底部距離（建議用 5vh 更穩定） */
+  background: rgba(255, 255, 255, 0.05); /* 半透明深灰背景（保留你原本的） */
+  color: white; /* 文字顏色為白 */
+  border-radius: 1vw; /* 圓角弧度，使用相對單位看起來比較平衡 */
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.5); /* 外發光特效 */
+  padding: 2vw 2vw 3vh; /* ⬅️ 改成底部 3vh 就夠了 */
+  max-width: 85vw;      /* ✅ 控制最大寬度 */
+  min-width: 65vw;         /* ✅ 最小寬度 */
+  min-height: 70vh;       /* ✅ 最小高度 */
+  height: auto; /* 自動根據內容撐高 */
+  box-sizing: border-box; /* 讓 padding 不影響整體寬度與高度計算 */
+}
+
+.giftcodes-page .main-content {
+  margin-left: 10.4vw; /* ✅ 與 sidebar 一樣寬度 */
+  display: flex;
+  justify-content: center;
+}
+
+.giftcodes-page .game-card {
+    width: 12vh;                /* 固定卡片寬度 */
+    height: 12vh;               /* 固定卡片高度 */
+    flex-shrink: 0;             /* 防止卡片縮小 */
+    margin: 0 0.5vh;            /* 左右間距 */
+}
+
+    .game-detail .game-links-container {
+        display: flex; /* 使用 Flexbox */
+        flex-direction: column; /* 垂直排列子元素 */
+        align-items: flex-start; /* 子元素靠左對齊 */
+        gap: 8px; /* 增加連結之間的垂直間距 */
+        margin-top: 1vh; /* 根據需要調整與上方內容的距離 */
+        margin-bottom: 1vh; /* 根據需要調整與下方內容的距離 */
+        text-align: left; /* 確保文字本身也是左對齊 */
+    }
+
+    .game-detail .game-links-container a {
+        display: block; /* 讓連結變成塊級元素，各自佔據一行 */
+        width: 100%; /* 寬度佔滿父容器 */
+        /* 移除或覆蓋任何會導致水平排版的屬性，例如 white-space: nowrap; */
+        white-space: normal; /* 允許文字換行 */
+        text-align: left; /* 確保連結文字靠左 */
+    }
+
+    /* 移除連結中間的 "|" 分隔符 */
+    .game-detail .game-links-container a + a {
+        /* 如果您在 HTML 中使用了 "|"，這裡無法直接移除，需要調整 HTML */
+        /* 如果您是想用 CSS 方式自動添加分隔符，則這裡可以控制 */
+    }
+
+/* ★ 針對小螢幕(≤1024px)：隱藏sidebar、顯示 mobile-top-bar */ /* 這一行是註解，標示小螢幕媒體查詢開始 */
+@media (max-width: 1024px) {
+	
+html, body {
+    /* 確保寬度不超過螢幕 */
+    width: 100vw; 
+    /* 禁止水平滾動 */
+    overflow-x: hidden; 
+
+    /* 隱藏垂直滾動條，但保留滾動功能 */
+    /* 針對 Firefox 瀏覽器 */
+    scrollbar-width: none; 
+    /* 針對 Internet Explorer 10+ 和 Edge */
+    -ms-overflow-style: none; 
+}
+
+    .info-page .content-box {
+        width: 90vw; /* 寬度為視窗寬度的 80% */
+        max-width: 500px; /* 設定一個最大寬度，避免在較大的平板上過寬 */
+        min-height: auto; /* 這是關鍵：讓內容盒隨著內容縮小，不會被固定高度限制 */
+        height: auto; /* 確保高度會根據內容自動調整 */
+		max-height: none;
+
+        margin-top: 6vh;    /* 上方外邊距，與頁面頂部或其他元素保持距離 */
+        margin-bottom: 5vh; /* 下方外邊距，與頁腳或其他元素保持距離 */
+        margin-left: auto;  /* 左右自動外邊距，用於水平置中 */
+        margin-right: auto; /* 左右自動外邊距，用於水平置中 */
+
+        padding-top: 1vh;   /* 上方內邊距，增加內容與邊框的空間 */
+        padding-bottom: 0vh; /* 下方內邊距，增加內容與邊框的空間 */
+        padding-left: 5vw;  /* 左側內邊距 */
+        padding-right: 5vw; /* 右側內邊距 */
+
+        background: rgba(255, 255, 255, 0.05); /* 背景顏色（保持您原本的半透明深灰） */
+        color: white; /* 文字顏色 */
+        border-radius: 2.5vh; /* 圓角弧度 */
+        box-shadow: 0 0 1vh rgba(255, 255, 255, 0.2); /* 陰影效果 */
+
+        display: flex; /* 使用 Flexbox，如果內容是多個區塊，可以更好地控制排版 */
+        flex-direction: column; /* 讓內部元素垂直堆疊 */
+        align-items: center; /* 讓內部元素水平置中 */
+
+        box-sizing: border-box; /* 確保 padding 和 border 包含在寬度計算中，避免意外的寬度增加 */
+        overflow-y: visible; /* 確保內容溢出時會撐開容器，而不是出現滾動條 */
+    }
+
+    .game-detail .game-links-container {
+        display: flex; /* 使用 Flexbox */
+        flex-direction: column; /* 垂直排列子元素 */
+        align-items: flex-start; /* 子元素靠左對齊 */
+        gap: 8px; /* 增加連結之間的垂直間距 */
+        margin-top: 1vh; /* 根據需要調整與上方內容的距離 */
+        margin-bottom: 1vh; /* 根據需要調整與下方內容的距離 */
+        text-align: left; /* 確保文字本身也是左對齊 */
+    }
+
+    .game-detail .game-links-container a {
+        display: block; /* 讓連結變成塊級元素，各自佔據一行 */
+        width: 100%; /* 寬度佔滿父容器 */
+        /* 移除或覆蓋任何會導致水平排版的屬性，例如 white-space: nowrap; */
+        white-space: normal; /* 允許文字換行 */
+        text-align: left; /* 確保連結文字靠左 */
+    }
+
+    /* 移除連結中間的 "|" 分隔符 */
+    .game-detail .game-links-container a + a {
+        /* 如果您在 HTML 中使用了 "|"，這裡無法直接移除，需要調整 HTML */
+        /* 如果您是想用 CSS 方式自動添加分隔符，則這裡可以控制 */
+    }
+
+/* 針對基於 WebKit 的瀏覽器 (Chrome, Safari, Opera, 新版 Edge 等) */
+/* 這是針對 html 和 body 滾動條本身的一個偽元素 */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+    display: none; /* 隱藏滾動條的視覺部分 */
+}
+
+.giftcodes-page #new-games-container {
+    display: flex;              /* 使用 flex 布局 */
+    flex-direction: row;        /* 水平排列 */
+    gap: 1vh;                   /* 卡片間距 */
+    overflow-x: auto;           /* 啟用水平滾動 */
+    padding: 3vh 0;             /* 上下內邊距 */
+    scroll-behavior: smooth;    /* 平滑滾動效果 */
+    -webkit-overflow-scrolling: touch; /* 手機端平滑滾動 */
+    width: 100%;                /* 確保容器寬度適應內容 */
+}
+
+.giftcodes-page .game-card {
+    width: 12vh;                /* 固定卡片寬度 */
+    height: 12vh;               /* 固定卡片高度 */
+    flex-shrink: 0;             /* 防止卡片縮小 */
+    margin: 0 0.5vh;            /* 左右間距 */
+}
+
+.giftcodes-page #new-games-container::-webkit-scrollbar {
+	overflow: hidden;
+    display: none;              /* 隱藏滾動條（可選，視需求） */
+}
+  
+	.articles-page .sidebar {
+		display: none; /* 手機版隱藏側邊欄，透過漢堡選單顯示 */
+	}
+	
+    .header-wrapper {
+        left: 0;
+        width: 100%;
+        padding: 0; /* 移除內邊距，讓圖片可以完全填滿 */
+        height: auto;
+        min-height: 10vh; /* 根據您 Logo Banner 的實際高度微調，確保空間足夠 */
+        box-sizing: border-box; /* 確保 padding 不影響寬度計算 */
+    }
+		
+    .header-img {
+	position: fixed; /* 固定在頂部 */
+	z-index: 1001;
+    order: -1;                  /* 提前順序，確保 header-img 在最上面 */
+    display: block;            /* 顯示圖片 */
+    height: 8vh;
+    min-height: auto; /* 根據您 Logo Banner 的實際高度微調，確保空間足夠 */
+    width: 100%;               /* 寬度撐滿 */
+    max-width: 100%;           /* 限制最大寬度 */
+    cursor: pointer;           /* 滑鼠變成點擊狀態 */
+  }
+
+	.articles-page .main-content {
+		margin-right:0px ; /* 手機版主內容區佔滿 */
+		padding: 1vh;
+	}
+
+	.article-grid {
+		grid-template-columns: 1fr; /* 手機版單欄顯示 */
+	}
+  
+.gift-mobile-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    padding: 0 12px;
+  }  
+
+.new-games-page h1 {
+    color: #ffcc00; /* 這一行設定h1文字為黃色 */
+	margin-top:-10vh;
+	margin-bottom:0vh;
+}
+
+.all-games-page h1 {
+    color: #ffcc00; /* 這一行設定h1文字為黃色 */
+	margin-top:2vh;
+	margin-bottom:2vh;
+}
+
+.all-games-page #searchBox {
+  margin-bottom: 2vh;  /* 或視覺需求改成 2vh、4vh 都行 */
+}
+
+    .social-line.line1::after {
+        content: "";
+    }
+
+    .social-line.line2 {
+        display: block;
+        margin-top: 5px;
+    }
+
+    .social-break {
+        display: block;
+        width: 100%;
+        height: 0;
+    }
+
+  .product-item {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 2vh 2vw;
+	gap: 0.52vw;
+    margin-bottom: 1vh;
+    border-radius: 1vh;
+    box-sizing: border-box;
+  }
+
+#productList input[type="checkbox"] {
+    transform: scale(1.2);
+    margin-right: 2vw; /* 新增這行，確保手機也有空格 */
+}
+
+.product-name {
+  min-width: 70%;
+  flex: 1;
+  font-size: 2.2vh;
+  color: #fff;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.price-container {
+  min-width: 30%;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1vh;
+  font-weight: bold;
+  color: #fff;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+  .price-value {
+	font-size: 2.2vh;
+    white-space: nowrap;
+  }
+
+  #productList input[type="checkbox"] {
+    transform: scale(1.2);
+  }
+
+  .desktop-only {
+    display: none !important;
+  }
+
+  .mobile-only {
+    display: block;
+    background-color: #ffcc00;
+    color: #000;
+    font-weight: bold;
+    font-size: 2.5vh;
+    border: none;
+    border-radius: 1vh;
+    padding: 1.5vh 3vw;
+    width: 90%;
+    max-width: 400px;
+    margin: 3vh auto 0 auto;
+    text-align: center;
+    box-shadow: 0 0 1vh rgba(255, 255, 255, 0.3);
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+  }
+
+  .mobile-only:hover {
+    background-color: #ffd700;
+    box-shadow: 0 0 1.5vh #fff;
+  }
+
+  .game-detail .social-media {
+    margin-top: 2vh;      /* 與說明文字距離縮小 */
+    margin-bottom: 2vh;   /* 保持一點下方空間 */
+    text-align: center;
+  }
+
+  .game-detail .social-media p {
+    word-break: break-word;
+    font-size: 2vh;
+    line-height: 3vh;
+  }
+
+
+.mobile-vertical .games-wrapper-2col {
+  display: flex;
+	margin-top: 0vh;
+	margin-bottom: 7.5vh;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2vw;
+  width: 80%;
+}
+
+.mobile-vertical .main-content {
+  padding-top: 1vh;
+  display: flex;
+  flex-direction: column;      /* ← 原本是 column，改成 row */
+  justify-content: center;
+  align-items: center;
+  gap: 1vh;
+}
+
+.index-page .main-content {
+	overflow: hidden;
+	padding-top: 5vh;
+	}
+
+.main-content {
+	display: flex;
+    flex-direction: column;
+    gap: 0vh;
+    align-items: center;
+    justify-content: flex;
+  }
+
+.index-page h1 {
+	align-items: center;
+	margin-top: 4vh;
+	margin-bottom: 4vh;
+}
+
+.mobile-vertical .game-slider-container {
+  flex: 1;                  /* 每個容器平均佔寬 */
+  max-width: 50%;
+  height: 70vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+}
+
+  .mobile-vertical .game-slider {
+    display: flex;
+    flex-direction: column;
+    scroll-snap-align: start;
+  }
+
+  .mobile-vertical .slider-button {
+    display: none;
+  }
+  
+.new-games-page .main-content {
+	text-align: center;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+
+.all-games-page .main-content {
+	margin-right: 1vh;
+    text-align: center; /* 這一行使主內容文字置中 */
+	padding-top: 6vh;
+	padding-bottom: 5vh; /* 確保頁面底部留空，不會被 footer 蓋住 */
+}
+
+.all-games-page .games-grid {
+    max-width: 90%; /* 這一行設定網格最大寬度為90% */
+    display: grid; /* 這一行使網格使用網格布局 */
+    grid-template-columns: repeat(auto-fit, minmax(9vh, 1fr)); /* 這一行設定網格列數自適應，最小150px，每列等寬 */
+    gap: 4vh; /* 這一行設定網格內元素間距為2.6vw */
+    justify-content: center; /* 這一行使網格內容水平置中 */
+    margin: 0 auto; /* 這一行使網格水平置中 */
+}
+
+.card {
+    width: 12vh; /* 這一行設定卡片寬度為9.375vw */
+    height: 12vh; /* 這一行設定卡片高度為9.375vw，保持正方形 */
+    position: relative; /* 這一行使卡片使用相對定位 */
+    overflow: hidden; /* 這一行隱藏卡片溢出內容 */
+    border-radius: 1vh; /* 這一行設定卡片邊框圓角為0.52vw */
+    background: rgba(255, 255, 255, 0.1); /* 這一行設定卡片背景為半透明白色 */
+    display: flex; /* 這一行使卡片使用flex布局 */
+    align-items: center; /* 這一行使卡片內容垂直置中 */
+    justify-content: center; /* 這一行使卡片內容水平置中 */
+    transition: all 0.1s ease-in-out; /* 這一行設定卡片所有屬性過渡動畫，0.1秒緩入緩出 */
+    box-shadow: 0 0 0.52vw rgba(255, 255, 255, 0.2); /* 這一行為卡片添加陰影效果 */
+    cursor: pointer; /* 這一行使卡片懸停時顯示手型游標 */
+    margin: 0.52vw; /* 這一行設定卡片外邊距為0.52vw */
+}
+
+  .new-games-container {
+    padding: 2vh 10vw; /* 手機版上下 5vh，左右 10vw */
+    grid-template-columns: repeat(3, 1fr); /* 每排3張卡片 */
+    grid-template-rows: repeat(5, auto); /* 5排 */
+	gap: 3vh;
+  }
+/* new-game-item 可保留原樣 */
+.new-game-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+/* 卡片圖片全滿區塊 */
+.new-game-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0;
+}
+
+.new-game-card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 0.78vw #ffcc00, 0 0 1.56vw #fff, 0 0 2.34vw #4fff00;
+}
+
+  .content-box {
+    width: 80vw;                /* 左右占畫面 90% */
+  min-height: 80vh; /* 至少佔 80%，內容更多會自動變高 */
+  height: auto;      /* 自動依照內容撐高 */
+  /* 框框大小與位置 */
+  margin-top: 5vh;         /* 與選單距離 */
+  margin-bottom: 10vh;     /* 與頁腳距離 */
+  margin-left: 5vw;
+  margin-right: 5vw;
+  /* 文字內距 */
+  padding-top: 5vh;
+  padding-bottom: 10vh;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  }
+
+  .game-slider {
+    display: grid;
+    flex-direction: row;
+    gap: 3vw;
+    scroll-snap-align: start;
+  }
+
+  .slider-button {
+    display: none; /* 手機不顯示箭頭 */
+  }
+
+  
+    .sidebar {
+        display: none !important;
+    }
+.mobile-top-bar {
+    position: fixed; /* 固定在頂部 */
+    top: 8vh;
+    width: 100%;
+    z-index: 1001; /* 確保在所有內容和選單之上 */
+    background-color: #333; /* 與 header-wrapper 顏色一致 */
+    padding: 10px 0px;
+    display: flex; /* 預設在桌面隱藏，手機顯示 */
+    justify-content: flex-start;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5); /* 添加陰影 */
+}
+    /* 強制主內容區塊在手機版時的邊距和寬度 */
+    .main-content {
+        margin-left: 0 !important;
+        width: 100% !important;		
+    }
+
+    /* 頁腳在手機版時的調整 */
+    footer {
+        left: 0 !important;
+        margin-left: 0 !important;
+        width: 100% !important;
+        position: fixed; /* 確保固定在底部 */
+        bottom: 0;
+        /* ... 其他 footer 樣式 ... */
+    }
+	
+	    /* 阻止 body 滾動 (當選單開啟時) */
+    body.no-scroll {
+        overflow: hidden;
+    }
+
+  .game-detail .login-box {
+    display: none !important;
+  }
+
+	.info-box{
+    width: 80vw ;
+    margin: 5vh auto; /* 上下各 5vh，左右置中 */
+    padding: 4vh 5vw;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 1.5vh;
+    box-shadow: 0 0 1vh rgba(255, 255, 255, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+  .products-box {
+    width: 80vw ;
+    margin: 1vh auto; /* 上下各 5vh，左右置中 */
+    padding: 3vh 5vw;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 1.5vh;
+    box-shadow: 0 0 1vh rgba(255, 255, 255, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .game-detail .main-content {
+	justify-content: center;
+    flex-wrap: flex;               /* 允許換行 */
+    padding-bottom: 4vh;         /* 避免被 footer 蓋到 */
+	margin-top: 2vh;
+  }
+  
+    .giftcodes-page .new-games-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, auto);
+    gap: 2vh 3vw;
+    width: 90vw;
+    padding: 0 5vw;
+  }
+  
+  .small-60 {
+  max-width: 90% !important;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+.small-70 {
+  max-width: 90% !important;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+img.zoomable {
+  display: block;
+  margin: 10px auto;
+}
+
+.articles-banner {
+	display: block; /* 將圖片轉換為塊級元素 */
+    margin: 0 auto; /* 上下外邊距為0，左右自動，實現水平置中 */
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	border-radius: 8px;
+	margin-bottom: 20px;
+	text-align: center
+}
+
+.articles-banner img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+  
+}
+
+/*電腦版*/
+@media (min-width: 1025px) {
+  .header-img {
+    display: block;
+  padding-left: 10vw; /* 加上 sidebar 寬度與一些額外距離 */
+    max-width: 88vw;       /* 你已經設定，保持也沒問題 */
+  }
+  
+.giftcodes-page .new-games-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, auto);
+  gap: 2vh 1.5vw;
+  margin-top: 3vh;
+  margin-bottom: 5vh;
+  max-width: 80vw;
+  padding: 0 2vw;
+}
+
+  .mobile-only {
+    display: none !important;
+  }
+
+  .header-wrapper {
+    display: none; /* 預設桌機隱藏圖片 */
+  }
+  body.index-page .header-wrapper {
+    display: flex; /* 只有 index 頁面顯示圖片 */
+    justify-content: center;
+    align-items: center;
+    padding-left: calc(10.4vw + 2vw);
+    padding-right: 9vw;
+    margin-top: 0vh;
+  }
+
+  .slider-button {
+    display: block;
+  }
+
+  .content-box {
+    width: 50vw;                /* 扣掉 sidebar 後，左右占畫面約 70% */
+    height: 75vh;               /* 扣掉 footer 後，垂直占 80% */
+  }
+
+.info-page .contact-container  {
+    width: 90vw;                /* 左右占畫面 90% */
+    height: 80vh;               /* 扣掉 header 圖、選單、footer 後的剩餘 80% */
+  }
+}
