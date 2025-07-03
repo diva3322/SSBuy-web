@@ -7,28 +7,24 @@
     <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
     <script src="script.js" defer></script>
 </head>
-<body class="giftcodes-page">
-  <!-- Sidebar (桌機用) -->
-  <div class="sidebar">
+<body class="giftcodes-detail-page"> <div class="sidebar">
     <a href="https://www.ssbuy.tw/">
       <img src="logo.jpg" alt="公司 LOGO" class="company-logo" />
     </a>
 		<ul>
-		  <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
-		  <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
-		  <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
-		  <li><a href="https://www.ssbuy.tw/articles.html">攻略資訊</a></li>
+			  <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
+			  <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
+			  <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
+			  <li><a href="https://www.ssbuy.tw/giftcodes-list.html" class="active">好康兌換</a></li> 
 		</ul>
   </div>
 
-  <!-- 頂部圖片 -->
   <div class="header-wrapper">
     <a href="https://www.ssbuy.tw/">
       <img src="logobanner.jpg" alt="速速幫你儲手遊" class="header-img"/>
     </a>
   </div>
 
-  <!-- 小螢幕 MENU -->
   <div class="mobile-top-bar">
     <button class="mobile-menu-toggle">
       <span class="hamburger-icon">☰</span> MENU
@@ -36,71 +32,16 @@
   </div>
   <div class="mobile-dropdown-menu">
 		<ul>
-		  <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
-		  <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
-		  <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
-		  <li><a href="https://www.ssbuy.tw/articles.html">攻略資訊</a></li>
+			  <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
+			  <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
+			  <li><a href="https://www.ssbuy.tw/event.html">特惠活動</a></li>
+			  <li><a href="https://www.ssbuy.tw/giftcodes-list.html" class="active">好康兌換</a></li> 
 		</ul>
   </div>
 
     <div class="main-content">
-        <div class="content-box">
-		<a href="https://lihi.cc/OjPRl" target="_blank"> <img id="giftBanner" class="banner-image" src="giftcodesbanner/default.jpg" alt="橫幅圖">
-</a>
-
-            <h1 id="giftTitle">遊戲名稱 最新 禮包碼/兌換碼/序號/免費領取</h1>
-
-            <h2>目錄</h2>
-            <ol>
-                <li><a href="#section1">最新禮包碼分享</a></li>
-                <li><a href="#section2">禮包兌換碼</a></li>
-                <li><a href="#section3">要怎麼兌換禮包碼？</a></li>
-                <li><a href="#section4">遊戲內容是什麼？</a></li>
-                <li><a href="#section5">注意事項</a></li>
-                <li><a href="#section6">延伸閱讀</a></li>
-                <li><a href="#section7">新遊戲推薦</a></li>
-            </ol>
-
-            <h2 id="section1">1. 最新禮包碼分享</h2>
-            <p>小編今天來分享<strong id="gameName1">遊戲名稱</strong>在2025年最新的禮包碼囉！千萬別錯過，蒐集遊戲內官方資訊、玩家分享的<strong id="gameName2">遊戲名稱</strong>各式禮包碼、序號、兌換碼，內含兌換教學以及儲值優惠！趕緊來看看吧～</p>
-
-            <h2 id="section2">2. 禮包碼如下</h2>
-            <table class="gift-table">
-                <thead>
-                    <tr><th>禮包碼</th><th>內容物</th></tr>
-                </thead>
-                <tbody>
-                    <tr><td>XXX666</td><td>虛寶一組</td></tr>
-                    <tr><td>XXX777</td><td>虛寶一組</td></tr>
-                </tbody>
-            </table>
-
-            <h2 id="section3">3. 兌換方式</h2>
-            <ol>
-
-            </ol>
-
-            <h2 id="section4">4. 遊戲介紹</h2>
-            <p>
-			</p>
-
-            <h2 id="section5">5. 注意事項</h2>
-            <p>禮包碼多數有時間或數量限制，建議看到馬上使用避免失效。</p>
-
-			<h2 id="section6">6. 延伸閱讀</h2>
-            <ul>
-                <li><a href="account-verification.html">首次交易驗證</a></li>
-                <li><a href="google-verify.html">Google 復原碼教學</a></li>
-                <li><a href="fb-verify.html">FB 安全碼教學</a></li>
-                <li><a href="711pay.html">超商代碼繳費教學</a></li>
-                <li><a href="contact.html">聯絡客服</a></li>
-                <li><a id="backToGameDetailBtn" href="#">馬上回去儲值</a></li>
-            </ul>
-
-            <h2 id="section7">7. 新遊戲推薦</h2>
-            <div id="new-games-container"></div>
-			
-        </div>
+        <div class="content-box" id="giftcodes-main-container">
+            </div>
     </div>
 
   <footer>
@@ -110,8 +51,7 @@
 		  <a href="https://www.ssbuy.tw/contact.html">聯絡我們</a> |
 		  <a href="https://www.ssbuy.tw/disclaimer.html">免責條款</a> |
 		  <a href="https://www.ssbuy.tw/terms-of-service.html">服務條款</a> |
-		  <a href="https://www.ssbuy.tw/account-verification.html">帳戶認證</a> |
-		  <a href="https://www.ssbuy.tw/articles.html">攻略資訊</a>
+		  <a href="https://www.ssbuy.tw/account-verification.html">帳戶認證</a>
 		</div>
     </div>
   </footer>
