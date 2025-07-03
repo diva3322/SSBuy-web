@@ -96,12 +96,6 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.ssbuy.tw/new-test-game.html</loc>
-        <lastmod>2025-07-03</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
         <loc>https://www.ssbuy.tw/purchase-guide.html</loc>
         <lastmod>2025-07-03</lastmod>
         <changefreq>weekly</changefreq>
@@ -121,6 +115,12 @@
     </url>
     <url>
         <loc>https://www.ssbuy.tw/terms-of-service.html</loc>
+        <lastmod>2025-07-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.ssbuy.tw/test0704.html</loc>
         <lastmod>2025-07-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
