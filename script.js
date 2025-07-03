@@ -235,88 +235,102 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // 禮包碼總覽頁面 (giftcodes-list.html) 邏輯
-    if (document.body.classList.contains("giftcodes-list-page")) {
-        // 確保此頁面只渲染總覽列表
-        async function loadGiftcodesOverviewForListPage() {
-            updateMetaTags("好康兌換 - SSBUY", "SSBUY提供多款熱門手遊的最新禮包碼兌換資訊，輕鬆查找、立即領取豐厚獎勵！", "giftcodes-list-overview");
+if (document.body.classList.contains("giftcodes-list-page")) {
+    console.log("偵測到 giftcodes-list-page 頁面。");
+    async function loadGiftcodesOverviewForListPage() {
+        updateMetaTags("好康兌換 - SSBUY", "SSBUY提供多款熱門手遊的最新禮包碼兌換資訊，輕鬆查找、立即領取豐厚獎勵！", "giftcodes-list-overview");
 
-            const mainContentArea = document.querySelector('.main-content');
-            mainContentArea.innerHTML = `
-                <h1 class="page-title">2025最新齊全禮包碼一覽</h1>
-                <div class="search-bar">
-                    <input type="text" id="game-search-input" placeholder="搜尋遊戲名稱...">
-                    <button id="search-button">🔍 搜尋</button>
-                </div>
-                <ul id="giftcode-game-list">
-                    </ul>
-            `;
+        const mainContentArea = document.querySelector('.main-content');
+        if (!mainContentArea) {
+            console.error("無法找到 .main-content 元素來渲染禮包碼總覽頁面。");
+            return;
+        }
 
-            const gameSearchInput = document.getElementById('game-search-input');
-            const searchButton = document.getElementById('search-button');
-            const giftcodeGameList = document.getElementById('giftcode-game-list');
+        const gameSearchInput = document.getElementById('game-search-input');
+        const searchButton = document.getElementById('search-button');
+        const giftcodeGameList = document.getElementById('giftcode-game-list'); 
 
-            let allGamesData = {};
-            try {
-                const response = await fetch("gift-codes-data.json");
-                if (!response.ok) throw new Error("載入 gift-codes-data.json 失敗: " + response.statusText);
-                allGamesData = await response.json();
-            } catch (error) {
-                console.error("載入禮包碼數據失敗:", error);
+        // --- 新增：定義隨機副標題陣列 ---
+        const randomSubtitles = [
+            "豐富虛寶等你領",
+            "最新兌換碼集中",
+            "每日更新禮包碼",
+            "限定序號大放送",
+            "馬上兌換拿好禮",
+            "禮包碼攻略大全"
+        ];
+
+        // --- 新增：隨機選擇副標題的函數 ---
+        function getRandomSubtitle() {
+            const randomIndex = Math.floor(Math.random() * randomSubtitles.length);
+            return randomSubtitles[randomIndex];
+        }
+        // --- 新增結束 ---
+
+        let allGamesData = {};
+        try {
+            const response = await fetch("gift-codes-data.json");
+            if (!response.ok) throw new Error("載入 gift-codes-data.json 失敗: " + response.statusText);
+            allGamesData = await response.json();
+        } catch (error) {
+            console.error("載入禮包碼數據失敗:", error);
+            if (giftcodeGameList) {
                 giftcodeGameList.innerHTML = `<p style="color: red;">載入遊戲列表失敗，請稍後再試。</p>`;
+            }
+            return;
+        }
+
+        const gamesArray = Object.keys(allGamesData).map(gameName => ({
+            name: gameName,
+            banner: allGamesData[gameName].banner, // 總覽頁面依然使用 banner
+            id: encodeURIComponent(gameName)
+        }));
+
+        function populateGiftcodeGameList(gamesToDisplay) {
+            if (!giftcodeGameList) return; 
+            giftcodeGameList.innerHTML = '';
+            if (gamesToDisplay.length === 0) {
+                giftcodeGameList.innerHTML = '<p>沒有找到符合條件的遊戲。</p>';
                 return;
             }
+            gamesToDisplay.forEach(game => {
+                const listItem = document.createElement('li');
+                listItem.innerHTML = `
+                    <a href="gift-codes.html?game=${game.id}" class="giftcode-item-card">
+                        <img src="${game.banner}" alt="${game.name} Banner" class="game-banner-img" onerror="this.src='giftcodesbanner/default.jpg'; this.onerror=null;">
+                        <div class="game-info">
+                            <div class="game-name-title">${game.name}</div>
+                            <div class="giftcode-subtitle">${new Date().getFullYear()}${getRandomSubtitle()}</div> </div>
+                    </a>
+                `;
+                giftcodeGameList.appendChild(listItem);
+            });
+        }
 
-            const gamesArray = Object.keys(allGamesData).map(gameName => ({
-                name: gameName,
-                banner: allGamesData[gameName].banner,
-                id: encodeURIComponent(gameName) // 為了 URL 方便，使用 encodeURIComponent
-            }));
+        populateGiftcodeGameList(gamesArray.sort((a, b) => a.name.localeCompare(b.name)));
 
-            function populateGiftcodeGameList(gamesToDisplay) {
-                giftcodeGameList.innerHTML = '';
-                if (gamesToDisplay.length === 0) {
-                    giftcodeGameList.innerHTML = '<p>沒有找到符合條件的遊戲。</p>';
-                    return;
-                }
-                gamesToDisplay.forEach(game => {
-                    const listItem = document.createElement('li');
-                    listItem.innerHTML = `
-                        <a href="gift-codes.html?game=${game.id}" class="giftcode-item-card">
-                            <img src="${game.banner}" alt="${game.name} Banner" class="game-banner-img" onerror="this.src='giftcodesbanner/default.jpg'; this.onerror=null;">
-                            <div class="game-info">
-                                <div class="game-name-title">${game.name}</div>
-                                <div class="giftcode-subtitle">${new Date().getFullYear()}最新禮包碼兌換表</div>
-                            </div>
-                        </a>
-                    `;
-                    giftcodeGameList.appendChild(listItem);
-                });
-            }
+        searchButton.addEventListener('click', () => {
+            const searchTerm = gameSearchInput.value.toLowerCase();
+            const filteredGames = gamesArray.filter(game =>
+                game.name.toLowerCase().includes(searchTerm)
+            );
+            populateGiftcodeGameList(filteredGames.sort((a, b) => a.name.localeCompare(b.name)));
+        });
 
-            populateGiftcodeGameList(gamesArray.sort((a, b) => a.name.localeCompare(b.name)));
-
-            searchButton.addEventListener('click', () => {
+        gameSearchInput.addEventListener('keyup', (e) => {
+            if (e.key === 'Enter') {
+                searchButton.click();
+            } else {
                 const searchTerm = gameSearchInput.value.toLowerCase();
                 const filteredGames = gamesArray.filter(game =>
                     game.name.toLowerCase().includes(searchTerm)
                 );
                 populateGiftcodeGameList(filteredGames.sort((a, b) => a.name.localeCompare(b.name)));
-            });
-
-            gameSearchInput.addEventListener('keyup', (e) => {
-                if (e.key === 'Enter') {
-                    searchButton.click();
-                } else {
-                    const searchTerm = gameSearchInput.value.toLowerCase();
-                    const filteredGames = gamesArray.filter(game =>
-                        game.name.toLowerCase().includes(searchTerm)
-                    );
-                    populateGiftcodeGameList(filteredGames.sort((a, b) => a.name.localeCompare(b.name)));
-                }
-            });
-        }
-        loadGiftcodesOverviewForListPage(); // 初始載入總覽頁面
+            }
+        });
     }
+    loadGiftcodesOverviewForListPage(); // 初始載入總覽頁面
+}
 
     // 禮包碼詳情頁面 (gift-codes.html) 邏輯
     if (document.body.classList.contains("giftcodes-detail-page")) {
