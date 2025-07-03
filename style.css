@@ -28,127 +28,6 @@ body {
   font-weight: normal !important;
 }
 
-/* 新增或調整 style.css 中的樣式來匹配 */
-.articles-page .main-content {
-	margin-left: 13vw;
-	display: flex;
-	flex-direction: column;
-	padding: 3vh;
-	gap: 5px;
-	align-items: center;
-}
-
-.articles-banner {
-	display: block; /* 將圖片轉換為塊級元素 */
-    margin: 0 auto; /* 上下外邊距為0，左右自動，實現水平置中 */
-	width: 100%;
-	height: auto;
-	overflow: hidden;
-	border-radius: 8px;
-	margin-bottom: 20px;
-}
-
-.articles-banner img {
-	width: 100%;
-	height: auto;
-	display: block;
-}
-
-.articles-search-bar {
-	width: 90%;
-	padding: 10px 15px;
-	border: 1px solid #444;
-	border-radius: 5px;
-	background-color: #333;
-	color: #eee;
-	font-size: 1rem;
-	margin-bottom: 20px;
-}
-
-.articles-section {
-	background-color: #222;
-	padding: 20px;
-	border-radius: 8px;
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-}
-
-.articles-section h2 {
-	color: #00c300; /* 或您的品牌色 */
-	margin-bottom: 15px;
-	border-bottom: 2px solid #444;
-	padding-bottom: 10px;
-	font-size: 1.8rem;
-}
-
-.article-grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-	gap: 20px;
-}
-
-.article-card {
-	background-color: #333;
-	border-radius: 8px;
-	overflow: hidden;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-	transition: transform 0.2s ease, box-shadow 0.2s ease;
-	display: flex;
-	flex-direction: column;
-	text-decoration: none; /* 移除連結下劃線 */
-	color: inherit; /* 繼承文字顏色 */
-}
-
-.article-card:hover {
-	transform: translateY(-5px);
-	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
-}
-
-.article-card img {
-	width: 100%;
-	height: 180px; /* 固定圖片高度 */
-	object-fit: cover;
-}
-
-.article-card-content {
-	padding: 15px;
-	display: flex;
-	flex-direction: column;
-	flex-grow: 1;
-}
-
-.article-card-content h3 {
-	font-size: 1.2rem;
-	margin-bottom: 10px;
-	color: #eee;
-	line-height: 1.4;
-}
-
-.article-card-content p {
-	font-size: 0.9rem;
-	color: #bbb;
-	margin-bottom: 10px;
-	flex-grow: 1;
-}
-
-.article-meta {
-	font-size: 0.8rem;
-	color: #888;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
-
-.article-meta a {
-	color: #00bfff; /* 連結顏色 */
-	text-decoration: none;
-}
-
-.article-meta a:hover {
-	text-decoration: underline;
-}
-
-
-
 /* 側邊欄 */ /* 這一行是註解，標示側邊欄樣式開始 */
 .sidebar {
     width: 10.4vw; /* 這一行設定側邊欄寬度為視窗寬度的10.4%，響應式設計 */
@@ -468,6 +347,7 @@ body {
 
 /* #gameTitle => margin-top:-5px=>-0.26vw, margin-bottom:5px=>0.26vw */ /* 這一行是註解，標示遊戲標題樣式開始 */
 #gameTitle {
+	font-size: 3.6vh;
     color: #ffcc00; /* 這一行設定遊戲標題文字為白色 */
     margin-top: -0.26vw; /* 這一行設定遊戲標題上方負外邊距為-0.26vw */
     margin-bottom: 0.26vw; /* 這一行設定遊戲標題下方外邊距為0.26vw */
@@ -625,6 +505,10 @@ footer a:hover {
     align-items: flex-start; /* 這一行使主內容內容從頂部對齊 */
     gap: 1.04vw; /* 這一行設定主內容內元素間距為1.04vw */
     flex-wrap: nowrap; /* 這一行防止主內容內元素換行 */
+}
+
+.game-detail p{
+	font-size: 2vh;
 }
 
 .gfverify-page .main-content {
@@ -1093,29 +977,29 @@ img.zoomable {
     background-color: rgba(255, 255, 255, 0.05);
 }
 
-.giftcodes-page h2 {
-	color:#ffcc00;
+.giftcodes-detail-page h2 {
+	color:#ffcc00 ;
 	font-size:2.4vh;
 	margin-bottom:1vh;
 	margin-top:1vh;
 }
 
-.giftcodes-page h1 {
+.giftcodes-detail-page h1 {
 	color:#ffcc00;
 	font-size:3.7vh;
 }
 
-.giftcodes-page li{
+.giftcodes-detail-page li{
 	color:white;
 	font-size:2.2vh;
 }
 
-.giftcodes-page p{
+.giftcodes-detail-page p{
 	color:white;
 	font-size:2.2vh;
 }
 
-.giftcodes-page #new-games-container {
+.giftcodes-detail-page #new-games-container {
     display: flex;
     flex-wrap: nowrap;
     gap: 0.5vh;
@@ -1124,12 +1008,12 @@ img.zoomable {
 	padding-top:3vh;
 }
 
-.giftcodes-page .card:hover {
+.giftcodes-detail-page .card:hover {
     transform: scale(1.1); /* 這一行使卡片懸停時放大1.1倍 */
     box-shadow: 0 0 0.26vw #ffcc00, 0 0 0.78vw #fff, 0 0 1.56vw #4fff00; /* 這一行設定卡片懸停時的多層陰影效果 */
 }
 
-.giftcodes-page #new-games-container .game-card {
+.giftcodes-detail-page #new-games-container .game-card {
   width: 11vh;          /* ✅ 固定寬 */
   height: 11vh;          /* ✅ 固定高，卡片永遠是正方形 */
   overflow: hidden;
@@ -1144,14 +1028,14 @@ img.zoomable {
   cursor: pointer;
 }
 
-.giftcodes-page .card img {
+.giftcodes-detail-page .card img {
   width: 100%;
   height: 100%;
   object-fit: cover;     /* ✅ 強制圖片填滿、裁切多餘部分 */
   border-radius: 1vh;
 }
 
-.giftcodes-page .content-box {
+.giftcodes-detail-page .content-box {
   margin-top: 5vh; /* 與上方區塊的距離 */
   margin-bottom: 10vh; /* 與 footer 底部距離（建議用 5vh 更穩定） */
   background: rgba(255, 255, 255, 0.05); /* 半透明深灰背景（保留你原本的） */
@@ -1166,13 +1050,13 @@ img.zoomable {
   box-sizing: border-box; /* 讓 padding 不影響整體寬度與高度計算 */
 }
 
-.giftcodes-page .main-content {
+.giftcodes-detail-page .main-content {
   margin-left: 10.4vw; /* ✅ 與 sidebar 一樣寬度 */
   display: flex;
   justify-content: center;
 }
 
-.giftcodes-page .game-card {
+.giftcodes-detail-page .game-card {
     width: 12vh;                /* 固定卡片寬度 */
     height: 12vh;               /* 固定卡片高度 */
     flex-shrink: 0;             /* 防止卡片縮小 */
@@ -1202,6 +1086,130 @@ img.zoomable {
         /* 如果您在 HTML 中使用了 "|"，這裡無法直接移除，需要調整 HTML */
         /* 如果您是想用 CSS 方式自動添加分隔符，則這裡可以控制 */
     }
+	
+/* --- 禮包碼列表頁面 (articles.html 改造後的新樣式) --- */
+
+.giftcodes-list-page .main-content {
+    /* 確保與側邊欄對齊 */
+    margin-left: 10.4vw; 
+    width: calc(100% - 10.4vw);
+    padding: 2.08vw; /* 內邊距 */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 內容置中 */
+    padding-bottom: 10vh; /* 確保不被 footer 蓋住 */
+    box-sizing: border-box;
+}
+
+.giftcodes-list-page .page-title {
+    color: #ffcc00; /* 黃色標題 */
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+/* 搜尋條樣式 */
+.giftcodes-list-page .search-bar {
+    margin-bottom: 30px;
+    display: flex;
+    gap: 10px;
+    width: 80%; /* 寬度 */
+    max-width: 700px; /* 最大寬度 */
+}
+
+.giftcodes-list-page .search-bar input[type="text"] {
+    flex-grow: 1;
+    padding: 12px 15px;
+    border: 1px solid #444;
+    border-radius: 8px;
+    background-color: #333;
+    color: #eee;
+    font-size: 1.1rem;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.giftcodes-list-page .search-bar button {
+    padding: 12px 20px;
+    background-color: #ffcc00; /* SSBUY 黃色主題色 */
+    color: #333; /* 深色文字 */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.giftcodes-list-page .search-bar button:hover {
+    background-color: #ffd700;
+    transform: translateY(-1px);
+}
+
+/* 遊戲列表 UL 容器 */
+#giftcode-game-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 90%; /* 列表寬度 */
+    max-width: 900px; /* 列表最大寬度 */
+    display: flex;
+    flex-direction: column; /* 橫條由上往下排列 */
+    gap: 25px; /* 每個遊戲橫條之間的間距 */
+}
+
+#giftcode-game-list li {
+    margin: 0; /* 清除 li 預設外邊距 */
+}
+
+/* 遊戲橫條卡片樣式 (Banner + 標題) */
+.giftcode-item-card {
+    display: flex;
+    align-items: center; /* 垂直置中對齊 */
+    background: #2a2a2a; /* 略深於背景的卡片顏色 */
+    border: 1px solid #444; /* 邊框 */
+    border-radius: 12px; /* 圓角 */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* 陰影 */
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    cursor: pointer;
+    text-decoration: none; /* 移除連結下劃線 */
+    color: #fff; /* 文字顏色 */
+    padding: 15px 20px; /* 卡片內邊距 */
+}
+
+.giftcode-item-card:hover {
+    transform: translateY(-5px); /* 懸停時輕微上浮 */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5); /* 懸停時陰影加深 */
+    background: #3a3a3a; /* 懸停時背景略變淺 */
+}
+
+.giftcode-item-card .game-banner-img {
+    width: 100px; /* Banner 圖片寬度 */
+    height: 100px; /* Banner 圖片高度 */
+    object-fit: cover; /* 確保圖片填充並裁剪 */
+    border-radius: 15%; /* 輕微圓角方塊 */
+    margin-right: 20px;
+    border: 3px solid #ffcc00; /* 圖片邊框，配合主題色 */
+    flex-shrink: 0; /* 防止圖片被壓縮 */
+}
+
+.giftcode-item-card .game-info {
+    flex-grow: 1; /* 資訊區塊佔據剩餘空間 */
+    text-align: left;
+}
+
+.giftcode-item-card .game-name-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #ffcc00; /* 遊戲名稱文字顏色，配合主題色 */
+    margin-bottom: 5px;
+}
+
+.giftcode-item-card .giftcode-subtitle {
+    font-size: 1.1rem;
+    color: #bbb; /* 副標題顏色 */
+}	
+
 
 /* ★ 針對小螢幕(≤1024px)：隱藏sidebar、顯示 mobile-top-bar */ /* 這一行是註解，標示小螢幕媒體查詢開始 */
 @media (max-width: 1024px) {
@@ -1218,6 +1226,61 @@ html, body {
     /* 針對 Internet Explorer 10+ 和 Edge */
     -ms-overflow-style: none; 
 }
+
+    .giftcodes-list-page .main-content {
+        margin-left: 0 !important;
+        width: 100% !important;
+        padding: 15px; /* 手機版內邊距 */
+        padding-top: 14vh; /* 確保內容在手機頂部導航之下 */
+        padding-bottom: 8vh; /* 確保內容在手機底部 footer 之上 */
+    }
+
+    .giftcodes-list-page .page-title {
+        font-size: 3.8vh;
+        margin-top: 1vh;
+        margin-bottom: 20px;
+    }
+
+    .giftcodes-list-page .search-bar {
+        flex-direction: column; /* 搜尋框和按鈕垂直堆疊 */
+        width: 100%;
+        gap: 15px;
+    }
+
+    .giftcodes-list-page .search-bar input[type="text"],
+    .giftcodes-list-page .search-bar button {
+        width: 100%;
+        font-size: 1rem;
+        padding: 1.5vh 0vh;
+    }
+
+    #giftcode-game-list {
+        width: 100%;
+        gap: 15px;
+    }
+
+    .giftcode-item-card {
+        flex-direction: column; /* 手機版橫條轉為垂直堆疊 */
+        text-align: center;
+        padding: 15px;
+    }
+
+    .giftcode-item-card .game-banner-img {
+        margin-right: 0;
+        margin-bottom: 15px;
+        width: 80vw;
+        height: 20vh;
+        border-radius: 0%; /* 圓角方塊 */
+    }
+
+    .giftcode-item-card .game-name-title {
+        font-size: 1.5rem;
+        margin-bottom: 5px;
+    }
+
+    .giftcode-item-card .giftcode-subtitle {
+        font-size: 1rem;
+    }
 
     .info-page .content-box {
         width: 90vw; /* 寬度為視窗寬度的 80% */
@@ -1280,7 +1343,7 @@ body::-webkit-scrollbar {
     display: none; /* 隱藏滾動條的視覺部分 */
 }
 
-.giftcodes-page #new-games-container {
+.giftcodes-detail-page #new-games-container {
     display: flex;              /* 使用 flex 布局 */
     flex-direction: row;        /* 水平排列 */
     gap: 1vh;                   /* 卡片間距 */
@@ -1291,21 +1354,17 @@ body::-webkit-scrollbar {
     width: 100%;                /* 確保容器寬度適應內容 */
 }
 
-.giftcodes-page .game-card {
+.giftcodes-detail-page .game-card {
     width: 12vh;                /* 固定卡片寬度 */
     height: 12vh;               /* 固定卡片高度 */
     flex-shrink: 0;             /* 防止卡片縮小 */
     margin: 0 0.5vh;            /* 左右間距 */
 }
 
-.giftcodes-page #new-games-container::-webkit-scrollbar {
+.giftcodes-detail-page #new-games-container::-webkit-scrollbar {
 	overflow: hidden;
     display: none;              /* 隱藏滾動條（可選，視需求） */
 }
-  
-	.articles-page .sidebar {
-		display: none; /* 手機版隱藏側邊欄，透過漢堡選單顯示 */
-	}
 	
     .header-wrapper {
         left: 0;
@@ -1328,15 +1387,6 @@ body::-webkit-scrollbar {
     cursor: pointer;           /* 滑鼠變成點擊狀態 */
   }
 
-	.articles-page .main-content {
-		margin-right:0px ; /* 手機版主內容區佔滿 */
-		padding: 1vh;
-	}
-
-	.article-grid {
-		grid-template-columns: 1fr; /* 手機版單欄顯示 */
-	}
-  
 .gift-mobile-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -1475,7 +1525,7 @@ body::-webkit-scrollbar {
 }
 
 .mobile-vertical .main-content {
-  padding-top: 1vh;
+  padding-top: 5vh;
   display: flex;
   flex-direction: column;      /* ← 原本是 column，改成 row */
   justify-content: center;
@@ -1687,7 +1737,7 @@ body::-webkit-scrollbar {
 	margin-top: 2vh;
   }
   
-    .giftcodes-page .new-games-grid {
+    .giftcodes-detail-page .new-games-grid {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(5, auto);
     gap: 2vh 3vw;
@@ -1714,23 +1764,6 @@ img.zoomable {
   margin: 10px auto;
 }
 
-.articles-banner {
-	display: block; /* 將圖片轉換為塊級元素 */
-    margin: 0 auto; /* 上下外邊距為0，左右自動，實現水平置中 */
-	width: 100%;
-	height: auto;
-	overflow: hidden;
-	border-radius: 8px;
-	margin-bottom: 20px;
-	text-align: center
-}
-
-.articles-banner img {
-	width: 100%;
-	height: auto;
-	display: block;
-}
-  
 }
 
 /*電腦版*/
@@ -1741,7 +1774,7 @@ img.zoomable {
     max-width: 88vw;       /* 你已經設定，保持也沒問題 */
   }
   
-.giftcodes-page .new-games-grid {
+.giftcodes-detail-page .new-games-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(2, auto);

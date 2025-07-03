@@ -437,13 +437,13 @@ document.addEventListener("DOMContentLoaded", () => {
                     <li><a href="fb-verify.html">FB 安全碼教學</a></li>
                     <li><a href="711pay.html">超商代碼繳費教學</a></li>
                     <li><a href="contact.html">聯絡客服</a></li>
-                    <li><a id="backToGameDetailBtn" href="game-detail.html?game=${encodeURIComponent(gameName)}">🌟馬上回去儲值🌟</a></li>
+                    <li><a id="backToGameDetailBtn" href="game-detail.html?game=${encodeURIComponent(gameName)}">馬上回去儲值</a></li>
                 </ul>
 
                 <h2 id="section7">7. 新遊戲推薦</h2>
                 <div id="new-games-container" class="new-games-container-scroll">
                     </div>
-                <p><a href="giftcodes-list.html" id="back-to-overview">⬅️返回好康兌換總覽</a></p>
+                <p><a href="giftcodes-list.html" id="back-to-overview">返回好康兌換總覽</a></p>
             `;
 
             mainGiftcodesContainer.querySelectorAll('.copy-button').forEach(button => {
@@ -463,14 +463,37 @@ document.addEventListener("DOMContentLoaded", () => {
                 window.location.replace("giftcodes-list.html"); // 返回總覽頁面
             });
 
-                // 調用最新遊戲渲染，明確指定 limit = 10
-			const newGamesRecommendationContainer = document.getElementById('new-games-container');
-			await loadLatestGamesInGiftcodesPage(newGamesRecommendationContainer, 10);
+            const newGamesRecommendationContainer = document.getElementById('new-games-container');
+            await loadLatestGamesInGiftcodesPage(newGamesRecommendationContainer, gameDataRaw);
         }
         renderGameGiftcodeDetailPage(); // 初始載入詳情頁面
     }
 
+    // 文章頁面 (articles.html) 邏輯 - 保持原樣
+    if (document.body.classList.contains("articles-page")) {
+		updateMetaTags("遊戲攻略與最新資訊 - 速速幫你儲手遊", "提供多款熱門手遊的最新遊戲攻略、活動資訊與深度分析，助您輕鬆玩轉遊戲！", "articles");
 
+        const searchBox = document.querySelector('.articles-search-bar');
+        if (searchBox) {
+            searchBox.addEventListener('input', function() {
+                const searchText = this.value.toLowerCase();
+                document.querySelectorAll('.article-card').forEach(card => {
+                    const titleElement = card.querySelector('h3');
+                    const descriptionElement = card.querySelector('p');
+                    const content = (titleElement ? titleElement.textContent.toLowerCase() : '') +
+                                    (descriptionElement ? descriptionElement.textContent.toLowerCase() : '');
+
+                    if (content.includes(searchText)) {
+                        card.style.display = 'flex';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            });
+        }
+        // 如果你希望在 articles.html 中載入文章數據，可以在這裡添加 fetch 邏輯
+        // loadArticles(); // 呼叫載入文章函數
+    }
 });
 
 
@@ -959,55 +982,40 @@ async function loadNewGamesContent() {
 }
 
 // Function to load latest games specifically for giftcodes.html
-async function loadLatestGamesInGiftcodesPage(container, limit = 10) {
-    console.log(`loadLatestGamesInGiftcodesPage 調用，限制數量: ${limit}`); // 調試用
-    if (!container) {
-        console.error("找不到 new-games-container");
-        return;
-    }
+async function loadLatestGamesInGiftcodesPage(limit = 10) {
+    const res = await fetch("games.json");
+    const data = await res.json();
+    const container = document.getElementById("new-games-container"); // 這是禮包碼頁面最新遊戲的容器 ID
+    if (!container) return;
 
-    // 清空容器，防止重複添加
     container.innerHTML = "";
     container.className = "fixed-card-grid";
 
-    try {
-        const res = await fetch("games.json");
-        if (!res.ok) throw new Error("載入 games.json 失敗: " + res.statusText);
-        const data = await res.json();
+    const gameNames = Object.keys(data).slice(-limit).reverse();
+    const isMobile = window.innerWidth <= 1024;
 
-        // 確保只取最後 limit 個遊戲，並反轉順序
-        const gameNames = Object.keys(data).slice(-limit).reverse();
-        console.log(`實際載入遊戲數: ${gameNames.length}`); // 調試用
+    gameNames.forEach((name) => {
+        const game = data[name];
+        const card = document.createElement("a"); // 這裡也改為 a 標籤
+        card.className = "card game-card";
+        card.href = `game-detail.html?game=${encodeURIComponent(name)}`; // 設定 href
 
-        const isMobile = window.innerWidth <= 1024;
+        const img = document.createElement("img");
+        img.src = game.logo;
+        img.alt = name;
+        img.onerror = () => {
+            img.src = "images/default.jpg";
+            img.onerror = null;
+        };
 
-        // 清空並重新渲染遊戲卡片
-        gameNames.forEach((name) => {
-            const game = data[name];
-            const card = document.createElement("a");
-            card.className = "card game-card";
-            card.href = `game-detail.html?game=${encodeURIComponent(name)}`;
+        const title = document.createElement("div");
+        title.className = "game-title";
+        title.textContent = name;
 
-            const img = document.createElement("img");
-            img.src = game.logo;
-            img.alt = name;
-            img.onerror = () => {
-                img.src = "images/default.jpg";
-                img.onerror = null;
-            };
+        card.appendChild(img);
+        card.appendChild(title);
+        container.appendChild(card);
+    });
 
-            const title = document.createElement("div");
-            title.className = "game-title";
-            title.textContent = name;
-
-            card.appendChild(img);
-            card.appendChild(title);
-            container.appendChild(card);
-        });
-
-        container.classList.add(isMobile ? "gift-mobile-grid" : "gift-desktop-grid");
-    } catch (error) {
-        console.error("載入最新遊戲失敗:", error);
-        container.innerHTML = `<p style="color: red;">無法載入最新遊戲列表。</p>`;
-    }
+    container.classList.add(isMobile ? "gift-mobile-grid" : "gift-desktop-grid");
 }
