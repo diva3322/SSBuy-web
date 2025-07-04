@@ -3,5 +3,5 @@ git pull origin main之後開工
 改好之後下面上傳
 
 git add .
-git commit -m "這裡寫下您這次修改的簡短描述"
+git commit -m "更新內容"
 git push origin main
