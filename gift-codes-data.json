@@ -5051,7 +5051,7 @@
     ]
   },
   "RO仙境傳說:曙光": {
-    "banner": "giftcodesbanner/RO仙境傳說:曙光-禮包碼.jpg",
+    "banner": "giftcodesbanner/RO仙境傳說：曙光-禮包碼.jpg",
     "description": "由 Gravity Game Vision 打造的 MMORPG 手遊新作《RO 仙境傳說：曙光》今（3）日於港澳台地區雙平台（iOS / Android）正式上市。官方表示，本作延續《仙境傳說》經典 IP，結合創新的「英雄變身」與「雙人小隊」社交玩法，帶來全新 RO 體驗。",
     "howTo": [
       "進入主畫面，點選個人頭像",
@@ -5129,6 +5129,69 @@
       {
         "code": "更新中",
         "reward": "更新中"
+      }
+    ]
+  },
+  "RO仙境傳說：曙光": {
+    "banner": "giftcodesbanner/RO仙境傳說：曙光-禮包碼.jpg",
+    "description": "由 Gravity Game Vision 打造的 MMORPG 手遊新作《RO 仙境傳說：曙光》今（3）日於港澳台地區雙平台（iOS / Android）正式上市。官方表示，本作延續《仙境傳說》經典 IP，結合創新的「英雄變身」與「雙人小隊」社交玩法，帶來全新 RO 體驗。",
+    "howTo": [
+      "進入主畫面，點選個人頭像",
+      "進入設定（齒輪）",
+      "輸入禮包碼 → 確認兌換"
+    ],
+    "codes": [
+      {
+        "code": "SVIP666",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "SVIP888",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "J0RO666",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "6tanRO666",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "RPG666",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "ROG888",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "FBHAPPY",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "ROSG",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "RO666",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "RO888",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "RO2025",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "RO999",
+        "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "VIPFree",
+        "reward": "隨機虛寶或鑽石獎勵"
       }
     ]
   }
