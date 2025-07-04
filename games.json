@@ -5507,5 +5507,270 @@
       "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=277065"
     },
     "description": "曾經是天魔的我，醒來後竟回到了低等魔人！上吧！在全新的魔道世界中，成長為天魔的 MMORPG !!\n裝備不用抽！刷裝才是MMORPG的王道！8次轉生與全新轉職！透過覺醒獲得頓悟，最終成為天魔絕非難事！"
+  },
+  "屍戰王朝": {
+    "logo": "images/屍戰王朝.jpg",
+    "products": [
+      {
+        "name": "6000金條",
+        "price": 2626
+      },
+      {
+        "name": "5400金條",
+        "price": 2386
+      },
+      {
+        "name": "4500金條",
+        "price": 1987
+      },
+      {
+        "name": "3000金條",
+        "price": 1362
+      },
+      {
+        "name": "2400金條",
+        "price": 1078
+      },
+      {
+        "name": "1800金條",
+        "price": 809
+      },
+      {
+        "name": "1200金條",
+        "price": 555
+      },
+      {
+        "name": "900金條",
+        "price": 406
+      },
+      {
+        "name": "600金條",
+        "price": 275
+      },
+      {
+        "name": "300金條",
+        "price": 141
+      },
+      {
+        "name": "60金條",
+        "price": 27
+      },
+      {
+        "name": "三種卡",
+        "price": 227
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/zombiedynastytw/",
+      "官方網站": "https://www.facebook.com/zombiedynastytw/",
+      "禮包碼": "gift-codes.html?game=屍戰王朝",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B1%8D%E6%88%B0%E7%8E%8B%E6%9C%9D/id6742134834",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82526"
+    },
+    "description": "《屍戰王朝》是以朝鮮王朝為背景的屍戰驚悚 MMO 手遊，遊戲內設有王朝特色職業供玩家自由選擇。朝鮮王庭武士為朝鮮第一劍，天生的武藝奇才精通劍法，擅長揮舞長劍捍衛國家的榮譽和百姓的安寧。遊牧遊獵則是居住在朝鮮王朝北方邊境的民族，擅長使用短刀攻擊和召喚蒼鷹發射羽箭。"
+  },
+  "機甲變變變": {
+    "logo": "images/機甲變變變.jpg",
+    "products": [
+      {
+        "name": "10000鑽石",
+        "price": 2626
+      },
+      {
+        "name": "4500鑽石",
+        "price": 1362
+      },
+      {
+        "name": "1700鑽石",
+        "price": 555
+      },
+      {
+        "name": "800鑽石",
+        "price": 275
+      },
+      {
+        "name": "350鑽石",
+        "price": 141
+      },
+      {
+        "name": "60鑽石",
+        "price": 30
+      },
+      {
+        "name": "高級月卡",
+        "price": 141
+      },
+      {
+        "name": "至尊月卡",
+        "price": 555
+      },
+      {
+        "name": "高級戰令",
+        "price": 275
+      },
+      {
+        "name": "豪華戰令",
+        "price": 809
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/baoger820/?locale=zh_HK",
+      "官方網站": "https://www.facebook.com/profile.php?id=61577211562418",
+      "禮包碼": "gift-codes.html?game=機甲變變變",
+      "App Store": "https://apps.apple.com/tw/app/%E6%A9%9F%E7%94%B2%E8%AE%8A%E8%AE%8A%E8%AE%8A/id6742772771",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=288283"
+    },
+    "description": "《機甲變變變》是一款科幻機甲題材遊戲，主打「輕鬆射擊、瘋狂割草」的爽快戰鬥體驗，玩家將化身末日世界中的王牌機甲駕駛員，自由改裝各種帥氣、可愛機甲，搭配隕星炮、超級飛彈等毀滅級武器，無腦爽刷成群喪屍！ 單手就能輕鬆操作，見一個射一個，輕鬆上演千人斬，體驗無限割草快感，即使連戰數回也毫無壓力，真正做到「療癒又解壓」！"
+  },
+  "狼少女蘭吉": {
+    "logo": "images/狼少女蘭吉.jpg",
+    "products": [
+      {
+        "name": "99900鑽石",
+        "price": 1845
+      },
+      {
+        "name": "49900鑽石",
+        "price": 809
+      },
+      {
+        "name": "29900鑽石",
+        "price": 572
+      },
+      {
+        "name": "9900鑽石",
+        "price": 183
+      },
+      {
+        "name": "5900鑽石",
+        "price": 109
+      },
+      {
+        "name": "1200鑽石",
+        "price": 30
+      },
+      {
+        "name": "1990禮包",
+        "price": 1603
+      },
+      {
+        "name": "1290禮包",
+        "price": 1054
+      },
+      {
+        "name": "990禮包",
+        "price": 809
+      },
+      {
+        "name": "690禮包",
+        "price": 572
+      },
+      {
+        "name": "490禮包",
+        "price": 406
+      },
+      {
+        "name": "190禮包",
+        "price": 158
+      },
+      {
+        "name": "120禮包",
+        "price": 109
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100083532752206/posts/%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5%E7%8B%BC%E5%B0%91%E5%A5%B3%E8%98%AD%E5%90%89-line%E8%A8%8E%E8%AB%96%E7%BE%A4httpsreurlcc4n5bmy%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5%E7%8B%BC%E5%B0%91%E5%A5%B3%E8%98%AD%E5%90%89-fb%E8%A8%8E%E8%AB%96%E7%BE%A4httpswwwfacebookcomgroups19836/711296994998053/",
+      "官方網站": "https://play.google.com/store/apps/collection/promotion_3000000d51_pre_registration_games?hl=zh_HK",
+      "禮包碼": "gift-codes.html?game=狼少女蘭吉",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%82%E5%A4%A7%E5%B8%AB%E4%BD%9C%E5%93%81%E7%B2%BE%E9%81%B8%E5%90%88%E9%9B%86/id871569975",
+      "巴哈姆特": "https://home.gamer.com.tw/creationDetail.php?sn=6170777"
+    },
+    "description": "《狼少女蘭吉！》 7月1日 正式上線 Go Go Wolf Idle RPG 狼人變身放置型無限成長 RPG | 少女吃了西紅柿 月光下變身狼人 施展猛烈砍殺動作 召喚強大的技能 設定終極技能組合"
+  },
+  "RO仙境傳說:曙光": {
+    "logo": "images/RO仙境傳說曙光.jpg",
+    "products": [
+      {
+        "name": "3290台幣商品",
+        "price": 2626
+      },
+      {
+        "name": "1690台幣商品",
+        "price": 1362
+      },
+      {
+        "name": "990台幣商品",
+        "price": 809
+      },
+      {
+        "name": "670台幣商品",
+        "price": 555
+      },
+      {
+        "name": "490台幣商品",
+        "price": 406
+      },
+      {
+        "name": "330台幣商品",
+        "price": 275
+      },
+      {
+        "name": "170台幣商品",
+        "price": 141
+      },
+      {
+        "name": "33台幣商品",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Ro.Twilight.tw/",
+      "官方網站": "https://www.facebook.com/Ro.Twilight.tw/",
+      "禮包碼": "gift-codes.html?game=RO仙境傳說:曙光",
+      "App Store": "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E6%9B%99%E5%85%89/id6743156171",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82791"
+    },
+    "description": "由 Gravity Game Vision 打造的 MMORPG 手遊新作《RO 仙境傳說：曙光》今（3）日於港澳台地區雙平台（iOS / Android）正式上市。官方表示，本作延續《仙境傳說》經典 IP，結合創新的「英雄變身」與「雙人小隊」社交玩法，帶來全新 RO 體驗。"
+  },
+  "星曲Ultra": {
+    "logo": "images/星曲Ultra.jpg",
+    "products": [
+      {
+        "name": "10000鑽石",
+        "price": 2626
+      },
+      {
+        "name": "5000鑽石",
+        "price": 1362
+      },
+      {
+        "name": "2000鑽石",
+        "price": 555
+      },
+      {
+        "name": "1000鑽石",
+        "price": 275
+      },
+      {
+        "name": "500鑽石",
+        "price": 141
+      },
+      {
+        "name": "100鑽石",
+        "price": 30
+      },
+      {
+        "name": "特惠禮包",
+        "price": 450
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/WartuneUltracht/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.wan.wartuneh5&hl=zh",
+      "禮包碼": "gift-codes.html?game=星曲Ultra",
+      "App Store": "https://apps.apple.com/tw/app/%E6%98%9F%E6%9B%B2-ultra/id1570085024",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82995"
+    },
+    "description": "西方魔幻風格網頁遊戲《星曲》的全新手機遊戲《星曲 Ultra》於今日正式上線。官方表示，本作由原班團隊第七大道打造，既保留了原作版本的核心元素，又結合行動裝置特性進行全面最佳化，經典與創新的完美融合，讓這個十三年前的經典 IP 煥發新生命力。"
   }
 }

@@ -124,7 +124,7 @@ def main():
             # 假設 description 在 Excel 的第八列 (索引 7)
             description_from_excel = row[7] if (len(row) > 7 and row[7] is not None) else ""
             games_data[game_name]['description'] = str(description_from_excel).strip()
-            print(f"  - 略過 '{game_name}' 的外部連結搜尋 (已存在)，但更新了簡介。")
+            # print(f"  - 略過 '{game_name}' 的外部連結搜尋 (已存在)，但更新了簡介。")
             continue # 跳過本次迴圈的其餘部分，處理下一個遊戲
 
 
