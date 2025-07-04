@@ -1285,7 +1285,7 @@ html, body {
     .info-page .content-box {
         width: 90vw; /* 寬度為視窗寬度的 80% */
         max-width: 500px; /* 設定一個最大寬度，避免在較大的平板上過寬 */
-        min-height: auto; /* 這是關鍵：讓內容盒隨著內容縮小，不會被固定高度限制 */
+        min-height: 70vh; /* 這是關鍵：讓內容盒隨著內容縮小，不會被固定高度限制 */
         height: auto; /* 確保高度會根據內容自動調整 */
 		max-height: none;
 
@@ -1525,7 +1525,7 @@ body::-webkit-scrollbar {
 }
 
 .mobile-vertical .main-content {
-  padding-top: 5vh;
+  padding-top: 2vh;
   display: flex;
   flex-direction: column;      /* ← 原本是 column，改成 row */
   justify-content: center;
