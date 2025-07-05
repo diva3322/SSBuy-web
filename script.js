@@ -1,5 +1,11 @@
 // ====== 通用功能 (所有頁面都會執行) ======
 
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-PT5KLNN6ZP');
+
 // Helper function to update meta tags (包含 Canonical Tag)
 function updateMetaTags(title, description, pageName = "") {
     document.title = title;
