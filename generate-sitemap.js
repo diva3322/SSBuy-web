@@ -74,8 +74,8 @@ async function generateSitemap() {
         const gamesJson = fs.readFileSync(GAMES_DATA_PATH, 'utf8');
         gamesData = JSON.parse(gamesJson);
         
-        console.log('Parsed games.json data:', gamesData); 
-        console.log('Is gamesData an Array?', Array.isArray(gamesData)); 
+        //console.log('Parsed games.json data:', gamesData); 
+        //console.log('Is gamesData an Array?', Array.isArray(gamesData)); 
 
     } catch (error) {
         console.error('Error reading or parsing games.json for sitemap generation:', error);
@@ -112,8 +112,8 @@ async function generateSitemap() {
         const giftCodesJson = fs.readFileSync(GIFT_CODES_DATA_PATH, 'utf8');
         giftCodesData = JSON.parse(giftCodesJson); //
 
-        console.log('Parsed gift-codes-data.json data:', giftCodesData);
-        console.log('Is giftCodesData an Array?', Array.isArray(giftCodesData));
+        //console.log('Parsed gift-codes-data.json data:', giftCodesData);
+        //console.log('Is giftCodesData an Array?', Array.isArray(giftCodesData));
 
     } catch (error) {
         console.error('Error reading or parsing gift-codes-data.json for sitemap generation:', error);

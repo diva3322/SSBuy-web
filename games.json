@@ -5772,5 +5772,152 @@
       "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82995"
     },
     "description": "西方魔幻風格網頁遊戲《星曲》的全新手機遊戲《星曲 Ultra》於今日正式上線。官方表示，本作由原班團隊第七大道打造，既保留了原作版本的核心元素，又結合行動裝置特性進行全面最佳化，經典與創新的完美融合，讓這個十三年前的經典 IP 煥發新生命力。"
+  },
+  "第七天災": {
+    "logo": "images/第七天災.jpg",
+    "products": [
+      {
+        "name": "6480龍晶",
+        "price": 2626
+      },
+      {
+        "name": "3280龍晶",
+        "price": 1362
+      },
+      {
+        "name": "1980龍晶",
+        "price": 809
+      },
+      {
+        "name": "1280龍晶",
+        "price": 555
+      },
+      {
+        "name": "980龍晶",
+        "price": 406
+      },
+      {
+        "name": "680龍晶",
+        "price": 287
+      },
+      {
+        "name": "300龍晶",
+        "price": 148
+      },
+      {
+        "name": "60龍晶",
+        "price": 29
+      },
+      {
+        "name": "周卡",
+        "price": 52
+      },
+      {
+        "name": "尊享月卡",
+        "price": 287
+      },
+      {
+        "name": "特權月卡",
+        "price": 148
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DISASTERSEVEN/",
+      "官方網站": "https://www.facebook.com/DISASTERSEVEN/",
+      "禮包碼": "gift-codes.html?game=第七天災",
+      "App Store": "https://apps.apple.com/tw/app/%E7%AC%AC%E4%B8%83%E5%A4%A9%E7%81%BD/id6741502281",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82690"
+    },
+    "description": "《第七天災》主打天災逃生玩法，各位救世主將在無法預測的災難中尋找生機，有阻斷各處通路的洪水，高溫引發的酷暑和持續掉血的蟲災等，副本最後還要面對數以萬計的魔潮進攻。 是在死亡倒計時中艱難生存，還是帶領眾人逃出生天，天災之下的故事由玩家書寫。"
+  },
+  "百萬神界": {
+    "logo": "images/百萬神界.jpg",
+    "products": [
+      {
+        "name": "12960鑽石",
+        "price": 2753
+      },
+      {
+        "name": "6560鑽石",
+        "price": 1394
+      },
+      {
+        "name": "3960鑽石",
+        "price": 850
+      },
+      {
+        "name": "2560鑽石",
+        "price": 580
+      },
+      {
+        "name": "1360鑽石",
+        "price": 289
+      },
+      {
+        "name": "600鑽石",
+        "price": 152
+      },
+      {
+        "name": "180鑽石",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/61573882319598",
+      "官方網站": "https://www.facebook.com/61573882319598",
+      "禮包碼": "gift-codes.html?game=百萬神界",
+      "App Store": "https://apps.apple.com/tw/app/%E7%99%BE%E8%90%AC%E7%A5%9E%E7%95%8C/id6740856036",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82788"
+    },
+    "description": "《百萬神界》是一款由上海沐瞳科技有限公司發行的策略角色扮演手遊，以奇幻神話為背景，融合卡牌收集與策略戰鬥元素。 遊戲以其精美的畫面、豐富的角色養成系統和多元化的策略玩法受到玩家喜愛。 作為一款免費下載的手遊，它支援多平台，操作簡單且易上手，適合各類玩家。"
+  },
+  "Dark war": {
+    "logo": "images/Dark war.jpg",
+    "products": [
+      {
+        "name": "10000鑽石",
+        "price": 2474
+      },
+      {
+        "name": "5000鑽石",
+        "price": 1257
+      },
+      {
+        "name": "2000鑽石",
+        "price": 522
+      },
+      {
+        "name": "1000鑽石",
+        "price": 274
+      },
+      {
+        "name": "500鑽石",
+        "price": 139
+      },
+      {
+        "name": "100鑽石",
+        "price": 29
+      },
+      {
+        "name": "成長戰令",
+        "price": 522
+      },
+      {
+        "name": "英雄養成手冊",
+        "price": 637
+      },
+      {
+        "name": "建築佇列禮包",
+        "price": 83
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/Dark-War-Survival-Game-61557478333451/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.readygo.dark.gp",
+      "禮包碼": "gift-codes.html?game=Dark war",
+      "App Store": "https://apps.apple.com/tw/app/dark-war-survival/id6670441558",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=81434"
+    },
+    "description": "一場突如其來的殭屍病毒使人類文明分崩離析，你曾經溫馨舒適的生活不復存在。 一個個親人、朋友在你眼前變成了殭屍。 一路跌跌撞撞逃出來，現在的你面臨終極挑戰：建立避難所躲避殭屍末日、重新點亮人類文明的火種。 你能否順利應對這危機四伏的環境，並帶領其他倖存者一起重建文明？"
   }
 }
