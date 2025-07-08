@@ -166,8 +166,8 @@ async function generateSitemap() {
     const sitemapXml = builder.build(xmlData);
 
     fs.writeFileSync('sitemap.xml', sitemapXml, 'utf8');
-    console.log('sitemap.xml generated successfully!');
-    console.log('Remember to commit and push sitemap.xml to GitHub!');
+    console.log('sitemap.xml 製作成功!');
+    console.log('記得把sitemap.xml弄到GitHub!');
 }
 
 generateSitemap().catch(console.error);
