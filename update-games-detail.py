@@ -107,7 +107,7 @@ def main():
             # print(f"  - 更新 '{game_name}' 的禮包碼為: {current_gift_url}") # 避免過多輸出
     print("禮包碼 URL 更新完成。\n")
     
-    # ------------------------------------------------------------------
+# ------------------------------------------------------------------
     # ✅ 階段二：處理所有遊戲數據 (包括新增的和現有的)
     # 重新遍歷 Excel 數據，處理所有遊戲的詳細資訊
     print("--- 處理所有遊戲的詳細資訊 (包括新增與更新) ---")
@@ -115,18 +115,6 @@ def main():
         game_name = str(row[0]).strip() if row[0] is not None else ""
         if not game_name:
             continue
-
-        # 如果遊戲不在新遊戲列表中，且已經存在於 games_data 中，則跳過 API 搜尋
-        # 因為 API 搜尋會比較慢，且假設現有遊戲的 FB/官網/AppStore/巴哈數據是已經處理過的
-        # 如果您希望每次都重新搜尋所有遊戲的社交媒體，請移除或修改這個條件
-        if game_name not in new_games and game_name in games_data:
-            # 確保 description 欄位也被更新
-            # 假設 description 在 Excel 的第八列 (索引 7)
-            description_from_excel = row[7] if (len(row) > 7 and row[7] is not None) else ""
-            games_data[game_name]['description'] = str(description_from_excel).strip()
-            # print(f"  - 略過 '{game_name}' 的外部連結搜尋 (已存在)，但更新了簡介。")
-            continue # 跳過本次迴圈的其餘部分，處理下一個遊戲
-
 
         # 用 clean_filename 處理圖片名稱
         cleaned_game_name = clean_filename(game_name)
@@ -137,52 +125,53 @@ def main():
         gift_url_for_social = excel_gift_url if excel_gift_url else f"gift-codes.html?game={game_name}"
 
         # -------------------------------------------------------------------
-        # ✅ 修正後的商品讀取邏輯 (更健壯地處理空值和格式錯誤)
+        # ✅ 修正後的商品讀取邏輯 (現在這個區塊會對所有遊戲執行)
         products = []
-        # >>> 請確認這裡的 'product_start_col_idx' 是否與您 Excel 中第一個商品名稱的列索引一致 (從 0 開始計算) <<<
-        # 例如: 如果商品名稱在 D 列, 則為 3 (A=0, B=1, C=2, D=3)
-        product_start_col_idx = 8 
+        product_start_col_idx = 8
         
-        # 遍歷可能的商品名稱和價格對
-        # 這裡會遍歷到 Excel 行的實際長度，避免超出範圍
         for i in range(product_start_col_idx, len(row), 2): 
             pname_col_idx = i
             price_col_idx = i + 1
 
-            # 如果已經沒有足夠的欄位來組成一對 (名稱+價格)，則停止
             if price_col_idx >= len(row):
-                # print(f"DEBUG: 遊戲 '{game_name}' - 已達列尾，停止讀取商品。") # 偵錯用
                 break 
             
             pname_raw = row[pname_col_idx]
             price_raw = row[price_col_idx]
 
-            # 將原始數據轉換為字串並去除首尾空白
             pname = str(pname_raw).strip() if pname_raw is not None else ""
             price_str = str(price_raw).strip() if price_raw is not None else ""
 
-            # 如果商品名稱和價格字串都為空，則認為是該遊戲商品列表的結束
             if not pname and not price_str:
-                # print(f"DEBUG: 遊戲 '{game_name}' - 商品名稱和價格都為空，結束商品讀取。") # 偵錯用
                 break 
             
-            # 只有當商品名稱存在時才嘗試處理這個商品
             if pname:
                 try:
-                    price = int(price_str) # 嘗試將價格字串轉換為整數
+                    price = int(price_str)
                     products.append({"name": pname, "price": price})
-                    # print(f"DEBUG: 遊戲 '{game_name}' - 成功讀取商品: '{pname}', 價格: {price}") # 偵錯用
                 except (ValueError, TypeError) as e:
-                    # 如果價格轉換失敗 (例如價格不是純數字或為空)，打印警告並跳過此商品對，但繼續檢查下一個商品
                     print(f"警告：遊戲 '{game_name}' (列 {row_idx+2}) 商品 '{pname}' 的價格 '{price_str}' 不是有效數字或格式錯誤，已跳過該商品。錯誤: {e}")
-            else:
-                # 如果商品名稱為空，但價格不為空 (異常情況)，也打印警告
-                if price_str:
-                    print(f"警告：遊戲 '{game_name}' (列 {row_idx+2}) 在欄位 {pname_col_idx+1} 發現空商品名稱但有價格 '{price_str}'，已跳過此商品對。")
+                else: # 如果商品名稱為空，但價格不為空 (異常情況)，也打印警告
+                    if price_str:
+                        print(f"警告：遊戲 '{game_name}' (列 {row_idx+2}) 在欄位 {pname_col_idx+1} 發現空商品名稱但有價格 '{price_str}'，已跳過此商品對。")
         # -------------------------------------------------------------------
+        
+        # === 新增功能：從 Excel 讀取 description ===
+        description_from_excel = row[7] if (len(row) > 7 and row[7] is not None) else ""
+
+        # --- 處理外部連結搜尋的條件邏輯 ---
+        # 如果是舊遊戲且非新遊戲，則不進行 API 搜尋，但會更新 products 和 description
+        if game_name not in new_games and game_name in games_data:
+            # 這裡只更新 description 和 products，不進行外部連結搜尋
+            games_data[game_name]['description'] = str(description_from_excel).strip()
+            games_data[game_name]['products'] = products # ✅ 確保更新了商品列表
+            # print(f"  - 略過 '{game_name}' 的外部連結搜尋 (已存在)，但更新了簡介和商品。")
+            print(f"✅ '{game_name}' (舊遊戲) 簡介與商品數據更新完成。") # 新增一個更明確的訊息
+            continue # 跳過 API 搜尋部分
 
         # -----------------------------------------------------------
         # 自動搜尋社交媒體連結 (此功能會發送 API 請求，可能會有速率限制)
+        # 這段程式碼只會在新的遊戲或者您希望重新搜尋的舊遊戲上執行
         print(f"  - 正在搜尋 '{game_name}' 的外部連結...")
         facebook = google_search(f"{game_name} FB")
         website = google_search(f"{game_name} 官方")
@@ -195,27 +184,21 @@ def main():
         social_links = {
             "Facebook": facebook,
             "官方網站": website,
-            "禮包碼": gift_url_for_social, # 禮包碼使用從 Excel 讀取或生成的 URL
+            "禮包碼": gift_url_for_social,
             "App Store": appstore,
             "巴哈姆特": bahamut
         }
         
-        # === 新增功能：從 Excel 讀取 description ===
-        # 假設 description 在 Excel 的第八列 (索引 7)
-        # 請根據您的 Excel 實際欄位位置調整 '7'
-        description_from_excel = row[7] if (len(row) > 7 and row[7] is not None) else ""
-
-
-        # 將所有資訊組合成遊戲數據字典
+        # 將所有資訊組合成遊戲數據字典 (對於新遊戲或重新搜尋的舊遊戲)
         games_data[game_name] = {
             "logo": logo,
             "products": products, # 使用修正後讀取到的商品列表
             "social": social_links,
-            "description": str(description_from_excel).strip() # 將讀取到的簡介存入 JSON
+            "description": str(description_from_excel).strip()
         }
 
-        print(f"✅ '{game_name}' 數據處理完成。")
-        time.sleep(0.5) # 處理每個遊戲之間的延遲
+        print(f"✅ '{game_name}' (新遊戲或外部連結已更新) 數據處理完成。")
+        time.sleep(0.5)
 
     # 寫入更新後的 JSON 檔案
     with open("games.json", "w", encoding="utf-8") as f:
