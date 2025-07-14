@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*.xlsx$
+
+Sitemap: https://www.ssbuy.tw/sitemap.xml
