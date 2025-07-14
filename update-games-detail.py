@@ -3,7 +3,7 @@ import time
 from openpyxl import load_workbook # 用於讀取 .xlsx 檔案
 import requests # 用於發送 HTTP 請求 (Google Custom Search API)
 import os # 用於檢查檔案是否存在
-import re # 用於正則表達式清理檔案名
+import re # 用於正則表達式清理檔案名 (如果不再需要 clean_filename，這個import也可以移除，但保留無害)
 import sys # 用於標準輸出設定
 import io # 用於標準輸出設定
 
@@ -15,13 +15,15 @@ API_KEY = "AIzaSyAapqNr8NGy0Br0D9K-qOPFXsvzYH9feDY" # 您的 Google API Key
 SEARCH_ENGINE_ID = "5534bc0e180af4cf5" # 您的 Google Custom Search Engine ID
 # --- 設定結束 ---
 
-def clean_filename(name):
-    """
-    清理遊戲名稱，移除不適合作為檔案名的字元。
-    """
-    return re.sub(r'[\\/*?:"<>|!:：！]', "", name)
+# 移除 clean_filename 函數，因為您希望刪除它
+# def clean_filename(name):
+#     """
+#     清理遊戲名稱，移除不適合作為檔案名的字元。
+#     """
+#     return re.sub(r'[\\/*?:"<>|!:：！]', "", name)
 
-def google_searcg(query):
+# 修正函數名稱拼寫：從 google_searcg 改為 google_search
+def google_search(query):
     """
     透過 Google Custom Search API 執行搜尋，並返回第一個結果的連結。
     """
@@ -114,9 +116,8 @@ def main():
         if not game_name:
             continue
 
-        # 用 clean_filename 處理圖片名稱
-        cleaned_game_name = clean_filename(game_name)
-        logo = f"images/{cleaned_game_name}.jpg"
+        # 修正：clean_filename 已被刪除，直接使用 game_name
+        logo = f"images/{game_name}.jpg" 
 
         # 假設禮包碼 URL 在 Excel 的第六列 (索引 5)
         excel_gift_url = row[5] if (len(row) > 5 and row[5] is not None) else ""
@@ -181,11 +182,11 @@ def main():
         else: # 如果是新遊戲
             # 自動搜尋社交媒體連結 (此功能會發送 API 請求，可能會有速率限制)
             print(f"  - 正在搜尋 '{game_name}' 的外部連結...")
-            # 確保這裡的函數名稱是 google_searcg
-            facebook = google_searcg(f"{game_name} FB") 
-            website = google_searcg(f"{game_name} 官方")
-            appstore = google_searcg(f"{game_name} site:apps.apple.com/tw")
-            bahamut = google_searcg(f"{game_name} 巴哈")
+            # 修正：確保這裡的函數名稱是 google_search
+            facebook = google_search(f"{game_name} FB") 
+            website = google_search(f"{game_name} 官方")
+            appstore = google_search(f"{game_name} site:apps.apple.com/tw")
+            bahamut = google_search(f"{game_name} 巴哈")
             time.sleep(1.2) # 建議每次 API 呼叫之間有延遲，避免觸發速率限制
 
             social_links = {
