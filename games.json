@@ -6266,5 +6266,139 @@
       "巴哈姆特": "https://forum.gamer.com.tw/C.php?bsn=28220&snA=1281"
     },
     "description": "《指點兵兵》這是一款以三國歷史為背景的塔防類策略遊戲。生於亂世，為了維護世間太平，玩家需要不斷招兵買馬，透過合理的資源配置和戰術安排，建造城池，排兵布陣，抵禦敵人的進攻，最後成為名震一方的主公。\n每局戰鬥共20波敵軍攻勢，透過隨機卡牌強化部隊，打造獨特戰術流派！\n主公將不斷解鎖新型兵種，合適的兵種互相搭配，可獲得獨一無二的聯合技！\n透過招兵買馬，軍師運籌帷幄，武將決勝千里，協助玩家過關斬將！"
+  },
+  "變身傳奇": {
+    "logo": "images/變身傳奇.jpg",
+    "products": [
+      {
+        "name": "50000鑽石",
+        "price": 1949
+      },
+      {
+        "name": "25000鑽石",
+        "price": 1010
+      },
+      {
+        "name": "15000鑽石",
+        "price": 618
+      },
+      {
+        "name": "7500鑽石",
+        "price": 310
+      },
+      {
+        "name": "5000鑽石",
+        "price": 230
+      },
+      {
+        "name": "2000鑽石",
+        "price": 76
+      },
+      {
+        "name": "290台幣禮包",
+        "price": 230
+      },
+      {
+        "name": "220台幣禮包",
+        "price": 175
+      },
+      {
+        "name": "150台幣禮包",
+        "price": 127
+      },
+      {
+        "name": "120台幣禮包",
+        "price": 101
+      },
+      {
+        "name": "60台幣禮包",
+        "price": 51
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100064014759876/posts/%E8%AE%8A%E8%BA%AB%E5%82%B3%E5%A5%87-legend-of-avatar-%E9%9F%93%E5%9C%8B%E4%BA%8C%E6%AC%A1%E5%85%83-%E6%94%BE%E7%BD%AE%E5%9E%8B%E5%8B%95%E4%BD%9C-rpg-%E7%84%A1%E9%99%90%E5%88%B7%E8%A3%9D-%E7%B5%90%E5%90%88%E8%AE%8A%E8%BA%AB%E7%B3%BB%E7%B5%B1-%E8%8F%AF%E9%BA%97%E6%88%B0%E9%AC%A5-%E4%B8%8D%E9%8C%AF%E7%9A%84%E6%89%93%E6%93%8A%E6%84%9F-%E8%BC%95%E9%AC%86%E5%9F%B9%E9%A4%8A%E8%A7%92%E8%89%B2-%E5%BC%B7%E5%8C%96%E9%A0%98%E5%9C%B0%E5%BB%BA%E8%A8%AD-%E6%88%B0%E7%95%A5%E7%AB%B6%E7%88%AD/1147035810773567/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.billionairegames.serares&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=變身傳奇",
+      "App Store": "https://apps.apple.com/tw/app/%E8%AE%8A%E8%BA%AB%E5%82%B3%E5%A5%87/id6746192853",
+      "巴哈姆特": "https://forum.gamer.com.tw/C.php?bsn=25730&snA=16446"
+    },
+    "description": "《變身傳奇》是一款掛機角色扮演遊戲，玩家在遊戲中扮演被神選中的勇者，獲得變身力量，在奇幻世界中冒險，並不斷進化成傳奇英雄。 遊戲主打輕鬆的掛機體驗，即使離線也能持續成長，並提供豐富的社交和pvp元素。  化身為傳說中的英雄，體驗更強大的力量與華麗的戰鬥。 透過冒險與戰鬥成長，在競爭中勝出，奪取無可匹敵的地位！ 放置型動作RPG的真正樂趣無論何時何地都能輕鬆培養角色。 即使你暫時離線，英雄也會持續成長，當你回來時，將展開一場刺激的戰鬥並獲得豐富的獎勵！"
+  },
+  "Blue eyes：公會大師": {
+    "logo": "images/Blue eyes公會大師.jpg",
+    "products": [
+      {
+        "name": "119000紅點",
+        "price": 2340
+      },
+      {
+        "name": "65000紅點",
+        "price": 1166
+      },
+      {
+        "name": "37000紅點",
+        "price": 618
+      },
+      {
+        "name": "19000紅點",
+        "price": 310
+      },
+      {
+        "name": "5900紅點",
+        "price": 101
+      },
+      {
+        "name": "2290台幣禮包",
+        "price": 1793
+      },
+      {
+        "name": "1990台幣禮包",
+        "price": 1558
+      },
+      {
+        "name": "1290台幣禮包",
+        "price": 1010
+      },
+      {
+        "name": "990台幣禮包",
+        "price": 775
+      },
+      {
+        "name": "790台幣禮包",
+        "price": 618
+      },
+      {
+        "name": "690台幣禮包",
+        "price": 548
+      },
+      {
+        "name": "320台幣禮包",
+        "price": 254
+      },
+      {
+        "name": "220台幣禮包",
+        "price": 175
+      },
+      {
+        "name": "120台幣禮包",
+        "price": 101
+      },
+      {
+        "name": "90台幣禮包",
+        "price": 76
+      },
+      {
+        "name": "30台幣禮包",
+        "price": 25
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100064014759876/posts/%E6%8B%9C%E8%A8%97%E4%BA%86%E5%9C%B0%E7%90%83-save-the-earth-idle-clicker-%E6%88%90%E7%88%B2%E5%9C%B0%E7%90%83%E7%9A%84%E5%89%B5%E9%80%A0%E8%80%85-%E7%99%BC%E5%B1%95%E6%96%87%E6%98%8E-%E7%99%82%E7%99%92%E7%B3%BB%E9%96%92%E7%BD%AE%E5%9E%8B%E9%81%8A%E6%88%B2%E7%8E%A9%E6%B3%95-%E5%BB%BA%E8%A8%AD%E4%B8%96%E7%95%8C%E5%9C%B0%E6%A8%99-%E7%8D%85%E8%BA%AB%E4%BA%BA%E9%9D%A2%E5%83%8F%E9%87%91%E5%AD%97%E5%A1%94%E5%9C%93%E5%BD%A2%E9%9C%B2%E5%A4%A9%E5%8A%87%E5%A0%B4/1007606628049820/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.ElestralsTCG.com&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=Blue eyes：公會大師",
+      "App Store": "https://apps.apple.com/tw/app/%E9%A6%B4%E7%8D%B8%E5%A4%A7%E5%B8%AB-%E5%8F%AC%E5%96%9A%E7%8D%B8%E9%A4%8A%E6%88%90%E8%A8%98/id1662303436",
+      "巴哈姆特": "https://home.gamer.com.tw/creationDetail.php?sn=5997921"
+    },
+    "description": "『地球、武林界、符文大地、艾爾弗拉多、魯坎……無數個世界被「高塔」所選中。\n被選中的世界【玩家】，可登上高塔，不斷變強。\n他們為了登上更高的殿堂，創立了【公會】。\n所以說【Blue Eyes】，\n這個如今成為傳說的公會名稱，是所有公會大師的夢想與目標。』"
   }
 }
