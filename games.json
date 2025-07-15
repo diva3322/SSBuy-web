@@ -6400,5 +6400,74 @@
       "巴哈姆特": "https://home.gamer.com.tw/creationDetail.php?sn=6170230"
     },
     "description": "『地球、武林界、符文大地、艾爾弗拉多、魯坎……無數個世界被「高塔」所選中。\n被選中的世界【玩家】，可登上高塔，不斷變強。\n他們為了登上更高的殿堂，創立了【公會】。\n所以說【Blue Eyes】，\n這個如今成為傳說的公會名稱，是所有公會大師的夢想與目標。』"
+  },
+  "杖劍傳說：坎斯汀之約": {
+    "logo": "images/杖劍傳說：坎斯汀之約.jpg",
+    "products": [
+      {
+        "name": "6480耀星",
+        "price": 2510
+      },
+      {
+        "name": "3280耀星",
+        "price": 1308
+      },
+      {
+        "name": "1980耀星",
+        "price": 766
+      },
+      {
+        "name": "980耀星",
+        "price": 385
+      },
+      {
+        "name": "300耀星",
+        "price": 142
+      },
+      {
+        "name": "60耀星",
+        "price": 28
+      },
+      {
+        "name": "月度獎勵",
+        "price": 142
+      },
+      {
+        "name": "七日祈願",
+        "price": 259
+      },
+      {
+        "name": "1690台幣禮包",
+        "price": 1308
+      },
+      {
+        "name": "990台幣禮包",
+        "price": 766
+      },
+      {
+        "name": "670台幣禮包",
+        "price": 526
+      },
+      {
+        "name": "330台幣禮包",
+        "price": 259
+      },
+      {
+        "name": "170台幣禮包",
+        "price": 142
+      },
+      {
+        "name": "100台幣禮包",
+        "price": 84
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/%E6%9D%96%E5%8A%8D%E5%82%B3%E8%AA%AA%E5%9D%8E%E6%96%AF%E6%B1%80%E4%B9%8B%E7%B4%84-100079946562958/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.m88.idleXX",
+      "禮包碼": "gift-codes.html?game=杖劍傳說：坎斯汀之約",
+      "App Store": "https://apps.apple.com/tw/app/%E6%9D%96%E5%8A%8D%E5%82%B3%E8%AA%AA-%E5%9D%8E%E6%96%AF%E6%B1%80%E4%B9%8B%E7%B4%84/id6504542886",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=286175"
+    },
+    "description": "《杖劍傳說》是一款異世界休閒冒險放置RPG。\n在這裡，你將作為冒險者，自由探索坎斯汀世界的每一個角落。\n在這裡撥開地圖迷霧，尋得掉落在各地的珍稀寶物，體驗輕鬆爽快的\n異世界之旅吧。\n當然，在旅途的過程中，你還會邂逅各式各樣夥伴，與他們並肩作\n戰，共同挑戰神秘的聖獸。"
   }
 }
