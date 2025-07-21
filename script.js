@@ -292,9 +292,12 @@ if (document.body.classList.contains("giftcodes-list-page")) {
             return;
         }
 
-        const gamesArray = Object.keys(allGamesData).map(gameName => ({
+        const gameEntries = Object.entries(allGamesData);
+        const sortedGamesEntries = gameEntries.reverse(); // 最新的在前面
+
+        const gamesArray = sortedGamesEntries.map(([gameName, gameInfo]) => ({
             name: gameName,
-            banner: allGamesData[gameName].banner, // 總覽頁面依然使用 banner
+            banner: gameInfo.banner,
             id: encodeURIComponent(gameName)
         }));
 
@@ -319,14 +322,14 @@ if (document.body.classList.contains("giftcodes-list-page")) {
             });
         }
 
-        populateGiftcodeGameList(gamesArray.sort((a, b) => a.name.localeCompare(b.name)));
+        populateGiftcodeGameList(gamesArray);
 
         searchButton.addEventListener('click', () => {
             const searchTerm = gameSearchInput.value.toLowerCase();
             const filteredGames = gamesArray.filter(game =>
                 game.name.toLowerCase().includes(searchTerm)
             );
-            populateGiftcodeGameList(filteredGames.sort((a, b) => a.name.localeCompare(b.name)));
+            populateGiftcodeGameList(filteredGames);
         });
 
         gameSearchInput.addEventListener('keyup', (e) => {
@@ -337,7 +340,7 @@ if (document.body.classList.contains("giftcodes-list-page")) {
                 const filteredGames = gamesArray.filter(game =>
                     game.name.toLowerCase().includes(searchTerm)
                 );
-                populateGiftcodeGameList(filteredGames.sort((a, b) => a.name.localeCompare(b.name)));
+                populateGiftcodeGameList(filteredGames);
             }
         });
     }
