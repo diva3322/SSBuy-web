@@ -6721,5 +6721,392 @@
       "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=82733"
     },
     "description": "《Ragnarok Crush》有別於以往 RO 常見的 MMORPG 玩法，本作主打休閒策略，遊戲中保留了 RO 經典的職業元素以及養成玩法，在挑戰關卡的過程中，玩家可以透過移動遊戲中的棋子完成合成，並且召喚出高階夥伴，連續合成還可以獲得額外步數，透過合成以及關卡中升級所獲得的隨機能力，挑戰在一波一波的魔物攻勢中生存下來。"
+  },
+  "溯回青空": {
+    "logo": "images/溯回青空.jpg",
+    "products": [
+      {
+        "name": "4400付費鑽石",
+        "price": 1860
+      },
+      {
+        "name": "4000付費鑽石",
+        "price": 1860
+      },
+      {
+        "name": "2700付費鑽石",
+        "price": 1160
+      },
+      {
+        "name": "2300付費鑽石",
+        "price": 1004
+      },
+      {
+        "name": "1370付費鑽石",
+        "price": 624
+      },
+      {
+        "name": "600付費鑽石",
+        "price": 260
+      },
+      {
+        "name": "220付費鑽石",
+        "price": 101
+      },
+      {
+        "name": "60付費鑽石",
+        "price": 28
+      },
+      {
+        "name": "190台幣鑽石通行證",
+        "price": 160
+      },
+      {
+        "name": "120台幣鑽石通行證",
+        "price": 101
+      },
+      {
+        "name": "90台幣鑽石通行證",
+        "price": 76
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/61574578202180",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.planetxgame.rxr.tw.gp",
+      "禮包碼": "gift-codes.html?game=溯回青空",
+      "App Store": "https://apps.apple.com/tw/app/%E6%BA%AF%E5%9B%9E%E9%9D%92%E7%A9%BA/id6742810058",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78231"
+    },
+    "description": "經典日系x末日魔王x卡牌RPG《溯回青空》\n這是你與生俱來的使命——統率不老不死的少年少女騎士團，化身「魔王」對抗眾神\n在眾神與人類爭奪星球霸權的亂世中，人類在第八度瀕臨滅絕後開啟了「第九軌道人類史」。\n此刻，眾神再次啟動「軌道修正計畫」，企圖將人類存在徹底抹除於歷史長河。\n而你，將率領前八大軌道的騎士團，對抗眾神，奪回青空。"
+  },
+  "蒼之啟示錄": {
+    "logo": "images/蒼之啟示錄.jpg",
+    "products": [
+      {
+        "name": "6480彩星",
+        "price": 1803
+      },
+      {
+        "name": "3290彩星",
+        "price": 937
+      },
+      {
+        "name": "1980彩星",
+        "price": 551
+      },
+      {
+        "name": "1280彩星",
+        "price": 391
+      },
+      {
+        "name": "980彩星",
+        "price": 279
+      },
+      {
+        "name": "680彩星",
+        "price": 176
+      },
+      {
+        "name": "300彩星",
+        "price": 102
+      },
+      {
+        "name": "60彩星",
+        "price": 17
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/minecraftclubstudio/posts/2525682004438278/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.skymoons.adhxqsl&hl=zh",
+      "禮包碼": "gift-codes.html?game=蒼之啟示錄",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%83%E5%A4%A7%E7%BD%AA-%E5%85%89%E8%88%87%E6%9A%97%E4%B9%8B%E4%BA%A4%E6%88%B0/id1475440231",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=258213"
+    },
+    "description": "《蒼之啟示錄》以架空大陸魔王蘇醒為背景，玩家扮演「神選者」，透過收集聖器、挑戰副本來阻止魔族入侵，融合了PVE/PVP雙線戰鬥與開放世界探索機制。遊戲採用二次元畫風與日韓幻想美術風格，建構涵蓋九大區域的里斯特大陸。核心玩法包含自動掛網戰鬥、自由交易系統和英靈變身戰鬥，設有三大職業轉職體系及天啟之書成長指引。社交模塊整合了聖團協作、伴侶締結與跨服溫泉等互動玩法，結合馴龍作戰、釣魚種花等休閒內容，形成獨特的「佛系冒險」特色。"
+  },
+  "第六絕區": {
+    "logo": "images/第六絕區.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2554
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1330
+      },
+      {
+        "name": "1980鑽石",
+        "price": 779
+      },
+      {
+        "name": "680鑽石",
+        "price": 263
+      },
+      {
+        "name": "300鑽石",
+        "price": 145
+      },
+      {
+        "name": "60鑽石",
+        "price": 28
+      },
+      {
+        "name": "超值夥伴禮包",
+        "price": 145
+      },
+      {
+        "name": "絕世夥伴禮包",
+        "price": 263
+      },
+      {
+        "name": "3290台幣禮包",
+        "price": 2554
+      },
+      {
+        "name": "1690台幣禮包",
+        "price": 1330
+      },
+      {
+        "name": "990台幣禮包",
+        "price": 779
+      },
+      {
+        "name": "670台幣禮包",
+        "price": 535
+      },
+      {
+        "name": "330台幣禮包",
+        "price": 263
+      },
+      {
+        "name": "170台幣禮包",
+        "price": 145
+      },
+      {
+        "name": "33台幣禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/%E7%AC%AC%E5%85%AD%E7%B5%95%E5%8D%80-61574050411684/",
+      "官方網站": "https://www.facebook.com/p/%E7%AC%AC%E5%85%AD%E7%B5%95%E5%8D%80-61574050411684/",
+      "禮包碼": "gift-codes.html?game=第六絕區",
+      "App Store": "https://apps.apple.com/tw/app/%E7%AC%AC%E5%85%AD%E7%B5%95%E5%8D%80/id6746182933",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=74860"
+    },
+    "description": "未來世界因名為「米洛斯」的能源核心失控陷入危機，倖存者退守至最後的防線 —— 第六絕區。\n作為指揮官，你將帶領小隊探索被異變的其它絕區：自動化戰鬥解放雙手，離線也能積累資源；自由搭配未來槍械、戰術裝備與變異戰寵，組建專屬戰鬥流派。在廢墟中搜尋強化物資，抵禦變異生物侵襲，逐步揭開「米洛斯」爆發的真相。\n末世已至，點擊開啟你的「放置割草 + 策略生存」之旅！"
+  },
+  "MO.CO": {
+    "logo": "images/MO.CO.jpg",
+    "products": [
+      {
+        "name": "1400金幣",
+        "price": 2525
+      },
+      {
+        "name": "650金幣",
+        "price": 1315
+      },
+      {
+        "name": "250金幣",
+        "price": 529
+      },
+      {
+        "name": "120金幣",
+        "price": 260
+      },
+      {
+        "name": "55金幣",
+        "price": 143
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/followMOCOboutique/",
+      "官方網站": "https://mo.co/",
+      "禮包碼": "gift-codes.html?game=MO.CO",
+      "App Store": "N",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78936"
+    },
+    "description": "我們非常高興你能來體驗《mo.co》。我們的團隊致力於打造一款融合輕度RPG元素的多人動作遊戲，希望能讓它簡單好上手、社交互動豐富，且充滿活力。\n從想體驗碎片化MMO或ARPG遊戲的資深玩家，到從未感受過這類遊戲樂趣的新玩家，我們希望打造一款能讓每個人都可以沉浸其中的遊戲。"
+  },
+  "幻世三國：一騎當千": {
+    "logo": "images/幻世三國：一騎當千.jpg",
+    "products": [
+      {
+        "name": "6480星鑽",
+        "price": 2525
+      },
+      {
+        "name": "4880星鑽",
+        "price": 1938
+      },
+      {
+        "name": "3280星鑽",
+        "price": 1160
+      },
+      {
+        "name": "1980星鑽",
+        "price": 771
+      },
+      {
+        "name": "980星鑽",
+        "price": 387
+      },
+      {
+        "name": "300星鑽",
+        "price": 143
+      },
+      {
+        "name": "60星鑽",
+        "price": 28
+      },
+      {
+        "name": "永久卡",
+        "price": 308
+      },
+      {
+        "name": "月卡",
+        "price": 143
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/KenYuGames/posts/daiblos-core-official-launch-taiwan-gameplay-android-apk-ioshttpswwwyoutubecomwa/926279096191424/",
+      "官方網站": "https://apps.apple.com/hk/app/%E5%B9%BB%E4%B8%96%E4%B8%89%E5%9C%8B-%E4%B8%80%E9%A8%8E%E7%95%B6%E5%8D%83/id6746920222",
+      "禮包碼": "gift-codes.html?game=幻世三國：一騎當千",
+      "App Store": "https://apps.apple.com/tw/developer/hk-top-sense-network-technology-limited/id1818965206",
+      "巴哈姆特": "https://home.gamer.com.tw/artwork.php?sn=6179479"
+    },
+    "description": "燃魂再啟，三國新紀元，邀你共赴熱血激戰！\n在《幻世三國：一騎當千》的世界裡，歷史與幻想交織，經典英雄與全新設定碰撞出令人熱血沸騰的冒險！這是一款融合了動作連招、策略養成與社交互動的三國ARPG手遊。\n時空的縫隙撕裂了三國大地，神秘力量令群雄異化，昔日的英雄化身全新戰神，東漢末年的烽煙中夾雜著神明的低語與科技的嘶鳴。"
+  },
+  "小兵立大功": {
+    "logo": "images/小兵立大功.jpg",
+    "products": [
+      {
+        "name": "4000克拉",
+        "price": 1160
+      },
+      {
+        "name": "2400克拉",
+        "price": 693
+      },
+      {
+        "name": "1600克拉",
+        "price": 466
+      },
+      {
+        "name": "800克拉",
+        "price": 237
+      },
+      {
+        "name": "400克拉",
+        "price": 126
+      },
+      {
+        "name": "80克拉",
+        "price": 25
+      },
+      {
+        "name": "2250台幣禮包",
+        "price": 1751
+      },
+      {
+        "name": "1490台幣禮包",
+        "price": 1160
+      },
+      {
+        "name": "590台幣禮包",
+        "price": 466
+      },
+      {
+        "name": "300台幣禮包",
+        "price": 237
+      },
+      {
+        "name": "150台幣禮包",
+        "price": 126
+      },
+      {
+        "name": "60台幣禮包",
+        "price": 50
+      },
+      {
+        "name": "30台幣禮包",
+        "price": 25
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100083532752206/posts/%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5%E5%B0%8F%E5%85%B5%E7%AB%8B%E5%A4%A7%E5%8A%9F-line%E8%A8%8E%E8%AB%96%E7%BE%A4httpsreurlccrydkv1%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5%E5%B0%8F%E5%85%B5%E7%AB%8B%E5%A4%A7%E5%8A%9F-fb%E8%A8%8E%E8%AB%96%E7%BE%A4httpswwwfacebookcomgroups10419/711296328331453/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.com2us.legendsummoner.android.google.global.normal&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=小兵立大功",
+      "App Store": "https://apps.apple.com/tw/developer/com2us-corp/id299175870",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=83120"
+    },
+    "description": "《小兵立大功》率領召喚師、英雄和小兵擊潰敵軍 打造專屬軍團 充滿打擊感 展開史詩級戰爭。\n從召喚師、英雄、小兵升級中做出選擇，在如同殭屍般移動的敵人圍毆中存活下來！體驗充滿緊張刺激的類Rogue RPG！\n體驗直觀操作及充滿打擊感的休閒系動作手遊！"
+  },
+  "像素全明星": {
+    "logo": "images/像素全明星.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2327
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1160
+      },
+      {
+        "name": "1980鑽石",
+        "price": 771
+      },
+      {
+        "name": "1280鑽石",
+        "price": 529
+      },
+      {
+        "name": "980鑽石",
+        "price": 387
+      },
+      {
+        "name": "680鑽石",
+        "price": 260
+      },
+      {
+        "name": "600鑽石",
+        "price": 229
+      },
+      {
+        "name": "500鑽石",
+        "price": 229
+      },
+      {
+        "name": "450鑽石",
+        "price": 174
+      },
+      {
+        "name": "300鑽石",
+        "price": 126
+      },
+      {
+        "name": "180鑽石",
+        "price": 84
+      },
+      {
+        "name": "120鑽石",
+        "price": 59
+      },
+      {
+        "name": "60鑽石",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/61572269136436/videos/%E8%B6%85%E7%87%83%E5%86%92%E9%9A%AArpg%E5%83%8F%E7%B4%A0%E6%89%8B%E6%B8%B8%E8%B6%85%E7%99%BE%E4%BD%8D%E5%8B%95%E6%BC%AB%E6%98%8E%E6%98%9F%E9%BD%8A%E8%81%9A/1069844991666525/",
+      "官方網站": "https://apps.apple.com/sg/app/%E5%83%8F%E7%B4%A0%E5%85%A8%E6%98%8E%E6%98%9F/id6743699033",
+      "禮包碼": "gift-codes.html?game=像素全明星",
+      "App Store": "https://apps.apple.com/tw/app/%E5%83%8F%E7%B4%A0%E5%85%A8%E6%98%8E%E6%98%9F/id6743699033",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=77990"
+    },
+    "description": "像素全明星陣容，熱門經典人物大亂鬥\n\n\n遊戲採用經典的點數風格，帶給玩家濃厚的懷舊感。 每個角色、場景和技能效果都呈現出極具創意和魅力的點數藝術，讓你在回憶經典的同時，享受全新的遊戲體驗。"
   }
 }

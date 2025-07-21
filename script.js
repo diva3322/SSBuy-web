@@ -256,14 +256,20 @@ if (document.body.classList.contains("giftcodes-list-page")) {
         const searchButton = document.getElementById('search-button');
         const giftcodeGameList = document.getElementById('giftcode-game-list'); 
 
-        // --- 新增：定義隨機副標題陣列 ---
+		// --- 新增：定義隨機副標題陣列 ---
         const randomSubtitles = [
             "豐富虛寶等你領",
             "最新兌換碼集中",
             "每日更新禮包碼",
             "限定序號大放送",
             "馬上兌換拿好禮",
-            "禮包碼攻略大全"
+            "禮包碼攻略大全",
+            "首抽大放送禮包碼", // 新增的詞
+            "官方認證T0最強陣容", // 新增的詞
+            "最多禮包碼序號兌換", // 新增的詞
+            "新手開局必備禮包碼兌換", // 新增的詞
+            "首抽T0最強組隊抽卡序號", // 新增的詞
+            "免費最強組隊禮包碼" // 新增的詞
         ];
 
         // --- 新增：隨機選擇副標題的函數 ---
