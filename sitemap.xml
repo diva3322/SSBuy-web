@@ -2045,4 +2045,10 @@
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://www.ssbuy.tw/gift-codes.html?game=MO.CO</loc>
+        <lastmod>2025-07-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
