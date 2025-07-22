@@ -7108,5 +7108,127 @@
       "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=77990"
     },
     "description": "像素全明星陣容，熱門經典人物大亂鬥\n\n\n遊戲採用經典的點數風格，帶給玩家濃厚的懷舊感。 每個角色、場景和技能效果都呈現出極具創意和魅力的點數藝術，讓你在回憶經典的同時，享受全新的遊戲體驗。"
+  },
+  "浣熊傳說": {
+    "logo": "images/浣熊傳說.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2327
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1160
+      },
+      {
+        "name": "1980鑽石",
+        "price": 771
+      },
+      {
+        "name": "1280鑽石",
+        "price": 529
+      },
+      {
+        "name": "680鑽石",
+        "price": 260
+      },
+      {
+        "name": "300鑽石",
+        "price": 143
+      },
+      {
+        "name": "60鑽石",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/roo.gravity/posts/%E5%85%A8%E6%96%B0%E7%A5%88%E9%A1%98%E6%B5%A3%E7%86%8A%E6%B4%BE%E5%B0%8D-%E6%83%B3%E4%BE%86%E5%A0%B4%E6%A3%AE%E6%9E%97%E6%8E%A2%E9%9A%AA%E5%97%8E%E9%80%99%E5%A5%97%E4%BF%8F%E7%9A%AE%E7%9A%84%E6%B5%A3%E7%86%8A%E8%A3%9D%E6%80%8E%E9%BA%BC%E6%A8%A3%E8%80%B3%E6%9C%B5%E7%88%AA%E5%8D%B0%E5%B0%BE%E5%B7%B4%E5%8F%AF%E6%84%9B%E7%9A%84%E7%B4%B0%E7%AF%80%E6%BB%BF%E6%BB%BF%E6%BB%BF%E9%96%8B%E6%94%BE%E6%99%82%E9%96%930101-0500-0115-0459%E6%88%B4%E4%B8%8A%E8%87%82%E7%AB%A0%E5%8C%96%E8%BA%AB%E6%A3%AE%E6%9E%97%E5%AE%88%E8%AD%B7%E8%80%85%E5%92%8C%E7%B7%A8%E7%B7%A8%E4%B8%80/587406897384717/",
+      "官方網站": "https://www.facebook.com/roo.gravity/posts/%E5%85%A8%E6%96%B0%E7%A5%88%E9%A1%98%E6%B5%A3%E7%86%8A%E6%B4%BE%E5%B0%8D-%E6%83%B3%E4%BE%86%E5%A0%B4%E6%A3%AE%E6%9E%97%E6%8E%A2%E9%9A%AA%E5%97%8E%E9%80%99%E5%A5%97%E4%BF%8F%E7%9A%AE%E7%9A%84%E6%B5%A3%E7%86%8A%E8%A3%9D%E6%80%8E%E9%BA%BC%E6%A8%A3%E8%80%B3%E6%9C%B5%E7%88%AA%E5%8D%B0%E5%B0%BE%E5%B7%B4%E5%8F%AF%E6%84%9B%E7%9A%84%E7%B4%B0%E7%AF%80%E6%BB%BF%E6%BB%BF%E6%BB%BF%E9%96%8B%E6%94%BE%E6%99%82%E9%96%930101-0500-0115-0459%E6%88%B4%E4%B8%8A%E8%87%82%E7%AB%A0%E5%8C%96%E8%BA%AB%E6%A3%AE%E6%9E%97%E5%AE%88%E8%AD%B7%E8%80%85%E5%92%8C%E7%B7%A8%E7%B7%A8%E4%B8%80/587406897384717/",
+      "禮包碼": "gift-codes.html?game=浣熊傳說",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B5%A3%E7%86%8A%E5%82%B3%E8%AA%AA/id6747156044",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=255231"
+    },
+    "description": "即時高智商對戰！獨創五行制衡戰術！\n過百種浣熊英雄！每張都是藝術品！\n全球PVP競技場！用策略證明誰是浣熊之王！\n無門檻終極狂歡！首發限定SSR免費領！"
+  },
+  "勇者格鬥城": {
+    "logo": "images/勇者格鬥城.jpg",
+    "products": [
+      {
+        "name": "6500鑽石",
+        "price": 2494
+      },
+      {
+        "name": "6200鑽石",
+        "price": 2413
+      },
+      {
+        "name": "5000鑽石",
+        "price": 1946
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1276
+      },
+      {
+        "name": "3000鑽石",
+        "price": 1167
+      },
+      {
+        "name": "1980鑽石",
+        "price": 771
+      },
+      {
+        "name": "1680鑽石",
+        "price": 654
+      },
+      {
+        "name": "1280鑽石",
+        "price": 505
+      },
+      {
+        "name": "980鑽石",
+        "price": 387
+      },
+      {
+        "name": "880鑽石",
+        "price": 347
+      },
+      {
+        "name": "680鑽石",
+        "price": 268
+      },
+      {
+        "name": "380鑽石",
+        "price": 160
+      },
+      {
+        "name": "300鑽石",
+        "price": 126
+      },
+      {
+        "name": "280鑽石",
+        "price": 118
+      },
+      {
+        "name": "180鑽石",
+        "price": 76
+      },
+      {
+        "name": "120鑽石",
+        "price": 50
+      },
+      {
+        "name": "60鑽石",
+        "price": 25
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TwinsGaming96/",
+      "官方網站": "https://apps.apple.com/cn/app/%E8%B7%91%E9%85%B7%E5%8B%87%E8%80%85-%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%A8%AA%E7%89%88%E6%A0%BC%E6%96%97%E6%96%B0%E7%AF%87%E7%AB%A0/id1594555045",
+      "禮包碼": "gift-codes.html?game=勇者格鬥城",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B6%84%E6%96%B0%E4%B9%8B%E5%88%83-%E6%B0%B8%E6%81%86%E9%BB%83%E9%87%91%E5%8A%8D-%E9%AD%94%E5%B9%BB%E9%A1%9E%E5%96%AE%E6%A9%9F%E5%86%92%E9%9A%AA%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%8E%9B%E6%A9%9F%E9%81%8A%E6%88%B2/id1534495923",
+      "巴哈姆特": "https://forum.gamer.com.tw/A.php?bsn=83216"
+    },
+    "description": "《勇者格鬥城》橫版動作手遊震撼來襲！六大職業任選，暢爽連招對決BOSS。挑戰深淵副本贏稀有裝備，PVP競技場展現操作實力。無論是冒險獨行俠還是競技達人，都能找到專屬戰鬥樂趣！即刻加入，體驗極致打擊快感，爭奪最強勇者稱號！\n【六大獨特職業】\n任你選擇，專屬技能與戰鬥風格帶來截然不同的體驗！挑戰多層次副本，從普通地下城到深淵Boss，海量關卡，驚喜不斷！"
   }
 }
