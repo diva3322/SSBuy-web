@@ -227,10 +227,10 @@ body {
     align-items: center; /* 這一行使商品內容垂直置中 */
     justify-content: flex-start; /* 這一行使商品內容從左開始 */
     background: #444; /* 這一行設定商品背景為深灰色 */
-    padding: 0.63vw; /* 這一行設定商品內邊距為0.63vw */
+    padding: 0.45vw; /* 這一行設定商品內邊距為0.63vw */
     border-radius: 0.42vw; /* 這一行設定商品邊框圓角為0.42vw */
     width: 95%; /* 這一行設定商品寬度為23.96vw */
-    height: 2.4vh; /* 這一行設定商品高度為2.41vh */
+    height: 2.3vh; /* 這一行設定商品高度為2.41vh */
     gap: 0.52vw; /* 這一行設定商品內元素間距為0.52vw */
     margin-bottom: 0.37vh; /* 這一行設定商品下方外邊距為0.37vh */
 }
