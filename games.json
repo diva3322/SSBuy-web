@@ -7385,5 +7385,128 @@
       "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=78640"
     },
     "description": "被遺忘之人匯聚的樂園——幻想鄉。 人類與妖怪在這片寧靜之地共存，歲月靜好，彷彿永恆不變…… 然而，突如其來的「它們」，打破了這份安寧。 前所未見的異質存在，如暗潮般悄然蔓延，將整個幻想鄉捲入前所未有的混亂。 生活在這片土地上的「她們」，懷抱著各自的信念與使命，踏上了行動的旅途。"
+  },
+  "世紀帝國M": {
+    "logo": "images/世紀帝國M.jpg",
+    "products": [
+      {
+        "name": "50000帝國幣",
+        "price": 2508
+      },
+      {
+        "name": "24000帝國幣",
+        "price": 1268
+      },
+      {
+        "name": "9200帝國幣",
+        "price": 548
+      },
+      {
+        "name": "4400帝國幣",
+        "price": 278
+      },
+      {
+        "name": "2100帝國幣",
+        "price": 127
+      },
+      {
+        "name": "400帝國幣",
+        "price": 25
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/AoEMobileZHTW/",
+      "官方網站": "https://www.facebook.com/AoEMobileZHTW/",
+      "禮包碼": "gift-codes.html?game=世紀帝國M",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%96%E7%B4%80%E5%B8%9D%E5%9C%8Bm/id6742879203",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=76209"
+    },
+    "description": "《世紀帝國M》引入玩家熟悉的八大文明(中式、羅馬式、法蘭克式、拜占庭式、埃及式、不列顛式、日式及韓式)、傭兵系統，以及經典的資源採集和分配機制，玩家需要合理安排村民進行採礦、捕魚、打獵、採樹莓…等，收集、累積、分配資源用於發展帝國；此外，《世紀帝國》經典的音樂音效、宏偉逼真的攻城器械也將在遊戲中出現，玩家不僅能使用到豐富的策略，更能被喚起有關《世紀帝國》的美好回憶。"
+  },
+  "歐啦!守得豬": {
+    "logo": "images/歐啦!守得豬.jpg",
+    "products": [
+      {
+        "name": "6000鑽石",
+        "price": 2539
+      },
+      {
+        "name": "3000鑽石",
+        "price": 1323
+      },
+      {
+        "name": "1320鑽石",
+        "price": 579
+      },
+      {
+        "name": "660鑽石",
+        "price": 294
+      },
+      {
+        "name": "300鑽石",
+        "price": 144
+      },
+      {
+        "name": "60鑽石",
+        "price": 28
+      },
+      {
+        "name": "尊享月卡",
+        "price": 294
+      },
+      {
+        "name": "超值月卡",
+        "price": 144
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100064014759876/posts/%E5%93%88%E5%A7%86%E6%89%8B%E6%B8%B8%E8%A9%A6%E7%8E%A9%E6%B5%AA%E4%BA%BA%E6%9C%AB%E4%BB%A3%E6%AD%A6%E5%A3%AB%E6%B0%B4%E5%A2%A8%E7%95%AB%E9%A2%A8%E6%A0%BC%E6%8F%8F%E7%B9%AA%E6%88%B0%E4%BA%82%E4%B8%96%E7%95%8C-%E7%9E%AC%E9%96%93%E6%B1%BA%E5%AE%9A%E7%94%9F%E6%AD%BB%E7%9A%84%E5%8A%8D%E8%A1%93%E5%8B%95%E4%BD%9C%E9%81%8A%E6%88%B2/1643959589118670/",
+      "官方網站": "https://gnn.gamer.com.tw/detail.php?sn=289143",
+      "禮包碼": "gift-codes.html?game=歐啦!守得豬",
+      "App Store": "https://apps.apple.com/tw/app/%E6%AD%90%E5%95%A6-%E5%AE%88%E5%BE%97%E8%B1%AC/id6745511407",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=289143"
+    },
+    "description": "誰說英雄一定要帥？《歐啦！守得豬》的英雄角色可謂是「跨次元」的明星大集合！我們汲取了大量流行元素，巧妙地將其與各種動物形象融合，打造出個性十足、醜萌兼具的天團戰隊。每一位英雄都身懷絕技，每一次召喚都可能帶來意外的驚喜與強大的戰力。各種趣味屬性、羈絆配搭，讓策略變得既豐富又有趣，誰說塔防一定嚴肅？來點萌萌鬼畜，笑著守住你的家園！"
+  },
+  "18櫻花幕府": {
+    "logo": "images/18櫻花幕府.jpg",
+    "products": [
+      {
+        "name": "10000代金券",
+        "price": 2340
+      },
+      {
+        "name": "5000代金券",
+        "price": 1166
+      },
+      {
+        "name": "3000代金券",
+        "price": 775
+      },
+      {
+        "name": "2000代金券",
+        "price": 532
+      },
+      {
+        "name": "1000代金券",
+        "price": 262
+      },
+      {
+        "name": "500代金券",
+        "price": 144
+      },
+      {
+        "name": "100代金券",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/%E6%9C%80%E7%B5%82%E3%81%AE%E5%93%88%E5%A7%86-100064014759876/",
+      "官方網站": "https://www.facebook.com/JapanTaiwanExchangeAssociation/posts/2023%E6%AB%BB%E8%8A%B1%E6%90%B6%E5%85%88%E7%9C%8B-%E9%97%9C%E6%9D%B1%E7%AF%87-%E6%9D%B1%E4%BA%AC-%E9%9A%85%E7%94%B0%E5%85%AC%E5%9C%92-%E8%AA%AA%E5%88%B0%E6%9D%B1%E4%BA%AC%E6%84%8F%E8%B1%A1%E6%83%B3%E5%BF%85%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%B0%8D%E6%99%B4%E7%A9%BA%E5%A1%94%E6%B7%BA%E8%8D%89%E5%AF%BA%E7%AD%89%E6%99%AF%E9%BB%9E%E9%9D%9E%E5%B8%B8%E7%86%9F%E6%82%89%E5%90%A7%E5%9C%A8%E6%B7%BA%E8%8D%89%E5%AF%BA%E9%99%84%E8%BF%91%E6%9C%89%E5%80%8B%E5%8F%AB%E5%81%9A%E9%9A%85%E7%94%B0%E5%85%AC%E5%9C%92%E7%9A%84%E6%B2%B3%E5%B2%B8%E5%85%AC%E5%9C%92%E6%B2%BF%E8%91%97%E9%9A%85%E7%94%B0%E5%B7%9D%E6%B2%B3%E5%B2%B8%E7%B6%BF%E5%BB%B6%E7%9A%84%E6%AB%BB%E8%8A%B1%E9%85%8D/516940790607210/",
+      "禮包碼": "gift-codes.html?game=18櫻花幕府",
+      "App Store": "https://apps.apple.com/tw/app/18%E6%AB%BB%E8%8A%B1%E5%B9%95%E5%BA%9C/id6747242073",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=149871"
+    },
+    "description": "戰姬的魅力，從不只在戰場！每位乙女皆擁有隱藏立繪與進階服裝，隨著升星、親密互動、羈絆突破逐步解鎖---從威武戰甲到柔情私服，從冷豔武將到嬌羞美人。這場亂世，不只是爭霸，更是攻略每一顆芳心。\n\n《18櫻花幕府》與盟友並肩奪城，成為一國之主！\n加入家族，參與大型跨服城戰。運籌帷幄，調度戰姬，佔領據點、掠奪資源，證明你才是真正的幕府霸主。兄弟齊心，其利斷金，稱霸戰國等你來挑戰！"
   }
 }
