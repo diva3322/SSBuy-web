@@ -86,7 +86,7 @@ function updateMetaTags(title, description, pageName = "") {
     else if (pageName === "all-games") keywords += ", 所有遊戲, 遊戲列表";
     else if (pageName === "new-games") keywords += ", 新上遊戲, 最新手遊";
     else if (pageName === "game-detail" && title) keywords += `, ${title.replace('代儲值 - 速速幫你儲手遊', '').trim()}, 遊戲儲值, 遊戲充值`;
-    else if (pageName === "giftcodes-detail" && title) keywords += `, ${title.replace('最新禮包碼|兌換碼|序號|免費領取 - 速速幫你儲手遊', '').trim()}, 禮包碼, 兌換碼, 序號, 免費領取`;
+    else if (pageName === "giftcodes-detail" && title) keywords += `, ${title.replace('最新禮包碼丨兌換碼丨序號丨免費領取 - 速速幫你儲手遊', '').trim()}, 禮包碼, 兌換碼, 序號, 免費領取`;
     else if (pageName === "giftcodes-list-overview") keywords += ", 好康兌換, 禮包碼列表, 免費禮包碼, 遊戲兌換碼總覽"; // 禮包碼總覽頁
     else if (pageName === "articles" && title) keywords += `, ${title.replace(' - SSbuy最安全的手遊代儲', '').trim()}, 遊戲攻略, 遊戲資訊`;
     else if (pageName === "purchase-guide") keywords += ", 購買教學, 儲值教學, 手遊儲值步驟";
@@ -363,7 +363,7 @@ if (document.body.classList.contains("giftcodes-list-page")) {
         async function renderGameGiftcodeDetailPage() { // 不再需要參數，從 gameNameParam 獲取
             const gameName = decodeURIComponent(gameNameParam); // 在這裡解碼 gameNameParam
 
-            updateMetaTags(`${gameName} 最新禮包碼|兌換碼|序號|免費領取 - 速速幫你儲手遊`, `獲取${gameName}最新的禮包碼、兌換碼、序號，免費領取豐厚遊戲獎勵，立即提升戰力！`, "giftcodes-detail");
+            updateMetaTags(`${gameName} 最新禮包碼丨兌換碼丨序號丨免費領取 - 速速幫你儲手遊`, `獲取${gameName}最新的禮包碼、兌換碼、序號，免費領取豐厚遊戲獎勵，立即提升戰力！`, "giftcodes-detail");
 
             let gameDataRaw = {};
 			let allGamesLogos = {}; // 從 games.json 來的數據 (用於推薦遊戲小圖)
