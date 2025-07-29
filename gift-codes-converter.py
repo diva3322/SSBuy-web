@@ -30,7 +30,21 @@ def convert_excel_to_json(excel_file_path, json_output_path):
             if pd.notna(game_name_raw) and str(game_name_raw).strip() != '':
                 game_name = str(game_name_raw).strip()
 
-                banner_image = str(row.get('橫幅圖片', '')).strip()
+                # --- 核心修改：處理 banner 圖片邏輯 ---
+                # 1. 首先嘗試獲取 '橫幅圖片' 欄位的值
+                banner_image_primary = row.get('橫幅圖片')
+                
+                # 2. 檢查 '橫幅圖片' 的值是否為空或 NaN
+                if pd.isna(banner_image_primary) or str(banner_image_primary).strip() == '':
+                    # 如果是空的，則嘗試獲取 '橫幅圖片檔名' 欄位的值作為備用
+                    banner_image = str(row.get('橫幅圖片檔名', '')).strip()
+                    # 可以在這裡添加一個警告，如果備用圖片也是空的
+                    if not banner_image:
+                         print(f"警告 (索引: {index}): 遊戲 '{game_name}' 的 '橫幅圖片' 和 '橫幅圖片檔名' 欄位皆為空。")
+                else:
+                    # 如果 '橫幅圖片' 有內容，就使用它
+                    banner_image = str(banner_image_primary).strip()
+                # --- banner 圖片邏輯修改結束 ---
                 description = str(row.get('介紹', '')).strip()
                 
                 how_to_methods = []
