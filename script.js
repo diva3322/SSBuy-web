@@ -44,8 +44,6 @@ function updateMetaTags(title, description, pageName = "") {
         canonicalLink.href = currentUrl.toString();
     }
     // --- Canonical Tag 邏輯結束 ---
-
-
     // 如果需要，也可以動態更新 open graph 標籤 (用於社群分享)
     let ogTitle = document.querySelector('meta[property="og:title"]');
     if (!ogTitle) {
@@ -107,13 +105,117 @@ function updateMetaTags(title, description, pageName = "") {
     metaKeywords.content = keywords;
 }
 
+document.addEventListener('DOMContentLoaded', async () => {
+    // 從網址中獲取 'game' 參數的值
+    // 例如：如果網址是 ?game=巔峰極速，那麼 gameId 就會是 "巔峰極速"
+    const urlParams = new URLSearchParams(window.location.search);
+    const gameId = urlParams.get('game'); 
+    
+    // 假設您的 HTML 檔案中有一個 id="content-area" 的元素，用於動態注入內容
+    const contentArea = document.getElementById('content-area'); 
+
+    // 只有當網址中有 'game' 參數時才執行主要邏輯
+    if (gameId) {
+        try {
+            // 異步載入您的 JSON 數據檔案
+            // 請確保 'gift-codes-data.json' 檔案與您的 HTML 檔案在同一目錄，或路徑正確
+            const response = await fetch('gift-codes-data.json');
+            
+            // 檢查 HTTP 響應是否成功
+            if (!response.ok) {
+                throw new Error(`HTTP 錯誤! 狀態: ${response.status}`);
+            }
+            
+            // 將 JSON 響應解析為 JavaScript 物件 (這是一個大物件，鍵是遊戲名稱)
+            const allGameData = await response.json(); 
+
+            // 根據 gameId (遊戲名稱) 從 JSON 數據中獲取特定遊戲的數據物件
+            const currentGameData = allGameData[gameId]; 
+
+            // 檢查是否成功找到該遊戲的數據
+            if (currentGameData) {
+                // --- 原始功能：構建 HTML 內容字串 ---
+                let htmlContent = `
+                    <h2>${gameId}</h2> <p>${currentGameData.description || ''}</p> `;
+                // 如果有橫幅圖片，則加入圖片標籤
+                if (currentGameData.banner) {
+                    htmlContent += `<img src="${currentGameData.banner}" alt="${gameId} 橫幅" style="max-width:100%;">`;
+                }
+
+                // 如果有兌換方式，則加入列表
+                if (currentGameData.howTo && currentGameData.howTo.length > 0) {
+                    htmlContent += '<h3>兌換方式:</h3><ol>';
+                    currentGameData.howTo.forEach(method => {
+                        htmlContent += `<li>${method}</li>`;
+                    });
+                    htmlContent += '</ol>';
+                }
+
+                // 如果有禮包碼，則加入列表；否則顯示沒有禮包碼的訊息
+                if (currentGameData.codes && currentGameData.codes.length > 0) {
+                    htmlContent += '<h3>禮包碼:</h3><ul>';
+                    currentGameData.codes.forEach(item => {
+                        htmlContent += `<li><strong>${item.code}</strong>: ${item.reward}</li>`;
+                    });
+                    htmlContent += '</ul>';
+                } else {
+                    htmlContent += '<p>目前沒有可用的禮包碼。</p>';
+                }
+
+                // --- 新增功能：設置 rel="canonical" 標籤 ---
+                // 從 currentGameData 物件中獲取 canonical_url
+                if (currentGameData.canonical_url) {
+                    let canonicalLink = document.querySelector('link[rel="canonical"]');
+
+                    // 如果 <head> 中還沒有 <link rel="canonical"> 標籤，就創建一個新的
+                    if (!canonicalLink) {
+                        canonicalLink = document.createElement('link');
+                        canonicalLink.setAttribute('rel', 'canonical');
+                        document.head.appendChild(canonicalLink); // 將新創建的標籤添加到 <head>
+                    }
+
+                    // 設置或更新標籤的 href 屬性
+                    canonicalLink.setAttribute('href', currentGameData.canonical_url);
+                    console.log('Canonical URL successfully set to:', currentGameData.canonical_url); // 方便除錯
+                } else {
+                    console.warn(`遊戲 '${gameId}' 的 JSON 數據中缺少 canonical_url 字段，無法設置標準網址。`);
+                }
+                // --- rel="canonical" 標籤設置功能新增結束 ---
+
+
+                // 將構建好的 HTML 字串注入到 contentArea 元素中
+                if (contentArea) {
+                    contentArea.innerHTML = htmlContent;
+                }
+
+            } else {
+                // 如果在 JSON 數據中找不到該遊戲的資訊
+                if (contentArea) {
+                    contentArea.innerHTML = '<p>找不到該遊戲的資訊。</p>';
+                }
+            }
+
+        } catch (error) {
+            // 載入 JSON 檔案或處理數據時發生任何錯誤
+            console.error('載入或處理遊戲數據時發生錯誤:', error);
+            if (contentArea) {
+                contentArea.innerHTML = '<p>載入內容時發生錯誤，請稍後再試。</p>';
+            }
+        }
+    } else {
+        // 如果網址中沒有 'game' 參數
+        if (contentArea) {
+            contentArea.innerHTML = '<p>請在網址中指定遊戲名稱，例如: ?game=巔峰極速</p>';
+        }
+    }
+});
+
 document.addEventListener("DOMContentLoaded", () => {
     // 手機版 body class 判斷
     const isMobile = window.innerWidth <= 1024;
     if (isMobile) {
         document.body.classList.add("mobile-vertical");
     }
-
     // ★ 修正漢堡選單邏輯：確保它在任何頁面都可執行且不被跳過
     const mobileMenuToggle = document.querySelector(".mobile-menu-toggle");
     const mobileDropdownMenu = document.querySelector(".mobile-dropdown-menu");
@@ -124,7 +226,6 @@ document.addEventListener("DOMContentLoaded", () => {
             document.body.classList.toggle("no-scroll"); 
         });
     }
-
     // 圖片放大燈箱效果 (zoomable class)
     document.querySelectorAll(".zoomable").forEach(img => {
         img.addEventListener("click", () => {
@@ -145,7 +246,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         });
     });
-
     // 錨點連結平滑滾動
     // 修正：只對「純錨點」連結執行平滑滾動，避免干擾完整 URL 的連結
     document.querySelectorAll("a[href]").forEach(anchor => { // 選擇所有有 href 屬性的 a 標籤
@@ -158,7 +258,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
     });
-
     // ===== 頁面專屬邏輯 (只在特定頁面執行) ======
 
     // 首頁 (index.html) 邏輯
@@ -321,9 +420,7 @@ if (document.body.classList.contains("giftcodes-list-page")) {
                 giftcodeGameList.appendChild(listItem);
             });
         }
-
         populateGiftcodeGameList(gamesArray);
-
         searchButton.addEventListener('click', () => {
             const searchTerm = gameSearchInput.value.toLowerCase();
             const filteredGames = gamesArray.filter(game =>
@@ -331,7 +428,6 @@ if (document.body.classList.contains("giftcodes-list-page")) {
             );
             populateGiftcodeGameList(filteredGames);
         });
-
         gameSearchInput.addEventListener('keyup', (e) => {
             if (e.key === 'Enter') {
                 searchButton.click();
@@ -346,7 +442,6 @@ if (document.body.classList.contains("giftcodes-list-page")) {
     }
     loadGiftcodesOverviewForListPage(); // 初始載入總覽頁面
 }
-
     // 禮包碼詳情頁面 (gift-codes.html) 邏輯
     if (document.body.classList.contains("giftcodes-detail-page")) {
         const mainGiftcodesContainer = document.getElementById("giftcodes-main-container");
@@ -359,7 +454,6 @@ if (document.body.classList.contains("giftcodes-list-page")) {
             window.location.replace("giftcodes-list.html");
             return; // 阻止後續代碼執行
         }
-
         async function renderGameGiftcodeDetailPage() { // 不再需要參數，從 gameNameParam 獲取
             const gameName = decodeURIComponent(gameNameParam); // 在這裡解碼 gameNameParam
 
@@ -474,7 +568,6 @@ if (document.body.classList.contains("giftcodes-list-page")) {
                     </div>
                 <p><a href="giftcodes-list.html" id="back-to-overview">⬅️返回好康兌換總覽</a></p>
             `;
-
             mainGiftcodesContainer.querySelectorAll('.copy-button').forEach(button => {
                 button.addEventListener('click', (e) => {
                     const codeToCopy = e.target.dataset.code;
@@ -486,25 +579,18 @@ if (document.body.classList.contains("giftcodes-list-page")) {
                     });
                 });
             });
-
             document.getElementById('back-to-overview').addEventListener('click', (e) => {
                 e.preventDefault();
                 window.location.replace("giftcodes-list.html"); // 返回總覽頁面
             });
-
                 // 調用最新遊戲渲染，明確指定 limit = 10
 			const newGamesRecommendationContainer = document.getElementById('new-games-container');
 			await loadLatestGamesInGiftcodesPage(newGamesRecommendationContainer, 10);
         }
         renderGameGiftcodeDetailPage(); // 初始載入詳情頁面
     }
-
-
 });
-
-
 // ====== 函數定義 (所有頁面可能調用，或只在特定頁面調用) ======
-
 async function renderGames() {
     const wrapper = document.getElementById('gamesWrapper');
     if (!wrapper) return;
