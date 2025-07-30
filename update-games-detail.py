@@ -210,7 +210,7 @@ def main():
     with open("games.json", "w", encoding="utf-8") as f:
         json.dump(games_data_to_save, f, indent=2, ensure_ascii=False)
 
-    print("\n✅ games.json 數據更新完成！")
+    #print("\n✅ games.json 數據更新完成！")
 
 if __name__ == "__main__":
     main()
