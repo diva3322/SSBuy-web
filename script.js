@@ -851,15 +851,15 @@ function loadGameDetails(gameName, game) {
         gameNameInput.value = gameName;
     }
 
-    const gameDescriptionElement = document.getElementById("gameDescription");
-    if (gameDescriptionElement) { // null check
-        gameDescriptionElement.innerHTML = `
-            請確認好帳戶資料和所購買商品無誤再結帳，感謝您的支持。<br>
-            一切問題歡迎私訊官方@客服。<br>
-            歡迎加入 LINE@ 生活圈 ID：@ssbuy (@也要輸入)。<br>
-            我們將不定時舉辦抽優惠券與點卡活動哦!
-        `;
-    }
+	const gameDescriptionElement = document.getElementById("gameDescription");
+	if (gameDescriptionElement) { // null check
+		gameDescriptionElement.innerHTML = `
+			請確認好帳戶資料和所購買商品無誤再結帳，感謝您的支持。<br>
+			一切問題歡迎私訊官方@客服。<br>
+			歡迎加入 <a href="https://lihi.cc/NtlnD" target="_blank" rel="noopener noreferrer">LINE@ 生活圈 ID：@ssbuy</a> (@也要輸入)。<br>
+			我們將不定時舉辦抽優惠券與點卡活動哦!
+		`;
+	}
 	
 	    // ====== 新增這一段程式碼：載入遊戲簡介 ======
     const gameIntroActualDescriptionElement = document.getElementById("gameIntroActualDescription");
