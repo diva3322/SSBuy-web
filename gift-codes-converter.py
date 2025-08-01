@@ -1,7 +1,7 @@
 import pandas as pd
 import json
-import re
-import os # 導入 os 模組，用於檢查檔案是否存在
+import os
+import urllib.parse # 新增這行，導入 urllib.parse 模組以使用 quote 函數
 
 def convert_excel_to_json(excel_file_path, json_output_path):
     """
@@ -40,7 +40,7 @@ def convert_excel_to_json(excel_file_path, json_output_path):
                     banner_image = str(row.get('橫幅圖片檔名', '')).strip()
                     # 可以在這裡添加一個警告，如果備用圖片也是空的
                     if not banner_image:
-                         print(f"警告 (索引: {index}): 遊戲 '{game_name}' 的 '橫幅圖片' 和 '橫幅圖片檔名' 欄位皆為空。")
+                            print(f"警告 (索引: {index}): 遊戲 '{game_name}' 的 '橫幅圖片' 和 '橫幅圖片檔名' 欄位皆為空。")
                 else:
                     # 如果 '橫幅圖片' 有內容，就使用它
                     banner_image = str(banner_image_primary).strip()
@@ -70,7 +70,8 @@ def convert_excel_to_json(excel_file_path, json_output_path):
                 
                 canonical_url_raw = row.get('canonical_url')
                 if pd.isna(canonical_url_raw) or str(canonical_url_raw).strip() == '':
-                    encoded_game_name = re.quote(game_name, safe='')
+                    # 將 re.quote 改為 urllib.parse.quote
+                    encoded_game_name = urllib.parse.quote(game_name, safe='') 
                     current_canonical_url = f"https://www.ssbuy.tw/gift-codes.html?game={encoded_game_name}"
                     # print(f"警告 (索引: {index}): 遊戲 '{game_name}' 的 canonical_url 為空或無效，已自動生成為: {current_canonical_url}") # 暫時註釋掉此警告，以免干擾主要輸出
                 else:
@@ -108,11 +109,11 @@ def convert_excel_to_json(excel_file_path, json_output_path):
 
             else:
                 print(f"警告 (索引: {index}): 發現缺少 '遊戲名稱' 欄位或為空值的行，已跳過: {row.to_dict()}")
-        
+            
         # 將最終數據寫入 JSON 檔案
         with open(json_output_path, 'w', encoding='utf-8') as json_file:
             json.dump(output_json_data, json_file, ensure_ascii=False, indent=4)
-        
+            
         print(f"\nJSON 檔案 '{json_output_path}' 已成功生成！")
 
     except FileNotFoundError:
