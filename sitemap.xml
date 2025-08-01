@@ -1122,12 +1122,6 @@
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://www.ssbuy.tw/game-detail.html?game=%E5%A5%87%E8%B9%9FMU%EF%BC%9A%E6%9A%B4%E8%B5%B0%E4%B9%8B%E7%BF%BC</loc>
-        <lastmod>2025-08-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
         <loc>https://www.ssbuy.tw/game-detail.html?game=%E5%8A%8D%E5%A4%AA%E5%82%B3%E8%AA%AA%EF%BC%9A%E6%96%B0%E7%9A%84%E9%96%8B%E5%A7%8B</loc>
         <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
@@ -1135,6 +1129,12 @@
     </url>
     <url>
         <loc>https://www.ssbuy.tw/game-detail.html?game=%E4%B8%89%E5%9C%8B%E3%80%82%E7%BE%A4%E8%8B%B1%E7%87%8E%E5%8E%9F</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.ssbuy.tw/game-detail.html?game=%E5%A5%87%E8%B9%9FMU%EF%BC%9A%E6%9A%B4%E8%B5%B0%E4%B9%8B%E7%BF%BC</loc>
         <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>

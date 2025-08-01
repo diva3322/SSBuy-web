@@ -60,19 +60,15 @@ def load_existing_data(json_file="games.json"):
     return {}
 
 def main():
-    """
-    主函數：讀取 Excel 數據，更新或新增遊戲資訊，並寫入 JSON 檔案。
-    """
-    # 載入 Excel 工作簿，data_only=True 確保讀取的是單元格的顯示值而非公式
     try:
         wb = load_workbook("games.xlsx", data_only=True)
-        ws = wb.active # 獲取活動工作表
+        ws = wb.active
     except FileNotFoundError:
-        print("錯誤：找不到 games.xlsx 檔案。請確認檔案是否存在於腳本相同目錄。")
+        print("錯誤：找不到 games.xlsx 檔案。")
         return
 
-    existing_games_data = load_existing_data() # 載入現有 JSON 數據 (用於比較)
-    games_data_to_save = existing_games_data.copy() # 將要保存的數據從現有數據複製一份
+    existing_games_data = load_existing_data()
+    games_data_to_save = existing_games_data.copy()
 
     excel_game_names = set()
     # 遍歷 Excel 的每一行，從第二行開始 (假設第一行是標題)
@@ -109,24 +105,27 @@ def main():
     print("禮包碼 URL 更新完成。\n")
     
     # ------------------------------------------------------------------
-    # 階段二：處理所有遊戲數據 (包括新增的和現有的)
     print("--- 處理所有遊戲的詳細資訊 (包括新增與更新) ---")
     for row_idx, row in enumerate(ws.iter_rows(min_row=2, values_only=True)):
         game_name = str(row[0]).strip() if row[0] is not None else ""
         if not game_name:
             continue
 
-        # 修正：clean_filename 已被刪除，直接使用 game_name
-        logo = f"images/{game_name}.jpg" 
+        logo = f"images/{game_name}.jpg"
+        
+        # --- ▼▼▼ 主要修改區域 ▼▼▼ ---
 
-        # 假設禮包碼 URL 在 Excel 的第六列 (索引 5)
+        # 1. 讀取 Excel 中的 canonical_url (假設在第8欄，索引為7)
+        canonical_url_from_excel = row[7] if (len(row) > 7 and row[7] is not None) else ""
+
+        # 讀取禮包碼 URL
         excel_gift_url = row[5] if (len(row) > 5 and row[5] is not None) else ""
         gift_url_for_social = excel_gift_url if excel_gift_url else f"gift-codes.html?game={game_name}"
 
         # -------------------------------------------------------------------
         # 商品讀取邏輯
         products_from_excel = []
-        product_start_col_idx = 8
+        product_start_col_idx = 9
         
         for i in range(product_start_col_idx, len(row), 2): 
             pname_col_idx = i
@@ -155,7 +154,7 @@ def main():
         # -------------------------------------------------------------------
         
         # 從 Excel 讀取 description
-        description_from_excel = row[7] if (len(row) > 7 and row[7] is not None) else ""
+        description_from_excel = row[8] if (len(row) > 8 and row[8] is not None) else ""
         cleaned_description_from_excel = str(description_from_excel).strip()
 
         # --- 處理遊戲數據更新邏輯 ---
@@ -175,6 +174,7 @@ def main():
             # 更新 games_data_to_save 中該遊戲的 products 和 description
             games_data_to_save[game_name]['products'] = products_from_excel
             games_data_to_save[game_name]['description'] = cleaned_description_from_excel
+            games_data_to_save[game_name]['canonical_url'] = canonical_url_from_excel # <-- 新增此行
 
             # 舊遊戲不進行外部連結搜尋，跳過 API 呼叫部分
             continue 
@@ -201,7 +201,8 @@ def main():
                 "logo": logo,
                 "products": products_from_excel,
                 "social": social_links,
-                "description": cleaned_description_from_excel
+                "description": cleaned_description_from_excel,
+                "canonical_url": canonical_url_from_excel # <-- 新增此行
             }
             print(f"✅ '{game_name}' (新遊戲) 數據處理完成。")
             time.sleep(0.5)
