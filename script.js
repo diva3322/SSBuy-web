@@ -831,6 +831,17 @@ function renderVerticalLoopSlider(wrapper, gameChunks) {
 
 
 function loadGameDetails(gameName, game) {
+    // --- ▼▼▼ 新增：設定 Canonical URL ▼▼▼ ---
+    // 確保在設定頁面其他內容之前，優先處理 head 中的標籤
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.rel = 'canonical';
+        document.head.appendChild(canonicalLink);
+    }
+    // 使用從 JSON 讀取到的 canonical_url，如果不存在則動態生成一個作為備用
+    canonicalLink.href = game.canonical_url || `https://www.ssbuy.tw/game-detail.html?game=${encodeURIComponent(gameName)}`;
+    // --- ▲▲▲ 新增結束 ▲▲▲ ---
     const gameLogo = document.getElementById("gameLogo");
     if (gameLogo) { // null check
         gameLogo.src = game.logo;
