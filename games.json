@@ -1066,7 +1066,7 @@
       "App Store": "https://apps.apple.com/tw/app/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%BF%80%E9%AC%A5%E5%B3%BD%E8%B0%B7/id1501301871",
       "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=17532"
     },
-    "description": "",
+    "description": "別再讓老媽扛傷害了",
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=英雄聯盟"
   },
   "恐龍突變": {
@@ -7866,5 +7866,81 @@
     },
     "description": "奇蹟MU：暴走之翼 是一款承襲經典 MU 線上遊戲精髓的全新手機 MMORPG。它將熟悉的角色、華麗的裝備與技能完美移植到行動平台，讓玩家能隨時隨地回味奇蹟世界的感動。\n遊戲主打暢快的戰鬥節奏與豐富的副本挑戰，無論是單人闖關或組隊刷寶，都能體驗到爆棚的打擊感與策略樂趣。自動掛機系統讓玩家輕鬆升級，省下練功時間。此外，特色玩法如自由市場交易、翅膀養成、以及多樣化的競技模式，都將帶給玩家不同以往的奇蹟新體驗。立即下載《奇蹟MU：暴走之翼》，重溫熱血傳說，再創輝煌！",
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=奇蹟MU：暴走之翼"
+  },
+  "Final War：寒霜前線": {
+    "logo": "images/Final War：寒霜前線.jpg",
+    "products": [
+      {
+        "name": "23000金幣",
+        "price": 2340
+      },
+      {
+        "name": "11200金幣",
+        "price": 1323
+      },
+      {
+        "name": "4400金幣",
+        "price": 532
+      },
+      {
+        "name": "2200金幣",
+        "price": 262
+      },
+      {
+        "name": "1000金幣",
+        "price": 144
+      },
+      {
+        "name": "200金幣",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.haoplay.game.gp.fwar&hl=zh_TW&fbclid=IwY2xjawL7Bh9leHRuA2FlbQIxMABicmlkETFCWFVzVjJpdGw0WGZCQWZYAR77HC99NHbPrkb_Mnye8BfKS-UXOlzekwnY2T7ZQKP-6P1_3VFED3vt1qTZaA_aem_WNPHA6euyidgyN9uhQyrIQ",
+      "禮包碼": "gift-codes.html?game=Final War：寒霜前線",
+      "App Store": "https://apps.apple.com/tw/app/final-war-%E5%AF%92%E9%9C%9C%E5%89%8D%E7%B7%9A/id6741840895",
+      "巴哈姆特": "https://www.gamer.com.tw/"
+    },
+    "description": "《Final War：寒霜前線》是一款引人入勝的末日冰雪主題策略生存手遊。在這個被冰雪覆蓋的嚴酷世界中，你將扮演指揮官，肩負著重建人類文明的重任。遊戲核心玩法融合了資源管理、基地建設與英雄養成，你需要抵抗酷寒、抵禦來襲的猛獸與敵對勢力。獨特的熔爐系統是維持溫暖與希望的關鍵。招募各具特色的英雄，搭配不同兵種，制定你的生存策略，並與全球玩家結盟或對抗。準備好在這場終極寒霜戰爭中，點燃文明的最後火種，帶領你的人民走向新生嗎？立即下載，體驗極致的生存挑戰與策略博弈！",
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Final War：寒霜前線"
+  },
+  "黑夜獵人": {
+    "logo": "images/黑夜獵人.jpg",
+    "products": [
+      {
+        "name": "7780紅寶石",
+        "price": 2340
+      },
+      {
+        "name": "3780紅寶石",
+        "price": 1166
+      },
+      {
+        "name": "1480紅寶石",
+        "price": 548
+      },
+      {
+        "name": "750紅寶石",
+        "price": 254
+      },
+      {
+        "name": "330紅寶石",
+        "price": 127
+      },
+      {
+        "name": "60紅寶石",
+        "price": 25
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.mirrormagic.vampires&hl=zh_TW&fbclid=IwY2xjawL7BaZleHRuA2FlbQIxMABicmlkETFCWFVzVjJpdGw0WGZCQWZYAR71gqTw938aDyDX_9CvsyR4Yn_iuQ5GqsNVy4BPZqFBpFxUGgbPtUrTNmWCsQ_aem_PpcOYBPcbtQRlbXT5xvcKw",
+      "禮包碼": "gift-codes.html?game=黑夜獵人",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BB%91%E5%A4%9C%E7%8D%B5%E4%BA%BA-%E5%B0%88%E6%B2%BB%E5%90%B8%E8%A1%80%E9%AC%BC-%E6%AE%AD%E5%B1%8D%E8%88%87%E5%90%84%E7%A8%AE%E4%B8%8D%E6%9C%8D/id6746669165",
+      "巴哈姆特": "https://www.gamer.com.tw/"
+    },
+    "description": "《黑夜獵人：專治吸血鬼、殭屍與各種不服》是一款主打休閒塔防與策略對抗的哥德風手遊。你將化身為一名強大的吸血鬼獵人，在暗夜中佈下天羅地網，抵禦一波波來襲的殭屍、狼人與吸血鬼大軍。遊戲核心玩法是策略性地放置和升級你的防禦單位，結合英雄技能，消滅所有敵人。告別複雜操作，享受單手即可暢玩的割草快感與塔防樂趣。準備好運用你的智慧，建造最強防線，成為讓所有黑暗生物聞風喪膽的終極獵人了嗎？立即下載，體驗這場刺激又爽快的暗夜狩獵！",
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=黑夜獵人"
   }
 }
