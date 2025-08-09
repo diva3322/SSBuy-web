@@ -6789,5 +6789,27 @@
             }
         ],
         "canonical_url": "https://www.ssbuy.tw/gift-codes.html?game=三國志Thrones"
+    },
+    "英雄之地": {
+        "banner": "giftcodesbanner/英雄之地-禮包碼.jpg",
+        "description": "nan",
+        "howTo": [
+            "遊戲主畫面右上角四葉草點開",
+            "點右下角齒輪設定",
+            "左邊書籤滑到底「兌換碼」",
+            "貼上在SSbuy複製好的禮包兌換碼",
+            "到信箱領取免費兌換碼禮包"
+        ],
+        "codes": [
+            {
+                "code": "HLMobile777",
+                "reward": "附靈召喚券*5+金幣*16888"
+            },
+            {
+                "code": "ruroro666",
+                "reward": "附靈召喚券*3+金幣*8888+隨機強化沙禮包*20"
+            }
+        ],
+        "canonical_url": "https://www.ssbuy.tw/gift-codes.html?game=英雄之地"
     }
 }

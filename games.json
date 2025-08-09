@@ -8288,5 +8288,59 @@
     },
     "description": "《三國志Thrones》是一款讓您身歷其境的策略手遊，完美還原三國時代的壯闊史詩。遊戲中，您將扮演一方之主，從零開始建立您的城池，招募關羽、張飛、趙雲等傳奇武將，並透過合縱連橫的外交手段，與其他玩家結盟或對抗，最終目標是稱霸天下。遊戲畫面精緻，戰鬥場景氣勢磅礡，讓您體驗最真實的三國戰爭。想要快速提升實力，除了透過代儲值獲得更多資源，也別忘了尋找最新的禮包碼，兌換豐富的虛寶獎勵，讓您的統一天下之路更加順遂！立即下載《三國志Thrones》，開啟您的三國霸業！",
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=三國志Thrones"
+  },
+  "英雄之地": {
+    "logo": "images/英雄之地.jpg",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2539
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1323
+      },
+      {
+        "name": "1980鑽石",
+        "price": 775
+      },
+      {
+        "name": "980鑽石",
+        "price": 389
+      },
+      {
+        "name": "300鑽石",
+        "price": 144
+      },
+      {
+        "name": "60鑽石",
+        "price": 25
+      },
+      {
+        "name": "月卡",
+        "price": 144
+      },
+      {
+        "name": "永久卡",
+        "price": 389
+      },
+      {
+        "name": "晨輝新星時裝",
+        "price": 1166
+      },
+      {
+        "name": "晨輝靈獅時裝",
+        "price": 476
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/sdgnorthcoast/",
+      "官方網站": "https://apps.apple.com/cn/app/%E8%8B%B1%E5%8B%87%E4%B9%8B%E5%9C%B0/id6480160896",
+      "禮包碼": "gift-codes.html?game=英雄之地",
+      "App Store": "https://apps.apple.com/tw/app/%E7%AC%A6%E6%96%87%E5%A4%A7%E5%9C%B0%E5%82%B3%E8%AA%AA-legends-of-runeterra/id1501300747",
+      "巴哈姆特": "https://forum.gamer.com.tw/B.php?bsn=79185"
+    },
+    "description": "",
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=英雄之地"
   }
 }
