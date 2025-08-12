@@ -8342,5 +8342,89 @@
     },
     "description": "《英勇之地》是一款奇幻風格的輕度 Roguelike RPG 動作冒險手遊。玩家將扮演一位英勇的騎士，在充滿挑戰的奇幻世界中，探索地圖、收集裝備與技能，並與各種怪物戰鬥。遊戲主打流暢的戰鬥體驗與多樣化的職業和技能組合，讓每場冒險都充滿未知與驚喜。透過不斷挑戰關卡，提升角色等級，並利用強大的裝備與技能來擊敗最終頭目。遊戲內提供多種禮包碼供玩家兌換豐富獎勵，同時也支援多樣化的代儲值管道，讓玩家能輕鬆獲得更多資源，快速增強戰力，享受更加暢快的遊戲樂趣。",
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=英勇之地"
+  },
+  "未鑑定勇者團": {
+    "logo": "images/未鑑定勇者團.jpg",
+    "products": [
+      {
+        "name": "13000翡翠",
+        "price": 2355
+      },
+      {
+        "name": "3450翡翠",
+        "price": 937
+      },
+      {
+        "name": "600翡翠",
+        "price": 232
+      },
+      {
+        "name": "難度通行證",
+        "price": 176
+      },
+      {
+        "name": "勇者等級通行證",
+        "price": 102
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/100083532752206/posts/%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5wizardry-variants-daphne-%E8%BE%9F%E9%82%AA%E9%99%A4%E5%A6%96-line%E8%A8%8E%E8%AB%96%E7%BE%A4httpsreurlcc7kooql%E9%82%80%E8%AB%8B%E5%8A%A0%E5%85%A5wizardry-variants/633162202811533/",
+      "官方網站": "https://www.facebook.com/100064014759876/posts/%E6%9C%AA%E9%91%91%E5%AE%9A%E5%8B%87%E8%80%85%E5%9C%98%E9%81%8B%E6%B0%A3%E5%9E%8B%E6%94%BE%E7%BD%AErpg-hidden-heroes-fortune-dungeon-7%E6%9C%8812%E6%97%A5%E6%9B%B4%E6%96%B0-%E9%9F%93%E5%9C%8Bq%E7%89%88%E5%83%8F%E7%B4%A0%E9%A2%A8-%E5%85%A8%E8%87%AA%E5%8B%95-%E5%85%A8%E6%94%BE%E7%BD%AE-%E9%9B%86%E9%81%8B%E6%B0%A3%E6%88%90%E9%95%B7%E6%94%B6%E9%9B%86%E7%AD%96%E7%95%A5%E6%96%BC%E4%B8%80/1186422983501516/",
+      "禮包碼": "gift-codes.html?game=未鑑定勇者團",
+      "App Store": "https://apps.apple.com/tw/developer/dreamplay-games-inc/id965141578",
+      "巴哈姆特": "https://forum.gamer.com.tw/C.php?bsn=79148&snA=112"
+    },
+    "description": "《未鑑定勇者團》是一款像素風格的放置型 RPG 手遊，帶您進入一個充滿懷舊與冒險的奇幻世界。遊戲核心特色在於其獨特的「未鑑定」系統，玩家將招募各種職業的勇者，他們的能力與潛力都是未知的，需要透過您的細心培養和鑑定，才能發掘出最強大的隱藏英雄。遊戲玩法輕鬆，即使離線也能持續獲得收益，讓您輕鬆養成您的勇者隊伍。為了讓您的冒險之路更加順暢，別忘了隨時查找最新的禮包碼，兌換豐富的虛寶獎勵，快速提升戰力。若想在遊戲中取得更多優勢，也可以考慮使用安全的代儲值服務，輕鬆獲取鑽石與各種稀有道具，打造無堅不摧的傳奇勇者團。立即加入，揭開所有未鑑定勇者的神秘面紗，展開一場獨一無二的冒險旅程！",
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=未鑑定勇者團"
+  },
+  "戰靈異聞社": {
+    "logo": "images/戰靈異聞社.jpg",
+    "products": [
+      {
+        "name": "99.99禮包",
+        "price": 2555
+      },
+      {
+        "name": "49.99禮包",
+        "price": 1331
+      },
+      {
+        "name": "29.99禮包",
+        "price": 788
+      },
+      {
+        "name": "19.99禮包",
+        "price": 535
+      },
+      {
+        "name": "14.99禮包",
+        "price": 391
+      },
+      {
+        "name": "12.99禮包",
+        "price": 343
+      },
+      {
+        "name": "9.99禮包",
+        "price": 264
+      },
+      {
+        "name": "4.99禮包",
+        "price": 145
+      },
+      {
+        "name": "0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/groups/1454449675209730/",
+      "官方網站": "https://gnn.gamer.com.tw/detail.php?sn=288930",
+      "禮包碼": "gift-codes.html?game=戰靈異聞社",
+      "App Store": "https://apps.apple.com/tw/app/%E6%88%B0%E9%9D%88%E7%95%B0%E8%81%9E%E7%A4%BE/id6745178365",
+      "巴哈姆特": "https://gnn.gamer.com.tw/detail.php?sn=288930"
+    },
+    "description": "《戰靈異聞社》是一款都市怪談風格的卡牌放置手遊。遊戲將您帶入一個現代與靈異交織的世界，您將扮演「異聞社」的社長，專門解決各種超自然事件。遊戲美術風格獨特，融合了潮流與傳統元素，打造出百位以上各具特色的「戰靈」。玩家需要策略性地組合隊伍，利用戰靈之間的羈絆與技能，挑戰各種詭譎的都市傳說。遊戲主打輕鬆護肝的放置玩法，讓您在忙碌之餘也能享受卡牌養成的樂趣。官方經常發放福利，記得要關注社群平台領取最新的禮包碼，強化您的戰靈隊伍。對於追求極致遊戲體驗的玩家，尋找可靠的代儲值管道能幫助您更快地收集心儀角色，解鎖更強大的力量，帶領您的異聞社，揭開所有神秘事件背後的真相。",
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=戰靈異聞社"
   }
 }
