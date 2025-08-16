@@ -235,6 +235,10 @@ body {
     margin-bottom: 0.37vh; /* 這一行設定商品下方外邊距為0.37vh */
 }
 
+.product-item:hover {
+    background-color: #333; /* 滑鼠移上去時的背景色 */
+}
+
 .product-name {
     flex-grow: 1; /* 這一行使商品名稱佔據剩餘空間 */
     text-align: left; /* 這一行使商品名稱左對齊 */
@@ -365,7 +369,8 @@ body {
     color: #ffcc00; /* 這一行設定h3文字為白色 */
     align-items: flex-start; /* 這一行使h3內容左對齊 */	
 	font-size: 1.17em;
-	margin-top: 1vh;
+	margin-top: 0.1vh;
+    margin-bottom: 0.1vh;
 }
 
 /* social-media => margin-top:170px=> ~8.85vw */ /* 這一行是註解，標示社交媒體區樣式開始 */
@@ -504,6 +509,47 @@ footer a:hover {
     align-items: flex-start; /* 這一行使主內容內容從頂部對齊 */
     gap: 1.04vw; /* 這一行設定主內容內元素間距為1.04vw */
     flex-wrap: nowrap; /* 這一行防止主內容內元素換行 */
+}
+
+/* --- 表格樣式補強 --- */
+
+/* 為整個表格加上外框線和基本設定 */
+.gift-codes-table {
+    width: 100%;
+    border-collapse: collapse; /* 讓邊框合併，更好看 */
+    margin-top: 1em;
+    margin-bottom: 2em;
+    border: 1px solid #555; /* 表格外框線 */
+}
+
+/* 設定表格的標頭 (th) 和儲存格 (td) 的樣式 */
+.gift-codes-table th,
+.gift-codes-table td {
+    border: 1px solid #555; /* 表格內部的框線 */
+    padding: 12px 15px;      /* 內邊距，讓文字不要貼著框線 */
+    text-align: left;        /* 文字靠左對齊 */
+}
+
+/* 設定標頭的背景顏色和文字顏色 */
+.gift-codes-table th {
+    background-color: #333;
+    color: #f0c674; /* 金黃色文字 */
+    font-weight: bold;
+}
+
+/* 設定複製按鈕的樣式 */
+.gift-codes-table .copy-button {
+    background-color: #f0c674;
+    color: #1a1a1a;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.gift-codes-table .copy-button:hover {
+    background-color: #fff;
 }
 
 .game-detail p{
@@ -850,6 +896,7 @@ img.zoomable {
 
 /* 這一行設置textarea? => line-height:25px => ~1.3vw */ /* 這一行是註解，標示特定文本區域樣式開始 */
 .login-box textarea#selectedProducts {
+    min-height: 10vh ;
     resize: none; /* 這一行禁止調整文本區域大小 */
     overflow: hidden; /* 這一行隱藏文本區域溢出內容 */
     line-height: 1.3vw; /* 這一行設定文本區域行距為1.3vw */
@@ -870,6 +917,14 @@ img.zoomable {
     align-items: center;
     box-shadow: 0 2px 5px rgba(0,0,0,0.5);
     height: auto; /* 高度自適應 */
+}
+
+.giftcodes-banner {
+max-width: 100%; / 關鍵：圖片最大寬度為父容器的 100% /
+object-fit: cover;
+width: 100%;
+height: auto;    / 關鍵：高度等比例縮放 /
+margin-bottom: 20px; / 可以根據需要調整下方間距 /
 }
 
 .mobile-menu-toggle {
@@ -1762,6 +1817,13 @@ body::-webkit-scrollbar {
 img.zoomable {
   display: block;
   margin: 10px auto;
+}
+
+/* --- 手機版 Banner 圖片響應式修正 --- */
+.giftcodes-banner {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 }
