@@ -24,30 +24,49 @@ def process_gift_codes():
         for index, row in df.iterrows():
             game_name = str(row.get('遊戲名稱', '')).strip()
             if not game_name: continue
-            banner_url = str(row.get('橫幅圖片', '')).strip()
-            if banner_url:
-                final_banner_path = banner_url
+
+            # --- [修改重點] 智慧型 Banner 圖片處理邏輯 ---
+            # 1. 優先讀取「橫幅圖片」欄位
+            banner_path = str(row.get('橫幅圖片', '')).strip()
+            # 2. 如果是空的，才去讀取「橫幅圖片檔名」
+            if not banner_path:
+                banner_path = str(row.get('橫幅圖片檔名', '')).strip()
+
+            # 3. 判斷最終路徑
+            if not banner_path:
+                # 如果兩個欄位都為空，則使用預設路徑
+                final_banner_path = f"giftcodesbanner/{game_name}.jpg"
+            elif banner_path.startswith('giftcodesbanner/'):
+                # 如果內容已經是 'giftcodesbanner/...' 開頭，就直接使用
+                final_banner_path = banner_path
             else:
-                banner_filename = str(row.get('橫幅圖片檔名', '')).strip()
-                final_banner_path = f"giftcodesbanner/{banner_filename}" if banner_filename else f"giftcodesbanner/{game_name}.jpg"
+                # 如果內容只是檔名，就自動在前面加上 'giftcodesbanner/'
+                final_banner_path = f"giftcodesbanner/{banner_path}"
+            # --- [修改重點結束] ---
+
             how_to_methods = [str(row.get(f'兌換方式{i}', '')).strip() for i in range(1, 7) if str(row.get(f'兌換方式{i}', '')).strip()]
+            
             codes_list = []
             for i in range(1, 21):
                 code = str(row.get(f'禮包碼{i}', '')).strip()
                 reward = str(row.get(f'內容物{i}', '')).strip()
                 if code:
                     codes_list.append({"code": code, "reward": reward})
+            
             game_obj = {
-                "banner": final_banner_path, "description": str(row.get('介紹', '')).strip(),
-                "howTo": how_to_methods, "codes": codes_list
+                "banner": final_banner_path,
+                "description": str(row.get('介紹', '')).strip(),
+                "howTo": how_to_methods,
+                "codes": codes_list
             }
             output_data[game_name] = game_obj
+
         with open(GIFT_CODES_JSON_PATH, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
         print(f"✅ gift-codes-data.json 檔案已成功生成！")
+
     except Exception as e:
         print(f"❌ 處理禮包碼資料時發生錯誤: {e}")
-
 # ==============================================================================
 # 步驟 2: 定義處理「遊戲主資料」工作表的函數
 # ==============================================================================
