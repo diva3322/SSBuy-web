@@ -20,13 +20,28 @@ def process_gift_codes():
         for index, row in df.iterrows():
             game_name = str(row.get('遊戲名稱', '')).strip()
             if not game_name: continue
-            banner_url = str(row.get('橫幅圖片', '')).strip()
-            if banner_url:
-                final_banner_path = banner_url
+
+            # --- [修改重點] 智慧型 Banner 圖片處理邏輯 ---
+            # 1. 優先讀取「橫幅圖片」欄位
+            banner_path = str(row.get('橫幅圖片', '')).strip()
+            # 2. 如果是空的，才去讀取「橫幅圖片檔名」
+            if not banner_path:
+                banner_path = str(row.get('橫幅圖片檔名', '')).strip()
+
+            # 3. 判斷最終路徑
+            if not banner_path:
+                # 如果兩個欄位都為空，則使用預設路徑
+                final_banner_path = f"giftcodesbanner/{game_name}.jpg"
+            elif banner_path.startswith('giftcodesbanner/'):
+                # 如果內容已經是 'giftcodesbanner/...' 開頭，就直接使用
+                final_banner_path = banner_path
             else:
-                banner_filename = str(row.get('橫幅圖片檔名', '')).strip()
-                final_banner_path = f"giftcodesbanner/{banner_filename}" if banner_filename else f"giftcodesbanner/{game_name}.jpg"
+                # 如果內容只是檔名，就自動在前面加上 'giftcodesbanner/'
+                final_banner_path = f"giftcodesbanner/{banner_path}"
+            # --- [修改重點結束] ---            
+            
             how_to_methods = [str(row.get(f'兌換方式{i}', '')).strip() for i in range(1, 7) if str(row.get(f'兌換方式{i}', '')).strip()]
+            
             codes_list = []
             for i in range(1, 21):
                 code = str(row.get(f'禮包碼{i}', '')).strip()
@@ -76,7 +91,7 @@ def process_games():
             social_map = {
                 "Facebook": "Facebook",
                 "官方網站": "官方網站",
-                "App Store": "AppStore",
+                "App Store": "App Store",
                 "Google Play": "GooglePlay",
                 "禮包碼": "禮包碼"
             }
@@ -101,12 +116,14 @@ def process_games():
             products_list = []
             for i in range(1, 16):
                 p_name = str(row.get(f'商品{i}名稱', '')).strip()
-                p_price_raw = row.get(f'商品{i}價格', '')
-                if p_name and p_price_raw != '':
-                    try:
-                        products_list.append({"name": p_name, "price": int(p_price_raw)})
-                    except (ValueError, TypeError):
-                        print(f"  ⚠️  警告：遊戲 \"{game_name}\" 的商品 \"{p_name}\" 價格 \"{p_price_raw}\" 不是有效數字，已跳過。")
+                p_price_raw = row.get(f'商品{i}價格', '') # 直接讀取原始值
+                
+                # [修改重點] 只要商品名稱存在，就加入列表，不再檢查價格是否為數字
+                if p_name:
+                    products_list.append({
+                        "name": p_name, 
+                        "price": str(p_price_raw).strip() # 將價格直接當作字串處理
+                    })
 
             game_obj = {
                 "logo": final_logo_path,
