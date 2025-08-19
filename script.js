@@ -1,12 +1,10 @@
 // ====== 輔助函數 (Helper Functions) ======
 
-// 根據遊戲名稱產生安全的、全小寫的檔名
+// ====== 輔助函數 (Helper Functions) ======
 function createSafeFileName(gameName) {
     if (!gameName) return '';
-    // 只替換空格和少數不安全字元，保留大小寫和冒號
-    let safeName = gameName
-        .replace(/\s+/g, '-')
-        .replace(/[\\/?*"<>|]/g, '');
+    // [修改重點] 只移除對作業系統不安全的極少數字元
+    let safeName = gameName.replace(/[\\/?*"<>|]/g, '');
     if (/^\d/.test(safeName)) {
         safeName = 'game-' + safeName;
     }

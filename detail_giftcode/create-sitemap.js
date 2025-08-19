@@ -11,14 +11,12 @@ const sitemapPath = path.join(webRootDir, 'sitemap.xml');
 
 function createSafeUrlSegment(gameName) {
     if (!gameName) return '';
-    // [修改重點] 只替換空格和少數不安全字元，保留大小寫和冒號
-    let safeName = gameName
-        .replace(/\s+/g, '-')
-        .replace(/[\\/?*"<>|]/g, '');
+    // [修改重點] 只對整個名稱做 URL 編碼，保留所有字元
+    let safeName = gameName;
     if (/^\d/.test(safeName)) {
         safeName = 'game-' + safeName;
     }
-    return encodeURI(safeName); // 使用 encodeURI 來處理中文等，它不會動到 : 符號
+    return encodeURI(safeName);
 }
 
 // ... (檔案其餘部分保持不變) ...
