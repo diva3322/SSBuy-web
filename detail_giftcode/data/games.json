@@ -8528,5 +8528,51 @@
       "禮包碼": "gift-codes.html?game=伊瑟"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=伊瑟"
+  },
+  "手刀搶英雄": {
+    "logo": "images/手刀搶英雄.jpg",
+    "description": "《手刀搶英雄》是一款主打快節奏放置戰鬥的像素風 RPG 冒險遊戲。故事圍繞著一位呆萌的新手領主，雖然本人是菜鳥，手上卻握有滿級的傳說聖劍！玩家將集結一群個性獨特但有點不靠譜的 B 級英雄，共同踏上討伐魔王的爆笑旅程。遊戲玩法輕鬆上手，透過不斷刷怪、打寶來強化隊伍，還能參與皇位爭奪戰，見證主角從新手一路晉升為皇帝。想要贏在起跑線，務必多加利用官方釋出的禮包碼兌換資源；若想加速進程，安全可靠的代儲值服務也是不錯的選擇，助您輕鬆打造最強隊伍，享受秒殺敵人的快感！",
+    "products": [
+      {
+        "name": "8250寶石",
+        "price": "1961"
+      },
+      {
+        "name": "5390寶石",
+        "price": "1567"
+      },
+      {
+        "name": "3575寶石",
+        "price": "1016"
+      },
+      {
+        "name": "1980寶石",
+        "price": "622.0"
+      },
+      {
+        "name": "605寶石",
+        "price": "232.0"
+      },
+      {
+        "name": "275寶石",
+        "price": "102.0"
+      },
+      {
+        "name": "165寶石",
+        "price": "51.0"
+      },
+      {
+        "name": "賽季通行證",
+        "price": "232.0"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/",
+      "官方網站": "https://www.highbrow.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E6%89%8B%E5%88%80%E6%90%B6%E8%8B%B1%E9%9B%84/id6745557169",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.highbrow.games.mnf&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=手刀搶英雄"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=手刀搶英雄"
   }
 }
