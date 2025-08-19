@@ -1,12 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
+// --- 輔助函數：產生檔名 ---
 function createSafeFileName(gameName) {
     if (!gameName) return '';
-    // [修改重點] 只替換空格和少數不安全字元，保留大小寫和冒號
-    let safeName = gameName
-        .replace(/\s+/g, '-')
-        .replace(/[\\/?*"<>|]/g, '');
+    // [修改重點] 移除所有替換規則，只保留對作業系統不安全的少數字元
+    let safeName = gameName.replace(/[\\/?*"<>|]/g, ''); 
     if (/^\d/.test(safeName)) {
         safeName = 'game-' + safeName;
     }
