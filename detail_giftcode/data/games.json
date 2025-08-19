@@ -5,55 +5,55 @@
     "products": [
       {
         "name": "鑽石 60顆",
-        "price": 30
+        "price": "30"
       },
       {
         "name": "鑽石 300顆",
-        "price": 137
+        "price": "137"
       },
       {
         "name": "鑽石 680顆",
-        "price": 260
+        "price": "260"
       },
       {
         "name": "鑽石 980顆",
-        "price": 390
+        "price": "390.0"
       },
       {
         "name": "鑽石 1280顆",
-        "price": 520
+        "price": "520.0"
       },
       {
         "name": "鑽石 1980顆",
-        "price": 780
+        "price": "780.0"
       },
       {
         "name": "鑽石 3280顆",
-        "price": 1300
+        "price": "1300.0"
       },
       {
         "name": "鑽石6480顆",
-        "price": 2395
+        "price": "2395.0"
       },
       {
         "name": "月卡",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "高級合約",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "特級合約",
-        "price": 520
+        "price": "520.0"
       },
       {
         "name": "合約組合禮包",
-        "price": 1260
+        "price": "1260.0"
       },
       {
         "name": "合約組合禮包(折扣)",
-        "price": 1150
+        "price": "1150.0"
       }
     ],
     "social": {
@@ -71,39 +71,39 @@
     "products": [
       {
         "name": "創世結晶 60顆",
-        "price": 30
+        "price": "30"
       },
       {
         "name": "創世結晶 300顆",
-        "price": 137
+        "price": "137"
       },
       {
         "name": "創世結晶 980顆",
-        "price": 390
+        "price": "390"
       },
       {
         "name": "創世結晶 1980顆",
-        "price": 780
+        "price": "780.0"
       },
       {
         "name": "創世結晶 3280顆",
-        "price": 1300
+        "price": "1300.0"
       },
       {
         "name": "創世結晶 6480顆",
-        "price": 2350
+        "price": "2350.0"
       },
       {
         "name": "空月祝福",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "珍珠紀行",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "珍珠之歌",
-        "price": 520
+        "price": "520.0"
       }
     ],
     "social": {
@@ -121,51 +121,51 @@
     "products": [
       {
         "name": "66點券",
-        "price": 35
+        "price": "35"
       },
       {
         "name": "340點券",
-        "price": 137
+        "price": "137"
       },
       {
         "name": "660點券",
-        "price": 264
+        "price": "264"
       },
       {
         "name": "980點券",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "1980點券",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "2580點券",
-        "price": 1130
+        "price": "1130.0"
       },
       {
         "name": "3380點券",
-        "price": 1323
+        "price": "1323.0"
       },
       {
         "name": "6580點券",
-        "price": 2551
+        "price": "2551.0"
       },
       {
         "name": "月卡",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "普通通行證",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "豪華通行證",
-        "price": 540
+        "price": "540.0"
       },
       {
         "name": "超值理財",
-        "price": 267
+        "price": "267.0"
       }
     ],
     "social": {
@@ -183,31 +183,31 @@
     "products": [
       {
         "name": "9999仙玉",
-        "price": 8300
+        "price": "8300"
       },
       {
         "name": "3290仙玉",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690仙玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "670仙玉",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330仙玉",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170仙玉",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33仙玉",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -225,27 +225,27 @@
     "products": [
       {
         "name": "6480玉",
-        "price": 2390
+        "price": "2390"
       },
       {
         "name": "3280玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980玉",
-        "price": 810
+        "price": "810"
       },
       {
         "name": "980玉",
-        "price": 410
+        "price": "410.0"
       },
       {
         "name": "300玉",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60玉",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -263,31 +263,31 @@
     "products": [
       {
         "name": "4500鑽",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3000鑽",
-        "price": 1720
+        "price": "1720"
       },
       {
         "name": "1500鑽",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "750鑽",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "450鑽",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "225鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "75鑽",
-        "price": 50
+        "price": "50.0"
       }
     ],
     "social": {
@@ -305,31 +305,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -347,35 +347,35 @@
     "products": [
       {
         "name": "9999紅寶石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4999紅寶石",
-        "price": 1380
+        "price": "1380"
       },
       {
         "name": "2999紅寶石",
-        "price": 830
+        "price": "830"
       },
       {
         "name": "1999紅寶石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "1499紅寶石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "999紅寶石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "499紅寶石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "99紅寶石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -393,27 +393,27 @@
     "products": [
       {
         "name": "9999冰海水晶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4999冰海水晶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1999冰海水晶",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "999冰海水晶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "499冰海水晶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "99冰海水晶",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -431,31 +431,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -473,23 +473,23 @@
     "products": [
       {
         "name": "5900商品",
-        "price": 5300
+        "price": "5300"
       },
       {
         "name": "2600商品",
-        "price": 2360
+        "price": "2360"
       },
       {
         "name": "1300商品",
-        "price": 1180
+        "price": "1180"
       },
       {
         "name": "780商品",
-        "price": 730
+        "price": "730.0"
       },
       {
         "name": "260商品",
-        "price": 250
+        "price": "250.0"
       }
     ],
     "social": {
@@ -507,31 +507,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -549,35 +549,35 @@
     "products": [
       {
         "name": "6488彩鑽",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280彩鑽",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980彩鑽",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280彩鑽",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "980彩鑽",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680彩鑽",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300彩鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60彩鑽",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -595,31 +595,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -637,31 +637,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -679,35 +679,35 @@
     "products": [
       {
         "name": "6000元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3000元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1800元寶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1200元寶",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "900元寶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "600元寶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60元寶",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -725,35 +725,35 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "980鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -771,27 +771,27 @@
     "products": [
       {
         "name": "8700鑽",
-        "price": 1940
+        "price": "1940"
       },
       {
         "name": "4750鑽",
-        "price": 1150
+        "price": "1150"
       },
       {
         "name": "2600鑽",
-        "price": 620
+        "price": "620"
       },
       {
         "name": "1150鑽",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "335鑽",
-        "price": 90
+        "price": "90.0"
       },
       {
         "name": "110鑽",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -809,27 +809,27 @@
     "products": [
       {
         "name": "6480星鑽",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280星鑽",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980星鑽",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980星鑽",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300星鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60星鑽",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -847,23 +847,23 @@
     "products": [
       {
         "name": "6480氪晶",
-        "price": 2540
+        "price": "2540"
       },
       {
         "name": "3280氪晶",
-        "price": 1280
+        "price": "1280"
       },
       {
         "name": "1280氪晶",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "680氪晶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300氪晶",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -881,31 +881,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -923,27 +923,27 @@
     "products": [
       {
         "name": "6000金玉",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3000金玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1800金玉",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "900金玉",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300金玉",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60金玉",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -961,27 +961,27 @@
     "products": [
       {
         "name": "5500星際比特",
-        "price": 2150
+        "price": "2150"
       },
       {
         "name": "4400星際比特",
-        "price": 1750
+        "price": "1750"
       },
       {
         "name": "2750星際比特",
-        "price": 1130
+        "price": "1130"
       },
       {
         "name": "1650星際比特",
-        "price": 700
+        "price": "700.0"
       },
       {
         "name": "750星際比特",
-        "price": 340
+        "price": "340.0"
       },
       {
         "name": "165星際比特",
-        "price": 90
+        "price": "90.0"
       }
     ],
     "social": {
@@ -999,31 +999,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1041,23 +1041,23 @@
     "products": [
       {
         "name": "12150聯盟幣",
-        "price": 2420
+        "price": "2420"
       },
       {
         "name": "7050聯盟幣",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "3500聯盟幣",
-        "price": 740
+        "price": "740"
       },
       {
         "name": "1380聯盟幣",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "660聯盟幣",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -1075,35 +1075,35 @@
     "products": [
       {
         "name": "1490商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1290商品",
-        "price": 1120
+        "price": "1120"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "790商品",
-        "price": 680
+        "price": "680.0"
       },
       {
         "name": "690商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "490商品",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "320商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "190商品",
-        "price": 170
+        "price": "170.0"
       }
     ],
     "social": {
@@ -1121,31 +1121,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1163,39 +1163,39 @@
     "products": [
       {
         "name": "6480古老夢華",
-        "price": 2320
+        "price": "2320"
       },
       {
         "name": "3280古老夢華",
-        "price": 1250
+        "price": "1250"
       },
       {
         "name": "1980古老夢華",
-        "price": 790
+        "price": "790"
       },
       {
         "name": "980古老夢華",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300古老夢華",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60古老夢華",
-        "price": 30
+        "price": "30.0"
       },
       {
         "name": "列車補給憑證",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "無名客的榮勳",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "無名客的獎章",
-        "price": 520
+        "price": "520.0"
       }
     ],
     "social": {
@@ -1213,31 +1213,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1255,31 +1255,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1390
+        "price": "1390"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1297,31 +1297,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1390
+        "price": "1390"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1339,35 +1339,35 @@
     "products": [
       {
         "name": "6350鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4400鑽石",
-        "price": 1980
+        "price": "1980"
       },
       {
         "name": "3200鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1850鑽石",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "1250鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "900鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "310鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -1385,39 +1385,39 @@
     "products": [
       {
         "name": "99.99美金仙玉",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "49.99美金仙玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "29.99美金仙玉",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "19.99美金仙玉",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "14.99美金仙玉",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "9.99美金仙玉",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "4.99美金仙玉",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "1.99美金仙玉",
-        "price": 60
+        "price": "60.0"
       },
       {
         "name": "0.99美金仙玉",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1435,27 +1435,27 @@
     "products": [
       {
         "name": "6480晶源",
-        "price": 2360
+        "price": "2360"
       },
       {
         "name": "3280晶源",
-        "price": 1200
+        "price": "1200"
       },
       {
         "name": "1980晶源",
-        "price": 800
+        "price": "800"
       },
       {
         "name": "980晶源",
-        "price": 420
+        "price": "420.0"
       },
       {
         "name": "300晶源",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60晶源",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -1473,39 +1473,39 @@
     "products": [
       {
         "name": "6480菲林底片",
-        "price": 2520
+        "price": "2520"
       },
       {
         "name": "3280菲林底片",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980菲林底片",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980菲林底片",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300菲林底片",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60菲林底片",
-        "price": 30
+        "price": "30.0"
       },
       {
         "name": "繩網會員",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "成長計畫",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "典藏計畫",
-        "price": 540
+        "price": "540.0"
       }
     ],
     "social": {
@@ -1523,35 +1523,35 @@
     "products": [
       {
         "name": "4110點券",
-        "price": 2660
+        "price": "2660"
       },
       {
         "name": "3692點券",
-        "price": 2350
+        "price": "2350"
       },
       {
         "name": "2943點券",
-        "price": 1890
+        "price": "1890"
       },
       {
         "name": "2047點券",
-        "price": 1390
+        "price": "1390.0"
       },
       {
         "name": "1466點券",
-        "price": 970
+        "price": "970.0"
       },
       {
         "name": "1092點券",
-        "price": 750
+        "price": "750.0"
       },
       {
         "name": "728點券",
-        "price": 490
+        "price": "490.0"
       },
       {
         "name": "364點券",
-        "price": 250
+        "price": "250.0"
       }
     ],
     "social": {
@@ -1569,31 +1569,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1390
+        "price": "1390"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1611,39 +1611,39 @@
     "products": [
       {
         "name": "6480月相",
-        "price": 2320
+        "price": "2320"
       },
       {
         "name": "3280月相",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980月相",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980月相",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300月相",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60月相",
-        "price": 30
+        "price": "30.0"
       },
       {
         "name": "月相觀測卡",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "寰宇頻道",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "寰宇特約",
-        "price": 520
+        "price": "520.0"
       }
     ],
     "social": {
@@ -1661,31 +1661,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2420
+        "price": "2420"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1703,27 +1703,27 @@
     "products": [
       {
         "name": "6580元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3380元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980元寶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980元寶",
-        "price": 450
+        "price": "450.0"
       },
       {
         "name": "340元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "66元寶",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -1741,23 +1741,23 @@
     "products": [
       {
         "name": "4500000金券",
-        "price": 2200
+        "price": "2200"
       },
       {
         "name": "2820000金券",
-        "price": 1380
+        "price": "1380"
       },
       {
         "name": "900000金券",
-        "price": 450
+        "price": "450"
       },
       {
         "name": "480000金券",
-        "price": 240
+        "price": "240.0"
       },
       {
         "name": "300000金券",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -1775,35 +1775,35 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "980鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1821,31 +1821,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1390
+        "price": "1390"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1863,27 +1863,27 @@
     "products": [
       {
         "name": "6580鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3380鑽石",
-        "price": 1460
+        "price": "1460"
       },
       {
         "name": "1340鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "660鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "340鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -1901,31 +1901,31 @@
     "products": [
       {
         "name": "3290商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "330商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170商品",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33商品",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -1943,27 +1943,27 @@
     "products": [
       {
         "name": "99900乙醚",
-        "price": 2290
+        "price": "2290"
       },
       {
         "name": "49900乙醚",
-        "price": 1180
+        "price": "1180"
       },
       {
         "name": "29900乙醚",
-        "price": 720
+        "price": "720"
       },
       {
         "name": "11900乙醚",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "5900乙醚",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "1400乙醚",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -1981,31 +1981,31 @@
     "products": [
       {
         "name": "6480彩晶",
-        "price": 2530
+        "price": "2530"
       },
       {
         "name": "3280彩晶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980彩晶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980彩晶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300彩晶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "120彩晶",
-        "price": 60
+        "price": "60.0"
       },
       {
         "name": "60彩晶",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -2023,27 +2023,27 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280元寶",
-        "price": 1400
+        "price": "1400"
       },
       {
         "name": "1980元寶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280元寶",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "680元寶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -2061,27 +2061,27 @@
     "products": [
       {
         "name": "648仙玉",
-        "price": 2580
+        "price": "2580"
       },
       {
         "name": "328仙玉",
-        "price": 1370
+        "price": "1370"
       },
       {
         "name": "198仙玉",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "128仙玉",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "68仙玉",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "30仙玉",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -2099,23 +2099,23 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2580
+        "price": "2580"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1280元寶",
-        "price": 540
+        "price": "540"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60元寶",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -2133,31 +2133,31 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2580
+        "price": "2580"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980元寶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980元寶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680元寶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60元寶",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -2175,27 +2175,27 @@
     "products": [
       {
         "name": "6870龍玉",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3470龍玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2070龍玉",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "680龍玉",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "330龍玉",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60龍玉",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -2213,27 +2213,27 @@
     "products": [
       {
         "name": "6480源晶",
-        "price": 2380
+        "price": "2380"
       },
       {
         "name": "3280源晶",
-        "price": 1230
+        "price": "1230"
       },
       {
         "name": "1980源晶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980源晶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300源晶",
-        "price": 130
+        "price": "130.0"
       },
       {
         "name": "60源晶",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -2251,31 +2251,31 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980元寶",
-        "price": 990
+        "price": "990"
       },
       {
         "name": "980元寶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "180元寶",
-        "price": 100
+        "price": "100.0"
       },
       {
         "name": "60元寶",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -2293,27 +2293,27 @@
     "products": [
       {
         "name": "3290魔晶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690魔晶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "670魔晶",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "330魔晶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170魔晶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33魔晶",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -2331,27 +2331,27 @@
     "products": [
       {
         "name": "150000鑽",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "75000鑽",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "30000鑽",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "15000鑽",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "6000鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "1200鑽",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -2369,39 +2369,39 @@
     "products": [
       {
         "name": "6480子彈",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280子彈",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980子彈",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280子彈",
-        "price": 610
+        "price": "610.0"
       },
       {
         "name": "680子彈",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300子彈",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "180子彈",
-        "price": 90
+        "price": "90.0"
       },
       {
         "name": "120子彈",
-        "price": 70
+        "price": "70.0"
       },
       {
         "name": "60子彈",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -2419,31 +2419,31 @@
     "products": [
       {
         "name": "6480玉壁",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280玉壁",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980玉壁",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980玉壁",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680玉壁",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300玉壁",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60玉壁",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2461,35 +2461,35 @@
     "products": [
       {
         "name": "6480仙玉",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280仙玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980仙玉",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280仙玉",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "980仙玉",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680仙玉",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300仙玉",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60仙玉",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -2507,27 +2507,27 @@
     "products": [
       {
         "name": "3290禮包",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690禮包",
-        "price": 1320
+        "price": "1320"
       },
       {
         "name": "650禮包",
-        "price": 530
+        "price": "530"
       },
       {
         "name": "330禮包",
-        "price": 265
+        "price": "265.0"
       },
       {
         "name": "170禮包",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33禮包",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -2545,27 +2545,27 @@
     "products": [
       {
         "name": "6000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1200鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "600鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2583,31 +2583,31 @@
     "products": [
       {
         "name": "6480彩鑽",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280彩鑽",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980彩鑽",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280彩鑽",
-        "price": 630
+        "price": "630.0"
       },
       {
         "name": "680彩鑽",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "340彩鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "30彩鑽",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -2625,15 +2625,15 @@
     "products": [
       {
         "name": "4000金鑽",
-        "price": 170
+        "price": "170"
       },
       {
         "name": "1900金鑽",
-        "price": 80
+        "price": "80"
       },
       {
         "name": "600金鑽",
-        "price": 30
+        "price": "30"
       }
     ],
     "social": {
@@ -2651,27 +2651,27 @@
     "products": [
       {
         "name": "6580星鑽",
-        "price": 12670
+        "price": "12670"
       },
       {
         "name": "3380星鑽",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980星鑽",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980星鑽",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "340星鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "66星鑽",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2689,27 +2689,27 @@
     "products": [
       {
         "name": "12500水晶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "6000水晶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2300水晶",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "1100水晶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "525水晶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "100水晶",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -2727,27 +2727,27 @@
     "products": [
       {
         "name": "9000卡巴拉彩晶",
-        "price": 2950
+        "price": "2950"
       },
       {
         "name": "4500卡巴拉彩晶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1800卡巴拉彩晶",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "900卡巴拉彩晶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "450卡巴拉彩晶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "180卡巴拉彩晶",
-        "price": 70
+        "price": "70.0"
       }
     ],
     "social": {
@@ -2765,27 +2765,27 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980鑽石",
-        "price": 460
+        "price": "460.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2803,39 +2803,39 @@
     "products": [
       {
         "name": "64800金錠",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "32800金錠",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "19800金錠",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "12800金錠",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "9800金錠",
-        "price": 460
+        "price": "460.0"
       },
       {
         "name": "5000金錠",
-        "price": 240
+        "price": "240.0"
       },
       {
         "name": "3000金錠",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "1200金錠",
-        "price": 60
+        "price": "60.0"
       },
       {
         "name": "600金錠",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2853,27 +2853,27 @@
     "products": [
       {
         "name": "100K鑽石",
-        "price": 2450
+        "price": "2450"
       },
       {
         "name": "50K鑽石",
-        "price": 1090
+        "price": "1090"
       },
       {
         "name": "30K鑽石",
-        "price": 710
+        "price": "710"
       },
       {
         "name": "10K鑽石",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "5K鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "1K鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2891,27 +2891,27 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980鑽石",
-        "price": 460
+        "price": "460.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2929,27 +2929,27 @@
     "products": [
       {
         "name": "14000鑽石",
-        "price": 2560
+        "price": "2560"
       },
       {
         "name": "6500鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2500鑽石",
-        "price": 610
+        "price": "610"
       },
       {
         "name": "1200鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "500鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "80鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -2967,27 +2967,27 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980元寶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980元寶",
-        "price": 460
+        "price": "460.0"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60元寶",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -3005,31 +3005,31 @@
     "products": [
       {
         "name": "64800鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "32800鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "19800鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "12800鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "6800鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "3000鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "600鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3047,31 +3047,31 @@
     "products": [
       {
         "name": "9999蕭門券",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4999蕭門券",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2999蕭門券",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1490蕭門券",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "999蕭門券",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "499蕭門券",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "99蕭門券",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3089,31 +3089,31 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "680鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "340鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3131,27 +3131,27 @@
     "products": [
       {
         "name": "10080鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4620鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1660鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "820鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "340鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -3169,31 +3169,31 @@
     "products": [
       {
         "name": "3290禮包",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690禮包",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "660禮包",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "330禮包",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170禮包",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "100禮包",
-        "price": 90
+        "price": "90.0"
       },
       {
         "name": "33禮包",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3211,51 +3211,51 @@
     "products": [
       {
         "name": "9999通寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "6999通寶",
-        "price": 1960
+        "price": "1960"
       },
       {
         "name": "4999通寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2999通寶",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "1999通寶",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "1499通寶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "999通寶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "899通寶",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "499通寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "299通寶",
-        "price": 90
+        "price": "90.0"
       },
       {
         "name": "199通寶",
-        "price": 60
+        "price": "60.0"
       },
       {
         "name": "99通寶",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3273,31 +3273,31 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980元寶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980元寶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680元寶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60元寶",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3315,23 +3315,23 @@
     "products": [
       {
         "name": "6480寶石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280寶石",
-        "price": 1280
+        "price": "1280"
       },
       {
         "name": "1280寶石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "680寶石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300寶石",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -3349,27 +3349,27 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1280鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "680鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3387,15 +3387,15 @@
     "products": [
       {
         "name": "1300紅寶石",
-        "price": 2590
+        "price": "2590"
       },
       {
         "name": "350紅寶石",
-        "price": 740
+        "price": "740"
       },
       {
         "name": "65紅寶石",
-        "price": 137
+        "price": "137"
       }
     ],
     "social": {
@@ -3413,27 +3413,27 @@
     "products": [
       {
         "name": "11525戰棋幣",
-        "price": 2430
+        "price": "2430"
       },
       {
         "name": "5750戰棋幣",
-        "price": 1220
+        "price": "1220"
       },
       {
         "name": "4025戰棋幣",
-        "price": 850
+        "price": "850"
       },
       {
         "name": "2525戰棋幣",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "1275戰棋幣",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "575戰棋幣",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -3451,27 +3451,27 @@
     "products": [
       {
         "name": "9000紅寶石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4500紅寶石",
-        "price": 1300
+        "price": "1300"
       },
       {
         "name": "2700紅寶石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "9000紅寶石",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "450紅寶石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "270紅寶石",
-        "price": 90
+        "price": "90.0"
       }
     ],
     "social": {
@@ -3489,27 +3489,27 @@
     "products": [
       {
         "name": "14000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "6500鑽石",
-        "price": 1390
+        "price": "1390"
       },
       {
         "name": "2500鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "1200鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "500鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "80鑽石",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -3527,35 +3527,35 @@
     "products": [
       {
         "name": "30000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "14000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "11000鑽石",
-        "price": 1100
+        "price": "1100"
       },
       {
         "name": "8000鑽石",
-        "price": 820
+        "price": "820.0"
       },
       {
         "name": "5200鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "3800鑽石",
-        "price": 420
+        "price": "420.0"
       },
       {
         "name": "2400鑽石",
-        "price": 320
+        "price": "320.0"
       },
       {
         "name": "1100鑽石",
-        "price": 180
+        "price": "180.0"
       }
     ],
     "social": {
@@ -3573,59 +3573,59 @@
     "products": [
       {
         "name": "2990禮包",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "2490禮包",
-        "price": 2150
+        "price": "2150"
       },
       {
         "name": "2290禮包",
-        "price": 2000
+        "price": "2000"
       },
       {
         "name": "1990禮包",
-        "price": 1700
+        "price": "1700.0"
       },
       {
         "name": "1490禮包",
-        "price": 1323
+        "price": "1323.0"
       },
       {
         "name": "1290禮包",
-        "price": 1100
+        "price": "1100.0"
       },
       {
         "name": "990禮包",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "790禮包",
-        "price": 700
+        "price": "700.0"
       },
       {
         "name": "690禮包",
-        "price": 620
+        "price": "620.0"
       },
       {
         "name": "525禮包",
-        "price": 490
+        "price": "490.0"
       },
       {
         "name": "490禮包",
-        "price": 450
+        "price": "450.0"
       },
       {
         "name": "320禮包",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "190禮包",
-        "price": 180
+        "price": "180.0"
       },
       {
         "name": "150禮包",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -3643,27 +3643,27 @@
     "products": [
       {
         "name": "13500寶石",
-        "price": 2300
+        "price": "2300"
       },
       {
         "name": "6800寶石",
-        "price": 1150
+        "price": "1150"
       },
       {
         "name": "3500寶石",
-        "price": 650
+        "price": "650"
       },
       {
         "name": "1500寶石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "620寶石",
-        "price": 120
+        "price": "120.0"
       },
       {
         "name": "150寶石",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -3681,27 +3681,27 @@
     "products": [
       {
         "name": "5000鑽石",
-        "price": 2700
+        "price": "2700"
       },
       {
         "name": "2100鑽石",
-        "price": 1100
+        "price": "1100"
       },
       {
         "name": "1100鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "500鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "325鑽石",
-        "price": 200
+        "price": "200.0"
       },
       {
         "name": "80鑽石",
-        "price": 60
+        "price": "60.0"
       }
     ],
     "social": {
@@ -3719,27 +3719,27 @@
     "products": [
       {
         "name": "4955神秘粒子結晶",
-        "price": 1900
+        "price": "1900"
       },
       {
         "name": "2793神秘粒子結晶",
-        "price": 1050
+        "price": "1050"
       },
       {
         "name": "1396神秘粒子結晶",
-        "price": 540
+        "price": "540"
       },
       {
         "name": "486神秘粒子結晶",
-        "price": 190
+        "price": "190.0"
       },
       {
         "name": "207神秘粒子結晶",
-        "price": 90
+        "price": "90.0"
       },
       {
         "name": "68神秘粒子結晶",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -3757,27 +3757,27 @@
     "products": [
       {
         "name": "3290彩鑽",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690彩鑽",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "670彩鑽",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "330彩鑽",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170彩鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "33彩鑽",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -3795,27 +3795,27 @@
     "products": [
       {
         "name": "668寶石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "328寶石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "198寶石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "98寶石",
-        "price": 450
+        "price": "450.0"
       },
       {
         "name": "30寶石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60寶石",
-        "price": 60
+        "price": "60.0"
       }
     ],
     "social": {
@@ -3833,27 +3833,27 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3880鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1280鑽石",
-        "price": 630
+        "price": "630"
       },
       {
         "name": "680鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -3871,31 +3871,31 @@
     "products": [
       {
         "name": "60000龍券",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "30000龍券",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "18000龍券",
-        "price": 990
+        "price": "990"
       },
       {
         "name": "12000龍券",
-        "price": 540
+        "price": "540.0"
       },
       {
         "name": "6000龍券",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "3000龍券",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "600龍券",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -3913,7 +3913,7 @@
     "products": [
       {
         "name": "13200金幣",
-        "price": 1580
+        "price": "1580"
       }
     ],
     "social": {
@@ -3931,27 +3931,27 @@
     "products": [
       {
         "name": "6480星鑽",
-        "price": 2390
+        "price": "2390"
       },
       {
         "name": "3280星鑽",
-        "price": 1380
+        "price": "1380"
       },
       {
         "name": "1980星鑽",
-        "price": 810
+        "price": "810"
       },
       {
         "name": "980星鑽",
-        "price": 410
+        "price": "410.0"
       },
       {
         "name": "300星鑽",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "60星鑽",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -3969,27 +3969,27 @@
     "products": [
       {
         "name": "6480萬zeny",
-        "price": 2320
+        "price": "2320"
       },
       {
         "name": "3280萬zeny",
-        "price": 1330
+        "price": "1330"
       },
       {
         "name": "1280萬zeny",
-        "price": 520
+        "price": "520"
       },
       {
         "name": "680萬zeny",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300萬zeny",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "180萬zeny",
-        "price": 90
+        "price": "90.0"
       }
     ],
     "social": {
@@ -4007,35 +4007,35 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2290
+        "price": "2290"
       },
       {
         "name": "4880鑽石",
-        "price": 2000
+        "price": "2000"
       },
       {
         "name": "2980鑽石",
-        "price": 1150
+        "price": "1150"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "980鑽石",
-        "price": 450
+        "price": "450.0"
       },
       {
         "name": "500鑽石",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 50
+        "price": "50.0"
       }
     ],
     "social": {
@@ -4053,27 +4053,27 @@
     "products": [
       {
         "name": "8000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4000鑽石",
-        "price": 1370
+        "price": "1370"
       },
       {
         "name": "2000鑽石",
-        "price": 740
+        "price": "740"
       },
       {
         "name": "1200鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "400鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "80鑽石",
-        "price": 40
+        "price": "40.0"
       }
     ],
     "social": {
@@ -4091,31 +4091,31 @@
     "products": [
       {
         "name": "6480歐珀(首儲雙倍)",
-        "price": 2420
+        "price": "2420"
       },
       {
         "name": "3280歐珀(首儲雙倍)",
-        "price": 1340
+        "price": "1340"
       },
       {
         "name": "1980歐珀(首儲雙倍)",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980歐珀(首儲雙倍)",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300歐珀(首儲雙倍)",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60歐珀(首儲雙倍)",
-        "price": 40
+        "price": "40.0"
       },
       {
         "name": "幻晶月令30天",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -4133,31 +4133,31 @@
     "products": [
       {
         "name": "2990+898夢華",
-        "price": 2520
+        "price": "2520"
       },
       {
         "name": "1580+370夢華",
-        "price": 1330
+        "price": "1330"
       },
       {
         "name": "990+160夢華",
-        "price": 830
+        "price": "830"
       },
       {
         "name": "490+60夢華",
-        "price": 420
+        "price": "420.0"
       },
       {
         "name": "150+15夢華",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "30夢華",
-        "price": 40
+        "price": "40.0"
       },
       {
         "name": "盈月美夢眷",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -4175,27 +4175,27 @@
     "products": [
       {
         "name": "6580金幣",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3380金幣",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1340金幣",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "980金幣",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "340金幣",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "66金幣",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -4213,43 +4213,43 @@
     "products": [
       {
         "name": "6480暗金幣",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280暗金幣",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980暗金幣",
-        "price": 812
+        "price": "812"
       },
       {
         "name": "1280暗金幣",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "980暗金幣",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680暗金幣",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300暗金幣",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "180暗金幣",
-        "price": 89
+        "price": "89.0"
       },
       {
         "name": "120暗金幣",
-        "price": 53
+        "price": "53.0"
       },
       {
         "name": "60暗金幣",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -4267,27 +4267,27 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1280鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "980鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -4305,35 +4305,35 @@
     "products": [
       {
         "name": "648鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "328鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "198鑽石",
-        "price": 803
+        "price": "803"
       },
       {
         "name": "128鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "98鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "30鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "18鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "6鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -4351,27 +4351,27 @@
     "products": [
       {
         "name": "149000+149000紅水晶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "99000+99000紅水晶",
-        "price": 1631
+        "price": "1631"
       },
       {
         "name": "49000+49000紅水晶",
-        "price": 975
+        "price": "975"
       },
       {
         "name": "29000+29000紅水晶",
-        "price": 574
+        "price": "574.0"
       },
       {
         "name": "9900+9900紅水晶",
-        "price": 241
+        "price": "241.0"
       },
       {
         "name": "3300+3300紅水晶",
-        "price": 89
+        "price": "89.0"
       }
     ],
     "social": {
@@ -4389,39 +4389,39 @@
     "products": [
       {
         "name": "8200鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1560鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "780鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "跳過廣告",
-        "price": 283
+        "price": "283.0"
       },
       {
         "name": "特權PASS",
-        "price": 812
+        "price": "812.0"
       },
       {
         "name": "每月PASS",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "體力PASS",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -4439,31 +4439,31 @@
     "products": [
       {
         "name": "12000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "5000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2000鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "900鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "400鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "去廣告禮包",
-        "price": 324
+        "price": "324.0"
       },
       {
         "name": "VIP禮包",
-        "price": 266
+        "price": "266.0"
       }
     ],
     "social": {
@@ -4481,35 +4481,35 @@
     "products": [
       {
         "name": "6000幻月石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "2980幻月石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2000幻月石",
-        "price": 812
+        "price": "812"
       },
       {
         "name": "1000幻月石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300幻月石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "祭風呢喃",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "風華星輝",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "寶窟之鑰",
-        "price": 137
+        "price": "137.0"
       }
     ],
     "social": {
@@ -4527,31 +4527,31 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980元寶",
-        "price": 812
+        "price": "812"
       },
       {
         "name": "1280元寶",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "680元寶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300元寶",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60元寶",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -4569,39 +4569,39 @@
     "products": [
       {
         "name": "50000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "25000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "10000鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "5000鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "2500鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "500鑽石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "超值月卡",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "時間周卡",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "建造列隊",
-        "price": 88
+        "price": "88.0"
       }
     ],
     "social": {
@@ -4619,23 +4619,23 @@
     "products": [
       {
         "name": "8100鑽石",
-        "price": 2442
+        "price": "2442"
       },
       {
         "name": "3950鑽石",
-        "price": 1234
+        "price": "1234"
       },
       {
         "name": "1120鑽石",
-        "price": 413
+        "price": "413"
       },
       {
         "name": "320鑽石",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "60鑽石",
-        "price": 27
+        "price": "27.0"
       }
     ],
     "social": {
@@ -4653,39 +4653,39 @@
     "products": [
       {
         "name": "3240紅鑽",
-        "price": 2442
+        "price": "2442"
       },
       {
         "name": "1640紅鑽",
-        "price": 1234
+        "price": "1234"
       },
       {
         "name": "640紅鑽",
-        "price": 582
+        "price": "582"
       },
       {
         "name": "340紅鑽",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "150紅鑽",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "30紅鑽",
-        "price": 27
+        "price": "27.0"
       },
       {
         "name": "超級月卡",
-        "price": 270
+        "price": "270.0"
       },
       {
         "name": "精品月卡",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "成長禮包",
-        "price": 413
+        "price": "413.0"
       }
     ],
     "social": {
@@ -4703,35 +4703,35 @@
     "products": [
       {
         "name": "99000寶石",
-        "price": 1232
+        "price": "1232"
       },
       {
         "name": "49000寶石",
-        "price": 818
+        "price": "818"
       },
       {
         "name": "29000寶石",
-        "price": 578
+        "price": "578"
       },
       {
         "name": "9900寶石",
-        "price": 185
+        "price": "185.0"
       },
       {
         "name": "4400寶石",
-        "price": 83
+        "price": "83.0"
       },
       {
         "name": "1500寶石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "移除廣告月票",
-        "price": 185
+        "price": "185.0"
       },
       {
         "name": "額外金幣月票",
-        "price": 185
+        "price": "185.0"
       }
     ],
     "social": {
@@ -4749,23 +4749,23 @@
     "products": [
       {
         "name": "660鑽石",
-        "price": 578
+        "price": "578"
       },
       {
         "name": "280鑽石",
-        "price": 269
+        "price": "269"
       },
       {
         "name": "金幣禮包",
-        "price": 110
+        "price": "110"
       },
       {
         "name": "新手禮包",
-        "price": 83
+        "price": "83.0"
       },
       {
         "name": "VIP禮包",
-        "price": 411
+        "price": "411.0"
       }
     ],
     "social": {
@@ -4783,27 +4783,27 @@
     "products": [
       {
         "name": "6000魁玉",
-        "price": 1622
+        "price": "1622"
       },
       {
         "name": "3000魁玉",
-        "price": 818
+        "price": "818"
       },
       {
         "name": "1600魁玉",
-        "price": 411
+        "price": "411"
       },
       {
         "name": "300魁玉",
-        "price": 83
+        "price": "83.0"
       },
       {
         "name": "100魁玉",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "戰鬥通行證",
-        "price": 110
+        "price": "110.0"
       }
     ],
     "social": {
@@ -4821,47 +4821,47 @@
     "products": [
       {
         "name": "10000珠寶",
-        "price": 2414
+        "price": "2414"
       },
       {
         "name": "6300珠寶",
-        "price": 1622
+        "price": "1622"
       },
       {
         "name": "4700珠寶",
-        "price": 1232
+        "price": "1232"
       },
       {
         "name": "3100珠寶",
-        "price": 818
+        "price": "818.0"
       },
       {
         "name": "2000珠寶",
-        "price": 578
+        "price": "578.0"
       },
       {
         "name": "1000珠寶",
-        "price": 269
+        "price": "269.0"
       },
       {
         "name": "500珠寶",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "300珠寶",
-        "price": 83
+        "price": "83.0"
       },
       {
         "name": "100珠寶",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "開服紀念10+1連轉蛋券*10",
-        "price": 2414
+        "price": "2414.0"
       },
       {
         "name": "開服紀念BEAST CHOICE券",
-        "price": 818
+        "price": "818.0"
       }
     ],
     "social": {
@@ -4879,43 +4879,43 @@
     "products": [
       {
         "name": "198000寶石",
-        "price": 1867
+        "price": "1867"
       },
       {
         "name": "128000寶石",
-        "price": 1232
+        "price": "1232"
       },
       {
         "name": "78000寶石",
-        "price": 818
+        "price": "818"
       },
       {
         "name": "38000寶石",
-        "price": 327
+        "price": "327.0"
       },
       {
         "name": "19800寶石",
-        "price": 185
+        "price": "185.0"
       },
       {
         "name": "9800寶石",
-        "price": 110
+        "price": "110.0"
       },
       {
         "name": "去廣告禮包",
-        "price": 185
+        "price": "185.0"
       },
       {
         "name": "每月副本禮包",
-        "price": 818
+        "price": "818.0"
       },
       {
         "name": "每周加速禮包",
-        "price": 578
+        "price": "578.0"
       },
       {
         "name": "每周390禮包",
-        "price": 327
+        "price": "327.0"
       }
     ],
     "social": {
@@ -4933,35 +4933,35 @@
     "products": [
       {
         "name": "50000血石",
-        "price": 2011
+        "price": "2011"
       },
       {
         "name": "24300血石",
-        "price": 1066
+        "price": "1066"
       },
       {
         "name": "4400血石",
-        "price": 244
+        "price": "244"
       },
       {
         "name": "2140血石",
-        "price": 110
+        "price": "110.0"
       },
       {
         "name": "420血石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "790禮包",
-        "price": 653
+        "price": "653.0"
       },
       {
         "name": "290禮包",
-        "price": 244
+        "price": "244.0"
       },
       {
         "name": "120禮包",
-        "price": 110
+        "price": "110.0"
       }
     ],
     "social": {
@@ -4979,39 +4979,39 @@
     "products": [
       {
         "name": "5000水晶",
-        "price": 1948
+        "price": "1948"
       },
       {
         "name": "2350水晶",
-        "price": 984
+        "price": "984"
       },
       {
         "name": "1400水晶",
-        "price": 620
+        "price": "620"
       },
       {
         "name": "920水晶",
-        "price": 419
+        "price": "419.0"
       },
       {
         "name": "450水晶",
-        "price": 210
+        "price": "210.0"
       },
       {
         "name": "220水晶",
-        "price": 115
+        "price": "115.0"
       },
       {
         "name": "60水晶",
-        "price": 32
+        "price": "32.0"
       },
       {
         "name": "牌組速成禮包",
-        "price": 984
+        "price": "984.0"
       },
       {
         "name": "新手禮包",
-        "price": 419
+        "price": "419.0"
       }
     ],
     "social": {
@@ -5029,27 +5029,27 @@
     "products": [
       {
         "name": "6480珍珠",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280珍珠",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980珍珠",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280珍珠",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "680珍珠",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300珍珠",
-        "price": 138
+        "price": "138.0"
       }
     ],
     "social": {
@@ -5067,31 +5067,31 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "300鑽石",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "基金",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "榮耀月卡",
-        "price": 138
+        "price": "138.0"
       }
     ],
     "social": {
@@ -5109,27 +5109,27 @@
     "products": [
       {
         "name": "500寶石",
-        "price": 559
+        "price": "559"
       },
       {
         "name": "300寶石",
-        "price": 397
+        "price": "397"
       },
       {
         "name": "150寶石",
-        "price": 236
+        "price": "236"
       },
       {
         "name": "90寶石",
-        "price": 133
+        "price": "133.0"
       },
       {
         "name": "50寶石",
-        "price": 80
+        "price": "80.0"
       },
       {
         "name": "30寶石",
-        "price": 53
+        "price": "53.0"
       }
     ],
     "social": {
@@ -5147,31 +5147,31 @@
     "products": [
       {
         "name": "648玉龍",
-        "price": 2450
+        "price": "2450"
       },
       {
         "name": "328玉龍",
-        "price": 1328
+        "price": "1328"
       },
       {
         "name": "198玉龍",
-        "price": 808
+        "price": "808"
       },
       {
         "name": "98玉龍",
-        "price": 437
+        "price": "437.0"
       },
       {
         "name": "50玉龍",
-        "price": 273
+        "price": "273.0"
       },
       {
         "name": "30玉龍",
-        "price": 137
+        "price": "137.0"
       },
       {
         "name": "8玉龍",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -5189,43 +5189,43 @@
     "products": [
       {
         "name": "8250金元寶",
-        "price": 2333
+        "price": "2333"
       },
       {
         "name": "3550金元寶",
-        "price": 1030
+        "price": "1030"
       },
       {
         "name": "2170金元寶",
-        "price": 631
+        "price": "631"
       },
       {
         "name": "795金元寶",
-        "price": 236
+        "price": "236.0"
       },
       {
         "name": "355金元寶",
-        "price": 115
+        "price": "115.0"
       },
       {
         "name": "90金元寶",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "2990禮包",
-        "price": 2333
+        "price": "2333.0"
       },
       {
         "name": "1290禮包",
-        "price": 1030
+        "price": "1030.0"
       },
       {
         "name": "790禮包",
-        "price": 631
+        "price": "631.0"
       },
       {
         "name": "290禮包",
-        "price": 236
+        "price": "236.0"
       }
     ],
     "social": {
@@ -5243,39 +5243,39 @@
     "products": [
       {
         "name": "5400藍色石榴石",
-        "price": 2333
+        "price": "2333"
       },
       {
         "name": "3000藍色石榴石",
-        "price": 1190
+        "price": "1190"
       },
       {
         "name": "1200藍色石榴石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "600藍色石榴石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "240藍色石榴石",
-        "price": 115
+        "price": "115.0"
       },
       {
         "name": "60藍色石榴石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "普通石榴石月卡",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "高級石榴石月卡",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "奢華石榴石月卡",
-        "price": 539
+        "price": "539.0"
       }
     ],
     "social": {
@@ -5293,43 +5293,43 @@
     "products": [
       {
         "name": "6000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1800鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1200鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "600鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "成長基金",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "戰役基金",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "幻塔基金",
-        "price": 539
+        "price": "539.0"
       }
     ],
     "social": {
@@ -5347,43 +5347,43 @@
     "products": [
       {
         "name": "648代金券",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "448代金券",
-        "price": 1804
+        "price": "1804"
       },
       {
         "name": "328代金券",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "198代金券",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "128代金券",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "98代金券",
-        "price": 397
+        "price": "397.0"
       },
       {
         "name": "30代金券",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "18代金券",
-        "price": 89
+        "price": "89.0"
       },
       {
         "name": "12代金券",
-        "price": 62
+        "price": "62.0"
       },
       {
         "name": "6代金券",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -5401,47 +5401,47 @@
     "products": [
       {
         "name": "6200枚月之啼",
-        "price": 2099
+        "price": "2099"
       },
       {
         "name": "4200枚月之啼",
-        "price": 1410
+        "price": "1410"
       },
       {
         "name": "2300枚月之啼",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1500枚月之啼",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "720枚月之啼",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "320枚月之啼",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "新月盟約",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "滿月盟約",
-        "price": 397
+        "price": "397.0"
       },
       {
         "name": "同行見證",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "管家的心意",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "新月之示",
-        "price": 397
+        "price": "397.0"
       }
     ],
     "social": {
@@ -5459,39 +5459,39 @@
     "products": [
       {
         "name": "5980金鑽",
-        "price": 2333
+        "price": "2333"
       },
       {
         "name": "2980金鑽",
-        "price": 1190
+        "price": "1190"
       },
       {
         "name": "1980金鑽",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1380金鑽",
-        "price": 559
+        "price": "559.0"
       },
       {
         "name": "660金鑽",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300金鑽",
-        "price": 133
+        "price": "133.0"
       },
       {
         "name": "60金鑽",
-        "price": 27
+        "price": "27.0"
       },
       {
         "name": "標準月卡",
-        "price": 133
+        "price": "133.0"
       },
       {
         "name": "豪華月卡",
-        "price": 267
+        "price": "267.0"
       }
     ],
     "social": {
@@ -5509,43 +5509,43 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4480鑽石",
-        "price": 1804
+        "price": "1804"
       },
       {
         "name": "3290鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "1280鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "980鑽石",
-        "price": 397
+        "price": "397.0"
       },
       {
         "name": "680鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300鑽石",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "180鑽石",
-        "price": 89
+        "price": "89.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -5563,31 +5563,31 @@
     "products": [
       {
         "name": "6000夢之石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3000夢之石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1200夢之石",
-        "price": 559
+        "price": "559"
       },
       {
         "name": "600夢之石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300夢之石",
-        "price": 138
+        "price": "138.0"
       },
       {
         "name": "60夢之石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "月卡",
-        "price": 138
+        "price": "138.0"
       }
     ],
     "social": {
@@ -5605,43 +5605,43 @@
     "products": [
       {
         "name": "3300寶石",
-        "price": 1943
+        "price": "1943"
       },
       {
         "name": "1650寶石",
-        "price": 1030
+        "price": "1030"
       },
       {
         "name": "990寶石",
-        "price": 631
+        "price": "631"
       },
       {
         "name": "320寶石",
-        "price": 236
+        "price": "236.0"
       },
       {
         "name": "96寶石",
-        "price": 53
+        "price": "53.0"
       },
       {
         "name": "月寶石禮包",
-        "price": 107
+        "price": "107.0"
       },
       {
         "name": "每周補給禮包",
-        "price": 631
+        "price": "631.0"
       },
       {
         "name": "初心者機會禮包",
-        "price": 397
+        "price": "397.0"
       },
       {
         "name": "優厚寶石包",
-        "price": 1804
+        "price": "1804.0"
       },
       {
         "name": "特殊寶石禮包",
-        "price": 236
+        "price": "236.0"
       }
     ],
     "social": {
@@ -5659,51 +5659,51 @@
     "products": [
       {
         "name": "6000金條",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "5400金條",
-        "price": 2386
+        "price": "2386"
       },
       {
         "name": "4500金條",
-        "price": 1987
+        "price": "1987"
       },
       {
         "name": "3000金條",
-        "price": 1323
+        "price": "1323.0"
       },
       {
         "name": "2400金條",
-        "price": 1078
+        "price": "1078.0"
       },
       {
         "name": "1800金條",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "1200金條",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "900金條",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "600金條",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300金條",
-        "price": 141
+        "price": "141.0"
       },
       {
         "name": "60金條",
-        "price": 27
+        "price": "27.0"
       },
       {
         "name": "三種卡",
-        "price": 227
+        "price": "227.0"
       }
     ],
     "social": {
@@ -5721,43 +5721,43 @@
     "products": [
       {
         "name": "10000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "4500鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1700鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "800鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "350鑽石",
-        "price": 141
+        "price": "141.0"
       },
       {
         "name": "60鑽石",
-        "price": 30
+        "price": "30.0"
       },
       {
         "name": "高級月卡",
-        "price": 141
+        "price": "141.0"
       },
       {
         "name": "至尊月卡",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "高級戰令",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "豪華戰令",
-        "price": 786
+        "price": "786.0"
       }
     ],
     "social": {
@@ -5775,55 +5775,55 @@
     "products": [
       {
         "name": "99900鑽石",
-        "price": 1845
+        "price": "1845"
       },
       {
         "name": "49900鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "29900鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "9900鑽石",
-        "price": 183
+        "price": "183.0"
       },
       {
         "name": "5900鑽石",
-        "price": 109
+        "price": "109.0"
       },
       {
         "name": "1200鑽石",
-        "price": 30
+        "price": "30.0"
       },
       {
         "name": "1990禮包",
-        "price": 1603
+        "price": "1603.0"
       },
       {
         "name": "1290禮包",
-        "price": 1054
+        "price": "1054.0"
       },
       {
         "name": "990禮包",
-        "price": 786
+        "price": "786.0"
       },
       {
         "name": "690禮包",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "490禮包",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "190禮包",
-        "price": 158
+        "price": "158.0"
       },
       {
         "name": "120禮包",
-        "price": 109
+        "price": "109.0"
       }
     ],
     "social": {
@@ -5841,35 +5841,35 @@
     "products": [
       {
         "name": "3290台幣商品",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "1690台幣商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "990台幣商品",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "670台幣商品",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "490台幣商品",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "330台幣商品",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "170台幣商品",
-        "price": 141
+        "price": "141.0"
       },
       {
         "name": "33台幣商品",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -5887,31 +5887,31 @@
     "products": [
       {
         "name": "10000鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "5000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2000鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "1000鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "500鑽石",
-        "price": 141
+        "price": "141.0"
       },
       {
         "name": "100鑽石",
-        "price": 30
+        "price": "30.0"
       },
       {
         "name": "特惠禮包",
-        "price": 450
+        "price": "450.0"
       }
     ],
     "social": {
@@ -5929,47 +5929,47 @@
     "products": [
       {
         "name": "6480龍晶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280龍晶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980龍晶",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280龍晶",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "980龍晶",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "680龍晶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "300龍晶",
-        "price": 148
+        "price": "148.0"
       },
       {
         "name": "60龍晶",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "周卡",
-        "price": 52
+        "price": "52.0"
       },
       {
         "name": "尊享月卡",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "特權月卡",
-        "price": 148
+        "price": "148.0"
       }
     ],
     "social": {
@@ -5987,31 +5987,31 @@
     "products": [
       {
         "name": "12960鑽石",
-        "price": 2753
+        "price": "2753"
       },
       {
         "name": "6560鑽石",
-        "price": 1394
+        "price": "1394"
       },
       {
         "name": "3960鑽石",
-        "price": 850
+        "price": "850"
       },
       {
         "name": "2560鑽石",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "1360鑽石",
-        "price": 289
+        "price": "289.0"
       },
       {
         "name": "600鑽石",
-        "price": 152
+        "price": "152.0"
       },
       {
         "name": "180鑽石",
-        "price": 30
+        "price": "30.0"
       }
     ],
     "social": {
@@ -6029,39 +6029,39 @@
     "products": [
       {
         "name": "10000鑽石",
-        "price": 2474
+        "price": "2474"
       },
       {
         "name": "5000鑽石",
-        "price": 1257
+        "price": "1257"
       },
       {
         "name": "2000鑽石",
-        "price": 522
+        "price": "522"
       },
       {
         "name": "1000鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "500鑽石",
-        "price": 139
+        "price": "139.0"
       },
       {
         "name": "100鑽石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "成長戰令",
-        "price": 522
+        "price": "522.0"
       },
       {
         "name": "英雄養成手冊",
-        "price": 637
+        "price": "637.0"
       },
       {
         "name": "建築佇列禮包",
-        "price": 83
+        "price": "83.0"
       }
     ],
     "social": {
@@ -6079,43 +6079,43 @@
     "products": [
       {
         "name": "12100鑽石",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "8000鑽石",
-        "price": 1764
+        "price": "1764"
       },
       {
         "name": "5500鑽石",
-        "price": 1217
+        "price": "1217"
       },
       {
         "name": "3200鑽石",
-        "price": 727
+        "price": "727.0"
       },
       {
         "name": "1800鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "1180鑽石",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "700鑽石",
-        "price": 165
+        "price": "165.0"
       },
       {
         "name": "240鑽石",
-        "price": 61
+        "price": "61.0"
       },
       {
         "name": "110鑽石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "鑽石月卡",
-        "price": 157
+        "price": "157.0"
       }
     ],
     "social": {
@@ -6133,31 +6133,31 @@
     "products": [
       {
         "name": "64800元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "32800元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "12800元寶",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "6800元寶",
-        "price": 267
+        "price": "267.0"
       },
       {
         "name": "3000元寶",
-        "price": 148
+        "price": "148.0"
       },
       {
         "name": "600元寶",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "建造列隊",
-        "price": 57
+        "price": "57.0"
       }
     ],
     "social": {
@@ -6175,31 +6175,31 @@
     "products": [
       {
         "name": "6480珍珠",
-        "price": 2386
+        "price": "2386"
       },
       {
         "name": "3280珍珠",
-        "price": 1442
+        "price": "1442"
       },
       {
         "name": "1980珍珠",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "980珍珠",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "300珍珠",
-        "price": 130
+        "price": "130.0"
       },
       {
         "name": "60珍珠",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "雙倍離線卡",
-        "price": 104
+        "price": "104.0"
       }
     ],
     "social": {
@@ -6217,43 +6217,43 @@
     "products": [
       {
         "name": "91510寶石",
-        "price": 2386
+        "price": "2386"
       },
       {
         "name": "43910寶石",
-        "price": 1603
+        "price": "1603"
       },
       {
         "name": "23740寶石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "7540寶石",
-        "price": 278
+        "price": "278.0"
       },
       {
         "name": "3720寶石",
-        "price": 130
+        "price": "130.0"
       },
       {
         "name": "1480寶石",
-        "price": 52
+        "price": "52.0"
       },
       {
         "name": "150元造型禮包",
-        "price": 130
+        "price": "130.0"
       },
       {
         "name": "320元禮包",
-        "price": 278
+        "price": "278.0"
       },
       {
         "name": "690元禮包",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "990元禮包",
-        "price": 786
+        "price": "786.0"
       }
     ],
     "social": {
@@ -6271,47 +6271,47 @@
     "products": [
       {
         "name": "10000鑽石",
-        "price": 2386
+        "price": "2386"
       },
       {
         "name": "5000鑽石",
-        "price": 1217
+        "price": "1217"
       },
       {
         "name": "2000鑽石",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "1000鑽石",
-        "price": 278
+        "price": "278.0"
       },
       {
         "name": "500鑽石",
-        "price": 130
+        "price": "130.0"
       },
       {
         "name": "100鑽石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "挑戰手冊",
-        "price": 278
+        "price": "278.0"
       },
       {
         "name": "菁英挑戰手冊",
-        "price": 539
+        "price": "539.0"
       },
       {
         "name": "月卡",
-        "price": 130
+        "price": "130.0"
       },
       {
         "name": "成長基金",
-        "price": 323
+        "price": "323.0"
       },
       {
         "name": "每日特惠",
-        "price": 87
+        "price": "87.0"
       }
     ],
     "social": {
@@ -6329,43 +6329,43 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2595
+        "price": "2595"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 786
+        "price": "786"
       },
       {
         "name": "1280鑽石",
-        "price": 548
+        "price": "548.0"
       },
       {
         "name": "780鑽石",
-        "price": 394
+        "price": "394.0"
       },
       {
         "name": "450鑽石",
-        "price": 198
+        "price": "198.0"
       },
       {
         "name": "180鑽石",
-        "price": 86
+        "price": "86.0"
       },
       {
         "name": "60鑽石",
-        "price": 35
+        "price": "35.0"
       },
       {
         "name": "經典月卡",
-        "price": 146
+        "price": "146.0"
       },
       {
         "name": "尊享月卡",
-        "price": 266
+        "price": "266.0"
       }
     ],
     "social": {
@@ -6383,27 +6383,27 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2551
+        "price": "2551"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1280元寶",
-        "price": 539
+        "price": "539"
       },
       {
         "name": "680元寶",
-        "price": 266
+        "price": "266.0"
       },
       {
         "name": "300元寶",
-        "price": 146
+        "price": "146.0"
       },
       {
         "name": "60元寶",
-        "price": 35
+        "price": "35.0"
       }
     ],
     "social": {
@@ -6421,47 +6421,47 @@
     "products": [
       {
         "name": "50000鑽石",
-        "price": 1949
+        "price": "1949"
       },
       {
         "name": "25000鑽石",
-        "price": 1010
+        "price": "1010"
       },
       {
         "name": "15000鑽石",
-        "price": 618
+        "price": "618"
       },
       {
         "name": "7500鑽石",
-        "price": 310
+        "price": "310.0"
       },
       {
         "name": "5000鑽石",
-        "price": 230
+        "price": "230.0"
       },
       {
         "name": "2000鑽石",
-        "price": 76
+        "price": "76.0"
       },
       {
         "name": "290台幣禮包",
-        "price": 230
+        "price": "230.0"
       },
       {
         "name": "220台幣禮包",
-        "price": 175
+        "price": "175.0"
       },
       {
         "name": "150台幣禮包",
-        "price": 127
+        "price": "127.0"
       },
       {
         "name": "120台幣禮包",
-        "price": 101
+        "price": "101.0"
       },
       {
         "name": "60台幣禮包",
-        "price": 51
+        "price": "51.0"
       }
     ],
     "social": {
@@ -6479,63 +6479,63 @@
     "products": [
       {
         "name": "119000紅點",
-        "price": 2340
+        "price": "2340"
       },
       {
         "name": "65000紅點",
-        "price": 1166
+        "price": "1166"
       },
       {
         "name": "37000紅點",
-        "price": 618
+        "price": "618"
       },
       {
         "name": "19000紅點",
-        "price": 310
+        "price": "310.0"
       },
       {
         "name": "5900紅點",
-        "price": 101
+        "price": "101.0"
       },
       {
         "name": "2290台幣禮包",
-        "price": 1793
+        "price": "1793.0"
       },
       {
         "name": "1990台幣禮包",
-        "price": 1558
+        "price": "1558.0"
       },
       {
         "name": "1290台幣禮包",
-        "price": 1010
+        "price": "1010.0"
       },
       {
         "name": "990台幣禮包",
-        "price": 775
+        "price": "775.0"
       },
       {
         "name": "790台幣禮包",
-        "price": 618
+        "price": "618.0"
       },
       {
         "name": "690台幣禮包",
-        "price": 548
+        "price": "548.0"
       },
       {
         "name": "320台幣禮包",
-        "price": 254
+        "price": "254.0"
       },
       {
         "name": "220台幣禮包",
-        "price": 175
+        "price": "175.0"
       },
       {
         "name": "120台幣禮包",
-        "price": 101
+        "price": "101.0"
       },
       {
         "name": "90台幣禮包",
-        "price": 76
+        "price": "76.0"
       }
     ],
     "social": {
@@ -6553,59 +6553,59 @@
     "products": [
       {
         "name": "6480耀星",
-        "price": 2510
+        "price": "2510"
       },
       {
         "name": "3280耀星",
-        "price": 1308
+        "price": "1308"
       },
       {
         "name": "1980耀星",
-        "price": 766
+        "price": "766"
       },
       {
         "name": "980耀星",
-        "price": 385
+        "price": "385.0"
       },
       {
         "name": "300耀星",
-        "price": 142
+        "price": "142.0"
       },
       {
         "name": "60耀星",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "月度獎勵",
-        "price": 142
+        "price": "142.0"
       },
       {
         "name": "七日祈願",
-        "price": 259
+        "price": "259.0"
       },
       {
         "name": "1690台幣禮包",
-        "price": 1308
+        "price": "1308.0"
       },
       {
         "name": "990台幣禮包",
-        "price": 766
+        "price": "766.0"
       },
       {
         "name": "670台幣禮包",
-        "price": 526
+        "price": "526.0"
       },
       {
         "name": "330台幣禮包",
-        "price": 259
+        "price": "259.0"
       },
       {
         "name": "170台幣禮包",
-        "price": 142
+        "price": "142.0"
       },
       {
         "name": "100台幣禮包",
-        "price": 84
+        "price": "84.0"
       }
     ],
     "social": {
@@ -6623,63 +6623,63 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2314
+        "price": "2314"
       },
       {
         "name": "3280鑽石",
-        "price": 1153
+        "price": "1153"
       },
       {
         "name": "1980鑽石",
-        "price": 766
+        "price": "766"
       },
       {
         "name": "1280鑽石",
-        "price": 541
+        "price": "541.0"
       },
       {
         "name": "980鑽石",
-        "price": 385
+        "price": "385.0"
       },
       {
         "name": "680鑽石",
-        "price": 251
+        "price": "251.0"
       },
       {
         "name": "580鑽石",
-        "price": 228
+        "price": "228.0"
       },
       {
         "name": "300鑽石",
-        "price": 125
+        "price": "125.0"
       },
       {
         "name": "180鑽石",
-        "price": 75
+        "price": "75.0"
       },
       {
         "name": "120鑽石",
-        "price": 50
+        "price": "50.0"
       },
       {
         "name": "60鑽石",
-        "price": 25
+        "price": "25.0"
       },
       {
         "name": "9999戰艦幣",
-        "price": 2314
+        "price": "2314.0"
       },
       {
         "name": "4999戰艦幣",
-        "price": 1153
+        "price": "1153.0"
       },
       {
         "name": "2999戰艦幣",
-        "price": 766
+        "price": "766.0"
       },
       {
         "name": "1499戰艦幣",
-        "price": 385
+        "price": "385.0"
       }
     ],
     "social": {
@@ -6697,63 +6697,63 @@
     "products": [
       {
         "name": "13000紅寶石",
-        "price": 2314
+        "price": "2314"
       },
       {
         "name": "6500紅寶石",
-        "price": 1153
+        "price": "1153"
       },
       {
         "name": "2450紅寶石",
-        "price": 541
+        "price": "541"
       },
       {
         "name": "1100紅寶石",
-        "price": 251
+        "price": "251.0"
       },
       {
         "name": "500紅寶石",
-        "price": 125
+        "price": "125.0"
       },
       {
         "name": "80紅寶石",
-        "price": 25
+        "price": "25.0"
       },
       {
         "name": "2990台幣禮包",
-        "price": 2314
+        "price": "2314.0"
       },
       {
         "name": "1490台幣禮包",
-        "price": 1153
+        "price": "1153.0"
       },
       {
         "name": "990台幣禮包",
-        "price": 766
+        "price": "766.0"
       },
       {
         "name": "690台幣禮包",
-        "price": 541
+        "price": "541.0"
       },
       {
         "name": "390台幣禮包",
-        "price": 306
+        "price": "306.0"
       },
       {
         "name": "320台幣禮包",
-        "price": 251
+        "price": "251.0"
       },
       {
         "name": "220台幣禮包",
-        "price": 173
+        "price": "173.0"
       },
       {
         "name": "150台幣禮包",
-        "price": 125
+        "price": "125.0"
       },
       {
         "name": "60台幣禮包",
-        "price": 50
+        "price": "50.0"
       }
     ],
     "social": {
@@ -6771,47 +6771,47 @@
     "products": [
       {
         "name": "32400仙玉",
-        "price": 2518
+        "price": "2518"
       },
       {
         "name": "16400仙玉",
-        "price": 1277
+        "price": "1277"
       },
       {
         "name": "9900仙玉",
-        "price": 766
+        "price": "766"
       },
       {
         "name": "6400仙玉",
-        "price": 526
+        "price": "526.0"
       },
       {
         "name": "4900仙玉",
-        "price": 385
+        "price": "385.0"
       },
       {
         "name": "3400仙玉",
-        "price": 259
+        "price": "259.0"
       },
       {
         "name": "1500仙玉",
-        "price": 142
+        "price": "142.0"
       },
       {
         "name": "1250仙玉",
-        "price": 113
+        "price": "113.0"
       },
       {
         "name": "900仙玉",
-        "price": 84
+        "price": "84.0"
       },
       {
         "name": "600仙玉",
-        "price": 58
+        "price": "58.0"
       },
       {
         "name": "300仙玉",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -6829,27 +6829,27 @@
     "products": [
       {
         "name": "9880鑽石",
-        "price": 2314
+        "price": "2314"
       },
       {
         "name": "4880鑽石",
-        "price": 1153
+        "price": "1153"
       },
       {
         "name": "1880鑽石",
-        "price": 541
+        "price": "541"
       },
       {
         "name": "980鑽石",
-        "price": 251
+        "price": "251.0"
       },
       {
         "name": "380鑽石",
-        "price": 125
+        "price": "125.0"
       },
       {
         "name": "60鑽石",
-        "price": 25
+        "price": "25.0"
       }
     ],
     "social": {
@@ -6867,47 +6867,47 @@
     "products": [
       {
         "name": "4400付費鑽石",
-        "price": 1860
+        "price": "1860"
       },
       {
         "name": "4000付費鑽石",
-        "price": 1860
+        "price": "1860"
       },
       {
         "name": "2700付費鑽石",
-        "price": 1160
+        "price": "1160"
       },
       {
         "name": "2300付費鑽石",
-        "price": 1004
+        "price": "1004.0"
       },
       {
         "name": "1370付費鑽石",
-        "price": 624
+        "price": "624.0"
       },
       {
         "name": "600付費鑽石",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "220付費鑽石",
-        "price": 101
+        "price": "101.0"
       },
       {
         "name": "60付費鑽石",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "190台幣鑽石通行證",
-        "price": 160
+        "price": "160.0"
       },
       {
         "name": "120台幣鑽石通行證",
-        "price": 101
+        "price": "101.0"
       },
       {
         "name": "90台幣鑽石通行證",
-        "price": 76
+        "price": "76.0"
       }
     ],
     "social": {
@@ -6925,35 +6925,35 @@
     "products": [
       {
         "name": "6480彩星",
-        "price": 1803
+        "price": "1803"
       },
       {
         "name": "3290彩星",
-        "price": 937
+        "price": "937"
       },
       {
         "name": "1980彩星",
-        "price": 551
+        "price": "551"
       },
       {
         "name": "1280彩星",
-        "price": 391
+        "price": "391.0"
       },
       {
         "name": "980彩星",
-        "price": 279
+        "price": "279.0"
       },
       {
         "name": "680彩星",
-        "price": 176
+        "price": "176.0"
       },
       {
         "name": "300彩星",
-        "price": 102
+        "price": "102.0"
       },
       {
         "name": "60彩星",
-        "price": 17
+        "price": "17.0"
       }
     ],
     "social": {
@@ -6971,63 +6971,63 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2554
+        "price": "2554"
       },
       {
         "name": "3280鑽石",
-        "price": 1330
+        "price": "1330"
       },
       {
         "name": "1980鑽石",
-        "price": 779
+        "price": "779"
       },
       {
         "name": "680鑽石",
-        "price": 263
+        "price": "263.0"
       },
       {
         "name": "300鑽石",
-        "price": 145
+        "price": "145.0"
       },
       {
         "name": "60鑽石",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "超值夥伴禮包",
-        "price": 145
+        "price": "145.0"
       },
       {
         "name": "絕世夥伴禮包",
-        "price": 263
+        "price": "263.0"
       },
       {
         "name": "3290台幣禮包",
-        "price": 2554
+        "price": "2554.0"
       },
       {
         "name": "1690台幣禮包",
-        "price": 1330
+        "price": "1330.0"
       },
       {
         "name": "990台幣禮包",
-        "price": 779
+        "price": "779.0"
       },
       {
         "name": "670台幣禮包",
-        "price": 535
+        "price": "535.0"
       },
       {
         "name": "330台幣禮包",
-        "price": 263
+        "price": "263.0"
       },
       {
         "name": "170台幣禮包",
-        "price": 145
+        "price": "145.0"
       },
       {
         "name": "33台幣禮包",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7045,23 +7045,23 @@
     "products": [
       {
         "name": "1400金幣",
-        "price": 2525
+        "price": "2525"
       },
       {
         "name": "650金幣",
-        "price": 1315
+        "price": "1315"
       },
       {
         "name": "250金幣",
-        "price": 529
+        "price": "529"
       },
       {
         "name": "120金幣",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "55金幣",
-        "price": 143
+        "price": "143.0"
       }
     ],
     "social": {
@@ -7079,39 +7079,39 @@
     "products": [
       {
         "name": "6480星鑽",
-        "price": 2525
+        "price": "2525"
       },
       {
         "name": "4880星鑽",
-        "price": 1938
+        "price": "1938"
       },
       {
         "name": "3280星鑽",
-        "price": 1160
+        "price": "1160"
       },
       {
         "name": "1980星鑽",
-        "price": 771
+        "price": "771.0"
       },
       {
         "name": "980星鑽",
-        "price": 387
+        "price": "387.0"
       },
       {
         "name": "300星鑽",
-        "price": 143
+        "price": "143.0"
       },
       {
         "name": "60星鑽",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "永久卡",
-        "price": 308
+        "price": "308.0"
       },
       {
         "name": "月卡",
-        "price": 143
+        "price": "143.0"
       }
     ],
     "social": {
@@ -7129,55 +7129,55 @@
     "products": [
       {
         "name": "4000克拉",
-        "price": 1160
+        "price": "1160"
       },
       {
         "name": "2400克拉",
-        "price": 693
+        "price": "693"
       },
       {
         "name": "1600克拉",
-        "price": 466
+        "price": "466"
       },
       {
         "name": "800克拉",
-        "price": 237
+        "price": "237.0"
       },
       {
         "name": "400克拉",
-        "price": 126
+        "price": "126.0"
       },
       {
         "name": "80克拉",
-        "price": 25
+        "price": "25.0"
       },
       {
         "name": "2250台幣禮包",
-        "price": 1751
+        "price": "1751.0"
       },
       {
         "name": "1490台幣禮包",
-        "price": 1160
+        "price": "1160.0"
       },
       {
         "name": "590台幣禮包",
-        "price": 466
+        "price": "466.0"
       },
       {
         "name": "300台幣禮包",
-        "price": 237
+        "price": "237.0"
       },
       {
         "name": "150台幣禮包",
-        "price": 126
+        "price": "126.0"
       },
       {
         "name": "60台幣禮包",
-        "price": 50
+        "price": "50.0"
       },
       {
         "name": "30台幣禮包",
-        "price": 25
+        "price": "25.0"
       }
     ],
     "social": {
@@ -7195,55 +7195,55 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2327
+        "price": "2327"
       },
       {
         "name": "3280鑽石",
-        "price": 1160
+        "price": "1160"
       },
       {
         "name": "1980鑽石",
-        "price": 771
+        "price": "771"
       },
       {
         "name": "1280鑽石",
-        "price": 529
+        "price": "529.0"
       },
       {
         "name": "980鑽石",
-        "price": 387
+        "price": "387.0"
       },
       {
         "name": "680鑽石",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "600鑽石",
-        "price": 229
+        "price": "229.0"
       },
       {
         "name": "500鑽石",
-        "price": 229
+        "price": "229.0"
       },
       {
         "name": "450鑽石",
-        "price": 174
+        "price": "174.0"
       },
       {
         "name": "300鑽石",
-        "price": 126
+        "price": "126.0"
       },
       {
         "name": "180鑽石",
-        "price": 84
+        "price": "84.0"
       },
       {
         "name": "120鑽石",
-        "price": 59
+        "price": "59.0"
       },
       {
         "name": "60鑽石",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7261,31 +7261,31 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2327
+        "price": "2327"
       },
       {
         "name": "3280鑽石",
-        "price": 1160
+        "price": "1160"
       },
       {
         "name": "1980鑽石",
-        "price": 771
+        "price": "771"
       },
       {
         "name": "1280鑽石",
-        "price": 529
+        "price": "529.0"
       },
       {
         "name": "680鑽石",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "300鑽石",
-        "price": 143
+        "price": "143.0"
       },
       {
         "name": "60鑽石",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7303,63 +7303,63 @@
     "products": [
       {
         "name": "6500鑽石",
-        "price": 2494
+        "price": "2494"
       },
       {
         "name": "6200鑽石",
-        "price": 2413
+        "price": "2413"
       },
       {
         "name": "5000鑽石",
-        "price": 1946
+        "price": "1946"
       },
       {
         "name": "3280鑽石",
-        "price": 1276
+        "price": "1276.0"
       },
       {
         "name": "3000鑽石",
-        "price": 1167
+        "price": "1167.0"
       },
       {
         "name": "1980鑽石",
-        "price": 771
+        "price": "771.0"
       },
       {
         "name": "1680鑽石",
-        "price": 654
+        "price": "654.0"
       },
       {
         "name": "1280鑽石",
-        "price": 505
+        "price": "505.0"
       },
       {
         "name": "980鑽石",
-        "price": 387
+        "price": "387.0"
       },
       {
         "name": "880鑽石",
-        "price": 347
+        "price": "347.0"
       },
       {
         "name": "680鑽石",
-        "price": 268
+        "price": "268.0"
       },
       {
         "name": "380鑽石",
-        "price": 160
+        "price": "160.0"
       },
       {
         "name": "300鑽石",
-        "price": 126
+        "price": "126.0"
       },
       {
         "name": "280鑽石",
-        "price": 118
+        "price": "118.0"
       },
       {
         "name": "180鑽石",
-        "price": 76
+        "price": "76.0"
       }
     ],
     "social": {
@@ -7377,31 +7377,31 @@
     "products": [
       {
         "name": "10000鑽石",
-        "price": 2335
+        "price": "2335"
       },
       {
         "name": "5500鑽石",
-        "price": 1284
+        "price": "1284"
       },
       {
         "name": "2100鑽石",
-        "price": 521
+        "price": "521"
       },
       {
         "name": "1000鑽石",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "450鑽石",
-        "price": 139
+        "price": "139.0"
       },
       {
         "name": "250鑽石",
-        "price": 83
+        "price": "83.0"
       },
       {
         "name": "去除廣告禮包",
-        "price": 201
+        "price": "201.0"
       }
     ],
     "social": {
@@ -7419,27 +7419,27 @@
     "products": [
       {
         "name": "10800金幣",
-        "price": 2296
+        "price": "2296"
       },
       {
         "name": "5000金幣",
-        "price": 1144
+        "price": "1144"
       },
       {
         "name": "1700金幣",
-        "price": 529
+        "price": "529"
       },
       {
         "name": "800金幣",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "380金幣",
-        "price": 143
+        "price": "143.0"
       },
       {
         "name": "150金幣",
-        "price": 50
+        "price": "50.0"
       }
     ],
     "social": {
@@ -7457,63 +7457,63 @@
     "products": [
       {
         "name": "16450幻晶石",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "8450幻晶石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "4950幻晶石",
-        "price": 775
+        "price": "775"
       },
       {
         "name": "2450幻晶石",
-        "price": 389
+        "price": "389.0"
       },
       {
         "name": "850幻晶石",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "165幻晶石",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "3290台幣禮包",
-        "price": 2539
+        "price": "2539.0"
       },
       {
         "name": "1990台幣禮包",
-        "price": 1558
+        "price": "1558.0"
       },
       {
         "name": "1690台幣禮包",
-        "price": 1323
+        "price": "1323.0"
       },
       {
         "name": "1290台幣禮包",
-        "price": 1010
+        "price": "1010.0"
       },
       {
         "name": "990台幣禮包",
-        "price": 775
+        "price": "775.0"
       },
       {
         "name": "490台幣禮包",
-        "price": 389
+        "price": "389.0"
       },
       {
         "name": "330台幣禮包",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "250台幣禮包",
-        "price": 198
+        "price": "198.0"
       },
       {
         "name": "170台幣禮包",
-        "price": 144
+        "price": "144.0"
       }
     ],
     "social": {
@@ -7531,27 +7531,27 @@
     "products": [
       {
         "name": "50000帝國幣",
-        "price": 2508
+        "price": "2508"
       },
       {
         "name": "24000帝國幣",
-        "price": 1268
+        "price": "1268"
       },
       {
         "name": "9200帝國幣",
-        "price": 548
+        "price": "548"
       },
       {
         "name": "4400帝國幣",
-        "price": 278
+        "price": "278.0"
       },
       {
         "name": "2100帝國幣",
-        "price": 127
+        "price": "127.0"
       },
       {
         "name": "400帝國幣",
-        "price": 25
+        "price": "25.0"
       }
     ],
     "social": {
@@ -7569,35 +7569,35 @@
     "products": [
       {
         "name": "6000鑽石",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "3000鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1320鑽石",
-        "price": 579
+        "price": "579"
       },
       {
         "name": "660鑽石",
-        "price": 294
+        "price": "294.0"
       },
       {
         "name": "300鑽石",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "60鑽石",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "尊享月卡",
-        "price": 294
+        "price": "294.0"
       },
       {
         "name": "超值月卡",
-        "price": 144
+        "price": "144.0"
       }
     ],
     "social": {
@@ -7615,31 +7615,31 @@
     "products": [
       {
         "name": "10000代金券",
-        "price": 2340
+        "price": "2340"
       },
       {
         "name": "5000代金券",
-        "price": 1166
+        "price": "1166"
       },
       {
         "name": "3000代金券",
-        "price": 775
+        "price": "775"
       },
       {
         "name": "2000代金券",
-        "price": 532
+        "price": "532.0"
       },
       {
         "name": "1000代金券",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "500代金券",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "100代金券",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7657,39 +7657,39 @@
     "products": [
       {
         "name": "6480仙玉",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "3280仙玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1280仙玉",
-        "price": 532
+        "price": "532"
       },
       {
         "name": "980仙玉",
-        "price": 389
+        "price": "389.0"
       },
       {
         "name": "300仙玉",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "60仙玉",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "終身卡",
-        "price": 681
+        "price": "681.0"
       },
       {
         "name": "月卡",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "周卡",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7707,43 +7707,43 @@
     "products": [
       {
         "name": "3290台幣商品",
-        "price": 2525
+        "price": "2525"
       },
       {
         "name": "1650台幣商品",
-        "price": 1284
+        "price": "1284"
       },
       {
         "name": "790台幣商品",
-        "price": 624
+        "price": "624"
       },
       {
         "name": "690台幣商品",
-        "price": 545
+        "price": "545.0"
       },
       {
         "name": "490台幣商品",
-        "price": 387
+        "price": "387.0"
       },
       {
         "name": "330台幣商品",
-        "price": 260
+        "price": "260.0"
       },
       {
         "name": "220台幣商品",
-        "price": 174
+        "price": "174.0"
       },
       {
         "name": "190台幣商品",
-        "price": 160
+        "price": "160.0"
       },
       {
         "name": "165台幣商品",
-        "price": 139
+        "price": "139.0"
       },
       {
         "name": "33台幣商品",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7761,35 +7761,35 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980元寶",
-        "price": 775
+        "price": "775"
       },
       {
         "name": "1280元寶",
-        "price": 532
+        "price": "532.0"
       },
       {
         "name": "680元寶",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "300元寶",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "60元寶",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "終生特權",
-        "price": 775
+        "price": "775.0"
       }
     ],
     "social": {
@@ -7807,27 +7807,27 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "3280元寶",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1280元寶",
-        "price": 775
+        "price": "775"
       },
       {
         "name": "680元寶",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "300元寶",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "60元寶",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7845,27 +7845,27 @@
     "products": [
       {
         "name": "23000金幣",
-        "price": 2340
+        "price": "2340"
       },
       {
         "name": "11200金幣",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "4400金幣",
-        "price": 532
+        "price": "532"
       },
       {
         "name": "2200金幣",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "1000金幣",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "200金幣",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -7883,27 +7883,27 @@
     "products": [
       {
         "name": "7780紅寶石",
-        "price": 2340
+        "price": "2340"
       },
       {
         "name": "3780紅寶石",
-        "price": 1166
+        "price": "1166"
       },
       {
         "name": "1480紅寶石",
-        "price": 548
+        "price": "548"
       },
       {
         "name": "750紅寶石",
-        "price": 254
+        "price": "254.0"
       },
       {
         "name": "330紅寶石",
-        "price": 127
+        "price": "127.0"
       },
       {
         "name": "60紅寶石",
-        "price": 25
+        "price": "25.0"
       }
     ],
     "social": {
@@ -7921,43 +7921,43 @@
     "products": [
       {
         "name": "648代金鑽",
-        "price": 2340
+        "price": "2340"
       },
       {
         "name": "328代金鑽",
-        "price": 1166
+        "price": "1166"
       },
       {
         "name": "198代金鑽",
-        "price": 775
+        "price": "775"
       },
       {
         "name": "128代金鑽",
-        "price": 532
+        "price": "532.0"
       },
       {
         "name": "68代金鑽",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "30代金鑽",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "6代金鑽",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "免廣告卡",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "月卡",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "終生卡",
-        "price": 775
+        "price": "775.0"
       }
     ],
     "social": {
@@ -7975,61 +7975,61 @@
     "products": [
       {
         "name": "500+150起源石",
-        "price": 2340
+        "price": "2340"
       },
       {
         "name": "250+50起源石",
-        "price": 1166
+        "price": "1166"
       },
       {
         "name": "150+15起源石",
-        "price": 697
+        "price": "697"
       },
       {
         "name": "75+5起源石",
-        "price": 357
+        "price": "357.0"
       },
       {
         "name": "25起源石",
-        "price": 127
+        "price": "127.0"
       },
       {
         "name": "5起源石",
-        "price": 25
+        "price": "25.0"
       },
       {
         "name": "冒險補給",
-        "price": 230
+        "price": "230.0"
       },
       {
         "name": "每月限購禮包",
-        "price": 697
+        "price": "697.0"
       },
       {
         "name": "每周限購禮包",
-        "price": 230
+        "price": "230.0"
       },
       {
         "name": "每日限購禮包",
-        "price": 25
+        "price": "25.0"
       },
       {
         "name": "超值自選包",
-        "price": 357
+        "price": "357.0"
       },
       {
         "name": "超值腳色包",
-        "price": 127
+        "price": "127.0"
       },
       {
         "name": "新手啟程包",
-        "price": 25
+        "price": "25.0"
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/ShindaiRecord",
       "官方網站": "https://play.google.com/store/apps/details?id=com.IceDragon.ShindaiRecord&hl=zh_TW&fbclid=IwY2xjawL8VbpleHRuA2FlbQIxMABicmlkETFMUEUzeWpMQUVnbUQxTW9FAR5khHVT2YUhE5xhO2B-MJL1ODx1zBZJcQeA0AGIDh_XBZzK6PEnlyENRfzI7A_aem_gXLvCoTZUoscSpWEZ4hYxg",
-      "App Store": "N",
+      "App Store": "https://apps.apple.com/us/app/%E7%A5%9E%E4%BB%A3%E7%B4%80%E4%BA%8B-%E5%83%8F%E7%B4%A0%E9%A2%A8roguelike%E9%81%8A%E6%88%B2/id6720742591",
       "Google Play": "https://forum.gamer.com.tw/Co.php?bsn=60076&sn=103640542",
       "禮包碼": "gift-codes.html?game=神代紀事"
     },
@@ -8041,33 +8041,33 @@
     "products": [
       {
         "name": "9999黃金",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "4999黃金",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "999黃金",
-        "price": 262
+        "price": "262"
       },
       {
         "name": "499黃金",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "99黃金",
-        "price": 28
+        "price": "28.0"
       },
       {
         "name": "內政廳基金",
-        "price": 532
+        "price": "532.0"
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/FateWar/",
       "官方網站": "https://fatewar.igg.com/",
-      "App Store": "https://apps.apple.com/tw/app/%E5%A4%A9%E5%91%BD%E5%9C%8B%E5%BA%A6-fate-war/id6737294814",
+      "App Store": "https://apps.apple.com/tw/app/fate-war/id1632729482",
       "Google Play": "https://forum.gamer.com.tw/B.php?bsn=82987",
       "禮包碼": "gift-codes.html?game=天命國度"
     },
@@ -8079,39 +8079,39 @@
     "products": [
       {
         "name": "9000判金",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "4600判金",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2650判金",
-        "price": 783
+        "price": "783"
       },
       {
         "name": "1300判金",
-        "price": 397
+        "price": "397.0"
       },
       {
         "name": "420判金",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "70判金",
-        "price": 25
+        "price": "25.0"
       },
       {
         "name": "日本朱印狀",
-        "price": 1252
+        "price": "1252.0"
       },
       {
         "name": "戰國朱印狀",
-        "price": 135
+        "price": "135.0"
       },
       {
         "name": "守護朱印狀",
-        "price": 85
+        "price": "85.0"
       }
     ],
     "social": {
@@ -8129,43 +8129,43 @@
     "products": [
       {
         "name": "US$99.99商品",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "US$69.99商品",
-        "price": 1793
+        "price": "1793"
       },
       {
         "name": "US$49.99商品",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "US$29.99商品",
-        "price": 775
+        "price": "775.0"
       },
       {
         "name": "US$19.99商品",
-        "price": 532
+        "price": "532.0"
       },
       {
         "name": "US$14.99商品",
-        "price": 389
+        "price": "389.0"
       },
       {
         "name": "US$9.99商品",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "US$8.99商品",
-        "price": 238
+        "price": "238.0"
       },
       {
         "name": "US$4.99商品",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "US$3.99商品",
-        "price": 110
+        "price": "110.0"
       }
     ],
     "social": {
@@ -8183,41 +8183,41 @@
     "products": [
       {
         "name": "6660仙玉",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "3400仙玉",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "2000仙玉",
-        "price": 775
+        "price": "775"
       },
       {
         "name": "1300仙玉",
-        "price": 532
+        "price": "532.0"
       },
       {
         "name": "680仙玉",
-        "price": 262
+        "price": "262.0"
       },
       {
         "name": "330仙玉",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "130仙玉",
-        "price": 59
+        "price": "59.0"
       },
       {
         "name": "60仙玉",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/TW.realmonster",
       "官方網站": "https://www.itrimen.com/",
-      "App Store": "https://apps.apple.com/tw/app/%E6%BC%AB%E7%95%AB%E4%BA%BA%E6%A5%B5%E9%80%9F%E7%89%88-%E7%9C%8B%E6%BC%AB%E7%95%AB%E5%A4%A7%E5%85%A8%E5%B9%B3%E8%87%BA/id1093094653",
+      "App Store": "https://apps.apple.com/tw/app/%E7%9C%9F%E5%A6%96%E7%8D%B8-%E5%BB%A2%E6%9F%B4%E8%A6%81%E4%BF%AE%E4%BB%99/id6747165987",
       "Google Play": "https://forum.gamer.com.tw/",
       "禮包碼": "gift-codes.html?game=真妖獸!廢柴要修仙"
     },
@@ -8229,27 +8229,27 @@
     "products": [
       {
         "name": "6480元寶",
-        "price": 3010
+        "price": "3010"
       },
       {
         "name": "3280元寶",
-        "price": 1550
+        "price": "1550"
       },
       {
         "name": "1980元寶",
-        "price": 932
+        "price": "932"
       },
       {
         "name": "980元寶",
-        "price": 475
+        "price": "475.0"
       },
       {
         "name": "300元寶",
-        "price": 156
+        "price": "156.0"
       },
       {
         "name": "60元寶",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -8267,49 +8267,49 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2539
+        "price": "2539"
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": "1323"
       },
       {
         "name": "1980鑽石",
-        "price": 775
+        "price": "775"
       },
       {
         "name": "980鑽石",
-        "price": 389
+        "price": "389.0"
       },
       {
         "name": "300鑽石",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "60鑽石",
-        "price": 25
+        "price": "25.0"
       },
       {
         "name": "月卡",
-        "price": 144
+        "price": "144.0"
       },
       {
         "name": "永久卡",
-        "price": 389
+        "price": "389.0"
       },
       {
         "name": "晨輝新星時裝",
-        "price": 1166
+        "price": "1166.0"
       },
       {
         "name": "晨輝靈獅時裝",
-        "price": 476
+        "price": "476.0"
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/profile.php?id=61577308460249",
       "官方網站": "https://play.google.com/store/apps/details?id=com.orienjoy.heroland&hl=ln",
-      "App Store": "https://apps.apple.com/tw/app/%E8%8B%B1%E5%8B%87%E4%B9%8B%E5%9C%B0/id6480161011",
+      "App Store": "https://apps.apple.com/cn/app/%E8%8B%B1%E5%8B%87%E4%B9%8B%E5%9C%B0/id6480160896",
       "Google Play": "https://forum.gamer.com.tw/B.php?bsn=79185",
       "禮包碼": "gift-codes.html?game=英勇之地"
     },
@@ -8321,29 +8321,29 @@
     "products": [
       {
         "name": "13000翡翠",
-        "price": 2355
+        "price": "2355"
       },
       {
         "name": "3450翡翠",
-        "price": 937
+        "price": "937"
       },
       {
         "name": "600翡翠",
-        "price": 232
+        "price": "232"
       },
       {
         "name": "難度通行證",
-        "price": 176
+        "price": "176.0"
       },
       {
         "name": "勇者等級通行證",
-        "price": 102
+        "price": "102.0"
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/profile.php?id=61577386190686",
       "官方網站": "https://play.google.com/store/apps/details?id=com.dreamplay.hiddenheroes.google&fbclid=IwY2xjawMIIqZleHRuA2FlbQIxMABicmlkETFkZXV4UHJOSGFrcm92WWVYAR4-fZWlGr15cqSHFRjjaQwTW4OE4HDAfdBZ5LKH4DG9IgD3Tidgy-Udr-Yk3w_aem_evKrdZdXYqQCCS1J3i2qBg",
-      "App Store": "https://apps.apple.com/tw/developer/dreamplay-games-inc/id965141578",
+      "App Store": "https://apps.apple.com/hk/app/%E6%9C%AA%E9%91%91%E5%AE%9A%E5%8B%87%E8%80%85%E5%9C%98-%E9%81%8B%E6%B0%A3%E5%9E%8B%E6%94%BE%E7%BD%AErpg/id6744206189",
       "Google Play": "https://forum.gamer.com.tw/#",
       "禮包碼": "gift-codes.html?game=未鑑定勇者團"
     },
@@ -8355,39 +8355,39 @@
     "products": [
       {
         "name": "99.99禮包",
-        "price": 2555
+        "price": "2555"
       },
       {
         "name": "49.99禮包",
-        "price": 1331
+        "price": "1331"
       },
       {
         "name": "29.99禮包",
-        "price": 788
+        "price": "788"
       },
       {
         "name": "19.99禮包",
-        "price": 535
+        "price": "535.0"
       },
       {
         "name": "14.99禮包",
-        "price": 391
+        "price": "391.0"
       },
       {
         "name": "12.99禮包",
-        "price": 343
+        "price": "343.0"
       },
       {
         "name": "9.99禮包",
-        "price": 264
+        "price": "264.0"
       },
       {
         "name": "4.99禮包",
-        "price": 145
+        "price": "145.0"
       },
       {
         "name": "0.99禮包",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -8405,47 +8405,47 @@
     "products": [
       {
         "name": "2490禮包",
-        "price": 1961
+        "price": "1961"
       },
       {
         "name": "2290禮包",
-        "price": 1804
+        "price": "1804"
       },
       {
         "name": "1690禮包",
-        "price": 1331
+        "price": "1331"
       },
       {
         "name": "1490禮包",
-        "price": 1174
+        "price": "1174.0"
       },
       {
         "name": "1190禮包",
-        "price": 937
+        "price": "937.0"
       },
       {
         "name": "990禮包",
-        "price": 780
+        "price": "780.0"
       },
       {
         "name": "670禮包",
-        "price": 535
+        "price": "535.0"
       },
       {
         "name": "330禮包",
-        "price": 264
+        "price": "264.0"
       },
       {
         "name": "230禮包",
-        "price": 184
+        "price": "184.0"
       },
       {
         "name": "170禮包",
-        "price": 145
+        "price": "145.0"
       },
       {
         "name": "33禮包",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
@@ -8463,44 +8463,70 @@
     "products": [
       {
         "name": "6000鑽石",
-        "price": 2555
+        "price": "2555"
       },
       {
         "name": "3000鑽石",
-        "price": 1331
+        "price": "1331"
       },
       {
         "name": "1800鑽石",
-        "price": 780
+        "price": "780"
       },
       {
         "name": "1200鑽石",
-        "price": 535
+        "price": "535.0"
       },
       {
         "name": "900鑽石",
-        "price": 391
+        "price": "391.0"
       },
       {
         "name": "600鑽石",
-        "price": 264
+        "price": "264.0"
       },
       {
         "name": "300鑽石",
-        "price": 145
+        "price": "145.0"
       },
       {
         "name": "60鑽石",
-        "price": 28
+        "price": "28.0"
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/allstarws",
       "官方網站": "https://www.facebook.com/allstarws",
-      "App Store": "https://apps.apple.com/tw/app/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD-%E7%9B%B4%E6%92%AD%E7%83%AD%E9%97%A8%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0/id863882795?l=en-GB",
+      "App Store": "https://apps.apple.com/app/id6748193496",
       "Google Play": "https://forum.gamer.com.tw/#",
       "禮包碼": "gift-codes.html?game=全明星無雙"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=全明星無雙"
+  },
+  "伊瑟": {
+    "logo": "images/伊瑟.jpg",
+    "description": "《伊瑟·重啟日》是一款引人入勝的都市奇幻風格 3D 回合制 RPG。在近未來都市中，玩家將化身「超鏈者」，穿梭於虛擬世界「伊瑟」與現實之間，對抗侵蝕現實世界的神秘病毒。遊戲以精美的動漫渲染畫風與極富深度的策略戰鬥為核心特色，考驗玩家的隊伍配置與技能連攜。想加速角色養成，別忘了尋找最新的禮包碼來兌換豐厚獎勵；許多玩家也會選擇專業、便捷的代儲值服務，安全地增強戰力，讓您在探索伊瑟真相的旅程中更無往不利。立即加入，共同守護世界的秩序！",
+    "products": [
+      {
+        "name": "等待更新中",
+        "price": "等待更新中"
+      },
+      {
+        "name": "等待更新中",
+        "price": "等待更新中"
+      },
+      {
+        "name": "等待更新中",
+        "price": "等待更新中"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/etheriatw.official",
+      "官方網站": "https://etheria.xd.com/",
+      "App Store": "https://apps.apple.com/us/app/etheria-restart/id6737684676",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.xd.etheria.gp.glb&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=伊瑟"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=伊瑟"
   }
 }
