@@ -1,12 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-// --- 輔助函數：產生檔名 ---
 function createSafeFileName(gameName) {
     if (!gameName) return '';
     // [修改重點] 移除了 .toLowerCase()，保留原始大小寫
-    let safeName = gameName
-        .replace(/[\\/?*"<>|]/g, ''); 
+    let safeName = gameName.replace(/[\\/?*"<>|]/g, '');
     if (/^\d/.test(safeName)) {
         safeName = 'game-' + safeName;
     }
