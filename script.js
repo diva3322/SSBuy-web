@@ -44,6 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // ====== 函數定義 ======
 
+
 async function renderIndexGames() {
     const wrapper = document.getElementById('gamesWrapper');
     if (!wrapper) return;
@@ -146,10 +147,32 @@ async function loadNewGamesContent() {
     }
 }
 
+// 函數：載入禮包碼總覽頁 (giftcodes-list.html)
 async function loadGiftcodesOverview() {
     const giftcodeGameList = document.getElementById('giftcode-game-list');
     if (!giftcodeGameList) return;
     giftcodeGameList.innerHTML = "正在載入...";
+
+    const randomSubtitles = [
+        "豐富虛寶禮包等你領",
+        "最新兌換碼懶人包",
+        "每日最新禮包碼",
+        "限定禮包序號大放送",
+        "馬上兌換拿好禮",
+        "禮包碼攻略大全",
+        "首抽大放送禮包碼",
+        "官方認證T0最強兌換碼",
+        "最多禮包碼序號兌換",
+        "新手開局必備禮包碼兌換",
+        "首抽T0最強組隊抽卡序號",
+        "免費最強組隊禮包碼"
+    ];
+    
+    function getRandomSubtitle() {
+        const randomIndex = Math.floor(Math.random() * randomSubtitles.length);
+        return randomSubtitles[randomIndex];
+    }
+
     try {
         const response = await fetch("./detail_giftcode/data/gift-codes-data.json");
         if (!response.ok) throw new Error("載入禮包碼資料失敗");
@@ -164,7 +187,7 @@ async function loadGiftcodesOverview() {
                     <img src="${gameInfo.banner}" alt="${gameName} Banner" class="game-banner-img" onerror="this.onerror=null;this.src='giftcodesbanner/default.jpg';">
                     <div class="game-info">
                         <div class="game-name-title">${gameName}</div>
-                        <div class="giftcode-subtitle">${new Date().getFullYear()}最新兌換碼</div>
+                        <div class="giftcode-subtitle">${new Date().getFullYear()} ${getRandomSubtitle()}</div>
                     </div>
                 </a>
             `;
@@ -174,7 +197,7 @@ async function loadGiftcodesOverview() {
         console.error("載入禮包碼總覽失敗:", error);
         giftcodeGameList.innerHTML = `<p style="color: red;">載入遊戲列表失敗，請稍後再試。</p>`;
     }
-}
+} // <--- [修正重點] 這裡補上了缺少的右大括號
 
 function filterGames() {
     const searchQuery = document.getElementById("searchBox").value.toLowerCase();
