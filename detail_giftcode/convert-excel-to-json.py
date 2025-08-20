@@ -111,13 +111,28 @@ def process_games():
             
             logo_path_from_excel = str(row.get('Logo', '')).strip()
             final_logo_path = logo_path_from_excel if logo_path_from_excel else f"images/{game_name}.jpg"
+            
             products_list = []
             for i in range(1, 16):
                 p_name = str(row.get(f'商品{i}名稱', '')).strip()
                 p_price_raw = row.get(f'商品{i}價格', '')
-                if p_name: # 只要有商品名稱就加入
-                    products_list.append({"name": p_name, "price": str(p_price_raw).strip()})
-
+                
+                if p_name and p_price_raw != '':
+                    # --- [修改重點] 智慧判斷價格格式 ---
+                    try:
+                        price_float = float(p_price_raw)
+                        # 檢查浮點數是否為整數 (例如 28.0)
+                        if price_float.is_integer():
+                            final_price = int(price_float) # 轉換為整數 (28)
+                        else:
+                            final_price = price_float # 保留小數 (例如 28.5)
+                    except (ValueError, TypeError):
+                        # 如果無法轉換為數字，則保留原始文字
+                        final_price = str(p_price_raw).strip()
+                    # --- [修改重點結束] ---
+                    
+                    products_list.append({"name": p_name, "price": final_price})
+                    
             gift_code_url_from_excel = str(row.get('禮包碼', '')).strip()
             final_gift_code_url = gift_code_url_from_excel if gift_code_url_from_excel else f"gift-codes.html?game={urllib.parse.quote(game_name)}"
             
