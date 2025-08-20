@@ -1,6 +1,7 @@
 // ====== 輔助函數 (Helper Functions) ======
 function createSafeFileName(gameName) {
     if (!gameName) return '';
+    // [修改重點] 移除了 .toLowerCase()，保留原始大小寫
     let safeName = gameName.replace(/[\\/?*"<>|]/g, '');
     if (/^\d/.test(safeName)) {
         safeName = 'game-' + safeName;
