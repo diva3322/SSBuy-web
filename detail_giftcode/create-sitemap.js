@@ -11,8 +11,9 @@ const sitemapPath = path.join(webRootDir, 'sitemap.xml');
 
 function createSafeUrlSegment(gameName) {
     if (!gameName) return '';
-    // [修改重點] 只對整個名稱做 URL 編碼，保留所有字元
-    let safeName = gameName;
+    // [修改重點] 移除了 .toLowerCase()，保留原始大小寫
+    let safeName = gameName
+        .replace(/[\\/?*"<>|]/g, '');
     if (/^\d/.test(safeName)) {
         safeName = 'game-' + safeName;
     }

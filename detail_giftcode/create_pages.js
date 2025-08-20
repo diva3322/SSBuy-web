@@ -4,8 +4,9 @@ const path = require('path');
 // --- 輔助函數：產生檔名 ---
 function createSafeFileName(gameName) {
     if (!gameName) return '';
-    // [修改重點] 移除所有替換規則，只保留對作業系統不安全的少數字元
-    let safeName = gameName.replace(/[\\/?*"<>|]/g, ''); 
+    // [修改重點] 移除了 .toLowerCase()，保留原始大小寫
+    let safeName = gameName
+        .replace(/[\\/?*"<>|]/g, ''); 
     if (/^\d/.test(safeName)) {
         safeName = 'game-' + safeName;
     }
