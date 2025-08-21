@@ -56,7 +56,10 @@
         <h1 class="page-title">所有遊戲</h1>
         
         <!-- 搜尋框 -->
-        <input type="text" id="searchBox" placeholder="搜尋遊戲名稱..." oninput="filterGames()">
+        <div class="search-container">
+          <input type="text" id="searchBox" placeholder="搜尋遊戲名稱...">
+          <button id="clearSearchBtn" class="clear-search-btn" style="display: none;">&times;</button>
+        </div>
 
         <!-- 遊戲列表 -->
         <div id="gamesContainer" class="games-grid"></div>
