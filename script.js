@@ -1,3 +1,4 @@
+//=======202508220132
 // ====== 輔助函數 (Helper Functions) ======
 function createSafeFileName(gameName) {
     if (!gameName) return '';
@@ -49,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // ====== 函數定義 ======
 
-// [修改重點] 函數：渲染首頁遊戲卡片 (簡化版)
+// [修改重點] 函數：渲染首頁遊戲卡片 
 async function renderIndexGames() {
     const wrapper = document.getElementById('gamesWrapper');
     if (!wrapper) return;
