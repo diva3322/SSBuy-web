@@ -1,0 +1,67 @@
+# 命名這個自動化流程
+name: Deploy to GitHub Pages
+
+# 設定觸發條件：當 'main' 分支有新的推送(push)時執行
+on:
+  push:
+    branches: ["main"]
+
+# 設定工作流程需要的權限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 定義工作內容
+jobs:
+  build-and-deploy:
+    # 使用最新的 Ubuntu 虛擬機來執行
+    runs-on: ubuntu-latest
+
+    # 定義執行的步驟
+    steps:
+      # 步驟 1: 從 GitHub 下載您最新的程式碼到虛擬機
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 步驟 2: 設定 Python 環境
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # 使用 Python 3.10 版本
+
+      # 步驟 3: 安裝 Python 腳本需要的工具
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./detail_giftcode/requirements.txt
+
+      # 步驟 4: 設定 Node.js 環境
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # 使用 Node.js 20 版本
+
+      # 步驟 5: 執行所有產生檔案的腳本 (核心步驟)
+      - name: Run all build scripts
+        run: |
+          cd detail_giftcode
+          py convert-excel-to-json.py
+          node create_pages.js
+          node create-sitemap.js
+          cd ..
+
+      # 步驟 6: 設定 GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # 步驟 7: 將整個 web 資料夾打包，準備部署
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.' # '.' 代表打包整個根目錄 (也就是 web 資料夾)
+
+      # 步驟 8: 將打包好的網站發布出去
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
