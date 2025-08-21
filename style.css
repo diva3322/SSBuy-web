@@ -919,6 +919,55 @@ img.zoomable {
     height: auto; /* 高度自適應 */
 }
 
+/* --- 搜尋框清除按鈕樣式 --- */
+
+/* 1. 搜尋框的容器，用來定位按鈕 */
+.search-container {
+    position: relative;
+    width: 100%;
+    max-width: 500px; /* 您可以根據設計調整最大寬度 */
+    margin: 0 auto 20px; /* 置中及下方間距 */
+}
+
+/* 2. 調整搜尋框，在右邊留出空間給按鈕 */
+.search-container input#searchBox {
+    color: #080808;
+    padding-right: 35px; /* 在右側留出 35px 的空間 */
+    box-sizing: border-box; /* 確保 padding 不會增加總寬度 */
+    width: 100%;
+}
+
+/* 3. 清除按鈕的樣式 */
+.clear-search-btn {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%); /* 垂直置中 */
+    
+    /* 外觀設定 */
+    width: 24px;
+    height: 24px;
+    border-radius: 50%; /* 圓形 */
+    background-color: rgba(255, 255, 255, 0.3); /* 30% 透明度的白色 */
+    border: none;
+    color: #000; /* 黑色的 X */
+
+    /* X 的樣式與置中 */
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    cursor: pointer; /* 滑鼠移上去時顯示手型 */
+    transition: background-color 0.2s; /* 平滑的 hover 效果 */
+}
+
+.clear-search-btn:hover {
+    background-color: rgba(255, 255, 255, 0.5); /* 滑鼠移上去時變亮一點 */
+}
+
 .giftcodes-banner {
 max-width: 100%; / 關鍵：圖片最大寬度為父容器的 100% /
 object-fit: cover;
@@ -1178,10 +1227,21 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
     padding: 12px 15px;
     border: 1px solid #444;
     border-radius: 8px;
-    background-color: #333;
     color: #eee;
     font-size: 1.1rem;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.all-games-page .clear-search-btn {
+    padding: 12px 20px;
+    background-color: #ffcc00; /* SSBUY 黃色主題色 */
+    color: #333; /* 深色文字 */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.3rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 .giftcodes-list-page .search-bar button {
@@ -1191,7 +1251,7 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     font-weight: bold;
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
@@ -1282,6 +1342,51 @@ html, body {
     -ms-overflow-style: none; 
 }
 
+
+    /* --- 搜尋框清除按鈕樣式 --- */
+
+    /* 1. 搜尋框的容器，用來定位按鈕 */
+    .search-container {
+        position: relative;
+        width: 100%;
+        max-width: 500px; /* 您可以根據設計調整最大寬度 */
+        margin: 0 auto 20px; /* 置中及下方間距 */
+    }
+
+    /* 2. 調整搜尋框，在右邊留出空間給按鈕 */
+
+
+    /* 3. 清除按鈕的樣式 */
+    .clear-search-btn {
+        position: absolute;
+        top: 50%;
+        right: 5px;
+        transform: translateY(-50%); /* 垂直置中 */
+        
+        /* 外觀設定 */
+        width: 24px;
+        height: 24px;
+        border-radius: 50%; /* 圓形 */
+        background-color: rgba(255, 255, 255, 0.3); /* 30% 透明度的白色 */
+        border: none;
+        color: #000; /* 黑色的 X */
+
+        /* X 的樣式與置中 */
+        font-size: 3vh;
+        font-weight: bold;
+        line-height: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        cursor: pointer; /* 滑鼠移上去時顯示手型 */
+        transition: background-color 0.2s; /* 平滑的 hover 效果 */
+    }
+
+    .clear-search-btn:hover {
+        background-color: rgba(255, 255, 255, 0.5); /* 滑鼠移上去時變亮一點 */
+    }
+
     .giftcodes-list-page .main-content {
         margin-left: 0 !important;
         width: 100% !important;
@@ -1292,8 +1397,8 @@ html, body {
 
     .giftcodes-list-page .page-title {
         font-size: 3.8vh;
-        margin-top: 2vh;
-        margin-bottom: 20px;
+        margin-top: -4vh;
+        margin-bottom: 2vh;
     }
 
     .giftcodes-list-page .search-bar {
@@ -1302,11 +1407,45 @@ html, body {
         gap: 15px;
     }
 
+    .giftcodes-list-page .search-bar button {
+    padding: 12px 20px;
+    background-color: #ffcc00; /* SSBUY 黃色主題色 */
+    color: #333; /* 深色文字 */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.3rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+    .all-games-page .search-container input#searchBox {
+        padding-right: 35px;
+        box-sizing: border-box;
+        width: 80%;
+    }
+
+    .all-games-page .clear-search-btn {
+        width: 8%;
+        font-size: 1.5rem;
+        padding: 2vh 0vh;
+    }
+
+    .giftcodes-list-page .search-container{
+
+                text-align: center;
+    }
+
+    .giftcodes-list-page .search-container input#searchBox {
+        box-sizing: border-box;
+        width: 80%;
+    }
+
     .giftcodes-list-page .search-bar input[type="text"],
     .giftcodes-list-page .search-bar button {
-        width: 100%;
-        font-size: 1rem;
-        padding: 1.5vh 0vh;
+        width: 8%;
+        font-size: 1.5rem;
+        padding: 2vh 0vh;
     }
 
     #giftcode-game-list {
@@ -1451,7 +1590,7 @@ body::-webkit-scrollbar {
 
 .new-games-page h1 {
     color: #ffcc00; /* 這一行設定h1文字為黃色 */
-	margin-top:-10vh;
+	margin-top:2vh;
 	margin-bottom:0vh;
 }
 
@@ -1461,9 +1600,7 @@ body::-webkit-scrollbar {
 	margin-bottom:2vh;
 }
 
-.all-games-page #searchBox {
-  margin-bottom: 2vh;  /* 或視覺需求改成 2vh、4vh 都行 */
-}
+
 
     .social-line.line1::after {
         content: "";
