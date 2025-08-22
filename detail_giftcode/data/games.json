@@ -8267,43 +8267,43 @@
     "products": [
       {
         "name": "6480鑽石",
-        "price": 2539
+        "price": 2415
       },
       {
         "name": "3280鑽石",
-        "price": 1323
+        "price": 1225
       },
       {
         "name": "1980鑽石",
-        "price": 775
+        "price": 735
       },
       {
         "name": "980鑽石",
-        "price": 389
+        "price": 372
       },
       {
         "name": "300鑽石",
-        "price": 144
+        "price": 132
       },
       {
         "name": "60鑽石",
-        "price": 25
+        "price": 26
       },
       {
         "name": "月卡",
-        "price": 144
+        "price": 132
       },
       {
         "name": "永久卡",
-        "price": 389
+        "price": 372
       },
       {
         "name": "晨輝新星時裝",
-        "price": 1166
+        "price": 1127
       },
       {
         "name": "晨輝靈獅時裝",
-        "price": 476
+        "price": 472
       }
     ],
     "social": {
@@ -8574,5 +8574,185 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/手刀搶英雄.html"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=手刀搶英雄"
+  },
+  "荒野亂鬥": {
+    "logo": "images/荒野亂鬥.jpg",
+    "description": "《荒野亂鬥》是一款由 Supercell 開發的快節奏 3v3 多人對戰與大逃殺手機遊戲。其多樣化的英雄角色、豐富的遊戲模式和三分鐘一局的緊湊戰鬥，使其風靡全球。玩家可以與朋友組隊，或單槍匹馬在荒野中對決，解鎖和升級數十位擁有獨特技能的英雄。為了讓您的英雄更快成長，隨時關注官方發布的最新禮包碼，是獲取免費寶石和金幣的好方法。許多玩家也會尋找安全的代儲值管道，以優惠的價格購買遊戲內商品，迅速提升戰力，在各種模式中稱霸全場。無論是寶石爭奪戰、亂鬥足球還是賞金獵人模式，掌握英雄技巧並善用資源，就是通往勝利的關鍵。立即加入亂鬥，體驗這款刺激又有深度的競技手遊！",
+    "products": [
+      {
+        "name": "2000寶石",
+        "price": 2415
+      },
+      {
+        "name": "950寶石",
+        "price": 1225
+      },
+      {
+        "name": "360寶石",
+        "price": 497
+      },
+      {
+        "name": "170寶石",
+        "price": 248
+      },
+      {
+        "name": "80寶石",
+        "price": 132
+      },
+      {
+        "name": "30寶石",
+        "price": 53
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/brawlstars",
+      "官方網站": "https://supercell.com/en/games/brawlstars/",
+      "App Store": "",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=荒野亂鬥"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=荒野亂鬥"
+  },
+  "遺忘之劍": {
+    "logo": "images/遺忘之劍.jpg",
+    "description": "《遺忘之劍》是一款帶有經典像素風格的 MMORPG 手遊，引領玩家重溫最初的冒險感動。遊戲打造了一個宏大的奇幻世界，玩家將扮演勇敢的冒險者，探索未知的地圖、挑戰強大的怪物，並與其他玩家組隊共鬥。遊戲核心特色在於其自由的職業養成與裝備打造系統，讓每位玩家都能走出自己的道路。想要在冒險旅程中快人一步，千萬別錯過官方社群發佈的限量禮包碼，這些序號能兌換稀有材料與實用道具。對於追求頂級裝備的玩家，選擇可靠的代儲值服務，能更有效率地獲取強化資源，打造屬於你的傳說神兵。無論你是喜愛獨自探索的孤狼，還是熱衷於公會團戰的領袖，都能在《遺忘之劍》的世界中找到屬於自己的樂趣。",
+    "products": [
+      {
+        "name": "8000里昂",
+        "price": 1890
+      },
+      {
+        "name": "4000里昂",
+        "price": 945
+      },
+      {
+        "name": "2400里昂",
+        "price": 575
+      },
+      {
+        "name": "800里昂",
+        "price": 192
+      },
+      {
+        "name": "400里昂",
+        "price": 102
+      },
+      {
+        "name": "240里昂",
+        "price": 64
+      },
+      {
+        "name": "雙月票",
+        "price": 192
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/LostSwordOfficial.TW/",
+      "官方網站": "https://tw.ncsoft.com/lostsword",
+      "App Store": "",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.nctaiwan.lsnct&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=遺忘之劍"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=遺忘之劍"
+  },
+  "破壞突擊隊": {
+    "logo": "images/破壞突擊隊.jpg",
+    "description": "《破壞突擊隊》是 Supercell 旗下最新力作，集結了《部落衝突》、《荒野亂鬥》等經典遊戲的超人氣角色，打造出獨一無二的 10 人組隊對戰冒險。在每場比賽中，玩家將從單一角色開始，透過擊敗怪物和對手來收集金幣，擴大自己的突擊隊伍。遊戲的策略核心在於如何搭配不同角色的技能，組成最強大的戰隊。為了讓你的隊伍迅速成形，記得隨時搜尋最新的禮包碼，兌換豐富的開局獎勵。同時，透過安全的代儲值服務獲取寶石，能讓你更快解鎖強力角色和購買實用道具，在戰場上取得巨大優勢。遊戲融合了 Roguelike 隨機元素與大亂鬥的刺激感，每一局都是全新的體驗。快來召集你的夢幻隊伍，在《破壞突擊隊》中展開一場歡樂又混亂的冒險吧！",
+    "products": [
+      {
+        "name": "50000金蘿蔔",
+        "price": 622
+      },
+      {
+        "name": "25000金蘿蔔",
+        "price": 312
+      },
+      {
+        "name": "5000金蘿蔔",
+        "price": 176
+      },
+      {
+        "name": "2500金蘿蔔",
+        "price": 102
+      },
+      {
+        "name": "1250金蘿蔔",
+        "price": 51
+      },
+      {
+        "name": "500金蘿蔔",
+        "price": 26
+      },
+      {
+        "name": "新手包",
+        "price": 391
+      },
+      {
+        "name": "月亮俱樂部",
+        "price": 391
+      },
+      {
+        "name": "終極廣告卡",
+        "price": 622
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/SquadBustersGame/",
+      "官方網站": "https://squadbusters.supercell.com/cn/",
+      "App Store": "",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.supercell.squad&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=破壞突擊隊"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=破壞突擊隊"
+  },
+  "月兔茶屋：悠閒之旅": {
+    "logo": "images/月兔茶屋：悠閒之旅.jpg",
+    "description": "歡迎來到《月兔茶屋：悠閒之旅》，這是一款迷人又溫馨的模擬經營遊戲，讓您與可愛的月兔Tsuki在靜謐的鄉村中，共同打造夢想中的茶館。在這款療癒的放置型遊戲中，您的任務是協助Tsuki招待各式各樣的動物顧客，從沖泡完美的茶品到準備可口的小吃，每個細節都充滿了溫暖與人情味。您可以透過解鎖新食譜、擴展菜單、升級裝潢和聘請員工來逐步提升茶館的規模與吸引力。遊戲擁有輕鬆的步調與可愛的視覺風格，讓玩家能徹底放鬆，享受簡單生活的美好。為了讓您的茶館成長更迅速，隨時關注官方發布的最新禮包碼，是獲得免費資源的好方法；若想加快遊戲進程，也可以考慮適度儲值來購買獨特裝飾，打造最獨一無二的溫馨茶屋！快來與Tsuki一起，展開這段美好的悠閒旅程吧！",
+    "products": [
+      {
+        "name": "50000金蘿蔔",
+        "price": 622
+      },
+      {
+        "name": "25000金蘿蔔",
+        "price": 312
+      },
+      {
+        "name": "5000金蘿蔔",
+        "price": 176
+      },
+      {
+        "name": "2500金蘿蔔",
+        "price": 102
+      },
+      {
+        "name": "1250金蘿蔔",
+        "price": 51
+      },
+      {
+        "name": "500金蘿蔔",
+        "price": 26
+      },
+      {
+        "name": "新手包",
+        "price": 391
+      },
+      {
+        "name": "月亮俱樂部",
+        "price": 391
+      },
+      {
+        "name": "終極廣告卡",
+        "price": 622
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/HyperBeardGames/",
+      "官方網站": "https://hyperbeard.com/",
+      "App Store": "",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.hyperbeard.tsukiteahouse&hl=zh_HK",
+      "禮包碼": "gift-codes.html?game=月兔茶屋：悠閒之旅"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=月兔茶屋：悠閒之旅"
   }
 }
