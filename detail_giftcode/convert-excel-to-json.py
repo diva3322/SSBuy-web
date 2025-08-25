@@ -140,7 +140,7 @@ def process_games():
             social_links = {
                 "Facebook": str(row.get('Facebook', '')).strip() or existing_socials.get('Facebook', ''),
                 "官方網站": str(row.get('官方網站', '')).strip() or existing_socials.get('官方網站', ''),
-                "App Store": str(row.get('AppStore', '')).strip() or existing_socials.get('App Store', ''),
+                "App Store": str(row.get('App Store', '')).strip() or existing_socials.get('App Store', ''),
                 "Google Play": str(row.get('GooglePlay', '')).strip() or existing_socials.get('Google Play', ''),
                 "禮包碼": final_gift_code_url
             }
