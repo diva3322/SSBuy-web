@@ -1,5 +1,5 @@
-//=======202508220132
 // ====== 輔助函數 (Helper Functions) ======
+
 function createSafeFileName(gameName) {
     if (!gameName) return '';
     let safeName = gameName.replace(/[\\/?*"<>|]/g, '');
@@ -28,6 +28,7 @@ function setupSearchFunctionality() {
 }
 
 // ====== 主要邏輯 (在頁面載入後執行) ======
+
 document.addEventListener("DOMContentLoaded", () => {
     // --- 通用功能 ---
     const mobileMenuToggle = document.querySelector(".mobile-menu-toggle");
@@ -48,9 +49,24 @@ document.addEventListener("DOMContentLoaded", () => {
     else if (bodyClassList.contains("giftcodes-detail-page")) { setupGiftCodeDetailPageInteraction(); }
 });
 
+
 // ====== 函數定義 ======
 
-// [修改重點] 函數：渲染首頁遊戲卡片 
+// 函數：建立單張遊戲卡片 (共用)
+function createGameCard(gameName, gameInfo) {
+    const fileName = createSafeFileName(gameName);
+    const card = document.createElement('a');
+    card.className = 'card game-card';
+    card.href = `/detail_giftcode/dist/gamedetail/${encodeURIComponent(fileName)}`;
+    card.innerHTML = `
+        <img src="/${gameInfo.logo}" alt="${gameName}" onerror="this.onerror=null;this.src='/images/default.jpg';">
+        <div class="game-title">${gameName}</div>
+    `;
+    return card;
+}
+
+
+// [修改重點] 函數：渲染首頁的輪播遊戲卡片 (恢復左右箭頭功能)
 async function renderIndexGames() {
     const wrapper = document.getElementById('gamesWrapper');
     if (!wrapper) return;
@@ -60,17 +76,27 @@ async function renderIndexGames() {
         if (!response.ok) throw new Error(`HTTP 錯誤! 狀態: ${response.status}`);
         const gamesData = await response.json();
         wrapper.innerHTML = "";
+
         const gameEntries = Object.entries(gamesData);
         const shuffledGames = gameEntries.sort(() => 0.5 - Math.random());
         while (shuffledGames.length > 0 && shuffledGames.length < 26) {
             shuffledGames.push(...shuffledGames);
         }
         const gameChunks = [shuffledGames.slice(0, 13), shuffledGames.slice(13, 26)];
+
         gameChunks.forEach((chunk, i) => {
+            const sliderId = `gamesContainer${i}`;
             const slider = document.createElement('div');
             slider.className = 'game-slider-container';
-            const container = document.createElement('div');
-            container.className = 'game-slider';
+            
+            slider.innerHTML = `
+                <button class="slider-button left">❮</button>
+                <div class="game-slider" id="${sliderId}"></div>
+                <button class="slider-button right">❯</button>
+            `;
+            wrapper.appendChild(slider);
+
+            const container = slider.querySelector(`#${sliderId}`);
             chunk.forEach(([gameName, gameInfo]) => {
                 const fileName = createSafeFileName(gameName);
                 const card = document.createElement('a');
@@ -82,13 +108,46 @@ async function renderIndexGames() {
                 `;
                 container.appendChild(card);
             });
-            slider.appendChild(container);
-            wrapper.appendChild(slider);
+
+            // --- [修改重點] 為按鈕加上點擊事件 (更穩健的寫法) ---
+            const leftButton = slider.querySelector('.left');
+            const rightButton = slider.querySelector('.right');
+            
+            if (leftButton && rightButton) {
+                leftButton.addEventListener('click', () => {
+                    console.log(`點擊了左邊按鈕，控制: #${sliderId}`);
+                    moveSlide(-1, sliderId);
+                });
+                
+                rightButton.addEventListener('click', () => {
+                    console.log(`點擊了右邊按鈕，控制: #${sliderId}`);
+                    moveSlide(1, sliderId);
+                });
+            } else {
+                 console.error(`錯誤：找不到 #${sliderId} 的左右按鈕！`);
+            }
         });
+
     } catch (error) {
         console.error("❌ 渲染首頁遊戲失敗:", error);
         wrapper.innerHTML = `<p style="color: red;">無法載入遊戲列表，請檢查路徑是否正確。</p>`;
     }
+}
+
+// [修改重點] 函數：控制卡片左右滑動
+function moveSlide(direction, containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) {
+        console.error(`moveSlide 錯誤：找不到 ID 為 "${containerId}" 的容器！`);
+        return;
+    }
+    
+    // 每次滑動 3 張卡片的寬度 (您可以調整這個數字)
+    const cardWidth = 220; // 假設卡片寬度 + 間距
+    const scrollAmount = cardWidth * 3 * direction;
+    
+    console.log(`正在滑動 #${containerId}，距離: ${scrollAmount}px`);
+    container.scrollBy({ left: scrollAmount, behavior: 'smooth' });
 }
 
 // 函數：載入並顯示所有遊戲 (all-games.html)
@@ -107,15 +166,7 @@ async function loadAllGames() {
         gamesContainer.innerHTML = "";
 
         gamesArray.forEach(([gameName, gameInfo]) => {
-            const fileName = createSafeFileName(gameName);
-            const gameCard = document.createElement("a");
-            gameCard.className = "card game-card";
-            gameCard.href = `detail_giftcode/dist/gamedetail/${encodeURIComponent(fileName)}`;
-            gameCard.innerHTML = `
-                <img src="${gameInfo.logo}" alt="${gameName}" onerror="this.onerror=null;this.src='images/default.jpg';">
-                <div class="game-title">${gameName}</div>
-            `;
-            gamesContainer.appendChild(gameCard);
+            gamesContainer.appendChild(createGameCard(gameName, gameInfo));
         });
         
         setupSearchFunctionality();
@@ -143,7 +194,7 @@ async function loadNewGamesContent() {
             const gameCard = document.createElement("a");
             gameCard.className = "new-game-item";
             gameCard.href = `detail_giftcode/dist/gamedetail/${encodeURIComponent(fileName)}`;
-            gameCard.innerHTML = `<div class="card new-game-card"><img src="${info.logo}" alt="${name}" onerror="this.onerror=null;this.src='images/default.jpg';"><div class="game-title">${name}</div></div>`;
+            gameCard.innerHTML = `<div class="card new-game-card"><img src="/${info.logo}" alt="${name}" onerror="this.onerror=null;this.src='/images/default.jpg';"><div class="game-title">${name}</div></div>`;
             container.appendChild(gameCard);
         });
     } catch (error) {
@@ -175,15 +226,16 @@ async function loadGiftcodesOverview() {
         if (!response.ok) throw new Error("載入禮包碼資料失敗");
         const allGamesData = await response.json();
         const sortedGamesEntries = Object.entries(allGamesData).reverse();
+        
         giftcodeGameList.innerHTML = '';
         
         sortedGamesEntries.forEach(([gameName, gameInfo]) => {
             const fileName = createSafeFileName(gameName);
             const listItem = document.createElement('li');
-            listItem.className = "game-card-li";
+            listItem.className = "game-card-li"; 
             listItem.innerHTML = `
-                <a href="detail_giftcode/dist/giftcodes/${encodeURIComponent(fileName)}" class="giftcode-item-card">
-                    <img src="${gameInfo.banner}" alt="${gameName} Banner" class="game-banner-img" onerror="this.onerror=null;this.src='giftcodesbanner/default.jpg';">
+                <a href="/detail_giftcode/dist/giftcodes/${encodeURIComponent(fileName)}" class="giftcode-item-card">
+                    <img src="/${gameInfo.banner}" alt="${gameName} Banner" class="game-banner-img" onerror="this.onerror=null;this.src='/giftcodesbanner/default.jpg';">
                     <div class="game-info">
                         <div class="game-name-title">${gameName}</div>
                         <div class="giftcode-subtitle">${new Date().getFullYear()} ${getRandomSubtitle()}</div>
@@ -216,6 +268,29 @@ function filterGames() {
             item.style.display = gameName.includes(searchQuery) ? "" : "none";
         }
     });
+}
+
+// 函數：在禮包碼詳情頁載入推薦遊戲
+async function loadRecommendations() {
+    const container = document.getElementById("new-games-container");
+    if (!container) return; 
+
+    try {
+        const response = await fetch("/detail_giftcode/data/games.json");
+        if (!response.ok) throw new Error("無法載入遊戲資料");
+        const data = await response.json();
+        const gameEntries = Object.entries(data);
+        const latest10Games = gameEntries.slice(-10).reverse();
+        
+        container.innerHTML = "";
+
+        latest10Games.forEach(([name, info]) => {
+            container.appendChild(createGameCard(name, info));
+        });
+    } catch (error) {
+        console.error("載入推薦遊戲失敗:", error);
+        container.innerHTML = `<p style="font-size: 14px; color: #888;">無法載入推薦遊戲列表。</p>`;
+    }
 }
 
 // 函數：處理遊戲詳情頁的互動
@@ -255,6 +330,7 @@ function setupGameDetailPageInteraction() {
 
 // 函數：處理禮包碼詳情頁的互動
 function setupGiftCodeDetailPageInteraction() {
+    // 執行複製禮包碼按鈕的功能
     document.querySelectorAll('.copy-button').forEach(button => {
         button.addEventListener('click', (e) => {
             const codeToCopy = e.target.dataset.code;
@@ -266,4 +342,7 @@ function setupGiftCodeDetailPageInteraction() {
             });
         });
     });
+
+    // 執行載入推薦遊戲的函數
+    loadRecommendations();
 }
