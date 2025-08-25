@@ -1202,8 +1202,8 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
         flex-direction: column; /* 垂直排列子元素 */
         align-items: flex-start; /* 子元素靠左對齊 */
         gap: 8px; /* 增加連結之間的垂直間距 */
-        margin-top: 1vh; /* 根據需要調整與上方內容的距離 */
-        margin-bottom: 1vh; /* 根據需要調整與下方內容的距離 */
+        margin-top: 0.2vh; /* 根據需要調整與上方內容的距離 */
+        margin-bottom: 0.2vh; /* 根據需要調整與下方內容的距離 */
         text-align: left; /* 確保文字本身也是左對齊 */
     }
 
