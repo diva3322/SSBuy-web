@@ -8816,5 +8816,63 @@
       "禮包碼": "gift-codes.html?game=吞食天地 虛擬世界"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=吞食天地 虛擬世界"
+  },
+  "封神：蒼嵐契約": {
+    "logo": "images/封神：蒼嵐契約.jpg",
+    "description": "《封神：蒼嵐契約》是一款東方神話主題的放置卡牌 RPG 手遊，帶您進入一個瑰麗奇幻的封神世界。遊戲以精美的國風美術風格，重新演繹哪吒、妲己、姜子牙等經典角色，打造出策略性十足的卡牌對戰體驗。玩家將扮演天命之人，召喚來自不同陣營的神將，巧妙佈陣，挑戰各式PVE關卡與PVP競技場。遊戲核心玩法輕鬆放置，離線也能持續累積收益，讓您輕鬆養成心儀隊伍。為了幫助玩家快速成長，官方經常釋出豐富的禮包碼，提供大量虛寶獎勵。若想快人一步，透過安全的代儲值服務更能讓您輕鬆取得強力角色與稀有資源，在蒼嵐大陸的冒險旅途上，寫下屬於您的不朽傳奇。",
+    "products": [
+      {
+        "name": "6480元寶",
+        "price": 2355
+      },
+      {
+        "name": "3280元寶",
+        "price": 1174
+      },
+      {
+        "name": "1980元寶",
+        "price": 780
+      },
+      {
+        "name": "1280元寶",
+        "price": 535
+      },
+      {
+        "name": "980元寶",
+        "price": 391
+      },
+      {
+        "name": "680元寶",
+        "price": 264
+      },
+      {
+        "name": "300元寶",
+        "price": 145
+      },
+      {
+        "name": "60元寶",
+        "price": 28
+      },
+      {
+        "name": "成長禮包",
+        "price": 780
+      },
+      {
+        "name": "體力卡/月慧卡",
+        "price": 264
+      },
+      {
+        "name": "尊享卡",
+        "price": 391
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61578957816469",
+      "官方網站": "https://www.facebook.com/profile.php?id=61578957816469",
+      "App Store": "",
+      "Google Play": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1WEmdcrN1r89fbt9cynQyNvxLuHn9J60H%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbmtpd3BqTWJrZUlDZWNoTwEeQ5cl0F43dhNpC8AnzVWZ_veTkzTmNgUPWkXoN6AEXFsIC09XICD6mtx57zM_aem_IgtsGGeCFonJFWLK0_MP8g&h=AT3O0X74-1aLpyWKfKAbKA2P-FnPBun8wlk55fCZ5kJlu-HiV6QGMJGcVKEYaI_2vXP4YqUfeg4aFZXZKMzCnxN_5Rhcx4O8-IGx58rmwag0rQuosSFM0muDWhQpjtj3cDvV_hJt3T5Xtys&__tn__=-UK-R&c[0]=AT0e-iUHSgjYHkfucwguW39OZ-bKaLMgQ6QXVja1fzGsEOaIACMKZfPRhU2ROJmD9TO-N86uuVOn339B_PZgkrlT8e7ih2UuTqfy65uPFdR3QiTTgY9oTSUr-qIxox3IZgwZ9z35ENVERE-kemQRiGakLM5p5qciTlv_QIjv_pCT6sNSqSNDG-E0Ixr0w-CzkQ8OdZ6vDIMZoAUs947ugU9PyZQq9g",
+      "禮包碼": "gift-codes.html?game=封神：蒼嵐契約"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=封神：蒼嵐契約"
   }
 }

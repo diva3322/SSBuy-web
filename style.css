@@ -82,50 +82,80 @@ body {
     height: auto; /* 這一行設定頭部圖片高度自動調整 */
 }
 
-/* 調整遊戲卡片容器顯示方式 */ /* 這一行是註解，標示遊戲卡片容器樣式開始 */
+
+/* --- 首頁滑動器最終修正版 --- */
+
+/* 1. 滑動器的外層容器，用來放置按鈕 */
 .game-slider-container {
-    position: relative; /* 這一行使容器使用相對定位 */
-    display: flex; /* 這一行使容器使用flex布局 */
-    align-items: center; /* 這一行使容器內元素垂直置中 */
-    width: 57.3vw; /* 這一行設定容器寬度為57.3vw */
-    margin: -1vh; /* 這一行設定容器負外邊距為-1vw */
-    overflow: hidden; /* 這一行隱藏容器溢出內容 */
-    height: 25vh; /* 這一行設定容器高度為25vh */
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
 }
 
+/* 2. 卡片的滾動容器 (最關鍵的部分) */
 .game-slider {
-    display: flex; /* 這一行使滑塊內卡片水平排列 */
-    transition: transform 0.25s ease-in-out; /* 這一行設定滑塊移動動畫，0.5秒緩入緩出 */
-    width: max-content; /* 這一行使滑塊寬度適應內容 */
+    display: flex;
+    /* [關鍵] 允許內容水平溢出，並顯示滾動條 (我們會隱藏它) */
+    overflow-x: auto; 
+    /* [關鍵] 讓 JS 的 .scrollBy() 產生平滑動畫效果 */
+    scroll-behavior: smooth; 
+    
+    width: 100%;
+    max-width: 1100px; /* 5張卡片 * 220px = 1100px */
+    padding: 10px 0;
+    
+    /* 隱藏醜陋的滾動條 */
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none;  /* For Internet Explorer and Edge */
+}
+.game-slider::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Opera */
 }
 
-/* 滑動按鈕樣式 */ /* 這一行是註解，標示滑動按鈕樣式開始 */
+/* 3. 確保卡片本身不會被壓縮 */
+.game-slider .game-card {
+    flex-shrink: 0;
+    width: 16vh; /* 卡片寬度 */
+    height: 16vh;
+    margin: 0 10px; /* 卡片間距 */
+}
+
+/* 4. 左右按鈕的樣式 (之前已有，再次確認) */
 .slider-button {
-    position: absolute; /* 這一行使按鈕使用絕對定位 */
-    top: 50%; /* 這一行使按鈕垂直位於容器中間 */
-    transform: translateY(-50%); /* 這一行使按鈕向上移動自身高度的一半，實現垂直置中 */
-    background-color: rgba(0, 0, 0, 0.75); /* 這一行設定按鈕背景為半透明黑色 */
-    color: #ffcc00; /* 這一行設定按鈕文字為白色 */
-    border: none; /* 這一行移除按鈕邊框 */
-    padding: 0.52vw 0.78vw; /* 這一行設定按鈕內邊距為0.52vw x 0.78vw */
-    cursor: pointer; /* 這一行使按鈕懸停時顯示手型游標 */
-    font-size: 3vh; /* 這一行設定按鈕字體大小為1.04vw */
-    font-weight: bold; /* 這一行設定按鈕字體為粗體 */
-    z-index: 10; /* 這一行確保按鈕位於最上層 */
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    z-index: 10;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s;
+}
+
+.slider-button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 .slider-button.left {
-    left: 0.52vw; /* 這一行設定左按鈕距離容器左邊0.52vw */
+    left: -20px;
 }
 
 .slider-button.right {
-    right: 0.52vw; /* 這一行設定右按鈕距離容器右邊0.52vw */
+    right: -20px;
 }
 
-.slider-button.left:hover, .slider-button.right:hover {
-    background: #fff; /* 這一行設定按鈕懸停時背景為白色 */
-    color: #000; /* 這一行設定按鈕懸停時文字為黑色 */
-}
 
 /* 確保卡片樣式一致 */ /* 這一行是註解，標示卡片樣式開始 */
 .card {
