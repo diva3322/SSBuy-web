@@ -8874,5 +8874,93 @@
       "禮包碼": "gift-codes.html?game=封神：蒼嵐契約"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=封神：蒼嵐契約"
+  },
+  "Gear Fight!": {
+    "logo": "images/Gear Fight!.jpg",
+    "description": "《Gear Fight》是一款考驗策略與創造力的益智冒險手遊。玩家將化身為機械大師，親手設計戰爭機器，透過巧妙組合、放置齒輪，打造出獨一無二的自動化生產線來抵禦強敵。你需要在有限預算內，策略性地生產近戰兵、弓箭手等多樣單位。為了讓你的開局更順利，記得隨時搜尋最新的禮包碼來兌換豐厚獎勵；若想加速升級，安全的代儲值服務是你的最佳幫手，讓你輕鬆構築最強工廠，迎向勝利。",
+    "products": [
+      {
+        "name": "700寶石",
+        "price": 780
+      },
+      {
+        "name": "200寶石",
+        "price": 232
+      },
+      {
+        "name": "25寶石",
+        "price": 51
+      },
+      {
+        "name": "2X加速",
+        "price": 232
+      },
+      {
+        "name": "植物部隊包",
+        "price": 391
+      },
+      {
+        "name": "祝福禮包",
+        "price": 256
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/",
+      "官方網站": "https://voodoo.io/",
+      "App Store": "https://apps.apple.com/tw/app/gear-fight/id6738430824",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.EternalStudio.GearFight&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=Gear Fight!"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Gear Fight!"
+  },
+  "救世者之樹 M": {
+    "logo": "images/救世者之樹 M.jpg",
+    "description": "《救世者之樹 M》是經典PC線上遊戲《救世者之樹》的全新MMORPG手機版，完美繼承了其獨樹一幟的童話繪本美術風格。遊戲以精緻的3D場景搭配經典的2D角色，帶領玩家重溫最初的感動。遊戲提供劍士、巫師、弓箭手、牧師四大經典職業體系，玩家可以自由搭配技能與特性，打造專屬於你的獨特玩法。除了豐富的主線劇情，還有特色的「夥伴」系統與「隨機副本」等著你來探索。為了讓你的冒險旅程更加順利，記得隨時關注官方釋出的最新禮包碼，兌換豐富的開服好禮。此外，透過方便安全的代儲值服務，也能幫助你快速成長，讓角色戰力快人一步，輕鬆挑戰更高難度的BOSS。",
+    "products": [
+      {
+        "name": "1500TP",
+        "price": 2555
+      },
+      {
+        "name": "1150TP",
+        "price": 2119
+      },
+      {
+        "name": "580TP",
+        "price": 1063
+      },
+      {
+        "name": "350TP",
+        "price": 701
+      },
+      {
+        "name": "165TP",
+        "price": 312
+      },
+      {
+        "name": "80TP",
+        "price": 162
+      },
+      {
+        "name": "40TP",
+        "price": 85
+      },
+      {
+        "name": "13TP",
+        "price": 51
+      },
+      {
+        "name": "TOSM上市新手禮包",
+        "price": 654
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TreeofSaviorM/",
+      "官方網站": "https://tosm-treeofsavior.beanfun.com/main",
+      "App Store": "https://apps.apple.com/tw/app/%E6%95%91%E4%B8%96%E8%80%85%E4%B9%8B%E6%A8%B9%EF%BD%8D/id6458050011",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.gamania.tosm&is_retargeting=true&source_caller=ui&shortlink=tr8m0yil&c=0715preregister&pid=pre-eventpage_registernowbtn&af_xp=custom&fbclid=IwY2xjawMat9dleHRuA2FlbQIxMABicmlkETFQdUxnS1dmdVZuODkyZWp0AR6xAzlsZNQNCXjTWaD3u5fhy0zWK0zT2-hw23w4-G2KqEx0eosDi8BsaQWa8w_aem_pSu3Tr4ufEnibbPRTHgBGw&af_reengagement_window=61d",
+      "禮包碼": "gift-codes.html?game=救世者之樹 M"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=救世者之樹 M"
   }
 }
