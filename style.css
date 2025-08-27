@@ -269,14 +269,7 @@ body {
     background-color: #333; /* 滑鼠移上去時的背景色 */
 }
 
-.product-name {
-    flex-grow: 1; /* 這一行使商品名稱佔據剩餘空間 */
-    text-align: left; /* 這一行使商品名稱左對齊 */
-    font-size: 2.4vh; /* 這一行設定商品名稱字體大小為1.25vw */
-    white-space: nowrap; /* 這一行防止商品名稱換行 */
-    overflow: hidden; /* 這一行隱藏商品名稱溢出部分 */
-    text-overflow: ellipsis; /* 這一行使溢出的商品名稱顯示省略號 */
-}
+
 
 .price-container {
   width: 9vw;
@@ -310,7 +303,16 @@ body {
     text-align: left; /* 這一行使span內文字左對齊 */
     overflow: hidden; /* 這一行隱藏span溢出內容 */
     text-overflow: ellipsis; /* 這一行使溢出文字顯示省略號 */
-    min-width: 20vh; /* 這一行設定span最小寬度為6.25vw */
+    min-width: 30vh; /* 這一行設定span最小寬度為6.25vw */
+}
+
+.product-name {
+    flex-grow: 1; /* 這一行使商品名稱佔據剩餘空間 */
+    text-align: left; /* 這一行使商品名稱左對齊 */
+    font-size: 2.4vh; /* 這一行設定商品名稱字體大小為1.25vw */
+    white-space: nowrap; /* 這一行防止商品名稱換行 */
+    overflow: hidden; /* 這一行隱藏商品名稱溢出部分 */
+    text-overflow: ellipsis; /* 這一行使溢出的商品名稱顯示省略號 */
 }
 
 /* checkbox: 32px =>1.67vw, border:3px=>0.16vw, margin-right:10px=>0.52vw */ /* 這一行是註解，標示複選框樣式開始 */
@@ -1665,8 +1667,16 @@ body::-webkit-scrollbar {
     margin-right: 2vw; /* 新增這行，確保手機也有空格 */
 }
 
+.product-item span {
+    flex-grow: 1; /* 這一行使span佔據剩餘空間 */
+    text-align: left; /* 這一行使span內文字左對齊 */
+    overflow: hidden; /* 這一行隱藏span溢出內容 */
+    text-overflow: ellipsis; /* 這一行使溢出文字顯示省略號 */
+    min-width: 21.5vh; /* 這一行設定span最小寬度為6.25vw */
+}
+
 .product-name {
-  min-width: 70%;
+  min-width: 20vh;
   flex: 1;
   font-size: 2.2vh;
   color: #fff;
