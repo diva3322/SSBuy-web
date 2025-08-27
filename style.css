@@ -310,7 +310,7 @@ body {
     text-align: left; /* 這一行使span內文字左對齊 */
     overflow: hidden; /* 這一行隱藏span溢出內容 */
     text-overflow: ellipsis; /* 這一行使溢出文字顯示省略號 */
-    min-width: 6.25vw; /* 這一行設定span最小寬度為6.25vw */
+    min-width: 15vw; /* 這一行設定span最小寬度為6.25vw */
 }
 
 /* checkbox: 32px =>1.67vw, border:3px=>0.16vw, margin-right:10px=>0.52vw */ /* 這一行是註解，標示複選框樣式開始 */
