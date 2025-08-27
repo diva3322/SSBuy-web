@@ -6628,6 +6628,10 @@
       {
         "code": "ruroro666",
         "reward": "附靈召喚券*3+金幣*8888+隨機強化沙禮包*20"
+      },
+      {
+        "code": "fanghuo",
+        "reward": "金幣與強化禮包"
       }
     ]
   },
@@ -7014,6 +7018,39 @@
       "貼上在SSbuy複製好的禮包兌換碼",
       "按確定後到信箱領取免費禮包"
     ],
-    "codes": []
+    "codes": [
+      {
+        "code": "R1F437D9FA",
+        "reward": "TP禮包"
+      },
+      {
+        "code": "GOBLIN0820STRONG",
+        "reward": "TP禮包"
+      },
+      {
+        "code": "RCB768501E",
+        "reward": "TP禮包"
+      },
+      {
+        "code": "94AKAONI",
+        "reward": "TP禮包"
+      },
+      {
+        "code": "94DADA",
+        "reward": "TP禮包"
+      },
+      {
+        "code": "94MMD",
+        "reward": "TP禮包"
+      },
+      {
+        "code": "B156BCDGBF",
+        "reward": "TP禮包"
+      },
+      {
+        "code": "OB1CE9EJ5F",
+        "reward": "TP禮包"
+      }
+    ]
   }
 }
