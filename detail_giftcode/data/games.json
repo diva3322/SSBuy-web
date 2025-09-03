@@ -10074,5 +10074,43 @@
       "禮包碼": "gift-codes.html?game=劍靈神域"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=劍靈神域"
+  },
+  "國王駕到！堡堡大作戰": {
+    "logo": "images/國王駕到！堡堡大作戰.jpg",
+    "description": "還在為你的王國不夠強大而煩惱嗎？別再幻想著靠時間累積資源，那只會讓你永遠落後。這款放置型策略手遊雖然看起來很佛系，但想在PVP中稱王稱霸，可不是光靠躺平就能辦到的。想讓你的王國快速安全地變得更強大，最明智的選擇就是直接代儲值。這樣你就能立刻擁有最強大的英雄和資源，輕鬆碾壓所有對手。當然，官方不定期發布的禮包碼和兌換碼也別忘了領取，這些免費資源能讓你在變強的路上更加輕鬆寫意。",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2555
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1331
+      },
+      {
+        "name": "1280鑽石",
+        "price": 551
+      },
+      {
+        "name": "680鑽石",
+        "price": 264
+      },
+      {
+        "name": "300鑽石",
+        "price": 145
+      },
+      {
+        "name": "60鑽石",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61579427546689",
+      "官方網站": "https://www.facebook.com/profile.php?id=61579427546689",
+      "App Store": "https://apps.apple.com/my/app/%E5%9C%8B%E7%8E%8B%E9%A7%95%E5%88%B0-%E5%A0%A1%E5%A0%A1%E5%A4%A7%E4%BD%9C%E6%88%B0/id6748291957",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.xh.qjshw.Android&fbclid=IwY2xjawMlIohleHRuA2FlbQIxMABicmlkETFTMTFvVWNrVmlrVk91TGJNAR6Km6YlTYyf46qm_PbcbfRinUDNOM4j6ixFesuHmaqPLvq9F3vRhYtSFhTqHQ_aem_8Pr251sEgKtAExF_qLrKIw",
+      "禮包碼": "gift-codes.html?game=國王駕到！堡堡大作戰"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=國王駕到！堡堡大作戰"
   }
 }
