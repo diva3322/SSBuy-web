@@ -9608,24 +9608,24 @@
     "description": "白天經營超商，晚上進地城打怪，聽起來真是時間管理大師，但實際上你可能兩邊都搞得一團糟。你的超商貨架大概永遠是空的，因為你在地城裡連隻史萊姆都打不過，哪來的材料？於是，你只能寄望於官方偶爾施捨的禮包碼，換點啟動資金，讓你那家快倒閉的店多撐一天。你對兌換碼的渴望，甚至超過了對傳說武器的追求，畢竟前者至少能讓你買得起幾瓶藥水。不用多久你就會領悟，想靠自己的努力在地城裡殺出一條血路，根本是癡人說夢。快醒醒吧，只有無情的代儲值，才能讓你同時成為成功的商人和勉強及格的勇者。",
     "products": [
       {
-        "name": "等待更新中",
-        "price": "移除廣告"
+        "name": "移除廣告",
+        "price": 162
       },
       {
-        "name": "162",
-        "price": "店員輔助"
+        "name": "店員輔助",
+        "price": 77
       },
       {
-        "name": "77",
-        "price": "顧客協助"
+        "name": "顧客協助",
+        "price": 77
       },
       {
-        "name": "77",
-        "price": "三倍禮包"
+        "name": "三倍禮包",
+        "price": 77
       },
       {
-        "name": "77",
-        "price": "1100鑽石"
+        "name": "1100鑽石",
+        "price": 162
       }
     ],
     "social": {
@@ -10112,5 +10112,181 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/國王駕到！堡堡大作戰.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/國王駕到！堡堡大作戰.html"
+  },
+  "阿瑞斯：命運的選擇者": {
+    "logo": "images/阿瑞斯：命運的選擇者.jpg",
+    "description": "什麼？還在為了升級煩惱，或被副本Boss虐到懷疑人生？快醒醒吧！在《阿瑞斯：命運的選擇者》中，你將扮演天選之人，解鎖傳說英雄，打造最強陣容，讓那些自以為是的敵人知道什麼叫「殘酷」的勝利。這裡的福利多到你不敢想像，各種獨家禮包碼、兌換碼隨便拿，讓你戰力起飛。覺得遊戲太肝又太慢？沒關係，我們的代儲值服務讓你體驗什麼叫「快速安全」，一秒讓你成為人上人，輕鬆碾壓所有對手，不用再當可憐的免費仔，讓別人看看什麼叫真正的歐洲血統！",
+    "products": [
+      {
+        "name": "等待更新中",
+        "price": "等待更新中"
+      },
+      {
+        "name": "等待更新中",
+        "price": "等待更新中"
+      },
+      {
+        "name": "等待更新中",
+        "price": "等待更新中"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/AresTWofficial",
+      "官方網站": "https://www.theares.com.tw/",
+      "App Store": "https://apps.apple.com/tw/app/%E9%98%BF%E7%91%9E%E6%96%AF-%E5%91%BD%E9%81%8B%E7%9A%84%E9%81%B8%E6%93%87%E8%80%85/id6745206397",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.com2usholdings.arestw.android.google.tw.normal&referrer=adjust_reftag%3DcQPtsgLXttBFs%26utm_source%3DMarket_badge%26utm_campaign%3DGoogle_play",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/阿瑞斯：命運的選擇者.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/阿瑞斯：命運的選擇者.html"
+  },
+  "Draft showdown": {
+    "logo": "images/Draft showdown.jpg",
+    "description": "Draft War: PvP Tower Defense\n簡介\n\n還在玩那些一成不變的塔防遊戲？拜託，醒醒吧！《Draft War》這款即時 PvP 策略遊戲將會顛覆你的世界觀。在這裡，你將能結合TCG、RPG、MOBA、RTS等多種元素，打造出專屬於你的戰術。想贏？除了運氣，更重要的是你的腦子！我們為你準備了超豐富的禮包碼與兌換碼，讓你開局就贏在起跑線，資源拿到手軟。如果等不及，想用最快的速度打造最強牌組，我們的代儲值服務將會是你最聰明的選擇，保證快速安全，讓你用最快的速度成為牌場王者，讓對手跪地求饒！",
+    "products": [
+      {
+        "name": "去廣告七天",
+        "price": 171
+      },
+      {
+        "name": "去廣告月費",
+        "price": 612
+      },
+      {
+        "name": "60000金幣",
+        "price": 2286
+      },
+      {
+        "name": "27500金幣",
+        "price": 1139
+      },
+      {
+        "name": "10500金幣",
+        "price": 535
+      },
+      {
+        "name": "2500金幣",
+        "price": 124
+      }
+    ],
+    "social": {
+      "Facebook": "https://play.google.com/store/apps/details?id=com.QuestLab.DraftWar",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.QuestLab.DraftWar",
+      "App Store": "https://apps.apple.com/us/app/draft-showdown/id6743368869",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.QuestLab.DraftWar",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/Draft showdown.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/Draft showdown.html"
+  },
+  "魔鏡2：瘋狂的蛇姬": {
+    "logo": "images/魔鏡2：瘋狂的蛇姬.jpg",
+    "description": "還在玩那些只能當花瓶的卡牌遊戲？別傻了！《魔鏡2：瘋狂的蛇姬》將顛覆你對回合制RPG的想像。在這裡，你將能解鎖傳說英雄、打造最強陣容，讓那些自以為是的對手嚐嚐什麼叫殘酷的勝利。遊戲福利多到你不敢相信，各種獨家兌換碼、禮包碼隨便拿，讓你戰力起飛。覺得升級太慢太累？沒關係，我們的代儲值服務讓你體驗什麼叫快速安全，一秒成為人上人，輕鬆碾壓所有對手，不用再當可憐的免費仔，讓別人看看什麼叫真正的歐洲血統！",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2479
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1292
+      },
+      {
+        "name": "1980鑽石",
+        "price": 757
+      },
+      {
+        "name": "1280鑽石",
+        "price": 519
+      },
+      {
+        "name": "680鑽石",
+        "price": 256
+      },
+      {
+        "name": "300鑽石",
+        "price": 140
+      },
+      {
+        "name": "60鑽石",
+        "price": 27
+      },
+      {
+        "name": "幸運特權",
+        "price": 256
+      },
+      {
+        "name": "晉升之梯",
+        "price": 757
+      },
+      {
+        "name": "蛇王戰令",
+        "price": 380
+      },
+      {
+        "name": "蛇年基金",
+        "price": 519
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DarkFairyTales",
+      "官方網站": "https://snake.joystarfun.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AD%94%E9%8F%A12-%E7%98%8B%E7%8B%82%E7%9A%84%E8%9B%87%E5%A7%AC/id6747476537",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.snake.twgp&referrer=adjust_reftag%3Dc5wqR98e7f8LF%26utm_source%3DFBZYJJ",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/魔鏡2：瘋狂的蛇姬.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/魔鏡2：瘋狂的蛇姬.html"
+  },
+  "量子機動隊": {
+    "logo": "images/量子機動隊.jpg",
+    "description": "還在為那些看臉抽卡的遊戲心力交瘁？醒醒吧！在《量子機動隊》裡，你將化身為超能指揮官，集結各路英雄，打造一支所向披靡的隊伍，讓那些自以為是的對手嚐嚐什麼叫殘酷的勝利。我們準備了滿滿的兌換碼、禮包碼讓你開局就贏在起跑線，資源拿到手軟。覺得升級太慢太累？別擔心！我們的代儲值服務保證快速安全，讓你用最快的速度打造最強牌組，再也不用擔心牌運不佳，一秒成為牌場上的傳奇，用鈔能力向世界證明你的實力！",
+    "products": [
+      {
+        "name": "99.99禮包",
+        "price": 2487
+      },
+      {
+        "name": "49.99禮包",
+        "price": 1261
+      },
+      {
+        "name": "39.99禮包",
+        "price": 1009
+      },
+      {
+        "name": "34.99禮包",
+        "price": 887
+      },
+      {
+        "name": "24.99禮包",
+        "price": 631
+      },
+      {
+        "name": "19.99禮包",
+        "price": 512
+      },
+      {
+        "name": "9.99禮包",
+        "price": 256
+      },
+      {
+        "name": "4.99禮包",
+        "price": 136
+      },
+      {
+        "name": "1.99禮包",
+        "price": 57
+      },
+      {
+        "name": "0.99禮包",
+        "price": 27
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61578881450274",
+      "官方網站": "https://pre.paradoxduel.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E9%87%8F%E5%AD%90%E6%A9%9F%E5%8B%95%E9%9A%8A/id6746777110",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.paradoxduel.myjd",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/量子機動隊.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/量子機動隊.html"
   }
 }
