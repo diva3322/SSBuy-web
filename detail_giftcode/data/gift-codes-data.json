@@ -7856,13 +7856,68 @@
     "banner": "giftcodesbanner/阿瑞斯：命運的選擇者-禮包碼.jpg",
     "description": "什麼？還在為了升級煩惱，或被副本Boss虐到懷疑人生？快醒醒吧！在《阿瑞斯：命運的選擇者》中，你將扮演天選之人，解鎖傳說英雄，打造最強陣容，讓那些自以為是的敵人知道什麼叫「殘酷」的勝利。這裡的福利多到你不敢想像，各種獨家禮包碼、兌換碼隨便拿，讓你戰力起飛。覺得遊戲太肝又太慢？沒關係，我們的代儲值服務讓你體驗什麼叫「快速安全」，一秒讓你成為人上人，輕鬆碾壓所有對手，不用再當可憐的免費仔，讓別人看看什麼叫真正的歐洲血統！",
     "howTo": [
-      "等待更新中",
-      "等待更新中"
+      "https://coupon.withhive.com/3003",
+      "選擇自己所屬的「伺服器」",
+      "輸入自己的「CS Code」",
+      "輸入「優惠券序號」",
+      "最後點擊「使用優惠券」"
     ],
     "codes": [
       {
-        "code": "等待更新中",
+        "code": "TOP01ARES",
         "reward": "等待更新中"
+      },
+      {
+        "code": "ARESTWOPEN",
+        "reward": ""
+      },
+      {
+        "code": "SHOWCELE",
+        "reward": ""
+      },
+      {
+        "code": "JOINARES",
+        "reward": ""
+      },
+      {
+        "code": "GRANDGOGO",
+        "reward": ""
+      },
+      {
+        "code": "DINGARES",
+        "reward": ""
+      },
+      {
+        "code": "LINGGOLD",
+        "reward": ""
+      },
+      {
+        "code": "VIPDT888",
+        "reward": ""
+      },
+      {
+        "code": "GUANARES",
+        "reward": ""
+      },
+      {
+        "code": "BLACKVIP",
+        "reward": ""
+      },
+      {
+        "code": "DAD8ARES",
+        "reward": ""
+      },
+      {
+        "code": "SCARESGO",
+        "reward": ""
+      },
+      {
+        "code": "HSU7ARES",
+        "reward": ""
+      },
+      {
+        "code": "EPICARES",
+        "reward": ""
       }
     ]
   },
@@ -7892,7 +7947,7 @@
     "codes": [
       {
         "code": "SL666",
-        "reward": "等待更新中"
+        "reward": ""
       },
       {
         "code": "SL777",
@@ -7901,6 +7956,18 @@
       {
         "code": "SL888",
         "reward": ""
+      },
+      {
+        "code": "Maze666",
+        "reward": "一億鑽石+SSR角色自選寶箱+養成資源寶箱"
+      },
+      {
+        "code": "Maze777",
+        "reward": "一億鑽石+SSR角色自選寶箱+養成資源寶箱"
+      },
+      {
+        "code": "Maze888",
+        "reward": "一億鑽石+SSR角色自選寶箱+養成資源寶箱"
       }
     ]
   },
