@@ -10834,5 +10834,43 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/三國魂將傳.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/三國魂將傳.html"
+  },
+  "龍息：神寂": {
+    "logo": "images/龍息：神寂.jpg",
+    "description": "還在為找不到兌換碼煩惱嗎？《龍息：神寂》這款MMORPG手遊，為你提供一個廣闊的魔幻世界，讓你沉浸在史詩級的冒險中。你將扮演天選之人，與夥伴們一起對抗邪惡的龍族，拯救瀕臨毀滅的王國。遊戲提供了多樣的職業選擇、華麗的技能特效和豐富的副本挑戰，無論是喜歡PVE的劇情黨，還是熱衷PVP的競技玩家，都能在這裡找到屬於自己的樂趣。你還在等什麼？趕快找尋你的兌換碼、禮包碼，用最快速安全的方式完成代儲值，輕鬆變強，加入這場冒險，成為傳說中的屠龍英雄吧！",
+    "products": [
+      {
+        "name": "7000龍晶石",
+        "price": 2479
+      },
+      {
+        "name": "3500龍晶石",
+        "price": 1292
+      },
+      {
+        "name": "2100龍晶石",
+        "price": 757
+      },
+      {
+        "name": "1050龍晶石",
+        "price": 380
+      },
+      {
+        "name": "350龍晶石",
+        "price": 140
+      },
+      {
+        "name": "70龍晶石",
+        "price": 50
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DragonheirAsia/?locale=zh_TW",
+      "官方網站": "l.facebook.com/l.php?u=https%3A%2F%2Fdragonheir.sgrastudio.com%2Ftw%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExMGlscTREcGtiazA0VTViTAEePRkTxRmrKwBnI5tWxvqJwaufuCd4jXTd5eudK-IZhqQKIYmURFWD44XHtB0_aem_vibZcdBkkhAu4en-CFCiKQ&h=AT2OPKiGKl1LDxZay1fK746aJJSiR4fe-mgpvt9YTNn_daF-IfoBrOuNDUNeYlbcpmju2WUKuafwkz87faLGyONg4ZM632eIRVWBW6tSsnlXVcVPxaT1dPBVJM9pYHhhk2cshVUaa4Pdng&__tn__=-UK-R&c[0]=AT14EFIXFxuOlashKNUc5J03r-P2tdLZ_iebj3woPaMQRs_6XDYgFV17Heqly2Z_JMbADSf5ZmrV6wHkQLZ9LNF3INpW1x9X7y9J0FGwL_6ogytHCXgnsEa1QhwN1Nr0Lxv5w0IYJvKrjFUNZ-PQf72nOm6yiNuuN67ZVNWbh9CYI-FV152pOLMLEknDlsOxEzQgZxUk1YEJ3g57SpHbvIi83FP7nzKo9CH5",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BE%8D%E6%81%AF-%E7%A5%9E%E5%AF%82/id6746432809",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.sgra.dragon&hl=zh_TW",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/龍息：神寂.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/龍息：神寂.html"
   }
 }

@@ -8270,5 +8270,29 @@
         "reward": "等待更新中"
       }
     ]
+  },
+  "龍息：神寂": {
+    "banner": "giftcodesbanner/龍息：神寂-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "在遊戲介面中尋找「設定」選項",
+      "點選「兌換碼」",
+      "貼上在SSbuy複製好的禮包兌換碼",
+      "按兌換後領取免費禮包"
+    ],
+    "codes": [
+      {
+        "code": "REBORN1MTH",
+        "reward": "骰子與金幣"
+      },
+      {
+        "code": "APKPURE999",
+        "reward": "骰子與金幣"
+      },
+      {
+        "code": "MONKEYKING",
+        "reward": "200龍晶石"
+      }
+    ]
   }
 }
