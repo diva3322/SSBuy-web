@@ -10872,5 +10872,201 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/龍息：神寂.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/龍息：神寂.html"
+  },
+  "玩具對決": {
+    "logo": "images/玩具對決.jpg",
+    "description": "準備好加入這場刺激又療癒的玩具大戰了嗎？《玩具對決》是一款結合了策略、收集與即時PVP對戰的卡牌手機遊戲，讓玩家能蒐集超過百種可愛又逗趣的玩具角色，打造獨一無二的戰術牌組。遊戲戰鬥節奏明快，每次出牌都考驗著你的智慧與反應！想在玩具世界稱霸，除了磨練技術，更要善用官方釋出的兌換碼和禮包碼來快速強化陣容。此外，遊戲內提供代儲值服務，讓你能以最快速、最安全的方式獲得資源，無後顧之憂地享受這場玩具對決！",
+    "products": [
+      {
+        "name": "14000寶石",
+        "price": 2286
+      },
+      {
+        "name": "6500寶石",
+        "price": 1139
+      },
+      {
+        "name": "2500寶石",
+        "price": 535
+      },
+      {
+        "name": "1200寶石",
+        "price": 248
+      },
+      {
+        "name": "500寶石",
+        "price": 124
+      },
+      {
+        "name": "80寶石",
+        "price": 25
+      },
+      {
+        "name": "TOY PASS",
+        "price": 248
+      },
+      {
+        "name": "免廣告卡",
+        "price": 171
+      },
+      {
+        "name": "寶石月卡",
+        "price": 124
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/JSLGAME",
+      "官方網站": "https://tdi.jslgame.com/tw",
+      "App Store": "https://apps.apple.com/tw/app/%E7%8E%A9%E5%85%B7%E5%B0%8D%E6%B1%BA-toy-duel/id6467618612",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.jsl.entco.tdi&hl=zh_TW",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/玩具對決.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/玩具對決.html"
+  },
+  "幸福都市：市長模擬器": {
+    "logo": "images/幸福都市：市長模擬器.jpg",
+    "description": "想親手打造一座繁榮又充滿活力的夢想都市嗎？《幸福都市：市長模擬器》將實現你的願望！這是一款高自由度的模擬經營遊戲，你將扮演一位市長，從零開始規劃土地、建設住宅與公共設施，並招募各種市民來為城市注入新生命。無論是打造熱鬧的商業區、優美的觀光景點，還是完善的工業中心，都由你一手掌握！別忘了關注官方動態，善用官方提供的兌換碼及禮包碼，讓你的城市發展一日千里。遊戲也支援代儲值服務，保證快速安全，讓你輕鬆獲得資源，成為最稱職的幸福都市市長！",
+    "products": [
+      {
+        "name": "2990台幣禮包",
+        "price": 2286
+      },
+      {
+        "name": "1490台幣禮包",
+        "price": 1139
+      },
+      {
+        "name": "690台幣禮包",
+        "price": 535
+      },
+      {
+        "name": "590台幣禮包",
+        "price": 457
+      },
+      {
+        "name": "290台幣禮包",
+        "price": 225
+      },
+      {
+        "name": "免廣告卡",
+        "price": 457
+      },
+      {
+        "name": "月卡",
+        "price": 248
+      }
+    ],
+    "social": {
+      "Facebook": "https://apps.apple.com/mo/app/%E5%B9%B8%E7%A6%8F%E9%83%BD%E5%B8%82-%E5%B8%82%E9%95%B7%E6%A8%A1%E6%93%AC%E5%99%A8/id6745251520",
+      "官方網站": "https://apps.apple.com/mo/app/%E5%B9%B8%E7%A6%8F%E9%83%BD%E5%B8%82-%E5%B8%82%E9%95%B7%E6%A8%A1%E6%93%AC%E5%99%A8/id6745251520",
+      "App Store": "https://apps.apple.com/mo/app/%E5%B9%B8%E7%A6%8F%E9%83%BD%E5%B8%82-%E5%B8%82%E9%95%B7%E6%A8%A1%E6%93%AC%E5%99%A8/id6745251520",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.kiwigames.happycitizen.gp&hl=zh_TW",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/幸福都市：市長模擬器.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/幸福都市：市長模擬器.html"
+  },
+  "黑道傳奇": {
+    "logo": "images/黑道傳奇.jpg",
+    "description": "《黑道傳奇》是一款以現代黑幫為背景的策略模擬遊戲。身為一名新崛起的老大，你將體驗最真實的地下世界！從經營賭場、收取保護費，到招募小弟、擴張地盤，每一步都將考驗你的手腕與決策能力。遊戲中的社交系統讓你可以與其他玩家結盟，共同對抗強敵，或是展開一場驚心動魄的火拼。想要在血腥的黑幫世界中脫穎而出，除了運籌帷幄，更要把握每一次的強化機會。善用官方釋出的兌換碼與禮包碼，並透過快速安全的代儲值服務，讓你的勢力迅速壯大，成就傳奇！",
+    "products": [
+      {
+        "name": "30000金條",
+        "price": 2479
+      },
+      {
+        "name": "15000金條",
+        "price": 1292
+      },
+      {
+        "name": "9000金條",
+        "price": 757
+      },
+      {
+        "name": "7500金條",
+        "price": 634
+      },
+      {
+        "name": "4500金條",
+        "price": 380
+      },
+      {
+        "name": "3000金條",
+        "price": 256
+      },
+      {
+        "name": "1500金條",
+        "price": 140
+      },
+      {
+        "name": "行軍隊列禮包",
+        "price": 83
+      },
+      {
+        "name": "建造隊列禮包",
+        "price": 57
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/playmafia.tw/",
+      "官方網站": "https://www.igg.com/games/",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BB%91%E9%81%93%E5%82%B3%E5%A5%87-mafia-mobile/id6739123904",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.igg.android.mafiamobile&hl=zh_TW",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/黑道傳奇.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/黑道傳奇.html"
+  },
+  "The kingdom：medieval tales": {
+    "logo": "images/The kingdom：medieval tales.jpg",
+    "description": "回到那個騎士與城堡的黃金年代吧！《The kingdom：medieval tales》是一款深度十足的中世紀策略經營遊戲。在這款遊戲中，你將成為一名領主，從零開始建立並經營你的王國。透過精心規劃資源、訓練軍隊、建設防禦工事，你將抵禦來犯的敵人，並逐步擴大你的領土。遊戲提供了豐富的歷史事件與任務，讓你沉浸在真實的中世紀氛圍中。想要加速你的王國發展，別忘了善用官方提供的兌換碼及禮包碼。遊戲也提供代儲值服務，讓你用最快速安全的方式獲得稀有資源，成為中世紀最強大的王者！",
+    "products": [
+      {
+        "name": "2990台幣禮包",
+        "price": 2286
+      },
+      {
+        "name": "1490台幣禮包",
+        "price": 1139
+      },
+      {
+        "name": "790台幣禮包",
+        "price": 612
+      },
+      {
+        "name": "590台幣禮包",
+        "price": 457
+      },
+      {
+        "name": "290台幣禮包",
+        "price": 225
+      },
+      {
+        "name": "170台幣禮包",
+        "price": 140
+      },
+      {
+        "name": "120台幣禮包",
+        "price": 99
+      },
+      {
+        "name": "麵包店通行證T2",
+        "price": 225
+      },
+      {
+        "name": "麵包店通行證T3",
+        "price": 302
+      },
+      {
+        "name": "傳說中的糖果劍",
+        "price": 612
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/",
+      "官方網站": "https://apps.apple.com/mt/developer/boombit-inc/id1045926022",
+      "App Store": "https://apps.apple.com/tw/app/the-kingdom-medieval-tales/id6744967226",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.stratospheregames.The.Kingdom.Medieval.Tales.Strategy.Building.Games&hl=zh_TW",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/The kingdom：medieval tales.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/The kingdom：medieval tales.html"
   }
 }
