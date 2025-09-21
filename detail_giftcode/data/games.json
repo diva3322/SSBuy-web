@@ -10790,40 +10790,40 @@
     "description": "在《三國魂將傳》中，你還在努力招募將領？別傻了，真正的強者都用兌換碼和禮包碼直接領取資源了。我們的代儲值服務，快速又安全，讓你輕鬆超越那些還在慢慢肝的玩家。別再說什麼「肝帝」了，時間寶貴，用我們的方式，把時間省下來享受遊戲，而不是被遊戲玩。想稱霸三國，就從這裡開始。這款遊戲強調策略，但當你擁有無與倫比的資源時，任何策略都將變得簡單。想成為排行榜上的傳奇？這就是你的捷徑。",
     "products": [
       {
-        "name": "99.99禮包",
+        "name": "6480元寶",
         "price": 2286
       },
       {
-        "name": "74.99禮包",
-        "price": 1903
-      },
-      {
-        "name": "49.99禮包",
+        "name": "3000元寶",
         "price": 1139
       },
       {
-        "name": "29.99禮包",
+        "name": "1980元寶",
         "price": 757
       },
       {
-        "name": "19.99禮包",
+        "name": "1200元寶",
         "price": 519
       },
       {
-        "name": "16.99禮包",
-        "price": 457
+        "name": "600元寶",
+        "price": 256
       },
       {
-        "name": "14.99禮包",
-        "price": 380
-      },
-      {
-        "name": "4.99禮包",
+        "name": "300元寶",
         "price": 140
       },
       {
-        "name": "1.99禮包",
-        "price": 58
+        "name": "60元寶",
+        "price": 27
+      },
+      {
+        "name": "一鍵每日禮包",
+        "price": 380
+      },
+      {
+        "name": "快速作戰月卡",
+        "price": 256
       }
     ],
     "social": {
@@ -11068,5 +11068,169 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/The kingdom：medieval tales.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/The kingdom：medieval tales.html"
+  },
+  "七龍珠激震小隊": {
+    "logo": "images/七龍珠激震小隊.jpg",
+    "description": "終於等到這款由萬代南夢宮娛樂開發的《七龍珠 激震小隊》！這是一款全新的動作 RPG，讓你能體驗原作經典故事，並與悟空、達爾等超人氣角色並肩作戰！遊戲主打爽快又華麗的戰鬥體驗，玩家可以自由組隊，施展各種經典招式，還能享受震撼力十足的「七龍珠」宇宙冒險。遊戲內建多種模式，包括PVP對戰、協力共鬥等，讓你可以和朋友一同挑戰強敵。別忘了關注官方社群，第一時間獲取兌換碼及禮包碼，讓你開局就贏在起跑線！此外，如果你想快速提升戰力，也能透過快速安全的代儲值服務，輕鬆擴大你的英雄陣容！",
+    "products": [
+      {
+        "name": "龍玉E",
+        "price": 2056
+      },
+      {
+        "name": "龍玉D",
+        "price": 1009
+      },
+      {
+        "name": "龍玉C",
+        "price": 519
+      },
+      {
+        "name": "龍玉B",
+        "price": 178
+      },
+      {
+        "name": "龍玉A",
+        "price": 58
+      },
+      {
+        "name": "初始禮包",
+        "price": 1139
+      },
+      {
+        "name": "迷你初始禮包",
+        "price": 256
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/db.gekishin.squadra",
+      "官方網站": "https://dbg-squadra.bn-ent.net/tw",
+      "App Store": "https://apps.apple.com/tw/app/dragon-ball-gekishin-squadra/id6744439943",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dbgekishinsquadra",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/七龍珠激震小隊.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/七龍珠激震小隊.html"
+  },
+  "Grave Strikers": {
+    "logo": "images/Grave Strikers.jpg",
+    "description": "《Grave Strikers》是一款視覺風格獨特的戰術 RPG 手遊，玩家將扮演指揮官，組建一支由「靈魂」組成的強力隊伍，在這片被黑暗侵蝕的大陸上展開冒險！遊戲融合了策略布陣與即時戰鬥的元素，每一位靈魂都擁有專屬的技能與故事。透過不斷提升隊伍的實力，解鎖更多新角色，並在充滿挑戰的地下城中證明自己。關注官方社群，不錯過任何兌換碼與禮包碼的發送，讓你的冒險之路更加順暢！想要快速集結更強大的靈魂，代儲值服務是個快速安全的好選擇，讓你輕鬆面對每一個難關！",
+    "products": [
+      {
+        "name": "6500寶石",
+        "price": 1139
+      },
+      {
+        "name": "1150寶石",
+        "price": 225
+      },
+      {
+        "name": "550寶石",
+        "price": 99
+      },
+      {
+        "name": "100寶石",
+        "price": 25
+      }
+    ],
+    "social": {
+      "Facebook": "https://x.com/BolterSquad",
+      "官方網站": "https://www.boltersquad.com/",
+      "App Store": "https://apps.apple.com/tw/app/grave-strikers/id6748154304",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.boltersquad.gravestrikers",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/Grave Strikers.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/Grave Strikers.html"
+  },
+  "Stellar Sanctuary": {
+    "logo": "images/Stellar Sanctuary.jpg",
+    "description": "《Stellar Sanctuary》是一款科幻題材的放置 RPG 手遊，遊戲背景設定在浩瀚的宇宙中，玩家將扮演一名宇宙探險家，招募來自不同星系的英雄，一同對抗邪惡的勢力！遊戲最大的特色就是「輕鬆放置，也能變強」，即使離線也能持續獲得豐富資源，讓你的英雄隊伍不斷成長。此外，遊戲內豐富的英雄養成系統和策略性戰鬥玩法，讓你不僅可以享受掛機的樂趣，也能深入體驗戰術搭配的醍醐味。想快速獲得稀有英雄或裝備嗎？別忘了領取官方發布的兌換碼與禮包碼，或是選擇快速安全的代儲值服務，加速你的宇宙探索旅程！",
+    "products": [
+      {
+        "name": "9999寰宇幣",
+        "price": 2623
+      },
+      {
+        "name": "20000信用幣",
+        "price": 2623
+      },
+      {
+        "name": "10000信用幣",
+        "price": 1330
+      },
+      {
+        "name": "4000信用幣",
+        "price": 543
+      },
+      {
+        "name": "2000信用幣",
+        "price": 271
+      },
+      {
+        "name": "1000信用幣",
+        "price": 149
+      },
+      {
+        "name": "200信用幣",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/people/Stellar-Sanctuary/61569506387405/",
+      "官方網站": "https://stellarsanctuarygame.com/",
+      "App Store": "https://apps.apple.com/tw/app/stellar-sanctuary/id6745683002",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.pergame.starliteden",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/Stellar Sanctuary.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/Stellar Sanctuary.html"
+  },
+  "古惑仔：風雲再起": {
+    "logo": "images/古惑仔：風雲再起.jpg",
+    "description": "經典 IP 手遊《古惑仔：風雲再起》正式登場！遊戲以熱血沸騰的「古惑仔」世界為背景，忠實還原了電影中的經典場景和人物。玩家將能親身扮演陳浩南、山雞等傳奇人物，在銅鑼灣街頭展開一場場江湖廝殺，體驗兄弟情義與權力鬥爭的熱血故事。遊戲主打幫派戰鬥與策略養成，你可以招募小弟、壯大勢力，最終成為一方霸主。為了在江湖中站穩腳跟，別忘了領取官方提供的兌換碼和禮包碼，讓你快速提升戰力！需要更多資源來稱霸一方？快速安全的代儲值服務是你的最佳選擇，讓你輕鬆成為叱吒風雲的傳奇人物！",
+    "products": [
+      {
+        "name": "6500鑽",
+        "price": 2449
+      },
+      {
+        "name": "5000鑽",
+        "price": 1911
+      },
+      {
+        "name": "4000鑽",
+        "price": 1529
+      },
+      {
+        "name": "3280鑽",
+        "price": 1254
+      },
+      {
+        "name": "1980鑽",
+        "price": 757
+      },
+      {
+        "name": "980鑽",
+        "price": 380
+      },
+      {
+        "name": "680鑽",
+        "price": 264
+      },
+      {
+        "name": "300鑽",
+        "price": 124
+      },
+      {
+        "name": "60鑽",
+        "price": 25
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/gamexdd.ghz",
+      "官方網站": "https://ghz.gamexdd.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8F%A4%E6%83%91%E4%BB%94-%E9%A2%A8%E9%9B%B2%E5%86%8D%E8%B5%B7/id6749257155",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.gamexdd.ghzaz",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/古惑仔：風雲再起.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/古惑仔：風雲再起.html"
   }
 }
