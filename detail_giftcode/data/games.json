@@ -11412,5 +11412,109 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/魔法村物語.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/魔法村物語.html"
+  },
+  "奇蹟MU：騎士袋你飛": {
+    "logo": "images/奇蹟MU：騎士袋你飛.jpg",
+    "description": "各位勇者們久等了！由韓國網禪 Webzen 正版授權的《奇蹟MU：騎士袋你飛》帶你重溫感動，再現經典紅龍裝、亞特蘭蒂斯、冰風谷等場景。這款放置系手遊讓你輕鬆掛機、自動練功，上班族也能秒速升級，隨時隨地享受奇蹟世界的樂趣！遊戲內建多元玩法，除了酷炫外觀和獨特技能，還有創新的 AI 系統，讓你體驗超脫傳統的奇蹟新世代。官方提供多組兌換碼及禮包碼，讓勇者們領取豐富虛寶，輕鬆起跑。此外，遊戲支持代儲值服務，提供玩家快速安全的儲值管道，讓你輕鬆擁有神裝，傲視全服！趕快加入，與戰盟夥伴們一起重返奇蹟大陸吧！",
+    "products": [
+      {
+        "name": "99900鑽石",
+        "price": 1605
+      },
+      {
+        "name": "49900鑽石",
+        "price": 810
+      },
+      {
+        "name": "29900鑽石",
+        "price": 496
+      },
+      {
+        "name": "11900鑽石",
+        "price": 198
+      },
+      {
+        "name": "5900鑽石",
+        "price": 103
+      },
+      {
+        "name": "1100鑽石",
+        "price": 21
+      },
+      {
+        "name": "移除廣告禮包",
+        "price": 163
+      },
+      {
+        "name": "三倍鑽石爆發禮包",
+        "price": 58
+      },
+      {
+        "name": "每月豪華探險加速禮包",
+        "price": 58
+      },
+      {
+        "name": "每月黃金奔跑禮包",
+        "price": 58
+      },
+      {
+        "name": "每月鑽石定期存款禮包",
+        "price": 107
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/MUPocketKnightsTW",
+      "官方網站": "https://www.facebook.com/MUPocketKnightsTW",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A5%87%E8%B9%9Fmu-%E9%A8%8E%E5%A3%AB%E8%A2%8B%E4%BD%A0%E9%A3%9B/id6742208743",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.webzen.muidle.google",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/奇蹟MU：騎士袋你飛.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/奇蹟MU：騎士袋你飛.html"
+  },
+  "AUR3：影月幻域": {
+    "logo": "images/AUR3：影月幻域.jpg",
+    "description": "準備好進入充滿奇幻冒險的異世界了嗎？《AUR3：影月幻域》是一款集結高自由度、精緻畫風與流暢戰鬥的MMORPG手遊。遊戲主打無鎖定戰鬥，結合華麗的技能特效與暢快的打擊感，讓你體驗最極致的戰鬥樂趣。在這片廣闊的幻想大陸上，你可以自由探索、結交夥伴，並與強大的怪物進行史詩級對決。為了回饋廣大玩家，官方準備了多組兌換碼與禮包碼，讓各位冒險者能迅速提升戰力。遊戲內也支援代儲值服務，提供快速安全的儲值通道，讓你在遊戲中無後顧之憂。現在就拿起你的武器，加入《AUR3：影月幻域》，譜寫屬於你的傳奇篇章！",
+    "products": [
+      {
+        "name": "6480靈玉",
+        "price": 1139
+      },
+      {
+        "name": "3280靈玉",
+        "price": 612
+      },
+      {
+        "name": "1980靈玉",
+        "price": 380
+      },
+      {
+        "name": "980靈玉",
+        "price": 194
+      },
+      {
+        "name": "300靈玉",
+        "price": 74
+      },
+      {
+        "name": "60靈玉",
+        "price": 17
+      },
+      {
+        "name": "直升首儲14.99",
+        "price": 194
+      },
+      {
+        "name": "甄品4.99",
+        "price": 74
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/aur3.lunar",
+      "官方網站": "https://www.facebook.com/aur3.lunar",
+      "App Store": "https://apps.apple.com/tw/app/aur-3-%E5%BD%B1%E6%9C%88%E5%B9%BB%E5%9F%9F/id6747416926?ppid=0bec509b-3803-468b-a350-cf23aa3d06e3",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ylhd.hsjg&hl=zh_TW",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/AUR3：影月幻域.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/AUR3：影月幻域.html"
   }
 }
