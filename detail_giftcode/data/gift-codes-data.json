@@ -6761,84 +6761,48 @@
     ],
     "codes": [
       {
-        "code": "ETHERIA0605",
-        "reward": "兌換碼禮包"
+        "code": "ANIMUS0925",
+        "reward": ""
       },
       {
-        "code": "ETHERIA111",
-        "reward": "兌換碼禮包"
+        "code": "ETHERIA0828",
+        "reward": ""
       },
       {
-        "code": "GACHAGAMING",
-        "reward": "兌換碼禮包"
+        "code": "ETHERIA0925",
+        "reward": ""
       },
       {
-        "code": "TIMAEUSS0605",
-        "reward": "兌換碼禮包"
+        "code": "ETHERIARCS",
+        "reward": ""
       },
       {
-        "code": "VOLKIN0605",
-        "reward": "兌換碼禮包"
+        "code": "ETHERIAUNION",
+        "reward": ""
       },
       {
-        "code": "SEIIMORE",
-        "reward": "兌換碼禮包"
+        "code": "ETHERIA666",
+        "reward": ""
       },
       {
-        "code": "TECTONE",
-        "reward": "兌換碼禮包"
+        "code": "ETHERIATOP",
+        "reward": ""
       },
       {
-        "code": "GACHASMACK",
-        "reward": "兌換碼禮包"
+        "code": "GOETHERIA",
+        "reward": ""
       },
       {
-        "code": "SEANB0605",
-        "reward": "兌換碼禮包"
+        "code": "YS666",
+        "reward": ""
       },
       {
-        "code": "DORO44",
-        "reward": "兌換碼禮包"
+        "code": "YS888",
+        "reward": ""
       },
       {
-        "code": "YDCB",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "BRAXO",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "JONATHON",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "GACHAGAMER",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "BOXBOX",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "DUKAJA",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "BRANONLINE",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "ZY0X",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "XLICE",
-        "reward": "兌換碼禮包"
-      },
-      {
-        "code": "ZOXASKUNX0605",
-        "reward": "兌換碼禮包"
+        "code": "YS999",
+        "reward": ""
       }
     ]
   },
@@ -8555,12 +8519,13 @@
     "banner": "giftcodesbanner/女神秘令-禮包碼.jpg",
     "description": "《女神秘令》是一款以西方魔幻為題材的卡牌策略 RPG 手遊，遊戲主打輕鬆護肝的放置玩法，讓玩家在忙碌之餘也能輕鬆享受成長樂趣。遊戲內建豐富的女神角色，每位都有獨特的技能與華麗特效，玩家可自由搭配陣容，展開燒腦的策略對決。除了主線劇情外，還有多種副本、公會戰與競技場等多元玩法，搭配豐厚福利與兌換碼，讓新手也能快速上手。想輕鬆蒐集心儀女神、無壓力變強嗎？現在就加入《女神秘令》，透過代儲值服務可享快速安全的優惠，還有專屬禮包碼等你來領取！",
     "howTo": [
-      "全球上市後將發送「感謝禮物」"
+      "主畫面右上方三條線「選單」",
+      "畫面右方齒輪圖闇「設定」"
     ],
     "codes": [
       {
-        "code": "全球上市後將發送「感謝禮物」",
-        "reward": ""
+        "code": "KG09PX24",
+        "reward": "藍色水晶 x 400"
       }
     ]
   },
@@ -8569,7 +8534,10 @@
     "description": "《Torerowa》是一款奇幻風格的 MMORPG，以精緻的日系畫風與Q萌角色聞名。玩家將在廣闊的世界中冒險，體驗豐富的任務與劇情。遊戲提供多元職業選擇，每種職業都有獨特的技能樹與玩法，無論是PVE還是PVP，都能找到屬於自己的樂趣。此外，遊戲內還有釣魚、料理、採集等多樣生活技能，讓冒險旅程更加豐富有趣。想要輕鬆遊玩、享受自由探索的樂趣嗎？使用兌換碼與禮包碼即可獲得豐厚資源，選擇快速安全的代儲值服務，讓你輕鬆暢遊這片奇幻大陸！",
     "howTo": [
       "等待官方更新",
-      "等待官方更新"
+      "等待官方更新",
+      "左方書籤「帳號」",
+      "客服中心內選擇「登錄優惠券」",
+      "貼上在SSbuy複製好的禮包兌換碼按確認"
     ],
     "codes": [
       {
@@ -8619,6 +8587,14 @@
       {
         "code": "VIP999",
         "reward": "鑽石*300+黃金招募令*5+星之晶球*2"
+      },
+      {
+        "code": "magic923",
+        "reward": "鑽石x200、突破合劑x300、賞金卷軸x1500"
+      },
+      {
+        "code": "s9g2wx",
+        "reward": "鑽石x188、黃金招募令x5、少量經驗(2小時)x3"
       }
     ]
   }
