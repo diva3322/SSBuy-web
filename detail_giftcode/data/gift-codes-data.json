@@ -8348,6 +8348,22 @@
       {
         "code": "aomage",
         "reward": ""
+      },
+      {
+        "code": "aomage666",
+        "reward": ""
+      },
+      {
+        "code": "aomage888",
+        "reward": ""
+      },
+      {
+        "code": "mageduel",
+        "reward": ""
+      },
+      {
+        "code": "VUSWEI3QHN",
+        "reward": ""
       }
     ]
   },
@@ -8533,8 +8549,6 @@
     "banner": "giftcodesbanner/Torerowa-禮包碼.jpg",
     "description": "《Torerowa》是一款奇幻風格的 MMORPG，以精緻的日系畫風與Q萌角色聞名。玩家將在廣闊的世界中冒險，體驗豐富的任務與劇情。遊戲提供多元職業選擇，每種職業都有獨特的技能樹與玩法，無論是PVE還是PVP，都能找到屬於自己的樂趣。此外，遊戲內還有釣魚、料理、採集等多樣生活技能，讓冒險旅程更加豐富有趣。想要輕鬆遊玩、享受自由探索的樂趣嗎？使用兌換碼與禮包碼即可獲得豐厚資源，選擇快速安全的代儲值服務，讓你輕鬆暢遊這片奇幻大陸！",
     "howTo": [
-      "等待官方更新",
-      "等待官方更新",
       "左方書籤「帳號」",
       "客服中心內選擇「登錄優惠券」",
       "貼上在SSbuy複製好的禮包兌換碼按確認"
@@ -8663,6 +8677,71 @@
       {
         "code": "VIP999",
         "reward": "獸魂抽獎券×10、進化寶石×5、青金碎×5"
+      }
+    ]
+  },
+  "純潔的魔法少女": {
+    "banner": "giftcodesbanner/純潔的魔法少女-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "遊戲內關卡挑戰賽",
+      "活動期間內，參加「體育館競技」對戰並累積積分，根據積分進行排名。"
+    ],
+    "codes": [
+      {
+        "code": "第1名",
+        "reward": "超商禮券 NT$1,500元"
+      },
+      {
+        "code": "第2名",
+        "reward": "超商禮券 NT$1,000元"
+      },
+      {
+        "code": "第3～5名",
+        "reward": "各得超商禮券 NT$500元"
+      }
+    ]
+  },
+  "Next Agers": {
+    "banner": "giftcodesbanner/Next Agers-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待更新中",
+      "等待更新中"
+    ],
+    "codes": [
+      {
+        "code": "等待更新中",
+        "reward": "等待更新中"
+      }
+    ]
+  },
+  "屍不可擋": {
+    "banner": "giftcodesbanner/屍不可擋-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "遊戲內右上角選單「設定」",
+      "貼上在SSbuy複製好的禮包兌換碼",
+      "按兌換後領取免費禮包"
+    ],
+    "codes": [
+      {
+        "code": "STAYALIVE",
+        "reward": "金幣x1000+膠囊x10+救援物資(篝火)x10"
+      }
+    ]
+  },
+  "RF ONLINE NEXT": {
+    "banner": "giftcodesbanner/RF ONLINE NEXT-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待官方更新",
+      "等待官方更新"
+    ],
+    "codes": [
+      {
+        "code": "等待官方更新",
+        "reward": "等待官方更新"
       }
     ]
   }
