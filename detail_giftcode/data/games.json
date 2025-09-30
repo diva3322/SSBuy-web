@@ -11520,7 +11520,36 @@
   "純潔的魔法少女": {
     "logo": "images/純潔的魔法少女.jpg",
     "description": "《純潔的魔法少女》是一款充滿日系動漫風格的冒險 RPG，玩家將化身為魔法少女，與夥伴們一同踏上對抗魔王的旅程。遊戲主打高自由度的策略戰鬥，玩家可自由搭配技能與裝備，打造獨一無二的戰鬥風格。除了熱血的主線劇情，還有豐富的副本挑戰、PVP 對戰與社群互動玩法，讓你與其他魔法少女們一起享受戰鬥的樂趣。遊戲內也特別為玩家準備了各種兌換碼及禮包碼，讓你輕鬆獲得珍貴道具，快速提升戰力。此外，遊戲提供代儲值服務，安全又快速，讓你無後顧之憂地暢玩！",
-    "products": [],
+    "products": [
+      {
+        "name": "98700水晶",
+        "price": 2555
+      },
+      {
+        "name": "50700水晶",
+        "price": 1331
+      },
+      {
+        "name": "29700水晶",
+        "price": 780
+      },
+      {
+        "name": "9900水晶",
+        "price": 264
+      },
+      {
+        "name": "5100水晶",
+        "price": 145
+      },
+      {
+        "name": "990水晶",
+        "price": 28
+      },
+      {
+        "name": "閃耀通行證",
+        "price": 216
+      }
+    ],
     "social": {
       "Facebook": "https://www.facebook.com/UntitledMagicalGirl.TW",
       "官方網站": "https://jm.wasabii.com.tw/",
@@ -11533,7 +11562,36 @@
   "Next Agers": {
     "logo": "images/Next Agers.jpg",
     "description": "《Next Agers》是一款以末日廢土為背景的策略 RPG，融合了 Roguelike 元素，每一次探索都是全新的體驗。玩家將在滿目瘡痍的世界中，率領你的倖存者小隊，運用智慧與策略在險惡的環境中求生。遊戲畫面精緻，角色立繪充滿特色，搭配豐富的養成系統，讓你能自由培養出獨特的英雄陣容。為了協助玩家在這危機四伏的世界中生存，官方不定時釋出兌換碼及禮包碼，提供豐富的資源獎勵。若需快速補充戰力，遊戲也提供代儲值服務，安全又快速，讓你輕鬆應對各種挑戰。",
-    "products": [],
+    "products": [
+      {
+        "name": "10000鑽石",
+        "price": 2702
+      },
+      {
+        "name": "5000鑽石",
+        "price": 1370
+      },
+      {
+        "name": "2000鑽石",
+        "price": 559
+      },
+      {
+        "name": "1000鑽石",
+        "price": 280
+      },
+      {
+        "name": "500鑽石",
+        "price": 153
+      },
+      {
+        "name": "100鑽石",
+        "price": 30
+      },
+      {
+        "name": "禮包一條龍",
+        "price": 6095
+      }
+    ],
     "social": {
       "Facebook": "https://www.facebook.com/Leapsofcivilization",
       "官方網站": "https://www.camelgames.com/",
@@ -11546,7 +11604,48 @@
   "屍不可擋": {
     "logo": "images/屍不可擋.jpg",
     "description": "《屍不可擋》是一款爽度破表的末日生存射擊手遊，玩家將身處殭屍橫行的世界，拿起各式槍械掃蕩成群的活屍。遊戲採用俯視角設計，操作簡單直覺，搭配上滿螢幕的殭屍與刺激的射擊音效，帶來前所未有的爽快感。除了殲滅活屍，遊戲也提供了豐富的裝備升級與技能樹系統，讓你能打造出最強的生存者。別忘了定期留意官方釋出的兌換碼與禮包碼，這些都是提升戰力的重要資源。同時，若想快速獲得物資，遊戲也提供代儲值服務，快速安全，讓你專注於生存與戰鬥。",
-    "products": [],
+    "products": [
+      {
+        "name": "7000寶石",
+        "price": 2355
+      },
+      {
+        "name": "3500寶石",
+        "price": 1016
+      },
+      {
+        "name": "1400寶石",
+        "price": 551
+      },
+      {
+        "name": "610寶石",
+        "price": 256
+      },
+      {
+        "name": "300寶石",
+        "price": 128
+      },
+      {
+        "name": "60寶石",
+        "price": 26
+      },
+      {
+        "name": "2490禮包",
+        "price": 1961
+      },
+      {
+        "name": "1790禮包",
+        "price": 1410
+      },
+      {
+        "name": "1290禮包",
+        "price": 1016
+      },
+      {
+        "name": "690禮包",
+        "price": 551
+      }
+    ],
     "social": {
       "Facebook": "https://www.facebook.com/profile.php?id=61580336611412",
       "官方網站": "https://discord.com/invite/RFJMXzqWaK",
@@ -11568,5 +11667,55 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/RF ONLINE NEXT.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/RF ONLINE NEXT.html"
+  },
+  "少女掌門人": {
+    "logo": "images/少女掌門人.jpg",
+    "description": "在《少女掌門人》中，您可以體驗直式畫面單手操作的便捷，無論通勤、上學或睡前都能隨時暢玩。遊戲採用全自動戰鬥系統，少女們將會自行施展華麗必殺技與技能擊敗敵人，讓您觀看也能享受爽快戰鬥的視覺盛宴。透過無限可能的戰略組合，打造專屬您的最強戰術，提升門派實力，橫掃魔物！為了讓掌門人能夠快速成長，遊戲內設有豐富的兌換碼與禮包碼福利，提供豐厚資源助您一臂之力。此外，遊戲也支援代儲值服務，確保玩家能以快速安全的方式獲得所需物品，讓您輕鬆培育美少女角色，打造最強隊伍！立即加入，開啟您的掌門人生涯，享受培育少女、稱霸武林的成就感！",
+    "products": [
+      {
+        "name": "48000寶石",
+        "price": 2048
+      },
+      {
+        "name": "25200寶石",
+        "price": 1181
+      },
+      {
+        "name": "15360寶石",
+        "price": 843
+      },
+      {
+        "name": "6720寶石",
+        "price": 423
+      },
+      {
+        "name": "2880寶石",
+        "price": 216
+      },
+      {
+        "name": "600寶石",
+        "price": 55
+      },
+      {
+        "name": "新手包",
+        "price": 630
+      },
+      {
+        "name": "轉蛋加速包",
+        "price": 439
+      },
+      {
+        "name": "轉蛋等級提升包",
+        "price": 630
+      }
+    ],
+    "social": {
+      "Facebook": "https://x.com/ignm_snackygirl",
+      "官方網站": "https://www.ign-m.com/works/snackygirls_tw/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%91%E5%A5%B3%E6%8E%8C%E9%96%80%E4%BA%BA/id6748065669",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ignm.girlowners&hl=zh",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/少女掌門人.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/少女掌門人.html"
   }
 }

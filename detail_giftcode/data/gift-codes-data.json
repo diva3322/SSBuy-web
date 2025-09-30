@@ -8744,5 +8744,19 @@
         "reward": "等待官方更新"
       }
     ]
+  },
+  "少女掌門人": {
+    "banner": "giftcodesbanner/少女掌門人-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待官方更新",
+      "等待官方更新"
+    ],
+    "codes": [
+      {
+        "code": "等待官方更新",
+        "reward": "等待官方更新"
+      }
+    ]
   }
 }
