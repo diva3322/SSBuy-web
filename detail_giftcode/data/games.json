@@ -11658,7 +11658,52 @@
   "RF ONLINE NEXT": {
     "logo": "images/RF ONLINE NEXT.jpg",
     "description": "《RF ONLINE NEXT》是一款 MMORPG 手遊，繼承了經典科幻 IP《RF Online》的世界觀，將三大種族的宏大戰爭重現於手機平台。遊戲以精緻的畫面與流暢的戰鬥，帶給玩家身歷其境的史詩級體驗。玩家可以選擇加入聯盟、貝爾托或克拉，為自己的種族榮耀而戰，並在廣闊的星球上探索未知的區域。遊戲中也為玩家準備了各種兌換碼與禮包碼，協助你快速成長。若想加速角色養成，官方也提供代儲值服務，快速安全，讓你輕鬆成為戰場上的主宰。",
-    "products": [],
+    "products": [
+      {
+        "name": "7200鑽石",
+        "price": 1725
+      },
+      {
+        "name": "4000鑽石",
+        "price": 937
+      },
+      {
+        "name": "1600鑽石",
+        "price": 375
+      },
+      {
+        "name": "720鑽石",
+        "price": 184
+      },
+      {
+        "name": "320鑽石",
+        "price": 85
+      },
+      {
+        "name": "109鑽石",
+        "price": 28
+      },
+      {
+        "name": "RF通行賽季1",
+        "price": 583
+      },
+      {
+        "name": "亞克的特權",
+        "price": 145
+      },
+      {
+        "name": "每周召喚選擇包",
+        "price": 162
+      },
+      {
+        "name": "每月召喚精選包",
+        "price": 1725
+      },
+      {
+        "name": "每月神器包",
+        "price": 1725
+      }
+    ],
     "social": {
       "Facebook": "https://www.facebook.com/RFONLINENEXTtc",
       "官方網站": "https://rfonlinenextgb.netmarble.com/tc",
@@ -11717,5 +11762,143 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/少女掌門人.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/少女掌門人.html"
+  },
+  "翼之櫻：放置決鬥者": {
+    "logo": "images/翼之櫻：放置決鬥者.jpg",
+    "description": "《Winged Sakura: AFK Duelists》是一款日系動漫風格的放置型RPG手遊，玩家將化身為「主人」，在現實結構撕裂的「無盡的夢」中，召喚強大的「靈」為榮譽而戰。遊戲主打佛系放置玩法，即使離線也能獲得被動收益，讓你不必再為農資源而苦惱。核心玩法圍繞著回合制自動戰鬥，玩家需要策略性地建立和客製化你的靈隊伍，透過升級、裝備強大的寶石和解鎖天賦來擊敗強大的Boss與其他主人。遊戲內也提供多樣的PVP與PVE模式，像是公會戰、競技場排名等。為了讓玩家能更輕鬆地享受遊戲，官方時常會發放最新的兌換碼與禮包碼，如果想快速提升戰力，尋求專業的代儲值服務也是個不錯的選擇，既快速又安全，讓你無後顧之憂地重建無盡的夢，成為最強的主人！",
+    "products": [
+      {
+        "name": "10000機器人美元",
+        "price": 2355
+      },
+      {
+        "name": "5000機器人美元",
+        "price": 1173
+      },
+      {
+        "name": "3000機器人美元",
+        "price": 780
+      },
+      {
+        "name": "1500機器人美元",
+        "price": 391
+      },
+      {
+        "name": "500機器人美元",
+        "price": 128
+      },
+      {
+        "name": "100機器人美元",
+        "price": 26
+      },
+      {
+        "name": "月卡",
+        "price": 128
+      },
+      {
+        "name": "廣告通行證",
+        "price": 77
+      },
+      {
+        "name": "綜合通行證",
+        "price": 176
+      },
+      {
+        "name": "歡迎禮包",
+        "price": 551
+      }
+    ],
+    "social": {
+      "Facebook": "https://wsafkduelists.wingedsakura.com/zh-tw/",
+      "官方網站": "https://wsafkduelists.wingedsakura.com/zh-tw/",
+      "App Store": "https://apps.apple.com/tw/app/winged-sakura-afk-duelists/id6742160449",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.WINGEDSAKURAGAMES.WingedSakuraAFKDuelists&hl=zh_TW",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/翼之櫻：放置決鬥者.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/翼之櫻：放置決鬥者.html"
+  },
+  "Oniro ARPG": {
+    "logo": "images/Oniro ARPG.jpg",
+    "description": "《Oniro ARPG》是一款超現實風格的動作角色扮演遊戲，玩家將潛入一個瀕臨崩潰的夢境世界，化身為甦醒的夢行者，對抗入侵的夢魘大軍。遊戲核心特色是其快節奏的戰鬥系統，玩家可以掌握多種夢境武器，施展強大的靈能，並透過獨特的「夢境印記」系統來客製化你的技能組合，打造出千變萬化的戰鬥風格。你將穿梭於破碎的記憶與扭曲的景觀之中，挑戰巨大的頭目，揭開夢境世界背後的秘密。隨著冒險的深入，你可以解鎖並升級更強大的裝備與能力。為了讓你的夢境之旅更加順暢，別忘了隨時留意官方可能發布的兌換碼及禮包碼。如果想在遊戲初期就建立優勢，尋找專業的代儲值服務會是個好選擇，享受快速安全的交易，讓你無懼任何惡夢，成為夢境的守護者！",
+    "products": [
+      {
+        "name": "6300+4200水晶",
+        "price": 1961
+      },
+      {
+        "name": "3090+1260水晶",
+        "price": 1016
+      },
+      {
+        "name": "1545+330水晶",
+        "price": 551
+      },
+      {
+        "name": "600+90水晶",
+        "price": 232
+      },
+      {
+        "name": "300+15水晶",
+        "price": 102
+      },
+      {
+        "name": "60水晶",
+        "price": 26
+      },
+      {
+        "name": "鍛造超值包",
+        "price": 622
+      },
+      {
+        "name": "大量寶石禮包",
+        "price": 1173
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/oniroarpg?locale=zh_TW",
+      "官方網站": "https://www.redeev.com/oniro/",
+      "App Store": "https://apps.apple.com/us/app/oniro-arpg/id6746137443",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.Redeev.Oniro",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/Oniro ARPG.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/Oniro ARPG.html"
+  },
+  "Legend of YMIR": {
+    "logo": "images/Legend of YMIR.jpg",
+    "description": "《Legend of Ymir》是經典 IP《傳奇》系列的嶄新篇章，由 Wemade 採用頂級 Unreal Engine 5 引擎精心打造的次世代 MMORPG。遊戲世界觀植根於神秘的北歐神話，玩家將踏上廣袤的伊米爾大陸，親身體驗一場圍繞著世界樹的史詩級戰爭。本作完美繼承了《傳奇》系列最核心的 PVP 玩法，並將其提升至全新高度，實現了超越伺服器限制的大規模攻城戰。你的每一次戰鬥，都將影響世界的格局。遊戲不僅擁有令人驚嘆的畫面表現，更強調自由成長與激烈對抗。為了讓勇士們能迅速馳騁沙場，請務必關注官方發布的最新兌換碼與禮包碼，它們是前期成長的關鍵。若想在開戰時取得先機，一個快速安全的代儲值服務將是你的得力助手，助你戰力飆升，成為伊米爾大陸上無可撼動的傳奇！",
+    "products": [
+      {
+        "name": "4000鑽石",
+        "price": 2355
+      },
+      {
+        "name": "2000鑽石",
+        "price": 1173
+      },
+      {
+        "name": "1200鑽石",
+        "price": 780
+      },
+      {
+        "name": "400鑽石",
+        "price": 256
+      },
+      {
+        "name": "200鑽石",
+        "price": 128
+      },
+      {
+        "name": "120鑽石",
+        "price": 77
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/LegendofYMIRGL.tw",
+      "官方網站": "https://www.legendofymir.com/",
+      "App Store": "https://apps.apple.com/tw/app/legend-of-ymir/id6748295875?at=1010l3Vj&ct=GNN",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.wemade.ymirglobal",
+      "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/Legend of YMIR.html"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/Legend of YMIR.html"
   }
 }
