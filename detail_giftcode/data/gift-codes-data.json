@@ -6664,6 +6664,42 @@
       {
         "code": "fanghuo",
         "reward": "金幣與強化禮包"
+      },
+      {
+        "code": "HLM810",
+        "reward": ""
+      },
+      {
+        "code": "HLM888",
+        "reward": ""
+      },
+      {
+        "code": "HLMAX9",
+        "reward": ""
+      },
+      {
+        "code": "HLM9AC",
+        "reward": ""
+      },
+      {
+        "code": "HLM7CX",
+        "reward": ""
+      },
+      {
+        "code": "HLM2ZY",
+        "reward": ""
+      },
+      {
+        "code": "HLMobile12",
+        "reward": ""
+      },
+      {
+        "code": "HLM5KL",
+        "reward": ""
+      },
+      {
+        "code": "HLM9KZ",
+        "reward": ""
       }
     ]
   },
@@ -6806,6 +6842,22 @@
       },
       {
         "code": "YS999",
+        "reward": ""
+      },
+      {
+        "code": "ETHERIADOKI",
+        "reward": ""
+      },
+      {
+        "code": "HYPERLINKER",
+        "reward": ""
+      },
+      {
+        "code": "ETHERIALIFE",
+        "reward": ""
+      },
+      {
+        "code": "ETHERIA13TH",
         "reward": ""
       }
     ]
@@ -8004,6 +8056,10 @@
       {
         "code": "DCGIFT",
         "reward": ""
+      },
+      {
+        "code": "moongift",
+        "reward": ""
       }
     ]
   },
@@ -8946,8 +9002,32 @@
     ],
     "codes": [
       {
-        "code": "等待上市更新",
-        "reward": "等待上市更新"
+        "code": "WITHU2ND",
+        "reward": "韓服"
+      },
+      {
+        "code": "JJAZAN",
+        "reward": "韓服"
+      },
+      {
+        "code": "HAPPY2GETHER",
+        "reward": "韓服"
+      },
+      {
+        "code": "2YEARGIFT",
+        "reward": "韓服"
+      },
+      {
+        "code": "5MANCAFE",
+        "reward": "韓服"
+      },
+      {
+        "code": "OPENTHEBAK",
+        "reward": "韓服"
+      },
+      {
+        "code": "HANGAWIGIFT",
+        "reward": "韓服"
       }
     ]
   }
