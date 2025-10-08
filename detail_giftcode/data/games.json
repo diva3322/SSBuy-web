@@ -11906,28 +11906,52 @@
     "description": "奇幻RPG大作《Elysia：星空墜落》華麗降臨！你將進入瀕臨毀滅的絕美世界，化身英雄與夥伴共尋希望。遊戲採次世代引擎打造，戰鬥特效華麗、角色模組細膩。除了沉浸式主線，更有豐富副本與策略PVP對戰等你挑戰。為慶祝上市，官方正派送海量福利，務必鎖定最新的兌換碼和禮包碼！想讓戰力快人一步？尋找可靠的代儲值管道，享受快速安全的加值體驗，讓冒險暢行無阻。立即加入《Elysia：星空墜落》，守護這片星空！",
     "products": [
       {
-        "name": "章節通行證",
-        "price": 624
+        "name": "7500星晶",
+        "price": 2371
       },
       {
-        "name": "高塔通行證",
-        "price": 624
+        "name": "3700星晶",
+        "price": 1204
       },
       {
-        "name": "成長通行證",
-        "price": 624
+        "name": "1400星晶",
+        "price": 563
       },
       {
-        "name": "黃金禮包",
+        "name": "700星晶",
+        "price": 261
+      },
+      {
+        "name": "300星晶",
         "price": 128
       },
       {
-        "name": "舊黃金禮包",
-        "price": 256
+        "name": "50星晶",
+        "price": 26
       },
       {
-        "name": "S級英雄升級禮包",
-        "price": 552
+        "name": "天界祝福",
+        "price": 400
+      },
+      {
+        "name": "星辰祝福",
+        "price": 128
+      },
+      {
+        "name": "艾莉西亞的祝福",
+        "price": 2371
+      },
+      {
+        "name": "新手幸運包",
+        "price": 1204
+      },
+      {
+        "name": "索拉里亞的祝福",
+        "price": 400
+      },
+      {
+        "name": "英雄起點包",
+        "price": 26
       }
     ],
     "social": {
@@ -11971,35 +11995,35 @@
       },
       {
         "name": "1980星鑽",
-        "price": 807
+        "price": 563
       },
       {
         "name": "980星鑽",
-        "price": 400
-      },
-      {
-        "name": "680星鑽",
-        "price": 269
+        "price": 261
       },
       {
         "name": "300星鑽",
-        "price": 145
+        "price": 128
       },
       {
-        "name": "去廣告月卡",
-        "price": 145
+        "name": "60星鑽",
+        "price": 26
       },
       {
-        "name": "金幣月卡",
-        "price": 145
+        "name": "豪華通行券",
+        "price": 247
       },
       {
         "name": "鑽石月卡",
-        "price": 145
+        "price": 261
       },
       {
-        "name": "尊爵通行證",
-        "price": 145
+        "name": "金幣月卡",
+        "price": 162
+      },
+      {
+        "name": "去廣告月卡",
+        "price": 162
       }
     ],
     "social": {
@@ -12110,5 +12134,59 @@
       "禮包碼": "https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/嘟嘟臉惡作劇.html"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/嘟嘟臉惡作劇.html"
+  },
+  "我的花園世界": {
+    "logo": "images/我的花園世界.jpg",
+    "description": "《我的花園世界》是一款主打療癒種植與溫馨養成的沉浸式花園手遊，帶領玩家進入一個充滿花香的夢幻國度。你將化身為專業花藝師，親手培育超過三百種四季花卉，從播種、澆水到採摘，每一步都充滿了治癒感。遊戲玩法自由，不僅能隨心所欲地佈置你的花園，設計出獨一無二的花藝作品，還能與好友交流互動，增添許多樂趣。\n\n為了讓玩家快速體驗遊戲魅力，官方準備了豐富的兌換碼和禮包碼，只要輕鬆輸入序號，就能獲得稀有種子與實用道具，讓你的花園事業快速發展。遊戲也提供快速安全的代儲值服務，確保每一筆交易都安全無虞，讓你能夠無後顧之憂地沉浸在美麗的花花世界裡。現在就加入《我的花園世界》，打造屬於你的芬芳國度，開啟一段充滿愛與夢想的花藝人生！",
+    "products": [
+      {
+        "name": "6000元寶",
+        "price": 2609
+      },
+      {
+        "name": "3000元寶",
+        "price": 1365
+      },
+      {
+        "name": "1800元寶",
+        "price": 807
+      },
+      {
+        "name": "1200元寶",
+        "price": 546
+      },
+      {
+        "name": "900元寶",
+        "price": 400
+      },
+      {
+        "name": "600元寶",
+        "price": 269
+      },
+      {
+        "name": "300元寶",
+        "price": 145
+      },
+      {
+        "name": "60元寶",
+        "price": 29
+      },
+      {
+        "name": "免廣告",
+        "price": 29
+      },
+      {
+        "name": "VIP特權",
+        "price": 145
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/mygardenworld.ofcl",
+      "官方網站": "https://hjxp.floralgames.net/reserve/index.html#s1",
+      "App Store": "https://apps.apple.com/tw/app/%E6%88%91%E7%9A%84%E8%8A%B1%E5%9C%92%E4%B8%96%E7%95%8C/id6751560944",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.floralgames.hjxp&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn",
+      "禮包碼": "gift-codes.html?game=我的花園世界"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/我的花園世界.html"
   }
 }
