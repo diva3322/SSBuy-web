@@ -9001,37 +9001,44 @@
     "banner": "giftcodesbanner/嘟嘟臉惡作劇-禮包碼.jpg",
     "description": "《嘟嘟臉惡作劇》是一款充滿日系可愛風格的放置養成遊戲。故事發生在一個充滿魔法的學院，玩家將與一群擁有特殊能力的可愛角色們相遇，一同展開奇妙的冒險。遊戲採用輕鬆的放置玩法，讓你在繁忙之餘也能享受角色養成的樂趣，並透過策略性的戰鬥配置，挑戰各種關卡。想讓你的角色們迅速成長，解鎖更多有趣劇情嗎？記得使用官方兌換碼及禮包碼，獲得大量經驗與珍稀道具！我們也提供代儲值服務，讓您快速安全地獲得所需資源，輕鬆養成最強戰隊，在嘟嘟臉的世界裡盡情惡作劇吧！",
     "howTo": [
-      "等待上市更新",
-      "等待上市更新"
+      "主畫面右上角三條線「選單」",
+      "點齒輪圖按「設定」",
+      "按右上角其他之後找到登陸兌換券",
+      "貼上在SSbuy複製好的禮包兌換碼點套用",
+      "到信箱領取兌換碼的免費禮包"
     ],
     "codes": [
       {
-        "code": "WITHU2ND",
-        "reward": "韓服"
+        "code": "TKRANKIN",
+        "reward": ""
       },
       {
-        "code": "JJAZAN",
-        "reward": "韓服"
+        "code": "TRICKCAL109",
+        "reward": ""
       },
       {
-        "code": "HAPPY2GETHER",
-        "reward": "韓服"
+        "code": "TRICKCALOB",
+        "reward": ""
       },
       {
-        "code": "2YEARGIFT",
-        "reward": "韓服"
+        "code": "TKRELEASE",
+        "reward": ""
       },
       {
-        "code": "5MANCAFE",
-        "reward": "韓服"
+        "code": "YOMILOVEU",
+        "reward": ""
       },
       {
-        "code": "OPENTHEBAK",
-        "reward": "韓服"
+        "code": "TK777",
+        "reward": ""
       },
       {
-        "code": "HANGAWIGIFT",
-        "reward": "韓服"
+        "code": "TK888",
+        "reward": ""
+      },
+      {
+        "code": "TK2025",
+        "reward": ""
       }
     ]
   },
