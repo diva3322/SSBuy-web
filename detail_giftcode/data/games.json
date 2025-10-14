@@ -12418,5 +12418,59 @@
       "禮包碼": "gift-codes.html?game=盜夢英雄2：幻野"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/盜夢英雄2：幻野.html"
+  },
+  "貪婪洞窟：重生": {
+    "logo": "images/貪婪洞窟：重生.jpg",
+    "description": "貪婪洞窟：重生是一款引人入勝的地牢探險 Roguelike 手遊，作為經典《貪婪洞窟》的全新重製與進化，它邀請所有渴望探索未知與禁忌的勇士，踏上這場智慧與膽識的極限試煉！遊戲保留了原作的核心玩法，並全面升級了裝備、天賦、秘術和道具系統。每一次冒險都充滿不確定性，錯綜複雜的地形、隱秘的符文與潛伏的怪物皆為隨機生成，每次探索都是全新的體驗。玩家可利用環境、天賦與裝備的巧妙結合，在黑暗中謀求一線生機。遊戲內常有兌換碼與禮包碼可供玩家領取，配合快速安全的代儲值服務，讓你的冒險之旅更加順暢。",
+    "products": [
+      {
+        "name": "6480水晶",
+        "price": 2343
+      },
+      {
+        "name": "3280水晶",
+        "price": 1190
+      },
+      {
+        "name": "1280水晶",
+        "price": 556
+      },
+      {
+        "name": "680水晶",
+        "price": 258
+      },
+      {
+        "name": "300水晶",
+        "price": 126
+      },
+      {
+        "name": "60水晶",
+        "price": 26
+      },
+      {
+        "name": "傳奇真知之眼禮包",
+        "price": 556
+      },
+      {
+        "name": "傳奇蠟燭禮包",
+        "price": 556
+      },
+      {
+        "name": "絕世寶石契約禮包",
+        "price": 1190
+      },
+      {
+        "name": "至尊寶石契約禮包",
+        "price": 2343
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61565447815087",
+      "官方網站": "https://avalongames.com/?fbclid=IwY2xjawNa-u1leHRuA2FlbQIxMABicmlkETEwZW1wMHVPTlpGbExaVXJlAR48tAF1RQnz1ODNmJgXZraCxo-XNBU-gVVI9cLux22qUaXE2j_mVOfeuVAzuA_aem_yEJXKs-SdClfM-PIMAR8LQ",
+      "App Store": "https://apps.apple.com/tw/app/%E8%B2%AA%E5%A9%AA%E6%B4%9E%E7%AA%9F-%E9%87%8D%E7%94%9F/id6680191526",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.avalon.c1p.googleplay&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=貪婪洞窟：重生"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/貪婪洞窟：重生.html"
   }
 }
