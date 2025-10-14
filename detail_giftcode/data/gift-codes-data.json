@@ -8072,6 +8072,10 @@
       {
         "code": "DC1010",
         "reward": ""
+      },
+      {
+        "code": "SNOWGIFT1",
+        "reward": ""
       }
     ]
   },
@@ -8392,6 +8396,18 @@
       {
         "code": "HAPPYFULLMOON",
         "reward": "英雄召喚使用券x20"
+      },
+      {
+        "code": "kylevsteo1016",
+        "reward": ""
+      },
+      {
+        "code": "teorival",
+        "reward": "金幣*20W"
+      },
+      {
+        "code": "tastemywrath",
+        "reward": "英雄召喚使用券x2"
       }
     ]
   },
