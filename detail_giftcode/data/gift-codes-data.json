@@ -4929,6 +4929,22 @@
       {
         "code": "LOH999",
         "reward": "隨機虛寶或鑽石獎勵"
+      },
+      {
+        "code": "HPMADAYS",
+        "reward": ""
+      },
+      {
+        "code": "LOH100DAYS",
+        "reward": "英雄召喚券 x 5"
+      },
+      {
+        "code": "LOHHPNO",
+        "reward": "冒險掃蕩劵 x 30、核桃麵包籃 x 10"
+      },
+      {
+        "code": "LOHHP99",
+        "reward": "紅色石榴石 x 300"
       }
     ]
   },
@@ -8370,24 +8386,20 @@
     ],
     "codes": [
       {
-        "code": "SENAREYOUNGLAEGI",
-        "reward": ""
+        "code": "kylevsteo1016",
+        "reward": "2025/10/16 開啟"
       },
       {
-        "code": "SENAREGSIK",
-        "reward": ""
+        "code": "kyleteostory",
+        "reward": "英雄召喚使用券x10"
       },
       {
-        "code": "SENAREMOOVING",
-        "reward": ""
+        "code": "teorival",
+        "reward": "金幣 × 20W"
       },
       {
-        "code": "SENARESAMEWAY",
-        "reward": ""
-      },
-      {
-        "code": "SORRY4WAITING",
-        "reward": ""
+        "code": "tastemywrath",
+        "reward": "英雄召喚使用券x2"
       },
       {
         "code": "sevenknightsforever",
@@ -8396,18 +8408,6 @@
       {
         "code": "HAPPYFULLMOON",
         "reward": "英雄召喚使用券x20"
-      },
-      {
-        "code": "kylevsteo1016",
-        "reward": ""
-      },
-      {
-        "code": "teorival",
-        "reward": "金幣*20W"
-      },
-      {
-        "code": "tastemywrath",
-        "reward": "英雄召喚使用券x2"
       }
     ]
   },
