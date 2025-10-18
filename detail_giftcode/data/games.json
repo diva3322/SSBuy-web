@@ -12472,5 +12472,51 @@
       "禮包碼": "gift-codes.html?game=貪婪洞窟：重生"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/貪婪洞窟：重生.html"
+  },
+  "小兵特攻隊": {
+    "logo": "images/小兵特攻隊.jpg",
+    "description": "敵軍來襲，指揮官你在哪！快來體驗結合塔防與爽快射擊的《小兵特攻隊》！遊戲主打Q版軍事風格，讓你輕鬆佈陣、火力全開，享受爆擊清場的無盡快感。別再慢慢農資源了，趕快尋找最新的禮包碼和兌換碼，領取海量福利，讓你的軍團戰力一飛沖天！想要快速升級，體驗最頂級的火力配置嗎？選擇最方便的代儲值服務，不僅提供快速安全的交易，更能讓你專注於衝鋒陷陣的樂趣，帶領你的小兵成為戰場傳奇！",
+    "products": [
+      {
+        "name": "6480鑽石",
+        "price": 2302
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1168
+      },
+      {
+        "name": "1980鑽石",
+        "price": 783
+      },
+      {
+        "name": "980鑽石",
+        "price": 388
+      },
+      {
+        "name": "300鑽石",
+        "price": 141
+      },
+      {
+        "name": "60鑽石",
+        "price": 28
+      },
+      {
+        "name": "特權月卡",
+        "price": 141
+      },
+      {
+        "name": "每日特價",
+        "price": 141
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/resqrush.tw",
+      "官方網站": "https://resqrush.wgame-hk.com/zh",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%8F%E5%85%B5%E7%89%B9%E6%94%BB%E9%9A%8A/id6746140478",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.wgame.resqrush",
+      "禮包碼": "gift-codes.html?game=小兵特攻隊"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/小兵特攻隊.html"
   }
 }
