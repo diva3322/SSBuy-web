@@ -12562,36 +12562,32 @@
     "description": "Smilegate 最新力作，收集型 2D 回合制 RPG《卡厄斯夢境》來襲！遊戲以其精緻的 Live 2D 動態角色與深刻的世界觀，帶領玩家進入一場善惡界線模糊的奇幻冒險。在這個瀕臨毀滅的世界中，你將與各具特色的英雄們並肩作戰，對抗侵蝕一切的「噩夢」。遊戲策略性極高，考驗玩家的隊伍配置與戰術運用。想讓你的英雄們戰力飆升？別忘了尋找最新的兌換碼與禮包碼福利。若想更有效率地培養隊伍，選擇專業的代儲值服務，享受快速安全的交易，讓你在夢境中暢行無阻。",
     "products": [
       {
-        "name": "3290禮包",
-        "price": 2533
+        "name": "6480水晶",
+        "price": 2655
       },
       {
-        "name": "1690禮包",
-        "price": 1325
+        "name": "3280水晶",
+        "price": 1389
       },
       {
-        "name": "990禮包",
-        "price": 783
+        "name": "1980水晶",
+        "price": 821
       },
       {
-        "name": "670禮包",
-        "price": 530
+        "name": "980水晶",
+        "price": 407
       },
       {
-        "name": "490禮包",
-        "price": 388
+        "name": "300水晶",
+        "price": 147
       },
       {
-        "name": "330禮包",
-        "price": 261
+        "name": "60水晶",
+        "price": 29
       },
       {
-        "name": "170禮包",
-        "price": 141
-      },
-      {
-        "name": "33禮包",
-        "price": 28
+        "name": "死靈之書月禮包",
+        "price": 147
       }
     ],
     "social": {
@@ -12806,5 +12802,159 @@
       "禮包碼": "gift-codes.html?game=火焰紋章Shadows"
     },
     "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/火焰紋章Shadows.html"
+  },
+  "石器時代：寵物世界": {
+    "logo": "images/石器時代：寵物世界.jpg",
+    "description": "經典IP《石器時代》正版授權的回合制策略大作回來啦！本作完美還原端遊，上百種寵物任你策略搭配，更支援手機、電腦多端互通，隨時都能上線抓寵。還在煩惱找不到最新的兌換碼跟禮包碼嗎？別擔心，我們都幫你準備好了！現在就跟上尼斯大陸的冒險，體驗最原汁原味的感動，需要代儲值也沒問題，絕對快速安全，讓你輕鬆跟上夥伴們的腳步，重溫年少的夢中情寵！",
+    "products": [
+      {
+        "name": "3290禮包",
+        "price": 2655
+      },
+      {
+        "name": "2490禮包",
+        "price": 2047
+      },
+      {
+        "name": "1650禮包",
+        "price": 1357
+      },
+      {
+        "name": "1320禮包",
+        "price": 1085
+      },
+      {
+        "name": "1000禮包",
+        "price": 822
+      },
+      {
+        "name": "820禮包",
+        "price": 680
+      },
+      {
+        "name": "690禮包",
+        "price": 572
+      },
+      {
+        "name": "490禮包",
+        "price": 407
+      },
+      {
+        "name": "430禮包",
+        "price": 357
+      },
+      {
+        "name": "330禮包",
+        "price": 274
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/StoneAgePW.TC",
+      "官方網站": "https://stoneage.netmarble.com/tc/?fbclid=IwY2xjawNpUptleHRuA2FlbQIxMABicmlkETF3S1BCMXJDRHZjbVRVUk1zAR4nTTOPlNXGxdlWskAfF35YQMP4uZD2bWuuccP6PWKJPn95mlZCXuXzxX2uUQ_aem_x86QOulC2aS21RXQAoKSSw",
+      "App Store": "https://apps.apple.com/tw/app/%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3-%E5%AF%B5%E7%89%A9%E4%B8%96%E7%95%8C/id6737408689?l=zh",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey",
+      "禮包碼": "gift-codes.html?game=石器時代：寵物世界"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/石器時代：寵物世界.html"
+  },
+  "蔚藍星球：國王很忙": {
+    "logo": "images/蔚藍星球：國王很忙.jpg",
+    "description": "2025年最值得一玩的全新萌系塔防手遊來啦！邪惡哥布林入侵，身為國王守護者的你，必須招募英雄抵禦入侵。遊戲主打英雄2合1加上局內3重隨機玩法，每局都有上百種策略搭配，就算是休閒玩家也能3秒上手！還在網路上苦苦搜尋可用的禮包碼和兌換碼嗎？別浪費時間了！想要快速升級，享受最爽快的割草感，尋找快速安全的代儲值服務會是你最好的選擇，立即為了蔚藍星球而戰！",
+    "products": [
+      {
+        "name": "99.99美禮包",
+        "price": 2655
+      },
+      {
+        "name": "59.99美禮包",
+        "price": 1644
+      },
+      {
+        "name": "49.99美禮包",
+        "price": 1389
+      },
+      {
+        "name": "29.99美禮包",
+        "price": 821
+      },
+      {
+        "name": "24.99美禮包",
+        "price": 655
+      },
+      {
+        "name": "14.99美禮包",
+        "price": 407
+      },
+      {
+        "name": "9.99美禮包",
+        "price": 274
+      },
+      {
+        "name": "4.99美禮包",
+        "price": 147
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/BluePlanetBK",
+      "官方網站": "https://www.blueplanetbk.com/?fbclid=IwY2xjawMuDaxleHRuA2FlbQIxMABicmlkETFTc2N5eG0wQUcyQ1NCUmNlAR5ewHwDUlAZAVZoCzJ1dv2zYlHNQfML3R3DAQ5UPsbCxBJzguTmcX9-cQfoYw_aem_AsL3fnuAl-fsLHsaYYGz7Q",
+      "App Store": "https://apps.apple.com/tw/app/%E8%94%9A%E8%97%8D%E6%98%9F%E7%90%83-%E5%9C%8B%E7%8E%8B%E5%BE%88%E5%BF%99/id6749769179",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.blueplanetm.gp&shortlink=mqju4p0s&c=xx_250918_fb_02&pid=fb%E7%A4%BE%E7%BE%A4&af_xp=custom&source_caller=ui",
+      "禮包碼": "gift-codes.html?game=蔚藍星球：國王很忙"
+    },
+    "canonical_url": "https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/蔚藍星球：國王很忙.html"
+  },
+  "胸懷三國：美人計": {
+    "logo": "images/胸懷三國：美人計.jpg",
+    "description": "美少女三國RPG手遊參上！遊戲擁有眾多經典三國名將，搭配緊張刺激的養成戰鬥系統，讓玩家可以體驗高潮連擊的激爽和無限養成的快樂。獨特的武將風格立繪，在既定特色上增添更多風味，絕對是視覺饗宴。還在為了找不到最新的禮包碼而煩惱嗎？想要輕鬆養成武將，解鎖所有外觀，最聰明的方式就是尋找快速安全的代儲值管道，立即領取你的兌換碼福利，在三國世界中無往不利！",
+    "products": [
+      {
+        "name": "3290禮包",
+        "price": 2655
+      },
+      {
+        "name": "2490禮包",
+        "price": 2047
+      },
+      {
+        "name": "1650禮包",
+        "price": 1357
+      },
+      {
+        "name": "1320禮包",
+        "price": 1085
+      },
+      {
+        "name": "1000禮包",
+        "price": 822
+      },
+      {
+        "name": "820禮包",
+        "price": 680
+      },
+      {
+        "name": "690禮包",
+        "price": 572
+      },
+      {
+        "name": "490禮包",
+        "price": 407
+      },
+      {
+        "name": "430禮包",
+        "price": 357
+      },
+      {
+        "name": "330禮包",
+        "price": 274
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/honeytraptw",
+      "官方網站": "https://lmsg.onefungame.com/act/pre?utm=fbtsj&fbclid=IwY2xjawNpU2JleHRuA2FlbQIxMABicmlkETEwdDJpT3RaN1hVY2w2U09RAR7ForkiEMoPXyIVmO6wgrqIx4fdyO9Y4hzZeH9U1npq42jol8EiVMMYMFexJw_aem_QudBmxYKO6RpqEpMpR6tuw",
+      "App Store": "https://apps.apple.com/tw/app/%E8%83%B8%E6%87%B7%E4%B8%89%E5%9C%8B-%E7%BE%8E%E4%BA%BA%E8%A8%88/id6751325286?pid=fbtsj",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.lmsg.twgp&pcampaignid=&utm_source=fbtsj&referrer=utm_source%3Dfbtsj%26click_id%3D0a59691a-1a07-4136-9587-ed1a409fffd9_fbtsj",
+      "禮包碼": "gift-codes.html?game=胸懷三國：美人計"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=胸懷三國：美人計"
   }
 }
