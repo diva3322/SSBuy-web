@@ -8408,6 +8408,34 @@
       {
         "code": "HAPPYFULLMOON",
         "reward": "英雄召喚使用券x20"
+      },
+      {
+        "code": "HAPPYKYLEWK",
+        "reward": "鑰匙箱 x10"
+      },
+      {
+        "code": "KYLETEO4EVER",
+        "reward": "鑰匙箱 x10"
+      },
+      {
+        "code": "LEGENDKYLE",
+        "reward": "寵物召喚使用券 x10"
+      },
+      {
+        "code": "REBIRTHKYLE",
+        "reward": "Pick Up 英雄召喚使用券 x10"
+      },
+      {
+        "code": "KYLEGIFT",
+        "reward": "英雄召喚使用券 x10"
+      },
+      {
+        "code": "CHAINOFKYLE",
+        "reward": "金幣 x100W、進化材料選擇箱(上) x30"
+      },
+      {
+        "code": "KYLEWKSTART",
+        "reward": "Pick Up 英雄召喚使用券 x10"
       }
     ]
   },
