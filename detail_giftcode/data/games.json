@@ -13654,15 +13654,89 @@
       {
         "name": "最新優惠價格請洽Line@",
         "price": "@ssbuy"
+      },
+      {
+        "name": "6000元寶",
+        "price": 2763
+      },
+      {
+        "name": "3000元寶",
+        "price": 1446
+      },
+      {
+        "name": "1800元寶",
+        "price": 855
+      },
+      {
+        "name": "1200元寶",
+        "price": 578
+      },
+      {
+        "name": "900元寶",
+        "price": 423
+      },
+      {
+        "name": "600元寶",
+        "price": 285
+      },
+      {
+        "name": "300元寶",
+        "price": 153
+      },
+      {
+        "name": "60元寶",
+        "price": 31
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/RexuejianghuFuliban/",
-      "官方網站": "https://www.youtube.com/@%E7%86%B1%E8%A1%80%E6%B1%9F%E6%B9%96%E7%A6%8F%E5%88%A9%E5%8A%A0%E5%BC%B7%E7%89%88",
+      "官方網站": "https://hot.hkxingyou.com/?fbclid=IwY2xjawN6le5leHRuA2FlbQIxMABicmlkETF4Z01XclVaSjJuNzRmRmVnc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl_s0cNDCfj3ZY0eWSq6xL0ncGPJ2v6usbbIGqAT3ZUs7UlAdvRxG8YiPcS9_aem_EFvqS2HMThXZEBi3_Ojt5A",
       "App Store": "https://apps.apple.com/hk/app/%E7%86%B1%E8%A1%80%E6%B1%9F%E6%B9%96-%E7%A6%8F%E5%88%A9%E5%8A%A0%E5%BC%B7%E7%89%88/id6741752911?mt=8",
       "Google Play": "https://play.google.com/store/apps/details?id=com.swordbh.gp",
       "禮包碼": "gift-codes.html?game=熱血江湖：福利加強版"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=熱血江湖：福利加強版"
+  },
+  "熱血主公Go!": {
+    "logo": "images/熱血主公Go!.jpg",
+    "description": "《熱血主公Go!》是一款結合Roguelike培育、RPG冒險與街機動作元素的三國手遊。玩家將扮演主公，踏上匡扶漢室的征途，招募趙雲、呂布等傳奇名將。遊戲主打懷舊街機畫風與隨機流派組合，戰鬥體驗絕不重複！官方不斷釋出最新的兌換碼與禮包碼，讓玩家輕鬆升級。若想快速提升戰力，尋找代儲值服務也是一種選擇，務必確保快速安全，避免受騙。立即加入，體驗放置休閒與熱血PVP對戰的雙重樂趣！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "@ssbuy"
+      },
+      {
+        "name": "648玉璧",
+        "price": 2511
+      },
+      {
+        "name": "328玉璧",
+        "price": 1275
+      },
+      {
+        "name": "198玉璧",
+        "price": 855
+      },
+      {
+        "name": "98玉璧",
+        "price": 423
+      },
+      {
+        "name": "30玉璧",
+        "price": 153
+      },
+      {
+        "name": "6玉璧",
+        "price": 31
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61578381937617#",
+      "官方網站": "https://www.facebook.com/profile.php?id=61578381937617#",
+      "App Store": "https://apps.apple.com/tw/app/%E7%86%B1%E8%A1%80%E4%B8%BB%E5%85%ACgo-%E4%B8%89%E5%9C%8B%E8%82%89%E9%B4%BFrpg%E6%89%8B%E9%81%8A/id6746403728",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.furywing.rxzggo.free&fbclid=IwY2xjawN6lllleHRuA2FlbQIxMABicmlkETF4Z01XclVaSjJuNzRmRmVnc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl-Zq6JKMWFJ470D5XHqwMKfpCTTfCQhB2c-G4zkH_T7ZHL2tVY-tMx3tMJE_aem_HV89nRhsIdGCR2vehyIo7w",
+      "禮包碼": "gift-codes.html?game=熱血主公Go!"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=熱血主公Go!"
   }
 }
