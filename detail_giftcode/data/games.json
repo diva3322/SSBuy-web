@@ -13738,5 +13738,149 @@
       "禮包碼": "gift-codes.html?game=熱血主公Go"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=熱血主公Go"
+  },
+  "歡迎來到夢樂園": {
+    "logo": "images/歡迎來到夢樂園.jpg",
+    "description": "「歡迎來到夢樂園」隆重開幕！這款女性向輕喜劇異界冒險手遊，讓你化身管理者重建樂園。還在為資源煩惱？別傻了，快找最新的禮包碼和兌換碼才是王道。當然，想一步登天，最快速安全的代儲值服務也不能少，讓你輕鬆應對各種挑戰，與夥伴們踏上夢幻旅程。別再慢慢農了，聰明的管理者都懂。",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "@ssbuy"
+      },
+      {
+        "name": "216虹光鑽",
+        "price": 2763
+      },
+      {
+        "name": "113虹光鑽",
+        "price": 1446
+      },
+      {
+        "name": "56虹光鑽",
+        "price": 751
+      },
+      {
+        "name": "31虹光鑽",
+        "price": 371
+      },
+      {
+        "name": "22虹光鑽",
+        "price": 319
+      },
+      {
+        "name": "10虹光鑽",
+        "price": 117
+      },
+      {
+        "name": "2虹光鑽",
+        "price": 46
+      },
+      {
+        "name": "體力周卡",
+        "price": 117
+      },
+      {
+        "name": "信賴周卡",
+        "price": 90
+      },
+      {
+        "name": "豪華月卡",
+        "price": 319
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/WelcomeToDreamland.official/",
+      "官方網站": "https://mly.poseidongame.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E5%A4%A2%E6%A8%82%E5%9C%92/id6748006168",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.poseidongame.dsl&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=歡迎來到夢樂園"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=歡迎來到夢樂園"
+  },
+  "Cryowar": {
+    "logo": "images/Cryowar.jpg",
+    "description": "「Cryowar」是一款基於Solana的即時多人PVP競技場NFT遊戲。還在手動農資源？真是辛苦了。想在戰場上快人一步，你需要的不只是技術，更是海量的禮包碼與兌換碼。當然，為了打造最強裝備，尋求快速安全的代儲值服務也是必要的捷徑。別再當個苦哈哈的戰士，立即強化你的英雄，主宰競技場吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/cryowar/?locale=zh_HK",
+      "官方網站": "https://www.cryowar.com/",
+      "App Store": "https://apps.apple.com/tw/app/cryowar/id6444241874",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.NiAlInteractive.Cryowar&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=Cryowar"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Cryowar"
+  },
+  "深岩銀河：倖存者": {
+    "logo": "images/深岩銀河：倖存者.jpg",
+    "description": "「深岩銀河：倖存者」登陸手機！這款單人倖存者類自動射擊遊戲，讓你單槍匹馬對抗Hoxxes星球。以為光靠技術就能活下去？別天真了，沒有最新的禮包碼和兌換碼，你連蟲潮都撐不過。想挖礦挖得更深，升級更猛？快速安全的代儲值服務是你唯一的希望。別再掙扎了，矮人，快武裝自己！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/JoinDeepRock/",
+      "官方網站": "https://www.deeprockgalactic.com/",
+      "App Store": "https://apps.apple.com/us/app/deep-rock-galactic-survivor/id6742194903",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ghostshippublishing.deeprockgalacticsurvivor",
+      "禮包碼": "gift-codes.html?game=深岩銀河：倖存者"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=深岩銀河：倖存者"
+  },
+  "熱血排球少女": {
+    "logo": "images/熱血排球少女.jpg",
+    "description": "「熱血排球少女」開打！這款4v4排球對戰遊戲，讓你打造夢幻隊伍。還在苦練發球跟扣殺？別傻了，這年頭想赢，靠的是源源不絕的禮包碼和兌換碼。想讓你的少女選手快速升級，制霸全國大賽？快速安全的代儲值服務才是致勝關鍵。別再慢慢培養了，立即組建最強隊伍，拿下冠軍吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "@ssbuy"
+      },
+      {
+        "name": "43200水晶球",
+        "price": 1959
+      },
+      {
+        "name": "24000水晶球",
+        "price": 1104
+      },
+      {
+        "name": "14400水晶球",
+        "price": 682
+      },
+      {
+        "name": "4800水晶球",
+        "price": 262
+      },
+      {
+        "name": "2400水晶球",
+        "price": 108
+      },
+      {
+        "name": "PRO30日通行證",
+        "price": 1104
+      },
+      {
+        "name": "30日通行證",
+        "price": 276
+      },
+      {
+        "name": "30日會員",
+        "price": 108
+      }
+    ],
+    "social": {
+      "Facebook": "https://discord.com/invite/jqUKG7bFxV",
+      "官方網站": "https://daerisoft.imweb.me/",
+      "App Store": "https://apps.apple.com/tw/app/%E7%86%B1%E8%A1%80%E6%8E%92%E7%90%83%E5%B0%91%E5%A5%B3/id6737681316",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.daerigame.volleygirls",
+      "禮包碼": "gift-codes.html?game=熱血排球少女"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=熱血排球少女"
   }
 }
