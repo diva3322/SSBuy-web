@@ -13888,10 +13888,10 @@
     "description": "",
     "products": [],
     "social": {
-      "Facebook": "",
-      "官方網站": "",
-      "App Store": "",
-      "Google Play": "",
+      "Facebook": "https://www.facebook.com/jetpackjoyride/",
+      "官方網站": "https://www.halfbrick.com/games/jetpack-joyride-racing",
+      "App Store": "https://apps.apple.com/us/app/jetpack-joyride-racing/id6740550251",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.halfbrick.aeroracer",
       "禮包碼": "gift-codes.html?game=Jetpack Joyride Racing"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Jetpack Joyride Racing"
@@ -13901,10 +13901,10 @@
     "description": "",
     "products": [],
     "social": {
-      "Facebook": "",
-      "官方網站": "",
-      "App Store": "",
-      "Google Play": "",
+      "Facebook": "https://www.facebook.com/profile.php?id=61582585780146",
+      "官方網站": "https://tkcc.cloudoceanstar.com/index.html?langs=tc",
+      "App Store": "https://apps.apple.com/hk/app/%E4%B8%89%E5%9C%8B%E6%A0%BC%E5%AD%90%E7%88%AD%E5%A5%AA%E6%88%B0/id6752283990",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.cardclash.android&hl=zh_TW",
       "禮包碼": "gift-codes.html?game=三國格子爭奪戰"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=三國格子爭奪戰"
@@ -13914,12 +13914,38 @@
     "description": "",
     "products": [],
     "social": {
-      "Facebook": "",
-      "官方網站": "",
-      "App Store": "",
-      "Google Play": "",
+      "Facebook": "https://www.facebook.com/catdreamhmt/",
+      "官方網站": "https://www.catdream.net/",
+      "App Store": "https://apps.apple.com/tw/app/%E8%B2%93%E8%8C%B6%E5%B0%8F%E7%95%B6%E5%AE%B6-%E6%8E%8C%E6%AB%83%E9%A4%8A%E6%88%90%E8%A8%98/id6749299768",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.dreamland.cat.story&hl=zh_TW",
       "禮包碼": "gift-codes.html?game=貓茶小當家：掌櫃養成記"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=貓茶小當家：掌櫃養成記"
+  },
+  "Viladia：精靈村的時光": {
+    "logo": "images/Viladia：精靈村的時光.jpg",
+    "description": "",
+    "products": [],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61568844742817",
+      "官方網站": "https://www.selvasai.com/",
+      "App Store": "https://apps.apple.com/tw/app/viladia-%E7%B2%BE%E9%9D%88%E6%9D%91%E7%9A%84%E6%99%82%E5%85%89/id6670186613",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.selvasai.ttrebirth",
+      "禮包碼": "gift-codes.html?game=Viladia：精靈村的時光"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Viladia：精靈村的時光"
+  },
+  "G9：特功聯盟": {
+    "logo": "images/G9：特功聯盟.jpg",
+    "description": "",
+    "products": [],
+    "social": {
+      "Facebook": "https://www.facebook.com/G9LoAAsia/",
+      "官方網站": "https://g9.interserv.com.tw/order/",
+      "App Store": "https://apps.apple.com/tw/app/g9-%E7%89%B9%E6%94%BB%E8%81%AF%E7%9B%9F-g9-league-of-aces/id6502381302",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.InterServ.G9_aos&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn",
+      "禮包碼": "gift-codes.html?game=G9：特功聯盟"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=G9：特功聯盟"
   }
 }
