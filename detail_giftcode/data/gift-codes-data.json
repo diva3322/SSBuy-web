@@ -8436,6 +8436,18 @@
       {
         "code": "KYLEWKSTART",
         "reward": "Pick Up 英雄召喚使用券 x10"
+      },
+      {
+        "code": "HSENAFBOX",
+        "reward": "寵物召喚券*5、100萬金幣、鑰匙箱*3"
+      },
+      {
+        "code": "kylevsteo1016",
+        "reward": "四星英雄凱爾*1"
+      },
+      {
+        "code": "SEVENKNIGHTSFOREVER",
+        "reward": "稀有四星英雄自選券*1"
       }
     ]
   },
@@ -10081,18 +10093,36 @@
   "歡迎來到夢樂園": {
     "banner": "giftcodesbanner/歡迎來到夢樂園-禮包碼.jpg",
     "description": "「歡迎來到夢樂園」隆重開幕！這款女性向輕喜劇異界冒險手遊，讓你化身管理者重建樂園。還在為資源煩惱？別傻了，快找最新的禮包碼和兌換碼才是王道。當然，想一步登天，最快速安全的代儲值服務也不能少，讓你輕鬆應對各種挑戰，與夥伴們踏上夢幻旅程。別再慢慢農了，聰明的管理者都懂。",
-    "howTo": [],
+    "howTo": [
+      "遊戲主畫面左上角「四方塊」",
+      "「設置」→「兌換碼」",
+      "貼上在SSbuy複製好的禮包兌換碼"
+    ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "給糖也搗蛋",
+        "reward": "夜光鑽x300、體力x100、金幣x2萬"
+      },
+      {
+        "code": "九九重陽敬老愛老",
+        "reward": "夜光鑽x300、體力x100、金幣x2萬"
+      },
+      {
+        "code": "乖乖看完的你最棒",
+        "reward": "簡陋突破隨機材料包x10、金幣x10萬"
       }
     ]
   },
   "Cryowar": {
     "banner": "giftcodesbanner/Cryowar-禮包碼.jpg",
     "description": "「Cryowar」是一款基於Solana的即時多人PVP競技場NFT遊戲。還在手動農資源？真是辛苦了。想在戰場上快人一步，你需要的不只是技術，更是海量的禮包碼與兌換碼。當然，為了打造最強裝備，尋求快速安全的代儲值服務也是必要的捷徑。別再當個苦哈哈的戰士，立即強化你的英雄，主宰競技場吧！",
-    "howTo": [],
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
@@ -10103,7 +10133,9 @@
   "深岩銀河：倖存者": {
     "banner": "giftcodesbanner/深岩銀河：倖存者-禮包碼.jpg",
     "description": "「深岩銀河：倖存者」登陸手機！這款單人倖存者類自動射擊遊戲，讓你單槍匹馬對抗Hoxxes星球。以為光靠技術就能活下去？別天真了，沒有最新的禮包碼和兌換碼，你連蟲潮都撐不過。想挖礦挖得更深，升級更猛？快速安全的代儲值服務是你唯一的希望。別再掙扎了，矮人，快武裝自己！",
-    "howTo": [],
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
@@ -10114,7 +10146,9 @@
   "熱血排球少女": {
     "banner": "giftcodesbanner/熱血排球少女-禮包碼.jpg",
     "description": "「熱血排球少女」開打！這款4v4排球對戰遊戲，讓你打造夢幻隊伍。還在苦練發球跟扣殺？別傻了，這年頭想赢，靠的是源源不絕的禮包碼和兌換碼。想讓你的少女選手快速升級，制霸全國大賽？快速安全的代儲值服務才是致勝關鍵。別再慢慢培養了，立即組建最強隊伍，拿下冠軍吧！",
-    "howTo": [],
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
@@ -10125,7 +10159,66 @@
   "Jetpack Joyride Racing": {
     "banner": "giftcodesbanner/Jetpack Joyride Racing-禮包碼.jpg",
     "description": "",
-    "howTo": [],
-    "codes": []
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "三國格子爭奪戰": {
+    "banner": "giftcodesbanner/三國格子爭奪戰-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "貓茶小當家：掌櫃養成記": {
+    "banner": "giftcodesbanner/貓茶小當家：掌櫃養成記-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "Viladia：精靈村的時光": {
+    "banner": "giftcodesbanner/Viladia：精靈村的時光-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "G9：特功聯盟": {
+    "banner": "giftcodesbanner/G9：特功聯盟-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
   }
 }
