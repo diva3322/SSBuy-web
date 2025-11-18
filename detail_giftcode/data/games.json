@@ -13436,6 +13436,38 @@
       {
         "name": "最新優惠價格請洽Line@",
         "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3620晶鑽",
+        "price": 2585
+      },
+      {
+        "name": "1820晶鑽",
+        "price": 1295
+      },
+      {
+        "name": "1045晶鑽",
+        "price": 800
+      },
+      {
+        "name": "540晶鑽",
+        "price": 400
+      },
+      {
+        "name": "170晶鑽",
+        "price": 139
+      },
+      {
+        "name": "33晶鑽",
+        "price": 29
+      },
+      {
+        "name": "高階戰鬥通行證",
+        "price": 533
+      },
+      {
+        "name": "高階釣魚通行證",
+        "price": 139
       }
     ],
     "social": {
@@ -14232,5 +14264,63 @@
       "禮包碼": "gift-codes.html?game=不朽龍裔"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=不朽龍裔"
+  },
+  "NBA籃球世界": {
+    "logo": "images/NBA籃球世界.jpg",
+    "description": "NBA正版授權的《NBA籃球世界》(NBA Basketball World) 總算出在手機上了。這次你又双叒叕要扮演傳奇球隊總裁，招募真實NBA球星、打造你的夢幻冠軍陣容。是不是聽起來跟其他遊戲87%像？沒錯，又是那個熟悉的「薪資平衡」味道，你以為光靠策略就能贏？別傻了，想抽到S級球員，還是得看看口袋有多深。想贏在起跑線，就別錯過最新的兌換碼與禮包碼，或是尋求最划算的代儲值服務，保證快速安全，讓你開局就飛天遁地！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "99.99禮包",
+        "price": 2585
+      },
+      {
+        "name": "49.99禮包",
+        "price": 1312
+      },
+      {
+        "name": "29.99禮包",
+        "price": 880
+      },
+      {
+        "name": "25.99禮包",
+        "price": 791
+      },
+      {
+        "name": "22.99禮包",
+        "price": 702
+      },
+      {
+        "name": "19.99禮包",
+        "price": 613
+      },
+      {
+        "name": "14.99禮包",
+        "price": 436
+      },
+      {
+        "name": "9.99禮包",
+        "price": 284
+      },
+      {
+        "name": "7.99禮包",
+        "price": 269
+      },
+      {
+        "name": "4.99禮包",
+        "price": 139
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/nbaallworld/",
+      "官方網站": "https://niantic.helpshift.com/hc/zh-hant/35-nba-all-world/",
+      "App Store": "https://apps.apple.com/tw/app/nba%E7%B1%83%E7%90%83%E4%B8%96%E7%95%8C-%E7%B1%83%E7%90%83%E6%A8%A1%E6%93%AC%E7%B1%BB%E6%89%8B%E6%B8%B8/id6749753704",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.hkqs.nbachampion.google",
+      "禮包碼": "gift-codes.html?game=NBA籃球世界"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=NBA籃球世界"
   }
 }
