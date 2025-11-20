@@ -14322,5 +14322,59 @@
       "禮包碼": "gift-codes.html?game=NBA籃球世界"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=NBA籃球世界"
+  },
+  "英雄來搞鬼": {
+    "logo": "images/英雄來搞鬼.jpg",
+    "description": "各位勇者注意！今次為大家帶來的是話題度爆錶的奇幻放置RPG《英雄來搞鬼》！這款遊戲結合了可愛幽默的畫風與輕鬆策略的玩法，讓你在忙碌之餘也能隨時上線享受割草快感。遊戲內不僅有上百位搞怪英雄等你收集培養，豐富的PVE與PVP內容保證讓你玩到停不下來！別擔心資源不足，官方經常發放兌換碼及禮包碼，讓你輕鬆領取大量獎勵。想體驗戰力瞬間飆升的快感嗎？我們提供代儲值服務，保證交易過程快速安全，助你輕鬆制霸全服！立即加入，跟著英雄們一起搞鬼吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290鑽石禮包",
+        "price": 2851
+      },
+      {
+        "name": "1690鑽石禮包",
+        "price": 1492
+      },
+      {
+        "name": "990鑽石禮包",
+        "price": 882
+      },
+      {
+        "name": "870鑽石禮包",
+        "price": 775
+      },
+      {
+        "name": "670鑽石禮包",
+        "price": 597
+      },
+      {
+        "name": "490鑽石禮包",
+        "price": 437
+      },
+      {
+        "name": "330鑽石禮包",
+        "price": 294
+      },
+      {
+        "name": "240鑽石禮包",
+        "price": 224
+      },
+      {
+        "name": "170鑽石禮包",
+        "price": 158
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/HauntHeroestw/",
+      "官方網站": "https://hauntheroes.acenetgame.com/p-reg/?qd=officialfb&ss_cpp=officialfb-OT-1&ss_kvvs=kv1&ss_vwvs=draw",
+      "App Store": "https://apps.apple.com/hk/app/%E8%8B%B1%E9%9B%84%E4%BE%86%E6%90%9E%E9%AC%BC-%E6%88%BF%E9%96%93%E4%BF%9D%E8%A1%9B%E6%88%B0/id6751568822",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ygjsz.tw.and",
+      "禮包碼": "gift-codes.html?game=英雄來搞鬼"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=英雄來搞鬼"
   }
 }

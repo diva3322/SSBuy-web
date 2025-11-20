@@ -1476,6 +1476,12 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/%E8%8B%B1%E9%9B%84%E4%BE%86%E6%90%9E%E9%AC%BC.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/%E8%8B%B1%E9%9B%84%E5%82%B3%E8%AA%AA%EF%BC%9A%E5%8D%A1%E5%8D%A1%E5%B8%83%E4%B8%89%E9%83%A8%E6%9B%B2.html</loc>
         <lastmod>2025-11-20</lastmod>
         <changefreq>weekly</changefreq>
@@ -3337,6 +3343,12 @@
     </url>
     <url>
         <loc>https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/%E8%8B%B1%E9%9B%84%E4%B9%8B%E7%8E%8B.html</loc>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/%E8%8B%B1%E9%9B%84%E4%BE%86%E6%90%9E%E9%AC%BC.html</loc>
         <lastmod>2025-11-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
