@@ -10360,6 +10360,22 @@
       {
         "code": "BLEACHOB",
         "reward": "靈玉 x 50、武器玉鋼-參 x 1、環幣 x 5000"
+      },
+      {
+        "code": "BLEACH66",
+        "reward": ""
+      },
+      {
+        "code": "BLEACH88",
+        "reward": ""
+      },
+      {
+        "code": "BLEACH11",
+        "reward": ""
+      },
+      {
+        "code": "BLEACH999",
+        "reward": ""
       }
     ]
   },
