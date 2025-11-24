@@ -10421,6 +10421,34 @@
       {
         "code": "welcomeDC",
         "reward": "金幣*2000+皮革*1000+主線體力*30"
+      },
+      {
+        "code": "welcomeLINE",
+        "reward": ""
+      },
+      {
+        "code": "HAUNT666",
+        "reward": ""
+      },
+      {
+        "code": "release1121",
+        "reward": ""
+      },
+      {
+        "code": "VIP666",
+        "reward": ""
+      },
+      {
+        "code": "VIP888",
+        "reward": ""
+      },
+      {
+        "code": "STANLEY123",
+        "reward": ""
+      },
+      {
+        "code": "storeno1",
+        "reward": ""
       }
     ]
   },
