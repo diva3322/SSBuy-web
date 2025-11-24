@@ -14512,5 +14512,101 @@
       "禮包碼": "gift-codes.html?game=問劍長生"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=問劍長生"
+  },
+  "道友你好劍：群英集結": {
+    "logo": "images/道友你好劍：群英集結.jpg",
+    "description": "這款《道友你好劍》又是那種水墨風修仙，掛機開寶箱的老套路啦！不過說真的，上班偷薪水點幾下還挺紓壓。想要戰力飆升？除了肝還得靠兌換碼和禮包碼拿資源，別傻傻硬幹。如果想當大課長碾壓全場，找專業代儲值才是王道，主打一個快速安全，免得帳號出事。這類遊戲就是拚手速搶福利，記得先把能領的序號都尻一尻，才不會剛出新手村就被路人虐。反正閒著也是閒著，不如來修個仙，看看能不能飛升吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "6480靈石",
+        "price": 2867
+      },
+      {
+        "name": "3280靈石",
+        "price": 1500
+      },
+      {
+        "name": "1980靈石",
+        "price": 887
+      },
+      {
+        "name": "1280靈石",
+        "price": 573
+      },
+      {
+        "name": "680靈石",
+        "price": 296
+      },
+      {
+        "name": "300靈石",
+        "price": 159
+      },
+      {
+        "name": "60靈石",
+        "price": 32
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/dynhjsy",
+      "官方網站": "https://dynhj.komug.com/?fbclid=IwY2xjawORGddleHRuA2FlbQIxMABicmlkETFVTEtLMkplM1g5ZDRKRnNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgy_f2x0lp5vJFG-A5Bs-rXBTgR3MNZD0R4_2F9f20KIIW50n-auwko0yCr4_aem_ExU5GQyEmIhBT47EXOgiGQ",
+      "App Store": "https://apps.apple.com/tw/app/%E9%81%93%E5%8F%8B%E4%BD%A0%E5%A5%BD%E5%8A%8D-%E7%BE%A4%E8%8B%B1%E9%9B%86%E7%B5%90/id6480279420",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.marketo.dyqbjsy",
+      "禮包碼": "gift-codes.html?game=道友你好劍：群英集結"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=道友你好劍：群英集結"
+  },
+  "荒島求生：重建家園": {
+    "logo": "images/荒島求生：重建家園.jpg",
+    "description": "《荒島求生：重建家園》聽名字就知道是那種開局一條內褲...喔不，是開局一座破島的生存遊戲。又要砍樹又要蓋房子，根本是勞碌命模擬器嘛！想在荒島過得滋潤，千萬別忘了搜刮兌換碼和禮包碼，物資直接送到手軟。想蓋出豪宅別再慢慢農了，直接找快速安全的代儲值課下去，資源多到能把荒島蓋成杜拜！雖然說是求生，但有錢就是任性，還在等什麼？快去把你的小島變成度假村，讓別人羨慕死吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3980鑽石",
+        "price": 2605
+      },
+      {
+        "name": "1800鑽石",
+        "price": 1323
+      },
+      {
+        "name": "660鑽石",
+        "price": 618
+      },
+      {
+        "name": "315鑽石",
+        "price": 287
+      },
+      {
+        "name": "150鑽石",
+        "price": 140
+      },
+      {
+        "name": "60鑽石",
+        "price": 58
+      },
+      {
+        "name": "月卡特權",
+        "price": 287
+      },
+      {
+        "name": "周卡特權",
+        "price": 140
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/richdomsurvivalrebuild",
+      "官方網站": "https://richdom.org/?fbclid=IwY2xjawORGkZleHRuA2FlbQIxMABicmlkETFVTEtLMkplM1g5ZDRKRnNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtC5GbGncyL36bb2sdrwQGhbr2c5U3QoBnswi2WSBZizx3V-DfNtSz9qvQfc_aem_zNYtHSTFzkMVIYwWuu8eZw",
+      "App Store": "https://apps.apple.com/us/app/richdom-island-adventure/id6748900734",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.aemobile.games.richdom.survival.rebuild",
+      "禮包碼": "gift-codes.html?game=荒島求生：重建家園"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=荒島求生：重建家園"
   }
 }
