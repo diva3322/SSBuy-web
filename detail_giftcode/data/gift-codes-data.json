@@ -10569,7 +10569,7 @@
     "howTo": [
       "點左下角人物功能圖示",
       "腳色畫面左邊點設定",
-      "設定頁面最下方「禮包兌換」",
+      "設定頁面最下方「密令相關」",
       "貼上在SSbuy複製好的禮包兌換碼"
     ],
     "codes": [
@@ -10578,35 +10578,7 @@
         "reward": "LINE ID：@ssbuy"
       },
       {
-        "code": "vip666",
-        "reward": ""
-      },
-      {
-        "code": "vip777",
-        "reward": ""
-      },
-      {
-        "code": "vip888",
-        "reward": ""
-      },
-      {
-        "code": "SVIP666",
-        "reward": ""
-      },
-      {
-        "code": "SVIP777",
-        "reward": ""
-      },
-      {
-        "code": "SVIP888",
-        "reward": ""
-      },
-      {
-        "code": "問劍666",
-        "reward": ""
-      },
-      {
-        "code": "問劍888",
+        "code": "SWORDLAUNCH1127",
         "reward": ""
       }
     ]
