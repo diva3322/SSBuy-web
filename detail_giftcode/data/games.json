@@ -14684,5 +14684,69 @@
       "禮包碼": "gift-codes.html?game=荒島求生：重建家園"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=荒島求生：重建家園"
+  },
+  "絕地鴨衛": {
+    "logo": "images/絕地鴨衛.jpg",
+    "description": "涼屋遊戲又來搞事了，這次不玩騎士改玩《絕地鴨衛》。說實話，這年頭像素風Roguelike多到能填海，但這款偏偏要用鴨子當主角，還搞什麼生物龐克，這設定聽起來就像是策劃喝多了想出來的。遊戲主打「擊破」機制，觀察破綻然後一刀帶走，聽起來很帥，但手殘黨估計只能被怪按在地上摩擦。數百種技能隨便組，反正最後你只會用那一兩套最強的。想在這末世廢土活下去？記得領取禮包碼和兌換碼，不然貧窮會限制你的戰鬥力。如果嫌資源太少，找代儲值也是個快速安全的捷徑，畢竟課金變強才是手遊真理，這鴨子有點東西。",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "1440召喚石",
+        "price": 529
+      },
+      {
+        "name": "720召喚石",
+        "price": 287
+      },
+      {
+        "name": "360召喚石",
+        "price": 178
+      },
+      {
+        "name": "180召喚石",
+        "price": 86
+      },
+      {
+        "name": "60召喚石",
+        "price": 29
+      },
+      {
+        "name": "免廣告特權",
+        "price": 140
+      },
+      {
+        "name": "收益加成特權",
+        "price": 287
+      }
+    ],
+    "social": {
+      "Facebook": "https://x.com/ChillyRoom",
+      "官方網站": "https://www.chillyroom.com/zh",
+      "App Store": "https://apps.apple.com/tw/app/%E7%B5%95%E5%9C%B0%E9%B4%A8%E8%A1%9B/id6751926432",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.chillyroom.jdyw.gp",
+      "禮包碼": "gift-codes.html?game=絕地鴨衛"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=絕地鴨衛"
+  },
+  "NBA 2K26 Myteam": {
+    "logo": "images/NBA 2K26 Myteam.jpg",
+    "description": "《NBA 2K25 MyTEAM》又來了，2K果然是年貨製造機，換皮再賣一年。這次把主機體驗搬到手機上，還支援藍牙手把，聽起來很美好，但這遊戲的本質大家心知肚明，就是個披著籃球皮的轉蛋模擬器。你想組建夢幻陣容？別天真了，不課金你連替補席都坐不滿。雖然有拍賣行可以撿漏，但想要那張閃閃發光的球員卡，還是得靠禮包碼和兌換碼來補血。當然，如果你想直接起飛，找快速安全的代儲值才是正解，畢竟在2K的世界裡，技術再好也怕數值碾壓，鈔能力才是真正的MVP，這就是現實。",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/NBA2K/?locale=zh_TW",
+      "官方網站": "https://play.google.com/store/apps/details?id=com.t2ksports.myteam2k25&hl=zh_TW",
+      "App Store": "https://apps.apple.com/tw/app/nba-2k26-myteam/id6746614437",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.t2ksports.myteam2k25&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=NBA 2K26 Myteam"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=NBA 2K26 Myteam"
   }
 }
