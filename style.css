@@ -1025,10 +1025,10 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
 /* 手機下拉選單 - 固定並覆蓋內容，位於 mobile-top-bar 下方 */
 .mobile-dropdown-menu {
     position: fixed; /* 固定在視窗 */
-    top: 14vh; /* 範例值：緊接在 mobile-top-bar 之下。80px是header, 60px是mobile-top-bar高度 */
+    top: 13.88vh; /* 範例值：緊接在 mobile-top-bar 之下。80px是header, 60px是mobile-top-bar高度 */
     left: 0;
     width: 100%;
-    height: 8vh; /* 佔滿剩餘高度 */
+    height: 9vh; /* 佔滿剩餘高度 */
     background-color: rgba(0, 0, 0, 0.9); /* 深色半透明背景，覆蓋內容 */
     z-index: 99; /* 在內容之上，但在 mobile-top-bar 之下 */
     overflow-y: auto; /* 允許選單內容滾動 */
@@ -1049,7 +1049,7 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
 
 .mobile-dropdown-menu ul {
     list-style: none;
-    margin: 1vh;
+    margin: 0.9vh;
     padding: 1px;
     display: flex;
     justify-content: center;
@@ -1058,8 +1058,8 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
 
 .mobile-dropdown-menu ul li {
     text-align: center;
-    padding: 1vh 0.25vh;
-    font-size: 1rem;
+    padding: 0vh 0.25vh;
+    font-size: 1.05rem;
     border: none;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 8px;
@@ -2009,7 +2009,7 @@ img.zoomable {
 @media (min-width: 1025px) {
   .header-img {
     display: block;
-  padding-left: 10vw; /* 加上 sidebar 寬度與一些額外距離 */
+    padding-left: 10vw; /* 加上 sidebar 寬度與一些額外距離 */
     max-width: 88vw;       /* 你已經設定，保持也沒問題 */
   }
   
