@@ -10791,6 +10791,42 @@
       {
         "code": "LF888",
         "reward": ""
+      },
+      {
+        "code": "sssvip111",
+        "reward": "SVIP要隔30分鐘才能換下一個"
+      },
+      {
+        "code": "sssvip222",
+        "reward": "SVIP要隔30分鐘才能換下一個"
+      },
+      {
+        "code": "sssvip333",
+        "reward": "SVIP要隔30分鐘才能換下一個"
+      },
+      {
+        "code": "SQ666",
+        "reward": ""
+      },
+      {
+        "code": "SQ777",
+        "reward": ""
+      },
+      {
+        "code": "SQ888",
+        "reward": ""
+      },
+      {
+        "code": "ZC666",
+        "reward": ""
+      },
+      {
+        "code": "ZC777",
+        "reward": ""
+      },
+      {
+        "code": "ZC888",
+        "reward": ""
       }
     ]
   },
