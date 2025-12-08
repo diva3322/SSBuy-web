@@ -10882,5 +10882,155 @@
         "reward": "全館購買 20% 現金回饋"
       }
     ]
+  },
+  "曹操不囉嗦": {
+    "banner": "giftcodesbanner/曹操不囉嗦-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "江湖有詭": {
+    "banner": "giftcodesbanner/江湖有詭-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "666666",
+        "reward": ""
+      },
+      {
+        "code": "7777777",
+        "reward": ""
+      },
+      {
+        "code": "88888888",
+        "reward": ""
+      },
+      {
+        "code": "DAY222",
+        "reward": ""
+      },
+      {
+        "code": "DAY333",
+        "reward": ""
+      },
+      {
+        "code": "INSTALL7",
+        "reward": ""
+      },
+      {
+        "code": "LIKEME7",
+        "reward": ""
+      },
+      {
+        "code": "vip555",
+        "reward": ""
+      },
+      {
+        "code": "vip666",
+        "reward": ""
+      },
+      {
+        "code": "vip777",
+        "reward": ""
+      },
+      {
+        "code": "vip888",
+        "reward": ""
+      },
+      {
+        "code": "vip999",
+        "reward": ""
+      },
+      {
+        "code": "yy666666",
+        "reward": ""
+      }
+    ]
+  },
+  "將軍請息怒": {
+    "banner": "giftcodesbanner/將軍請息怒-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "RO仙境傳說：世界之旅": {
+    "banner": "giftcodesbanner/RO仙境傳說：世界之旅-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "ROW666",
+        "reward": ""
+      },
+      {
+        "code": "ROW777",
+        "reward": ""
+      },
+      {
+        "code": "ROW8888",
+        "reward": ""
+      },
+      {
+        "code": "ROARIEL",
+        "reward": ""
+      },
+      {
+        "code": "ROW:AUNCH",
+        "reward": ""
+      },
+      {
+        "code": "ROWORLD",
+        "reward": ""
+      },
+      {
+        "code": "ROWTOP1",
+        "reward": ""
+      },
+      {
+        "code": "ROWMVP",
+        "reward": ""
+      }
+    ]
+  },
+  "燕雲十六聲": {
+    "banner": "giftcodesbanner/燕雲十六聲-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "99強化木棒": {
+    "banner": "giftcodesbanner/99強化木棒-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
   }
 }
