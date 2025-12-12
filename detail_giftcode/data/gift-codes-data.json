@@ -11169,5 +11169,83 @@
         "reward": ""
       }
     ]
+  },
+  "SD鋼彈 G世代 永恆": {
+    "banner": "giftcodesbanner/SD鋼彈 G世代 永恆-禮包碼.jpg",
+    "description": "各位指揮官久等了！《SD鋼彈 G世代 永恆》終於強勢登陸手機平台，不僅完美還原經典戰棋策略玩法，還能自由編組歷代人氣機體與駕駛員，帶您重溫熱血劇情。想在瞬息萬變的戰場上搶得先機，絕對不能錯過限量的兌換碼與禮包碼，免費資源拿好拿滿！若想更有效率地強化艦隊，我們提供最專業的代儲值服務，堅持快速安全有保障，讓您無需煩惱繁瑣流程，輕鬆享受遊戲樂趣。現在就整裝待發，率領您的部隊出擊，在G世代寫下新的傳奇篇章吧！",
+    "howTo": [
+      "進入下方網址進行兌換",
+      "https://ww.gget-promo.jp/"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "TSTGGET1",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "TSTGGET2",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GBASE1",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GBASE2",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GGETPB",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GGETSURVEY2",
+        "reward": "鑽石 x 300"
+      },
+      {
+        "code": "GGETGCG",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "7KFEFLR",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "7ACGFLR",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GINFOR",
+        "reward": "高級機體補給券 x2"
+      },
+      {
+        "code": "GFANCLUB",
+        "reward": "GFANCLUB"
+      },
+      {
+        "code": "GGET4GL1",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GSGGET",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GGETTMNA",
+        "reward": "高級機體補給券 x1"
+      },
+      {
+        "code": "GGETSURVEY3",
+        "reward": ""
+      },
+      {
+        "code": "TSYMCET2",
+        "reward": ""
+      }
+    ]
   }
 }
