@@ -54,7 +54,7 @@ def process_gift_codes():
 
             how_to_methods = [str(row.get(f'兌換方式{i}', '')).strip() for i in range(1, 7) if str(row.get(f'兌換方式{i}', '')).strip()]
             codes_list = []
-            for i in range(1, 21):
+            for i in range(1, 31):
                 code = str(row.get(f'禮包碼{i}', '')).strip()
                 reward = str(row.get(f'內容物{i}', '')).strip()
                 if code:
