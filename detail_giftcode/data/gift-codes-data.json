@@ -11381,6 +11381,22 @@
       {
         "code": "LUCK1314",
         "reward": "鑽石*777+技能抽卡券*10"
+      },
+      {
+        "code": "VIP555",
+        "reward": ""
+      },
+      {
+        "code": "VIP777",
+        "reward": ""
+      },
+      {
+        "code": "VIP999",
+        "reward": ""
+      },
+      {
+        "code": "UR888",
+        "reward": ""
       }
     ]
   }
