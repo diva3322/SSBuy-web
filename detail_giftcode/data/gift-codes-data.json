@@ -11090,7 +11090,7 @@
         "reward": ""
       },
       {
-        "code": "ROW:AUNCH",
+        "code": "ROWLAUNCH",
         "reward": ""
       },
       {
@@ -11122,15 +11122,15 @@
       },
       {
         "code": "WWMGLtiktok",
-        "reward": ""
+        "reward": "長鳴玉*10+金幣*10000"
       },
       {
         "code": "WWMGLyoutube",
-        "reward": ""
+        "reward": "長鳴玉*20+金幣*5000+寶箱*2"
       },
       {
         "code": "WWM251115",
-        "reward": ""
+        "reward": "長鳴玉*10+金幣*5000+鵝神名牌"
       },
       {
         "code": "YYSLSTIB",
@@ -11138,7 +11138,7 @@
       },
       {
         "code": "WWMDEVTALK",
-        "reward": ""
+        "reward": "長鳴玉*40+周元通寶*20,000"
       },
       {
         "code": "WIND25",
