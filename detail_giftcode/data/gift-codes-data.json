@@ -11479,6 +11479,10 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "YSQJYEX",
+        "reward": ""
       }
     ]
   },
@@ -11505,10 +11509,6 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
-      },
-      {
-        "code": "YSQJYEX",
-        "reward": ""
       }
     ]
   }
