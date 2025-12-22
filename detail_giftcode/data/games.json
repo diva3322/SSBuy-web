@@ -15946,5 +15946,41 @@
       "禮包碼": "gift-codes.html?game=God Breaker：弒神者"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=God Breaker：弒神者"
+  },
+  "美食手札": {
+    "logo": "images/美食手札.jpg",
+    "description": "今天要來介紹這款超療癒的《美食手札：合併與小鎮物語》啦！這款遊戲結合了大家最愛的合併玩法與城鎮經營，看著各種誘人的美食在指尖合成，真的超紓壓！除了能打造專屬的美食小鎮，劇情也是滿滿的溫馨感。想讓經營之路更順暢？別忘了搜尋最新兌換碼跟禮包碼拿好禮！若想快速解鎖稀有裝飾，推薦找代儲值服務，流程快速安全有保障。快來這場美味的合併冒險，跟我一起把小鎮變身美食天堂吧，絕對讓你玩到停不下來！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61579246733746",
+      "官方網站": "https://pay.foodicles.net/zh-TW",
+      "App Store": "https://apps.apple.com/us/app/%E7%BE%8E%E9%A3%9F%E6%89%8B%E6%9C%AD-%E5%90%88%E4%BD%B5%E8%88%87%E5%B0%8F%E9%8E%AE%E7%89%A9%E8%AA%9E/id6751217181",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.hg.delicacy.Notes.mergegames",
+      "禮包碼": "gift-codes.html?game=美食手札"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=美食手札"
+  },
+  "超次元驅動": {
+    "logo": "images/超次元驅動.jpg",
+    "description": "《超次元驅動》這款充滿科幻感的作品正式登場啦！遊戲內爽快感十足的打擊與炫麗的技能特效，絕對能滿足你對未來戰鬥的幻想。玩家將在不同次元間穿梭，挑戰強大首領並收集傳奇英雄。開服期間趕快去領取兌換碼與限定禮包碼，能讓戰力直接起飛！想要省時省力直衝頂端，專業代儲值是你的最佳選擇，交易過程快速安全免煩惱。現在就拿起武器，進入這個超次元世界寫下你的英雄傳說吧，這波熱血一定要跟上！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TheAmgine/?locale=zh_TW",
+      "官方網站": "https://odl.blinkhk.com/",
+      "App Store": "https://apps.apple.com/us/app/overdrive-legends/id6470291413",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.Blink.OverDriveLegends",
+      "禮包碼": "gift-codes.html?game=超次元驅動"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=超次元驅動"
   }
 }
