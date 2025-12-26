@@ -16014,5 +16014,63 @@
       "禮包碼": "gift-codes.html?game=超次元驅動"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=超次元驅動"
+  },
+  "龍族幻想：勇者集結": {
+    "logo": "images/龍族幻想：勇者集結.jpg",
+    "description": "《龍族幻想：勇者集結》終於來啦！經典IP轉生而成的卡牌RPG，讓路明非和繪梨衣依然香到爆。畫質頂規但養成水很深，想在學院脫穎而出？除了勤跑任務，搜括最新兌換碼跟禮包碼拿資源是常識！畢竟這年頭課金也要講求效率，嫌官儲太貴又怕手酸？找代儲值絕對是各位資深玩家的首選，一定要認準快速安全的管道，才不會被黑卡搞到帳號崩潰。現在就開抽你的SSR夥伴，輕鬆放置也能變強，大家快來龍族世界熱血開戰，享受刷本爽感，就跟我一起逆天改命吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "6480鑽石",
+        "price": 2899
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1517
+      },
+      {
+        "name": "1980鑽石",
+        "price": 897
+      },
+      {
+        "name": "980鑽石",
+        "price": 444
+      },
+      {
+        "name": "300鑽石",
+        "price": 161
+      },
+      {
+        "name": "60鑽石",
+        "price": 32
+      },
+      {
+        "name": "主線戰令",
+        "price": 390
+      },
+      {
+        "name": "月卡",
+        "price": 161
+      },
+      {
+        "name": "周卡",
+        "price": 83
+      },
+      {
+        "name": "每日特惠",
+        "price": 83
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DragonRajaReRise/",
+      "官方網站": "https://dragonraja.focent.com.tw/",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BE%8D%E6%97%8F%E5%B9%BB%E6%83%B3-%E5%8B%87%E8%80%85%E9%9B%86%E7%B5%90/id6740021133",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.nrs.tw.drc.gp&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=龍族幻想：勇者集結"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=龍族幻想：勇者集結"
   }
 }
