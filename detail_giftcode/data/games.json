@@ -16238,5 +16238,23 @@
       "禮包碼": "gift-codes.html?game=Warventure：火柴人對決"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Warventure：火柴人對決"
+  },
+  "仙發制人": {
+    "logo": "images/仙發制人.jpg",
+    "description": "各位道友久等了！《仙發制人》這款修仙手遊終於隆重登場啦，這年頭要是沒修個仙，好像都跟不上時代流行。這遊戲玩的就是極致輕鬆掛機，讓你邊上班摸魚也能邊羽化登仙，特效更是華麗到眼睛快瞎掉。開局前記得先去搜刮最新的兌換碼與禮包碼，不然資源落後真的會被大佬虐到哭。如果你想一步登天快速變強，找我們代儲值絕對是唯一首選，全程保證快速安全沒煩惱。現在就快點來加入這場充滿各種套路的仙界大戰，看看誰才是真正的制人霸主吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/xfzrtw/",
+      "官方網站": "https://www.facebook.com/xfzrtw/",
+      "App Store": "https://apps.apple.com/app/id6755100078",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.hkyl.gg.xfzr.hh",
+      "禮包碼": "gift-codes.html?game=仙發制人"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=仙發制人"
   }
 }
