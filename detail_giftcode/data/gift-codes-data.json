@@ -10007,6 +10007,26 @@
       {
         "code": "NO1MAPLEIDLE",
         "reward": "同伴召喚券 x 100、奇幻方塊 x 10、名譽勳章 x 5,000"
+      },
+      {
+        "code": "WINTERGIFT",
+        "reward": ""
+      },
+      {
+        "code": "HAPPYVILLE4U",
+        "reward": ""
+      },
+      {
+        "code": "NO1MAPLEIDLE",
+        "reward": ""
+      },
+      {
+        "code": "THANKU",
+        "reward": ""
+      },
+      {
+        "code": "MAPLER",
+        "reward": ""
       }
     ]
   },
