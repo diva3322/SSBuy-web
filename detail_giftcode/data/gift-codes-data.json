@@ -11982,17 +11982,85 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "VIP666",
+        "reward": ""
+      },
+      {
+        "code": "VIP777",
+        "reward": ""
+      },
+      {
+        "code": "VIP888",
+        "reward": ""
+      },
+      {
+        "code": "VIP999",
+        "reward": ""
+      },
+      {
+        "code": "VIP2025",
+        "reward": ""
+      },
+      {
+        "code": "VIP2026",
+        "reward": ""
+      },
+      {
+        "code": "SVIP666",
+        "reward": ""
+      },
+      {
+        "code": "SVIP777",
+        "reward": ""
+      },
+      {
+        "code": "SVIP888",
+        "reward": ""
+      },
+      {
+        "code": "SVIP999",
+        "reward": ""
+      },
+      {
+        "code": "GIFT666",
+        "reward": ""
+      },
+      {
+        "code": "GIFT777",
+        "reward": ""
+      },
+      {
+        "code": "GIFT888",
+        "reward": ""
+      },
+      {
+        "code": "ZJQBTW",
+        "reward": ""
+      },
+      {
+        "code": "ZJQBPRE",
+        "reward": ""
       }
     ]
   },
   "錫葛尼斯：紅月再臨": {
     "banner": "giftcodesbanner/錫葛尼斯：紅月再臨-禮包碼.jpg",
     "description": "經典回憶感動重現！《錫葛尼斯：紅月再臨》帶你找回當年通宵練功的熱血記憶。這次手遊版完美復刻經典系統，老玩家絕對會玩到老淚縱橫啊！老司機想回鍋快速衝等，一定要關注官方最新發布的兌換碼與禮包碼，開局補給不能少。想省錢變強的兄弟們，推薦找我們專業代儲值，交易過程快速安全，讓你用最少預算買到最高的鑽石回饋。別再猶豫了，快召集當年的戰友重新集結，在紅月下再次寫下屬於你們的戰鬥傳奇，重新稱霸全服吧！",
-    "howTo": [],
+    "howTo": [
+      "前往遊戲內「福利」",
+      "點選「禮包碼兌換」",
+      "貼上在SSbuy複製好的禮包兌換碼"
+    ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "RMCBTDC",
+        "reward": "CBT專屬禮包碼"
       }
     ]
   },
@@ -12018,7 +12086,15 @@
       },
       {
         "code": "AG2026NY",
-        "reward": ""
+        "reward": "2026年1月8日到期"
+      },
+      {
+        "code": "AGxmas25",
+        "reward": "2026年1月1日到期"
+      },
+      {
+        "code": "AGThanksgiving25",
+        "reward": "2025年12月4日到期"
       }
     ]
   },
@@ -12030,6 +12106,18 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "mylittlepony",
+        "reward": "2026年2月7日到期"
+      },
+      {
+        "code": "heartopia0108",
+        "reward": "2026年2月7日到期"
+      },
+      {
+        "code": "specialgift0103",
+        "reward": "2026年2月7日到期"
       }
     ]
   }
