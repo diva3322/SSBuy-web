@@ -16696,19 +16696,6 @@
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=熾熱戰姬"
   },
-  "Mythic Tactics：battleground": {
-    "logo": "images/Mythic Tactics：battleground.jpg",
-    "description": "",
-    "products": [],
-    "social": {
-      "Facebook": "",
-      "官方網站": "",
-      "App Store": "",
-      "Google Play": "",
-      "禮包碼": "gift-codes.html?game=Mythic Tactics：battleground"
-    },
-    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Mythic Tactics：battleground"
-  },
   "心動小鎮": {
     "logo": "images/心動小鎮.jpg",
     "description": "",
@@ -16721,18 +16708,5 @@
       "禮包碼": "gift-codes.html?game=心動小鎮"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=心動小鎮"
-  },
-  "Claw Quest": {
-    "logo": "images/Claw Quest.jpg",
-    "description": "",
-    "products": [],
-    "social": {
-      "Facebook": "",
-      "官方網站": "",
-      "App Store": "",
-      "Google Play": "",
-      "禮包碼": "gift-codes.html?game=Claw Quest"
-    },
-    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Claw Quest"
   }
 }
