@@ -11894,5 +11894,133 @@
         "reward": "LINE ID：@ssbuy"
       }
     ]
+  },
+  "堡壘傳說：蒸汽龐克": {
+    "banner": "giftcodesbanner/堡壘傳說：蒸汽龐克-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "點擊頭像",
+      "點擊個人資訊介面右下方的「兌換碼」",
+      "貼上在SSbuy複製好的禮包兌換碼"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "BOTY778",
+        "reward": ""
+      },
+      {
+        "code": "PP17BABY",
+        "reward": ""
+      },
+      {
+        "code": "4tcongrats1",
+        "reward": ""
+      },
+      {
+        "code": "4tcongrats2",
+        "reward": ""
+      },
+      {
+        "code": "4tcongrats3",
+        "reward": ""
+      },
+      {
+        "code": "4tcongrats4",
+        "reward": ""
+      },
+      {
+        "code": "4tcongrats5",
+        "reward": ""
+      },
+      {
+        "code": "lllike4t",
+        "reward": ""
+      },
+      {
+        "code": "VINSON778",
+        "reward": ""
+      }
+    ]
+  },
+  "指尖棋兵": {
+    "banner": "giftcodesbanner/指尖棋兵-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "錫葛尼斯：紅月再臨": {
+    "banner": "giftcodesbanner/錫葛尼斯：紅月再臨-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "魔女與龍：光暗篇章": {
+    "banner": "giftcodesbanner/魔女與龍：光暗篇章-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "熾熱戰姬": {
+    "banner": "giftcodesbanner/熾熱戰姬-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "Mythic Tactics：battleground": {
+    "banner": "giftcodesbanner/Mythic Tactics：battleground-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "心動小鎮": {
+    "banner": "giftcodesbanner/心動小鎮-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "Claw Quest": {
+    "banner": "giftcodesbanner/Claw Quest-禮包碼.jpg",
+    "description": "",
+    "howTo": [],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
   }
 }
