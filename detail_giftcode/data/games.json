@@ -17114,44 +17114,28 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "99.99禮包",
-        "price": 2887
+        "name": "1430寶石",
+        "price": 2226
       },
       {
-        "name": "49.99禮包",
-        "price": 1511
+        "name": "792寶石",
+        "price": 1332
       },
       {
-        "name": "39.99禮包",
-        "price": 1188
+        "name": "363寶石",
+        "price": 706
       },
       {
-        "name": "29.99禮包",
-        "price": 903
+        "name": "127寶石",
+        "price": 269
       },
       {
-        "name": "19.99禮包",
-        "price": 599
+        "name": "55寶石",
+        "price": 111
       },
       {
-        "name": "14.99禮包",
-        "price": 438
-      },
-      {
-        "name": "9.99禮包",
-        "price": 295
-      },
-      {
-        "name": "4.99禮包",
-        "price": 158
-      },
-      {
-        "name": "2.99禮包",
-        "price": 94
-      },
-      {
-        "name": "0.99禮包",
-        "price": 31
+        "name": "22寶石",
+        "price": 56
       }
     ],
     "social": {
@@ -17230,44 +17214,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "99.99禮包",
+        "name": "一大箱玉石",
         "price": 2887
       },
       {
-        "name": "49.99禮包",
+        "name": "一箱玉石",
         "price": 1511
       },
       {
-        "name": "39.99禮包",
-        "price": 1188
+        "name": "一小箱玉石",
+        "price": 885
       },
       {
-        "name": "29.99禮包",
-        "price": 903
-      },
-      {
-        "name": "19.99禮包",
-        "price": 599
-      },
-      {
-        "name": "14.99禮包",
+        "name": "一大袋玉石",
         "price": 438
       },
       {
-        "name": "9.99禮包",
-        "price": 295
-      },
-      {
-        "name": "4.99禮包",
+        "name": "一小袋玉石",
         "price": 158
       },
       {
-        "name": "2.99禮包",
-        "price": 94
+        "name": "新春紅包",
+        "price": 885
       },
       {
-        "name": "0.99禮包",
-        "price": 31
+        "name": "萬石祿",
+        "price": 158
+      },
+      {
+        "name": "千石祿",
+        "price": 93
+      },
+      {
+        "name": "專屬成長禮",
+        "price": 93
       }
     ],
     "social": {
@@ -17288,44 +17268,44 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "99.99禮包",
-        "price": 2887
+        "name": "一箱衍質源石",
+        "price": 1788
       },
       {
-        "name": "49.99禮包",
-        "price": 1511
+        "name": "一盒衍質源石",
+        "price": 885
       },
       {
-        "name": "39.99禮包",
-        "price": 1188
+        "name": "一袋衍質源石",
+        "price": 554
       },
       {
-        "name": "29.99禮包",
-        "price": 903
+        "name": "一堆衍質源石",
+        "price": 349
       },
       {
-        "name": "19.99禮包",
-        "price": 599
+        "name": "一組衍質源石",
+        "price": 241
       },
       {
-        "name": "14.99禮包",
-        "price": 438
+        "name": "衍質源石",
+        "price": 56
       },
       {
-        "name": "9.99禮包",
+        "name": "特惠武庫配額包",
+        "price": 375
+      },
+      {
+        "name": "協議客製化",
         "price": 295
       },
       {
-        "name": "4.99禮包",
-        "price": 158
+        "name": "全面人才組合包",
+        "price": 527
       },
       {
-        "name": "2.99禮包",
-        "price": 94
-      },
-      {
-        "name": "0.99禮包",
-        "price": 31
+        "name": "標準武庫組合包",
+        "price": 527
       }
     ],
     "social": {
@@ -17336,5 +17316,55 @@
       "禮包碼": "gift-codes.html?game=明日方舟：終末地"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=明日方舟：終末地"
+  },
+  "半獸人傳說": {
+    "logo": "images/半獸人傳說.jpg",
+    "description": "《半獸人傳說》來啦！這款遊戲走的是超 Chill 的放置冒險風，玩家要帶領半獸人軍團橫掃戰場。想變強？我們準備了超強攻略，讓你輕鬆推關沒煩惱！別忘了領取最新兌換碼跟官方禮包碼，開局資源直接拿滿。想快速提升戰力？找專業代儲值準沒錯，流程快速安全有保障，讓你省下時間享受割草快感！不管是畫風還是玩法都超有毒，快跟著這群可愛又強大的半獸人，一起在奇幻世界大鬧一場吧！這絕對是今年不能錯過的必玩佳作，大家快來體驗看看喔！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "648魔晶",
+        "price": 2887
+      },
+      {
+        "name": "328魔晶",
+        "price": 1511
+      },
+      {
+        "name": "198魔晶",
+        "price": 885
+      },
+      {
+        "name": "128魔晶",
+        "price": 599
+      },
+      {
+        "name": "98魔晶",
+        "price": 438
+      },
+      {
+        "name": "68魔晶",
+        "price": 295
+      },
+      {
+        "name": "30魔晶",
+        "price": 158
+      },
+      {
+        "name": "6魔晶",
+        "price": 31
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/OrcSaga",
+      "官方網站": "https://orcsaga.xykjgames.com/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExcVZKOGt3SWNlZGVpQ2RDdXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7V1cj1OGnZUrXNU3t_Pxz6mrAVmVRzDsa0f82B8KcrYHWUFilTVwdp7ceyIA_aem_9--oE0fRJAevGIxOpv0Mzg&shortlink=0t2bawqj&pid=%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5%20%E5%AE%98%E7%BD%91&af_xp=custom&source_caller=ui",
+      "App Store": "https://apps.apple.com/hk/app/%E5%8D%8A%E7%8D%B8%E4%BA%BA%E5%82%B3%E8%AA%AA-%E5%B4%9B%E8%B5%B7%E4%B9%8B%E6%88%B0/id6753856436",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.xyhw.ms.gp",
+      "禮包碼": "gift-codes.html?game=半獸人傳說"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=半獸人傳說"
   }
 }
