@@ -10793,6 +10793,22 @@
       {
         "code": "K4XTZMEXFJ03Q",
         "reward": "武器寶箱鑰匙*5"
+      },
+      {
+        "code": "TRQZKEHIJXSO6",
+        "reward": "技能寶箱鑰匙*5"
+      },
+      {
+        "code": "X5CTWTJCSO6MG",
+        "reward": "武器寶箱鑰匙*5"
+      },
+      {
+        "code": "WZO38OLJKU91S",
+        "reward": "武器寶箱鑰匙*5+技能寶箱鑰匙*5+鑽石*500"
+      },
+      {
+        "code": "RXGV0AQFPWM21",
+        "reward": "技能寶箱鑰匙*5"
       }
     ]
   },
@@ -12391,6 +12407,10 @@
       },
       {
         "code": "DODOISRAMIRAJ",
+        "reward": ""
+      },
+      {
+        "code": "HAPPYMOMENT",
         "reward": ""
       }
     ]
