@@ -17952,5 +17952,23 @@
       "禮包碼": "gift-codes.html?game=星際守護者"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=星際守護者"
+  },
+  "坦克方城市": {
+    "logo": "images/坦克方城市.jpg",
+    "description": "",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "",
+      "官方網站": "",
+      "App Store": "",
+      "Google Play": "",
+      "禮包碼": "gift-codes.html?game=坦克方城市"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=坦克方城市"
   }
 }
