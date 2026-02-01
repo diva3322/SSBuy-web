@@ -17518,44 +17518,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "99.99禮包",
-        "price": 2822
+        "name": "12000寶石",
+        "price": 3014
       },
       {
-        "name": "49.99禮包",
-        "price": 1477
+        "name": "6000寶石",
+        "price": 1558
       },
       {
-        "name": "39.99禮包",
-        "price": 1188
+        "name": "3600寶石",
+        "price": 935
       },
       {
-        "name": "29.99禮包",
-        "price": 865
+        "name": "1800寶石",
+        "price": 463
       },
       {
-        "name": "19.99禮包",
-        "price": 585
+        "name": "600寶石",
+        "price": 157
       },
       {
-        "name": "14.99禮包",
-        "price": 428
+        "name": "120寶石",
+        "price": 30
       },
       {
-        "name": "9.99禮包",
-        "price": 288
+        "name": "寵物禮包",
+        "price": 157
       },
       {
-        "name": "4.99禮包",
-        "price": 154
+        "name": "每周寵物禮包",
+        "price": 935
       },
       {
-        "name": "2.99禮包",
-        "price": 94
-      },
-      {
-        "name": "0.99禮包",
-        "price": 31
+        "name": "每月寵物禮包",
+        "price": 3014
       }
     ],
     "social": {
@@ -17576,44 +17572,32 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "99.99禮包",
-        "price": 2822
+        "name": "6480仙玉",
+        "price": 2874
       },
       {
-        "name": "49.99禮包",
-        "price": 1477
+        "name": "3280仙玉",
+        "price": 1504
       },
       {
-        "name": "39.99禮包",
-        "price": 1188
+        "name": "1980仙玉",
+        "price": 881
       },
       {
-        "name": "29.99禮包",
-        "price": 865
+        "name": "1280仙玉",
+        "price": 596
       },
       {
-        "name": "19.99禮包",
-        "price": 585
+        "name": "680仙玉",
+        "price": 294
       },
       {
-        "name": "14.99禮包",
-        "price": 428
+        "name": "300仙玉",
+        "price": 157
       },
       {
-        "name": "9.99禮包",
-        "price": 288
-      },
-      {
-        "name": "4.99禮包",
-        "price": 154
-      },
-      {
-        "name": "2.99禮包",
-        "price": 94
-      },
-      {
-        "name": "0.99禮包",
-        "price": 31
+        "name": "60仙玉",
+        "price": 30
       }
     ],
     "social": {
@@ -17634,44 +17618,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "99.99禮包",
-        "price": 2822
+        "name": "6480仙玉",
+        "price": 2874
       },
       {
-        "name": "49.99禮包",
-        "price": 1477
+        "name": "3280仙玉",
+        "price": 1504
       },
       {
-        "name": "39.99禮包",
-        "price": 1188
+        "name": "1980仙玉",
+        "price": 872
       },
       {
-        "name": "29.99禮包",
-        "price": 865
+        "name": "980仙玉",
+        "price": 436
       },
       {
-        "name": "19.99禮包",
-        "price": 585
+        "name": "300仙玉",
+        "price": 157
       },
       {
-        "name": "14.99禮包",
-        "price": 428
+        "name": "60仙玉",
+        "price": 30
       },
       {
-        "name": "9.99禮包",
-        "price": 288
+        "name": "商會禮賓",
+        "price": 157
       },
       {
-        "name": "4.99禮包",
-        "price": 154
+        "name": "商會上賓",
+        "price": 312
       },
       {
-        "name": "2.99禮包",
-        "price": 94
-      },
-      {
-        "name": "0.99禮包",
-        "price": 31
+        "name": "等級文牒",
+        "price": 436
       }
     ],
     "social": {
@@ -17804,40 +17784,44 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2789
+        "name": "去廣告禮包",
+        "price": 436
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1460
+        "name": "加速支援禮包",
+        "price": 268
       },
       {
-        "name": "990/29.99禮包",
-        "price": 855
+        "name": "初心者禮包",
+        "price": 55
       },
       {
-        "name": "840/24.99禮包",
-        "price": 726
+        "name": "高級通行證",
+        "price": 175
       },
       {
-        "name": "670/19.99禮包",
-        "price": 579
+        "name": "特級通行證",
+        "price": 347
       },
       {
-        "name": "490/14.99禮包",
-        "price": 423
+        "name": "VIP禮包",
+        "price": 111
       },
       {
-        "name": "330/9.99禮包",
-        "price": 285
+        "name": "VVIP禮包",
+        "price": 347
       },
       {
-        "name": "170/4.99禮包",
-        "price": 152
+        "name": "16000寶石",
+        "price": 2038
       },
       {
-        "name": "33/0.99禮包",
-        "price": 30
+        "name": "4600寶石",
+        "price": 614
+      },
+      {
+        "name": "1500寶石",
+        "price": 203
       }
     ],
     "social": {
@@ -17952,5 +17936,329 @@
       "禮包碼": "gift-codes.html?game=星際守護者"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=星際守護者"
+  },
+  "霹靂蘑菇": {
+    "logo": "images/霹靂蘑菇.jpg",
+    "description": "霹靂布袋戲與最萌蘑菇大進擊！《霹靂蘑菇》帶你進入菇境中原，與素還真等經典俠士展開冒險。這款休閒放置手遊不只畫面超Q，策略布陣與角色養成更讓你停不下來！想要變強記得鎖定最新攻略，這裡提供各種進階技巧與最新兌換碼分享，還有超划算的官方禮包碼等你拿。想省錢就找專業代儲值，管道快速安全又可靠，讓你在江湖路上一路開掛。巴哈玩家都在玩，快來加入這場充滿笑聲與驚喜的奇幻之旅，打造你的最強俠士團吧，現在就立刻下載體驗這場華麗大冒險！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2789
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/PiliMushroomM/",
+      "官方網站": "https://plm.wasabii.com.tw/",
+      "App Store": "https://apps.apple.com/hk/app/%E9%9C%B9%E9%9D%82%E8%98%91%E8%8F%87/id6756087933",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.cayenne.plm",
+      "禮包碼": "gift-codes.html?game=霹靂蘑菇"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=霹靂蘑菇"
+  },
+  "小將超兇": {
+    "logo": "images/小將超兇.jpg",
+    "description": "《小將超兇》這款遊戲真的反差萌！當古今名將化身超可愛勇者，打起架來卻是狠勁十足，戰鬥魄力完全沒在客氣。聯動胖虎更是笑果十足，玩家需要動腦調整陣位與技能羈絆，才能在混戰中勝出。想知道強力的陣容搭配就看攻略，最新兌換碼與官方禮包碼一次幫你整理好，新手開局就能資源領滿滿。需要更多金幣或道具？選擇優質代儲值不僅優惠多，還能保證快速安全到帳，讓你養成完全沒負擔，快來體驗這場史上最兇狠又逗趣的跨時空大亂鬥，領取你的專屬強力神將吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2789
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/chronorumble/?locale=zh_TW",
+      "官方網站": "https://chronorumble.playbestgameshk.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%8F%E5%B0%87%E8%B6%85%E5%85%87/id6756172268",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.gameyk.matw&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=小將超兇"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=小將超兇"
+  },
+  "勇者逗逗龍": {
+    "logo": "images/勇者逗逗龍.jpg",
+    "description": "在艾瑟隆大陸展開奇幻冒險！《勇者逗逗龍》採用精緻像素風搭配Live2D，給你最復古又現代的戰鬥感。在這裡藍卡也能變神卡，馴服專屬戰龍與夥伴一起驅逐黑暗，劇情幽默有梗就像看輕喜劇。爬坑必看進階攻略，我們幫你挖出最新兌換碼與官方禮包碼，海量招募券領到手軟！課金大佬想快人一步？推薦代儲值管道，流程簡單且快速安全，讓你輕鬆組建UR夢幻隊伍割草平推。趕快揪朋友一起逗陣Play，拯救這片充滿回憶的大陸，開創你的勇者傳奇，寫下不朽篇章！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2789
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/LegendOfBraveheart/",
+      "官方網站": "https://lob.ujoygames.com/#/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8B%87%E8%80%85%E9%80%97%E9%80%97%E9%BE%8D/id6749419759",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ujoy.braveheart.aos&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=勇者逗逗龍"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=勇者逗逗龍"
+  },
+  "姬不可失：據點不設防": {
+    "logo": "images/姬不可失：據點不設防.jpg",
+    "description": "韓國人氣塔防《姬不可失：據點不設防》震撼來襲！當三國名將與性感紅顏齊聚，這波「姬」會絕對不能錯過。開局狂送3000抽加SSR貂蟬，讓你養眼又強大，雙語配音沉浸感直接拉滿。想研究最強守塔陣容記得看攻略，各種隱藏的最新兌換碼與官方禮包碼全收錄，讓你戰力直接頂配。想抽滿全後宮就選專業代儲值，價格超優且快速安全，保證不鎖帳。韓系畫風精緻到沒話說，快來據點打造你的專屬溫柔鄉，享受策略與視覺的雙重盛宴吧，現在立刻預約正是大好時候！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "6000元寶",
+        "price": 2858
+      },
+      {
+        "name": "3000元寶",
+        "price": 1496
+      },
+      {
+        "name": "1800元寶",
+        "price": 876
+      },
+      {
+        "name": "1200元寶",
+        "price": 593
+      },
+      {
+        "name": "900元寶",
+        "price": 434
+      },
+      {
+        "name": "600元寶",
+        "price": 292
+      },
+      {
+        "name": "300元寶",
+        "price": 156
+      },
+      {
+        "name": "120元寶",
+        "price": 64
+      },
+      {
+        "name": "60元寶",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/lmsgtd",
+      "官方網站": "https://sgtd.lovemoodgames.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A7%AC%E4%B8%8D%E5%8F%AF%E5%A4%B1-%E6%93%9A%E9%BB%9E%E4%B8%8D%E8%A8%AD%E9%98%B2/id6754364750",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.lovemoodstudio.sgtd",
+      "禮包碼": "gift-codes.html?game=姬不可失：據點不設防"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=姬不可失：據點不設防"
+  },
+  "集結啦！帕萌獸": {
+    "logo": "images/集結啦！帕萌獸.jpg",
+    "description": "《集結啦！帕萌獸》帶你進入最療癒的抓寵世界！這款主打「抓寵打工」的開放世界冒險，玩家要丟瓶子收服超萌帕萌獸，讓牠們幫你發電、種田跟建設家園，玩起來真的超像某款神作。不管是神獸還是稀有帕萌，攻略通通教你抓！我們同步更新最新兌換碼與官方禮包碼，讓訓練家開局就有豐富資源。不想慢慢農？代儲值是你的好幫手，選擇評價高的管道保證快速安全，助你快速擴張據點領地。快來加入預約，成為最強帕萌大師，展開這場溫暖人心又充滿驚奇的冒險之旅！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2789
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/PalmonSurvivalTW/",
+      "官方網站": "https://www.facebook.com/PalmonSurvivalTW/",
+      "App Store": "https://apps.apple.com/tw/app/%E9%9B%86%E7%B5%90%E5%95%A6-%E5%B8%95%E8%90%8C%E7%8D%B8/id6756285876",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.farlight.palmon.gp.tw",
+      "禮包碼": "gift-codes.html?game=集結啦！帕萌獸"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=集結啦！帕萌獸"
+  },
+  "超限進化：界域崩解": {
+    "logo": "images/超限進化：界域崩解.jpg",
+    "description": "科幻風爆棚的《超限進化：界域崩解》終於來啦！在崩毀的界域中，玩家作為進化者必須不斷強化武裝，透過策略組合與資源管理在末日生存。這款手遊畫面精緻、玩法多元，不管是硬核戰鬥還是基地建設都很有深度。新手想生存必讀攻略，這裡有最新的技巧教學及最新兌換碼分享，官方禮包碼更是不能漏領。強化裝備覺得資源不夠？專業代儲值提供超划算的價格，快速安全秒到帳，讓你在界域戰場上所向披靡。快來體驗這場究極進化之旅，拯救破碎的世界與文明，守護人類曙光！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2789
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61586017062659",
+      "官方網站": "https://kamehameha.top/",
+      "App Store": "https://apps.apple.com/mo/app/%E8%B6%85%E9%99%90%E9%80%B2%E5%8C%96-%E7%95%8C%E5%9F%9F%E5%B4%A9%E8%A7%A3/id6758048294",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.brokfighda.gp&fbclid=IwY2xjawPr9LxleHRuA2FlbQIxMABicmlkETFkZzJnNUNtQ3NxV0FaTXh2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHptLGznwzmvNVJSbk7Oefv2YtIMMkYTIGp_v9Ofn3Iy3AvSF1Zh66tWBL_K9_aem_WgFb8LpmQTQr9AqbmA32sw",
+      "禮包碼": "gift-codes.html?game=超限進化：界域崩解"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=超限進化：界域崩解"
   }
 }
