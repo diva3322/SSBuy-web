@@ -12777,6 +12777,10 @@
       {
         "code": "dc555",
         "reward": "龍鯉帖*1+上品經驗丹*3+通寶*8888"
+      },
+      {
+        "code": "thxdc7",
+        "reward": "龍鯉帖*1+上品經驗丹*3+通寶*8888"
       }
     ]
   },
@@ -12922,6 +12926,10 @@
       {
         "code": "dcwelcome",
         "reward": ""
+      },
+      {
+        "code": "tiger777",
+        "reward": "胖虎專屬資源"
       }
     ]
   },
@@ -12933,6 +12941,26 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "VIP666",
+        "reward": "勇者召喚卡x10"
+      },
+      {
+        "code": "VIP777",
+        "reward": "裝備強化石x2000+強化藥劑x2000"
+      },
+      {
+        "code": "VIP888",
+        "reward": "鑽石x288"
+      },
+      {
+        "code": "LOB2026",
+        "reward": "勇者召喚卡x10"
+      },
+      {
+        "code": "PLAY2026",
+        "reward": "勇者召喚卡x10"
       }
     ]
   },
@@ -12977,6 +13005,10 @@
       },
       {
         "code": "VIP888",
+        "reward": ""
+      },
+      {
+        "code": "down100w",
         "reward": ""
       }
     ]
