@@ -13082,6 +13082,69 @@
       {
         "code": "OPEN2026",
         "reward": ""
+      },
+      {
+        "code": "FEB5U3R",
+        "reward": "鑽石 ×100， 戰士召喚券 ×5， Z 水晶 ×100"
+      }
+    ]
+  },
+  "魔法少女小圓 Magia Exedra": {
+    "banner": "giftcodesbanner/魔法少女小圓 Magia Exedra-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "無職轉生江湖為了回家只好拿出真本事了": {
+    "banner": "giftcodesbanner/無職轉生江湖為了回家只好拿出真本事了-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "welcomedc",
+        "reward": ""
+      }
+    ]
+  },
+  "永夜降臨：雙面魅影": {
+    "banner": "giftcodesbanner/永夜降臨：雙面魅影-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "YYJLDAY1",
+        "reward": ""
+      },
+      {
+        "code": "YONGYE0206",
+        "reward": ""
+      },
+      {
+        "code": "YYJL888",
+        "reward": ""
+      },
+      {
+        "code": "SMMY666",
+        "reward": ""
       }
     ]
   }
