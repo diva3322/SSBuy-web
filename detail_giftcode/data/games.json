@@ -18366,5 +18366,59 @@
       "禮包碼": "gift-codes.html?game=永夜降臨：雙面魅影"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=永夜降臨：雙面魅影"
+  },
+  "裝甲前線：戰區": {
+    "logo": "images/裝甲前線：戰區.jpg",
+    "description": "指揮官們請注意！《裝甲前線：戰區》這款硬派現代戰爭SLG手遊火熱開打，想體驗最真實的陸戰快感嗎？本作完美還原經典坦克細節，玩家需建立基地、研發科技，並在大地圖上展開即時戰略對決。無論是搶奪資源或公會團戰，策略佈局絕對是獲勝關鍵，想變強記得先爬文看攻略！小編已幫大家整理好最新兌換碼與官方禮包碼，開局資源完全免煩惱。若想快速入手強力單位，首選SSbuy代儲值服務，保證快速安全，助你在這場鋼鐵洪流中稱霸戰場，快下載加入吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2789
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/ArmoredFrontlineWarzone/",
+      "官方網站": "https://vfun.valofe.com/library?service_code=af-warzone&utm_source=Facebook&utm_medium=Viral&utm_campaign=Armored+Frontline+Warzone&utm_content=Game&utm_term=Pre-Register&fbclid=IwY2xjawP0EARleHRuA2FlbQIxMABicmlkETE0b1N6R0RkWGJ2dHJ5elFBc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqXon_zX6sfv-vkae1N5T9X5CCU9dsMTEIarLA33ObO5EAU9pmDpXV_EKswY_aem_5vHYVooSaK3s-bMTc09mBQ",
+      "App Store": "https://apps.apple.com/tw/app/armored-frontline-warzone/id6745139021",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.valofe.armoredfrontline.google.gl",
+      "禮包碼": "gift-codes.html?game=裝甲前線：戰區"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=裝甲前線：戰區"
   }
 }
