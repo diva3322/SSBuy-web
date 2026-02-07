@@ -13166,5 +13166,18 @@
         "reward": ""
       }
     ]
+  },
+  "裝甲前線：戰區": {
+    "banner": "giftcodesbanner/裝甲前線：戰區-禮包碼.jpg",
+    "description": "",
+    "howTo": [
+      "等待遊戲公司更新"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
   }
 }
