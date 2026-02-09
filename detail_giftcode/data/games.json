@@ -18420,5 +18420,113 @@
       "禮包碼": "gift-codes.html?game=裝甲前線：戰區"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=裝甲前線：戰區"
+  },
+  "星神世界": {
+    "logo": "images/星神世界.jpg",
+    "description": "各位大大，又是款號稱次世代畫面的MMO《星神世界》來啦！這次不只要在星空下談戀愛，還要跟星靈簽契約去扁宏偉巨神，聽起來肝度爆表對吧？別擔心，為了讓大家在絕美浮空島也能輕鬆變強，這邊整理了最完整的攻略與最新兌換碼。想要拿到手軟的官方禮包碼不用到處跪求，找我們專業代儲值最實在。想要戰力光速飛升又怕被坑？我們的服務主打快速安全，讓你專心看極光把妹就好，課金這種粗活就交給專業的來搞定！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2789
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/sj.552play",
+      "官方網站": "https://hm.552play.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E6%98%9F%E7%A5%9E%E4%B8%96%E7%95%8C/id6756480133",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.joyfulpy.hmgg",
+      "禮包碼": "gift-codes.html?game=星神世界"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=星神世界"
+  },
+  "大神駕到： 來囉！來囉！": {
+    "logo": "images/大神駕到： 來囉！來囉！.jpg",
+    "description": "這款《大神駕到：來囉！來囉！》真的有夠鬧，媽祖跟財神都跑出來了，開局還送1000抽，這年頭神明也太競爭了吧！主打躺平也能贏的放置玩法，根本是為我們這種懶人量身打造。想知道怎麼配隊最猛？這裡有最強陣容攻略與最新兌換碼。想要更多官方禮包碼或資源？找我們代儲值絕對划算。我們的服務保證快速安全，讓你不用擲筊問神明，也能在遊戲裡橫著走，爽爽當個神界大尾鱸鰻！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "6480鑽石",
+        "price": 2641
+      },
+      {
+        "name": "3280鑽石",
+        "price": 1341
+      },
+      {
+        "name": "1980鑽石",
+        "price": 891
+      },
+      {
+        "name": "1280鑽石",
+        "price": 603
+      },
+      {
+        "name": "680鑽石",
+        "price": 297
+      },
+      {
+        "name": "300鑽石",
+        "price": 159
+      },
+      {
+        "name": "60鑽石",
+        "price": 31
+      },
+      {
+        "name": "快速掛機",
+        "price": 297
+      },
+      {
+        "name": "神之祈禱",
+        "price": 159
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/godsarrive1?fbclid=IwY2xjawP2n2pleHRuA2FlbQIxMABicmlkETF3ejVFcGM4amNYRVIxbnlmc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsYGvla6PRM1aFPFAN0V_bmDDcbZATZgbXXnCaGYHT5JrSvxXDiHaUz3lcQe_aem_ilZ8FkxytFFRycEoqFXoTw&shortlink=fb&c=FB&pid=Social_facebook&af_xp=social&source_caller=ui",
+      "官方網站": "https://game.godsarrive.com/pay",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A4%A7%E7%A5%9E%E9%A7%95%E5%88%B0-%E4%BE%86%E5%9B%89-%E4%BE%86%E5%9B%89/id6755149574",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.dsjd.gp",
+      "禮包碼": "gift-codes.html?game=大神駕到： 來囉！來囉！"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=大神駕到： 來囉！來囉！"
   }
 }
