@@ -15,10 +15,19 @@
     <link rel="stylesheet" href="/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
     <script src="/script.js" defer></script>
+    
+    <style>
+        .giftcodes-banner-responsive {
+            display: block;
+            width: 100%;      /* 強制左右撐滿 */
+            height: auto;     /* 高度自動縮放，保持原比例 */
+            max-width: 100%;  /* 防止超出容器 */
+        }
+    </style>
 </head>
 <body class="giftcodes-detail-page"> 
   <div class="sidebar">
-    <a href="https://www.ssbuy.tw/"><img src="/logo.jpg" alt="公司 LOGO" class="company-logo" /></a>
+    <a href="https://www.ssbuy.tw/"><img src="/logo.jpg" alt="公司 LOGO" class="company-logo" width="200" height="60" style="max-width:100%; height:auto;" /></a>
     <ul>
       <li><a href="https://www.ssbuy.tw/new-games.html">新上遊戲</a></li>
       <li><a href="https://www.ssbuy.tw/all-games.html">所有遊戲</a></li>
@@ -28,7 +37,7 @@
     </ul>
   </div>
   <div class="header-wrapper">
-    <a href="https://www.ssbuy.tw/"><img src="/logobanner.jpg" alt="速速幫你儲手遊" class="header-img"/></a>
+    <a href="https://www.ssbuy.tw/"><img src="/logobanner.jpg" alt="速速幫你儲手遊" class="header-img" width="800" height="200" style="width:100%; height:auto;" /></a>
   </div>
   <div class="mobile-top-bar">
     <button class="mobile-menu-toggle"><span class="hamburger-icon">☰</span> MENU</button>
@@ -45,7 +54,9 @@
   <div class="main-content">
       <div class="content-box" id="giftcodes-main-container">
           <a href="https://lihi.cc/OjPRl" target="_blank" rel="noopener noreferrer">
-            <img src="/{{BANNER_IMG}}" alt="{{GAME_TITLE}} Banner" class="giftcodes-banner"/>
+            <img src="/{{BANNER_IMG}}" 
+                 alt="{{GAME_TITLE}} Banner" 
+                 class="giftcodes-banner-responsive"/>
           </a>
           <h1>{{GAME_TITLE}} 最新 禮包碼/兌換碼/序號/免費領取</h1>
           <h2>目錄</h2>
