@@ -55,4 +55,6 @@ echo   請稍待 GitHub Actions 完成部署。
 echo ==========================================================
 echo.
 
-pause
+echo 請按任意鍵退出程式...
+pause >nul
+exit
