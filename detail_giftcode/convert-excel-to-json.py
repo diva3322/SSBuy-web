@@ -41,9 +41,15 @@ def process_gift_codes():
             if banner_url:
                 final_banner_path = banner_url
             elif banner_filename:
-                final_banner_path = f"giftcodesbanner/{banner_filename}"
+                # [🔥修正] 確保路徑完整性
+                filename_no_ext = os.path.splitext(banner_filename)[0]
+                # 如果檔名裡沒有 giftcodesbanner/，就幫它補上
+                if not filename_no_ext.startswith('giftcodesbanner/'):
+                     final_banner_path = f"giftcodesbanner/{filename_no_ext}.webp"
+                else:
+                     final_banner_path = f"{filename_no_ext}.webp"
             else:
-                final_banner_path = f"giftcodesbanner/{game_name}-禮包碼.jpg"
+                final_banner_path = f"giftcodesbanner/{game_name}-禮包碼.webp"
 
             # 確保路徑只會有一個 'giftcodesbanner/'
             if final_banner_path.startswith('giftcodesbanner/giftcodesbanner/'):
@@ -110,8 +116,19 @@ def process_games():
             if not game_name: continue
             
             logo_path_from_excel = str(row.get('Logo', '')).strip()
-            final_logo_path = logo_path_from_excel if logo_path_from_excel else f"images/{game_name}.jpg"
+            final_logo_path = logo_path_from_excel if logo_path_from_excel else f"images/{game_name}.webp"
             
+            # [🔥修改] 強制處理 Logo 副檔名
+            if logo_path_from_excel:
+                filename_no_ext = os.path.splitext(logo_path_from_excel)[0]
+                # [🔥修正] 如果 Excel 填的路徑沒有 images/，就幫它補上
+                if not filename_no_ext.startswith('images/'):
+                     final_logo_path = f"images/{filename_no_ext}.webp"
+                else:
+                     final_logo_path = f"{filename_no_ext}.webp"
+            else:
+                final_logo_path = f"images/{game_name}.webp"
+
             products_list = []
             for i in range(1, 16):
                 p_name = str(row.get(f'商品{i}名稱', '')).strip()
