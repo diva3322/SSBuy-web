@@ -13327,6 +13327,10 @@
       {
         "code": "VIP9999",
         "reward": ""
+      },
+      {
+        "code": "WEEK1OL",
+        "reward": ""
       }
     ]
   },
@@ -13398,6 +13402,22 @@
       },
       {
         "code": "RUAN111",
+        "reward": ""
+      },
+      {
+        "code": "VIP666",
+        "reward": ""
+      },
+      {
+        "code": "VIP777",
+        "reward": ""
+      },
+      {
+        "code": "VIP888",
+        "reward": ""
+      },
+      {
+        "code": "VIP999",
         "reward": ""
       }
     ]
