@@ -18714,5 +18714,155 @@
       "禮包碼": "gift-codes.html?game=軟泥星球"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=軟泥星球"
+  },
+  "K-Demon Hunter": {
+    "logo": "images/K-Demon Hunter.webp",
+    "description": "《K-Demon Hunter》帶來了令人驚豔的除妖世界！精緻細膩的畫風與流暢的操作體驗，絕對讓大家愛不釋手。想在遊戲初期就輕鬆拔得頭籌嗎？快來領取最新兌換碼與官方禮包碼，超多實用虛寶讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的打寶樂趣。無論你需要最詳盡的新手通關攻略，還是想找尋優質的課金管道，這裡通通都能完美滿足你。趕緊加入獵魔人行列，一起展開熱血的冒險征途吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "28000翡翠",
+        "price": 2241
+      },
+      {
+        "name": "12000翡翠",
+        "price": 1071
+      },
+      {
+        "name": "6000翡翠",
+        "price": 531
+      },
+      {
+        "name": "2200翡翠",
+        "price": 205
+      },
+      {
+        "name": "1200翡翠",
+        "price": 112
+      },
+      {
+        "name": "300翡翠",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/k-demon-hunter/id6757422245",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.codedragon.kdemon&hl=zh",
+      "禮包碼": "gift-codes.html?game=K-Demon Hunter"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=K-Demon Hunter"
+  },
+  "傾世仙姬": {
+    "logo": "images/傾世仙姬.webp",
+    "description": "《傾世仙姬》打造了唯美浪漫的仙俠世界！精緻細膩的畫風與華麗的技能特效，絕對讓喜愛修仙的玩家們愛不釋手。想在遊戲初期就輕鬆拔得頭籌嗎？趕快來領取最新兌換碼與官方禮包碼，超多實用虛寶讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的修煉樂趣。無論你需要最詳盡的新手通關攻略，還是想找尋優質的課金管道，這裡通通都能完美滿足你。趕緊化身仙姬，一起展開熱血的冒險征途吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/tw.fairy",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E5%82%BE%E4%B8%96%E4%BB%99%E5%A7%AC/id6757894064",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.jlsyb2.twgp",
+      "禮包碼": "gift-codes.html?game=傾世仙姬"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=傾世仙姬"
+  },
+  "生化危機 生存兵種": {
+    "logo": "images/生化危機 生存兵種.webp",
+    "description": "《生化危機 生存兵種》帶來了超刺激的末日世界！精緻寫實的畫風與充滿張力的生存考驗，絕對讓大家愛不釋手。想在末日初期就輕鬆拔得頭籌嗎？快來領取最新兌換碼與官方禮包碼，滿滿救命物資讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的射擊樂趣。無論你需要最詳盡的生存通關攻略，還是想找尋優質的課金管道，這裡通通都能完美滿足你。趕緊全副武裝，一起展開熱血的末日征途吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/ResidentEvilSurvivalUnitTaiwan/",
+      "官方網站": "https://www.residentevil-survivalunit.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%A9%9F-%E7%94%9F%E5%AD%98%E5%85%B5%E7%A8%AE/id6744668327",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.aniplex.resu",
+      "禮包碼": "gift-codes.html?game=生化危機 生存兵種"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=生化危機 生存兵種"
+  },
+  "魔法門：命運": {
+    "logo": "images/魔法門：命運.webp",
+    "description": "《魔法門：命運》打造了充滿奇幻色彩的魔法世界！細膩精美的卡牌畫風與充滿策略的深度對戰，絕對讓大家愛不釋手。想在遊戲初期就輕鬆拔得頭籌嗎？快來領取最新兌換碼與官方禮包碼，超多珍貴神卡讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的鬥智樂趣。無論你需要最詳盡的卡組配置攻略，還是想找尋優質的課金管道，這裡通通都能完美滿足你。趕緊組建最強陣容，一起展開熱血征途吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://x.com/MightMagicFates",
+      "官方網站": "https://www.mightandmagicfates.com/",
+      "App Store": "https://apps.apple.com/tw/app/might-magic-fates-tcg/id6747573541",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ubisoft.mightmagic.fates.tcg",
+      "禮包碼": "gift-codes.html?game=魔法門：命運"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=魔法門：命運"
+  },
+  "HUNTER×HUNTER NEN×SURVIVOR": {
+    "logo": "images/HUNTER×HUNTER NEN×SURVIVOR.webp",
+    "description": "《HUNTER×HUNTER NEN×SURVIVOR》帶來了超燃的獵人世界！精緻細膩的畫風與流暢的操作體驗，絕對讓粉絲愛不釋手。想在遊戲初期輕鬆拔得頭籌嗎？快來領取最新兌換碼與官方禮包碼，滿滿虛寶讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的念能力激戰樂趣。無論你需要最詳盡的新手通關攻略，還是找尋優質課金管道，這裡通通都能完美滿足你。快來展開熱血冒險吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://x.com/Survivor_HxH",
+      "官方網站": "https://hunterhunter-ns.bushimo.jp/",
+      "App Store": "https://apps.apple.com/tw/app/hunter-hunter-nen-survivor/id6753738566",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.hxh.survivor",
+      "禮包碼": "gift-codes.html?game=HUNTER×HUNTER NEN×SURVIVOR"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=HUNTER×HUNTER NEN×SURVIVOR"
+  },
+  "喵喵特工隊": {
+    "logo": "images/喵喵特工隊.webp",
+    "description": "《喵喵特工隊》打造了超萌超療癒的貓咪世界！精緻可愛的畫風與輕鬆休閒的養成玩法，絕對讓各位貓奴們愛不釋手。想在遊戲初期就輕鬆拔得頭籌嗎？趕快來領取最新兌換碼與官方禮包碼，滿滿貓罐頭讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的雲吸貓樂趣。無論你需要最詳盡的新手通關攻略，還是想找尋優質的課金管道，這裡通通都能完美滿足你。趕緊率領貓咪，一起展開熱血的冒險征途吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61586514749869",
+      "官方網站": "https://cat.jasfun.cc/?fbclid=IwY2xjawQD0aFleHRuA2FlbQIxMABicmlkETJjcjdrNUZPUGU2MTdLNG1lc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHokgwLB21iBO5-vbgELI6X9VDYBRMGaBhTm1Htga1MO-s6S3ebjKYBkJ2k9f_aem_IPL86oPTv5cy3Zc2TaerFA",
+      "App Store": "https://apps.apple.com/tw/app/%E5%96%B5%E5%96%B5%E7%89%B9%E5%B7%A5%E9%9A%8A/id6757390301",
+      "Google Play": "https://play.google.com/store/apps/details?id=cc.jasfun.cat.android",
+      "禮包碼": "gift-codes.html?game=喵喵特工隊"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=喵喵特工隊"
+  },
+  "千年3D：經典重生": {
+    "logo": "images/千年3D：經典重生.webp",
+    "description": "《千年3D：經典重生》重現了原汁原味的武俠世界！精緻升級的3D畫風與熱血沸騰的武功對決，絕對讓老玩家們愛不釋手。想在江湖初期就輕鬆拔得頭籌嗎？快來領取最新兌換碼與官方禮包碼，滿滿神裝讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的練功樂趣。無論你需要最詳盡的新手通關攻略，還是想找尋優質的課金管道，這裡通通都能完美滿足你。趕緊重返江湖，一起展開熱血的武林征途吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61586484337654",
+      "官方網站": "https://www.qn-tw.com/?fbclid=IwY2xjawQD0-5leHRuA2FlbQIxMABicmlkETJDRDhpZlFNYVZzaW81bWhYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrJYuydblwpCfIzON3tPUDX6f3stIB7D6Zn7CiZU6qx4L_S8Hp7NnSkFSbja_aem_ggeLiXljT8Eon1mWpXwRsg",
+      "App Store": "https://www.facebook.com/profile.php?id=61586484337654#",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.xqn3d.gp&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=千年3D：經典重生"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=千年3D：經典重生"
   }
 }
