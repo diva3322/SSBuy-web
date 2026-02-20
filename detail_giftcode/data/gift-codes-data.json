@@ -13498,12 +13498,47 @@
     "banner": "giftcodesbanner/生化危機 生存兵種-禮包碼.webp",
     "description": "《生化危機 生存兵種》帶來了超刺激的末日世界！精緻寫實的畫風與充滿張力的生存考驗，絕對讓大家愛不釋手。想在末日初期就輕鬆拔得頭籌嗎？快來領取最新兌換碼與官方禮包碼，滿滿救命物資讓你開局無往不利！若想進一步飛速提升戰力，我們提供最專業的代儲值服務，保證流程絕對快速安全，讓你安心享受極致的射擊樂趣。無論你需要最詳盡的生存通關攻略，還是想找尋優質的課金管道，這裡通通都能完美滿足你。趕緊全副武裝，一起展開熱血的末日征途吧！",
     "howTo": [
-      "等待遊戲公司更新"
+      "點左上角頭像",
+      "進入設定之後點「Promo Code」",
+      "輸入禮包碼即可兌換免費禮包",
+      "IOS網站:https://promocode.residentevil-survivalunit.com/"
     ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "LUNAR FORTUNE",
+        "reward": ""
+      },
+      {
+        "code": "5M SURVIVORS",
+        "reward": ""
+      },
+      {
+        "code": "4M SURVIVORS",
+        "reward": ""
+      },
+      {
+        "code": "3M SURVIVORS",
+        "reward": ""
+      },
+      {
+        "code": "2M SURVIVORS",
+        "reward": ""
+      },
+      {
+        "code": "1M SURVIVORS",
+        "reward": ""
+      },
+      {
+        "code": "TOPSURVIVALUNIT",
+        "reward": ""
+      },
+      {
+        "code": "PLAYSURVIVALUNIT",
+        "reward": ""
       }
     ]
   },
@@ -13565,6 +13600,10 @@
       {
         "code": "CAT999",
         "reward": "鑽石*66+刃影英文史詩萬用碎片*3"
+      },
+      {
+        "code": "BERICH202",
+        "reward": ""
       }
     ]
   },
@@ -13581,6 +13620,50 @@
       },
       {
         "code": "LDQIANNIAN",
+        "reward": ""
+      },
+      {
+        "code": "1000ygogogo",
+        "reward": ""
+      },
+      {
+        "code": "COUNT03",
+        "reward": ""
+      },
+      {
+        "code": "COUNT02",
+        "reward": ""
+      },
+      {
+        "code": "COUNT01",
+        "reward": ""
+      },
+      {
+        "code": "ThankU",
+        "reward": ""
+      },
+      {
+        "code": "M7777",
+        "reward": ""
+      },
+      {
+        "code": "PMBX777",
+        "reward": ""
+      },
+      {
+        "code": "NewYear2025",
+        "reward": ""
+      },
+      {
+        "code": "QWE1230",
+        "reward": ""
+      },
+      {
+        "code": "ROGER777",
+        "reward": ""
+      },
+      {
+        "code": "NewYear1000y",
         "reward": ""
       }
     ]
