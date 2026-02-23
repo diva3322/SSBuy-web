@@ -12912,6 +12912,38 @@
       {
         "code": "GIFT99",
         "reward": "木材*400+綠礦*500+元寶*500(兌換至02/11)"
+      },
+      {
+        "code": "GOLD99",
+        "reward": ""
+      },
+      {
+        "code": "萬事如意",
+        "reward": ""
+      },
+      {
+        "code": "歐皇降臨",
+        "reward": ""
+      },
+      {
+        "code": "馬到成功",
+        "reward": ""
+      },
+      {
+        "code": "馬上有錢",
+        "reward": ""
+      },
+      {
+        "code": "在家玩霹靂",
+        "reward": ""
+      },
+      {
+        "code": "紅包拿來",
+        "reward": ""
+      },
+      {
+        "code": "壞運去去走",
+        "reward": ""
       }
     ]
   },
@@ -13427,6 +13459,18 @@
       {
         "code": "VIP999",
         "reward": ""
+      },
+      {
+        "code": "MNDJ888",
+        "reward": ""
+      },
+      {
+        "code": "ISAD666",
+        "reward": ""
+      },
+      {
+        "code": "WYXT666",
+        "reward": ""
       }
     ]
   },
@@ -13440,6 +13484,14 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "PREREGIFT",
+        "reward": ""
+      },
+      {
+        "code": "GRANDOPEN",
+        "reward": ""
       }
     ]
   },
@@ -13490,6 +13542,18 @@
       },
       {
         "code": "sssvip555",
+        "reward": ""
+      },
+      {
+        "code": "LUCK2026",
+        "reward": ""
+      },
+      {
+        "code": "FORTUNE2026",
+        "reward": ""
+      },
+      {
+        "code": "EVEDINNER",
         "reward": ""
       }
     ]
