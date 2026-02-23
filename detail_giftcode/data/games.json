@@ -18758,40 +18758,52 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2789
+        "name": "6480元寶",
+        "price": 3019
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1460
+        "name": "3280元寶",
+        "price": 1580
       },
       {
-        "name": "990/29.99禮包",
-        "price": 855
+        "name": "1980元寶",
+        "price": 926
       },
       {
-        "name": "840/24.99禮包",
-        "price": 726
+        "name": "1280元寶",
+        "price": 627
       },
       {
-        "name": "670/19.99禮包",
-        "price": 579
+        "name": "680元寶",
+        "price": 309
       },
       {
-        "name": "490/14.99禮包",
-        "price": 423
+        "name": "300元寶",
+        "price": 165
       },
       {
-        "name": "330/9.99禮包",
-        "price": 285
+        "name": "60元寶",
+        "price": 32
       },
       {
-        "name": "170/4.99禮包",
-        "price": 152
+        "name": "周卡",
+        "price": 97
       },
       {
-        "name": "33/0.99禮包",
-        "price": 30
+        "name": "月卡",
+        "price": 165
+      },
+      {
+        "name": "99.99通票",
+        "price": 3019
+      },
+      {
+        "name": "49.99通票",
+        "price": 1580
+      },
+      {
+        "name": "29.99通票",
+        "price": 926
       }
     ],
     "social": {
@@ -19072,5 +19084,59 @@
       "禮包碼": "gift-codes.html?game=千年3D：經典重生"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=千年3D：經典重生"
+  },
+  "虹彩六號M": {
+    "logo": "images/虹彩六號M.webp",
+    "description": "《虹彩六號M》把最硬核的5v5戰術射擊體驗原汁原味搬上手機啦！這款由Ubisoft打造的FPS大作，讓你隨時隨地展開激烈的攻防戰。不論是破壞牆壁突襲，還是佈置陷阱防守，多位經典幹員任你自由搭配，戰術變化絕對無窮！想要輕鬆爬分嗎？這裡為你準備了最實用的高手攻略、最新兌換碼與官方禮包碼，幫你快速解鎖心儀幹員。如果需要擴充軍備，我們也有提供專業的代儲值服務，保證絕對快速安全，讓你在手機版反恐戰場上毫無後顧之憂，現在就趕緊揪團開戰吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2744
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1393
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 855
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 726
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 579
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 152
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 30
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Rainbow6Mobile/",
+      "官方網站": "https://www.ubisoft.com/zh-tw/game/rainbow-six/mobile",
+      "App Store": "https://apps.apple.com/tw/app/%E8%99%B9%E5%BD%A9%E5%85%AD%E8%99%9F-m/id1608916511",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn",
+      "禮包碼": "gift-codes.html?game=虹彩六號M"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=虹彩六號M"
   }
 }
