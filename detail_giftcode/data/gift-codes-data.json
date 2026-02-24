@@ -13139,6 +13139,14 @@
       {
         "code": "GIFT0206",
         "reward": ""
+      },
+      {
+        "code": "MY26GIFT",
+        "reward": ""
+      },
+      {
+        "code": "FEB2P8G",
+        "reward": ""
       }
     ]
   },
@@ -13746,10 +13754,6 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
-      },
-      {
-        "code": "02/23~03/02",
-        "reward": "《虹彩六號 M》主題武器塗裝和通用卡片背景。"
       }
     ]
   }
