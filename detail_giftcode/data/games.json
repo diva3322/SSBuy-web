@@ -19142,5 +19142,41 @@
       "禮包碼": "gift-codes.html?game=虹彩六號M"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=虹彩六號M"
+  },
+  "勇者來開團": {
+    "logo": "images/勇者來開團.webp",
+    "description": "《勇者來開團》這款冒險RPG真的讓人停不下來！畫風可愛又耐玩，沒跟到團的玩家趕快來補位吧。想在開局就拿滿資源、領先其他隊友嗎？別忘了多看資深玩家的攻略分享，並準時領取官方發放的最新兌換碼，還有各種限時的官方禮包碼也是送好送滿，讓你輕鬆組成最強勇者小隊。如果你想更有效率地衝榜，省去慢慢肝資源的時間，推薦使用代儲值服務，流程不但快速安全而且更有保障。別再猶豫了，現在就點擊下載，進入遊戲享受痛快割草的冒險樂趣，成為全伺服器最亮眼的大佬吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/raidofthebrave/?locale=zh_TW",
+      "官方網站": "https://raidofthebrave.acenetgame.com/p-reg/?ss_cpp=officialfb-yellow-1&qd=officialfb&ss_kvvs=kv1&utm_campaign=%E5%8B%87%E8%80%85%E9%A0%90%E7%B4%84%E9%A0%81&utm_term=%E9%A0%90%E7%B4%84&utm_content=%E4%BA%8B%E5%89%8D%E9%A0%90%E7%B4%84&fbclid=IwY2xjawQMp31leHRuA2FlbQIxMABicmlkETJPUjROTWU3NWpaYkxnbXZBc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgqyt6JNidfE6prNFL_mUEqTHJY7IMwL7tqyw-VElGr2ZilqzM9V2cj3YYpw_aem_B0w8IQ2LCmwo5riaAgo_dw",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8B%87%E8%80%85%E4%BE%86%E9%96%8B%E5%9C%98/id6753970194",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.yzlm.tw.and&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=勇者來開團"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=勇者來開團"
+  },
+  "Medabots Survivors": {
+    "logo": "images/Medabots Survivors.webp",
+    "description": "《Medabots Survivors》正式登場！經典徽章戰士結合最火紅的倖存者玩法，簡直讓老粉熱血沸騰！操作簡單易上手且極具策略性，自由改裝你的機械人掃蕩群敵吧。新手玩家入坑前記得先爬文看攻略，並鎖定官網公佈的最新兌換碼與官方禮包碼，拿到的零件能讓機器人戰力瞬間飆升。平時忙沒時間刷資源？選擇專業代儲值就是最聰明的管道，保證快速安全無負擔。趕快下載來體驗爽快彈幕射擊，跟著夥伴重溫童年回憶，親手打造出專屬的最強Medabots！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/medarotters",
+      "官方網站": "https://www.medarotsha.jp/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBEySDdTNUQwT2s2NXF4Nk5KYnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6GLicXn-w8Ip34h1DELBk8UzlMDlOPLma6NTpsDFLKhFTiuQOmY9w9xK2GLg_aem_3Khn3mjpG5dCqSznpxqaog",
+      "App Store": "https://apps.apple.com/mo/app/medabots-survivors/id6736600841",
+      "Google Play": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medarotsurvivors",
+      "禮包碼": "gift-codes.html?game=Medabots Survivors"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Medabots Survivors"
   }
 }
