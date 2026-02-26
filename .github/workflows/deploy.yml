@@ -20,49 +20,21 @@ jobs:
     
     # 定義執行的步驟
     steps:
-      # 步驟 1: 從 GitHub 下載您最新的程式碼到虛擬機
+      # 步驟 1: 從 GitHub 下載您最新上傳的「完美程式碼」
       - name: Checkout code
         uses: actions/checkout@v4
-
-      # 步驟 2: 設定 Python 環境
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      # 步驟 3: 安裝 Python 腳本需要的工具
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pandas openpyxl
-          
-      # 步驟 4: 設定 Node.js 環境
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      # 步驟 5: 執行所有產生檔案的腳本 (核心步驟)
-      - name: Run all build scripts
-        run: |
-          cd detail_giftcode
-          python convert-excel-to-json.py
-          node create_pages.js
-          node create-sitemap.js
-          cd ..
       
-      # 步驟 6: 設定 GitHub Pages
+      # 步驟 2: 設定 GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # 步驟 7: 將整個 web 資料夾打包，準備部署
+      # 步驟 3: 將整個 web 資料夾打包，準備部署 (原封不動打包)
       - name: Upload artifact
-        # [修改重點] 將版本從 v4 改為 v3
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # '.' 代表打包整個根目錄 (也就是 web 資料夾)
+          path: '.' # '.' 代表打包整個根目錄
 
-      # 步驟 8: 將打包好的網站發布出去
+      # 步驟 4: 將打包好的網站發布出去
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
