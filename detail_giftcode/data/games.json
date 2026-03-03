@@ -19446,5 +19446,59 @@
       "禮包碼": "gift-codes.html?game=迷你英雄：重返部落"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=迷你英雄：重返部落"
+  },
+  "石器時代：放置冒險": {
+    "logo": "images/石器時代：放置冒險.webp",
+    "description": "各位原始人注意啦！《石器時代：放置冒險》帶你重溫經典，輕鬆放置就能抓暴龍、騎長毛象！不想肝也能戰力狂飆！這裡有最實用的新手開局攻略，教你如何完美搭配寵物陣容。當然少不了大家最愛的滿滿福利，我們為你精心整理了最新兌換碼與官方禮包碼，超多鑽石資源等你拿，讓你初期開荒絕對不卡關！如果你想快速變強稱霸排行榜，推薦尋找快速安全的代儲值服務，讓你課金輕鬆無負擔，體驗爽快升級的樂趣。快來一起勇闖史前大陸，成為最強部落首領吧！趕緊下載遊戲立刻出發！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2813
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1459
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 854
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 725
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 578
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 149
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/StoneAgeIA.TC/",
+      "官方網站": "https://stoneage.netmarble.com/tc",
+      "App Store": "https://apps.apple.com/us/app/%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3-%E6%94%BE%E7%BD%AE%E5%86%92%E9%9A%AA/id6737408689?l=zh-Hant-TW",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey",
+      "禮包碼": "gift-codes.html?game=石器時代：放置冒險"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=石器時代：放置冒險"
   }
 }
