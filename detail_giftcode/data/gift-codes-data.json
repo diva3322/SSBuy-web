@@ -10981,6 +10981,18 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "CAORICH",
+        "reward": "玉葉*50、精品裝備隨機寶箱"
+      },
+      {
+        "code": "TKSEVE16",
+        "reward": "名將徵招令*2、雞腿*100000"
+      },
+      {
+        "code": "CAOKISS4",
+        "reward": "玉葉*50、小麥/鐵礦/木材*10000"
       }
     ]
   },
@@ -13780,6 +13792,54 @@
       },
       {
         "code": "YZCBTTW",
+        "reward": ""
+      },
+      {
+        "code": "YZOO216",
+        "reward": ""
+      },
+      {
+        "code": "BRAVE226",
+        "reward": ""
+      },
+      {
+        "code": "YZ666",
+        "reward": ""
+      },
+      {
+        "code": "YZ888",
+        "reward": ""
+      },
+      {
+        "code": "YZ1234",
+        "reward": ""
+      },
+      {
+        "code": "Albis2026",
+        "reward": ""
+      },
+      {
+        "code": "Roger2026",
+        "reward": ""
+      },
+      {
+        "code": "Tsuki2026",
+        "reward": ""
+      },
+      {
+        "code": "Jian2026",
+        "reward": ""
+      },
+      {
+        "code": "BRAVE226",
+        "reward": ""
+      },
+      {
+        "code": "ThankYou",
+        "reward": ""
+      },
+      {
+        "code": "X7K9M2P4",
         "reward": ""
       }
     ]
