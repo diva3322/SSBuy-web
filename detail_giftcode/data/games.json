@@ -15012,40 +15012,32 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2813
+        "name": "6580玉葉",
+        "price": 2799
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1459
+        "name": "3380玉葉",
+        "price": 1451
       },
       {
-        "name": "990/29.99禮包",
-        "price": 854
+        "name": "1380玉葉",
+        "price": 593
       },
       {
-        "name": "840/24.99禮包",
-        "price": 725
+        "name": "660玉葉",
+        "price": 283
       },
       {
-        "name": "670/19.99禮包",
-        "price": 578
-      },
-      {
-        "name": "490/14.99禮包",
-        "price": 423
-      },
-      {
-        "name": "330/9.99禮包",
-        "price": 285
-      },
-      {
-        "name": "170/4.99禮包",
+        "name": "340玉葉",
         "price": 149
       },
       {
-        "name": "33/0.99禮包",
+        "name": "66玉葉",
         "price": 29
+      },
+      {
+        "name": "成長基金",
+        "price": 593
       }
     ],
     "social": {
@@ -19294,40 +19286,44 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2813
+        "name": "100異形彩珀",
+        "price": 2799
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1459
+        "name": "65異形彩珀",
+        "price": 1709
       },
       {
-        "name": "990/29.99禮包",
-        "price": 854
+        "name": "33異形彩珀",
+        "price": 936
       },
       {
-        "name": "840/24.99禮包",
-        "price": 725
+        "name": "20異形彩珀",
+        "price": 593
       },
       {
-        "name": "670/19.99禮包",
-        "price": 578
+        "name": "10異形彩珀",
+        "price": 283
       },
       {
-        "name": "490/14.99禮包",
-        "price": 423
+        "name": "5異形彩珀",
+        "price": 131
       },
       {
-        "name": "330/9.99禮包",
-        "price": 285
+        "name": "月度出勤認證",
+        "price": 131
       },
       {
-        "name": "170/4.99禮包",
-        "price": 149
+        "name": "招集憑信",
+        "price": 263
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "收藏家研習計畫",
+        "price": 283
+      },
+      {
+        "name": "收藏家成長計畫",
+        "price": 593
       }
     ],
     "social": {
@@ -19348,40 +19344,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2813
+        "name": "1670寶石",
+        "price": 2310
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1459
+        "name": "1000寶石",
+        "price": 1632
       },
       {
-        "name": "990/29.99禮包",
-        "price": 854
+        "name": "660寶石",
+        "price": 1117
       },
       {
-        "name": "840/24.99禮包",
-        "price": 725
+        "name": "320寶石",
+        "price": 601
       },
       {
-        "name": "670/19.99禮包",
-        "price": 578
+        "name": "120寶石",
+        "price": 263
       },
       {
-        "name": "490/14.99禮包",
-        "price": 423
+        "name": "50寶石",
+        "price": 114
       },
       {
-        "name": "330/9.99禮包",
-        "price": 285
+        "name": "寶石通行證",
+        "price": 575
       },
       {
-        "name": "170/4.99禮包",
-        "price": 149
+        "name": "腳色通行證",
+        "price": 236
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "最強超值包每日寶石",
+        "price": 283
       }
     ],
     "social": {
@@ -19402,40 +19398,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2813
+        "name": "12960鑽石",
+        "price": 2799
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1459
+        "name": "6560鑽石",
+        "price": 1451
       },
       {
-        "name": "990/29.99禮包",
-        "price": 854
+        "name": "3960鑽石",
+        "price": 850
       },
       {
-        "name": "840/24.99禮包",
-        "price": 725
+        "name": "1760鑽石",
+        "price": 369
       },
       {
-        "name": "670/19.99禮包",
-        "price": 578
-      },
-      {
-        "name": "490/14.99禮包",
-        "price": 423
-      },
-      {
-        "name": "330/9.99禮包",
-        "price": 285
-      },
-      {
-        "name": "170/4.99禮包",
+        "name": "600鑽石",
         "price": 149
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "240鑽石",
+        "price": 60
+      },
+      {
+        "name": "暢玩卡",
+        "price": 114
+      },
+      {
+        "name": "超值月卡",
+        "price": 149
+      },
+      {
+        "name": "終身卡",
+        "price": 850
       }
     ],
     "social": {
@@ -19456,40 +19452,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2813
+        "name": "99000星星寶石",
+        "price": 1881
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1459
+        "name": "49000星星寶石",
+        "price": 902
       },
       {
-        "name": "990/29.99禮包",
-        "price": 854
+        "name": "25000星星寶石",
+        "price": 455
       },
       {
-        "name": "840/24.99禮包",
-        "price": 725
+        "name": "9900星星寶石",
+        "price": 201
       },
       {
-        "name": "670/19.99禮包",
-        "price": 578
+        "name": "4400星星寶石",
+        "price": 88
       },
       {
-        "name": "490/14.99禮包",
-        "price": 423
+        "name": "1500星星寶石",
+        "price": 29
       },
       {
-        "name": "330/9.99禮包",
-        "price": 285
+        "name": "永久優惠會員",
+        "price": 575
       },
       {
-        "name": "170/4.99禮包",
+        "name": "廣告永久移除會員",
         "price": 149
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "28日高級會員",
+        "price": 201
       }
     ],
     "social": {
@@ -19510,40 +19506,36 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2813
+        "name": "3750寶石",
+        "price": 2544
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1459
+        "name": "1500寶石",
+        "price": 1280
       },
       {
-        "name": "990/29.99禮包",
-        "price": 854
+        "name": "700寶石",
+        "price": 679
       },
       {
-        "name": "840/24.99禮包",
-        "price": 725
+        "name": "275寶石",
+        "price": 275
       },
       {
-        "name": "670/19.99禮包",
-        "price": 578
+        "name": "130寶石",
+        "price": 131
       },
       {
-        "name": "490/14.99禮包",
-        "price": 423
+        "name": "50寶石",
+        "price": 53
       },
       {
-        "name": "330/9.99禮包",
-        "price": 285
+        "name": "超級省錢大禮包",
+        "price": 275
       },
       {
-        "name": "170/4.99禮包",
-        "price": 149
-      },
-      {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "超值省錢禮包",
+        "price": 131
       }
     ],
     "social": {
@@ -19564,40 +19556,28 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2813
+        "name": "12900TCash",
+        "price": 2544
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1459
+        "name": "6600TCash",
+        "price": 1280
       },
       {
-        "name": "990/29.99禮包",
-        "price": 854
+        "name": "3300TCash",
+        "price": 679
       },
       {
-        "name": "840/24.99禮包",
-        "price": 725
+        "name": "1500TCash",
+        "price": 275
       },
       {
-        "name": "670/19.99禮包",
-        "price": 578
+        "name": "770TCash",
+        "price": 166
       },
       {
-        "name": "490/14.99禮包",
-        "price": 423
-      },
-      {
-        "name": "330/9.99禮包",
-        "price": 285
-      },
-      {
-        "name": "170/4.99禮包",
-        "price": 149
-      },
-      {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "110TCash",
+        "price": 26
       }
     ],
     "social": {
@@ -19662,5 +19642,113 @@
       "禮包碼": "gift-codes.html?game=刀劍朝鮮"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=刀劍朝鮮"
+  },
+  "咻咻史萊姆": {
+    "logo": "images/咻咻史萊姆.webp",
+    "description": "《咻咻史萊姆》這款超魔性的射擊放置手遊來啦！玩家要操控超Ｑ史萊姆瘋狂掃射，享受滿屏爆發的無敵爽快感！想要輕鬆推圖不卡關、輕鬆當大佬？這邊為你整理了最齊全的實用攻略，還有不能錯過的最新兌換碼與官方禮包碼，讓你開局就拿到滿滿資源，戰力狂飆絕對不落後！如果你想更進一步，快速解鎖稀有道具與強力武裝，我們也提供專業代儲值服務，保證快速安全，讓你安心享受最佳遊戲體驗。準備好化身最強史萊姆，展開這場爆笑刺激的華麗冒險了嗎？趕快下載爽玩一波吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2813
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1459
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 854
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 725
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 578
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 149
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61586828911646",
+      "官方網站": "https://www.x-legend.com.tw/pewpewslime/event/register/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%92%BB%E5%92%BB%E5%8F%B2%E8%90%8A%E5%A7%86-%E8%B7%9F%E8%91%97%E5%92%96%E6%B3%A2%E8%BC%95%E9%AC%86%E6%94%BE%E7%BD%AE/id6756606270",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.xlegend.pewpewslime.tw&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn",
+      "禮包碼": "gift-codes.html?game=咻咻史萊姆"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=咻咻史萊姆"
+  },
+  "VAMPIR：血之繼承者": {
+    "logo": "images/VAMPIR：血之繼承者.webp",
+    "description": "《VAMPIR：血之繼承者》帶你踏入充滿暗黑美學的吸血鬼世界！這款史詩級大作擁有極致聲光效果，讓你體驗暢快淋漓的浴血奮戰。想在殘酷的暗夜爭霸中脫穎而出嗎？我們為玩家準備了詳盡的必備攻略，更彙整了最新兌換碼與官方禮包碼，助你輕鬆獲取珍稀資源，戰力飆升無極限！若想迅速稱霸伺服器、入手頂級專屬裝備，我們提供專屬的代儲值服務，過程絕對快速安全，讓你無後顧之憂地征服黑暗。快來喚醒你的嗜血本能，成為最強的血族統治者吧！絕對讓你一玩就上癮！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2813
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1459
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 854
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 725
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 578
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 149
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/VAMPIRofficialTC/",
+      "官方網站": "https://vampirgb.netmarble.com/",
+      "App Store": "https://apps.apple.com/tw/app/vampir-%E8%A1%80%E4%B9%8B%E7%B9%BC%E6%89%BF%E8%80%85/id6738163891",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.netmarble.thered&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=VAMPIR：血之繼承者"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=VAMPIR：血之繼承者"
   }
 }
