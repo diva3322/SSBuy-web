@@ -19958,5 +19958,59 @@
       "禮包碼": "gift-codes.html?game=同盟塔防戰"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=同盟塔防戰"
+  },
+  "不正經魔王軍": {
+    "logo": "images/不正經魔王軍.webp",
+    "description": "全新搞笑系手遊《不正經魔王軍》強勢來襲！這次換你當家作主化身為魔王，帶領著一群奇葩又充滿特色的魔物大軍，痛快反攻那些自命不凡的勇者啦！遊戲畫風搞怪逗趣，輕鬆放置的玩法讓你毫無壓力，絕對能讓你笑到停不下來！想要在開局就霸氣碾壓全場嗎？這就奉上超實用的開局攻略，當然也少不了各種最新兌換碼與官方禮包碼，保證讓你前期資源拿好拿滿！若想更快打造頂級陣容，強烈推薦我們的代儲值服務，流程絕對快速安全，讓你征服世界無往不利，現在就上線開戰吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2751
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1427
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 836
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 734
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 566
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 414
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 279
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/MyDemonArmy",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%8D%E6%AD%A3%E7%B6%93%E9%AD%94%E7%8E%8B%E8%BB%8D/id6758982655",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.tg.zjxsc2.tw",
+      "禮包碼": "gift-codes.html?game=不正經魔王軍"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=不正經魔王軍"
   }
 }
