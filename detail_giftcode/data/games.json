@@ -20336,5 +20336,59 @@
       "禮包碼": "gift-codes.html?game=極樂仙途"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=極樂仙途"
+  },
+  "七大罪：origin": {
+    "logo": "images/七大罪：origin.webp",
+    "description": "真的瘋掉！朋友們懂那種等超久終於等到神作上線的感覺嗎？《七大罪：Origin》這次的開放世界真的超級頂，畫質神還原好到我直接原地破防！不想一開局就卡關落後別人嗎？這邊直接幫大家整理好最實用的開荒攻略啦！還有必備的最新兌換碼與官方禮包碼，保證讓你前期資源滿滿爽爽玩！如果你是課金大佬想直接抽爆心儀的本命角色，我們也有專屬的代儲值服務，主打一個快速安全絕對不囉嗦！快點跟我一起到布里塔尼亞大陸當個無情的探索機器吧，這波真的必須跟上啦！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "12200星之記憶",
+        "price": 2735
+      },
+      {
+        "name": "6200星之記憶",
+        "price": 1418
+      },
+      {
+        "name": "3800星之記憶",
+        "price": 831
+      },
+      {
+        "name": "1900星之記憶",
+        "price": 411
+      },
+      {
+        "name": "600星之記憶",
+        "price": 145
+      },
+      {
+        "name": "120星之記憶",
+        "price": 28
+      },
+      {
+        "name": "工匠的製作台禮包",
+        "price": 697
+      },
+      {
+        "name": "特殊常態腳色禮包",
+        "price": 411
+      },
+      {
+        "name": "李昂尼斯補給馬車",
+        "price": 145
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/7DSO.TW/",
+      "官方網站": "https://7origin.netmarble.com/tc",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%83%E5%A4%A7%E7%BD%AA-origin/id6744205088",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=七大罪：origin"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=七大罪：origin"
   }
 }
