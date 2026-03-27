@@ -1219,6 +1219,17 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
         text-align: left; /* 確保文字本身也是左對齊 */
     }
 
+    /* 更改禮包碼連結為橘色且粗體 */
+    #gameGiftCodeLink {
+        color: #FFA500 !important; /* 橘色 */
+        font-weight: bold; /* 粗體 */
+    }
+
+    /* 滑鼠懸停時變成深橘色 */
+    #gameGiftCodeLink:hover {
+        color: #eb8100 !important; 
+    }
+
     .game-detail .game-links-container a {
         display: block; /* 讓連結變成塊級元素，各自佔據一行 */
         width: 100%; /* 寬度佔滿父容器 */
