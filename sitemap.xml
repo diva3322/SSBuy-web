@@ -3525,4 +3525,12 @@
             <loc>https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/%E7%8E%8B%E6%96%BC%E8%88%88%E5%B8%AB.html</loc>
         </url>
     
+        <url>
+            <loc>https://www.ssbuy.tw/detail_giftcode/dist/gamedetail/%E5%B9%BB%E6%B5%B7%E7%A5%9E%E5%9F%9F.html</loc>
+        </url>
+    
+        <url>
+            <loc>https://www.ssbuy.tw/detail_giftcode/dist/giftcodes/%E5%B9%BB%E6%B5%B7%E7%A5%9E%E5%9F%9F.html</loc>
+        </url>
+    
 </urlset>
