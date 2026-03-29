@@ -187,7 +187,7 @@ body {
     width: 100%; /* 這一行設定標題寬度為100% */
     background: rgba(0, 0, 0, 0.9); /* 這一行設定標題背景為近乎不透明的黑色 */
     color: #fff; /* 這一行設定標題文字為白色 */
-    font-size: 1.75vh; /* 這一行設定標題字體大小為1.04vw */
+    font-size: 1.45vh; /* 這一行設定標題字體大小為1.04vw */
     font-weight: bold; /* 這一行設定標題字體為粗體 */
     text-align: center; /* 這一行使標題文字置中 */
     padding: 0.26vw; /* 這一行設定標題內邊距為0.26vw */
