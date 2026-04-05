@@ -21024,5 +21024,59 @@
       "禮包碼": "gift-codes.html?game=織夢花園：森系輕經營"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=織夢花園：森系輕經營"
+  },
+  "魔御：Star Dive": {
+    "logo": "images/魔御：Star Dive.webp",
+    "description": "各位玩家注意啦，魔御：STAR DIVE絕對是近期最值得關注的動作RPG神作。遊戲讓你在充滿怪物的奇幻世界盡情探索，帶著超萌貓咪夥伴踏上旅程。三人小隊隨時切換，打擊感直接拉滿。想在開服快人一步嗎？除了用心看攻略研究陣容，拿滿首波最新兌換碼絕對必須。我們幫大家整理了開服必備官方禮包碼，讓你輕鬆拿滿資源。若想更進一步提升戰力，也能找代儲值服務，主打快速安全，讓你不必花時間慢慢農，直接擁有超猛神級開局。真的超級推薦大家去下載玩看看喔！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2783
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1443
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 845
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 743
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 572
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 418
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 282
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61583435106125",
+      "官方網站": "https://stardive.netmarble.com/tc",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AD%94%E5%BE%A1-star-dive/id6483252725",
+      "Google Play": "https://play.google.com/store/apps/details/MONGIL_STAR_DIVE?id=com.netmarble.monster2&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=魔御：Star Dive"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=魔御：Star Dive"
   }
 }
