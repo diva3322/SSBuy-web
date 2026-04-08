@@ -20652,40 +20652,32 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2799
+        "name": "7500紫晶",
+        "price": 2529
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1451
+        "name": "3600紫晶",
+        "price": 1272
       },
       {
-        "name": "990/29.99禮包",
-        "price": 850
+        "name": "1400紫晶",
+        "price": 589
       },
       {
-        "name": "840/24.99禮包",
-        "price": 747
+        "name": "660紫晶",
+        "price": 273
       },
       {
-        "name": "670/19.99禮包",
-        "price": 575
+        "name": "320紫晶",
+        "price": 131
       },
       {
-        "name": "490/14.99禮包",
-        "price": 421
+        "name": "60紫晶",
+        "price": 26
       },
       {
-        "name": "330/9.99禮包",
-        "price": 283
-      },
-      {
-        "name": "170/4.99禮包",
-        "price": 149
-      },
-      {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "每日特惠",
+        "price": 131
       }
     ],
     "social": {
@@ -20868,40 +20860,44 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2799
+        "name": "648小魚乾",
+        "price": 2529
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1451
+        "name": "328小魚乾",
+        "price": 1272
       },
       {
-        "name": "990/29.99禮包",
-        "price": 850
+        "name": "128小魚乾",
+        "price": 504
       },
       {
-        "name": "840/24.99禮包",
-        "price": 747
+        "name": "68小魚乾",
+        "price": 273
       },
       {
-        "name": "670/19.99禮包",
-        "price": 575
+        "name": "30小魚乾",
+        "price": 131
       },
       {
-        "name": "490/14.99禮包",
-        "price": 421
+        "name": "6小魚乾",
+        "price": 26
       },
       {
-        "name": "330/9.99禮包",
-        "price": 283
+        "name": "成長基金",
+        "price": 418
       },
       {
-        "name": "170/4.99禮包",
-        "price": 149
+        "name": "公會檔案",
+        "price": 273
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "寶石贊助",
+        "price": 131
+      },
+      {
+        "name": "後勤補給",
+        "price": 52
       }
     ],
     "social": {
@@ -20980,40 +20976,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2799
+        "name": "648森林代幣",
+        "price": 2783
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1451
+        "name": "328森林代幣",
+        "price": 1443
       },
       {
-        "name": "990/29.99禮包",
-        "price": 850
+        "name": "198森林代幣",
+        "price": 845
       },
       {
-        "name": "840/24.99禮包",
-        "price": 747
+        "name": "128森林代幣",
+        "price": 572
       },
       {
-        "name": "670/19.99禮包",
-        "price": 575
+        "name": "98森林代幣",
+        "price": 418
       },
       {
-        "name": "490/14.99禮包",
-        "price": 421
+        "name": "68森林代幣",
+        "price": 282
       },
       {
-        "name": "330/9.99禮包",
-        "price": 283
+        "name": "30森林代幣",
+        "price": 148
       },
       {
-        "name": "170/4.99禮包",
-        "price": 149
-      },
-      {
-        "name": "33/0.99禮包",
+        "name": "6森林代幣",
         "price": 29
+      },
+      {
+        "name": "VIP特權月卡",
+        "price": 148
       }
     ],
     "social": {
@@ -21142,40 +21138,48 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
+        "name": "10000鑽石",
         "price": 2783
       },
       {
-        "name": "1690/49.99禮包",
+        "name": "5000鑽石",
         "price": 1443
       },
       {
-        "name": "990/29.99禮包",
+        "name": "3000鑽石",
         "price": 845
       },
       {
-        "name": "840/24.99禮包",
-        "price": 743
-      },
-      {
-        "name": "670/19.99禮包",
-        "price": 572
-      },
-      {
-        "name": "490/14.99禮包",
+        "name": "1500鑽石",
         "price": 418
       },
       {
-        "name": "330/9.99禮包",
-        "price": 282
-      },
-      {
-        "name": "170/4.99禮包",
+        "name": "500鑽石",
         "price": 148
       },
       {
-        "name": "33/0.99禮包",
+        "name": "100鑽石",
         "price": 29
+      },
+      {
+        "name": "建築列隊",
+        "price": 148
+      },
+      {
+        "name": "士兵禮包",
+        "price": 87
+      },
+      {
+        "name": "全部每日特惠",
+        "price": 261
+      },
+      {
+        "name": "廣告月卡",
+        "price": 282
+      },
+      {
+        "name": "終身卡",
+        "price": 845
       }
     ],
     "social": {
@@ -21196,40 +21200,44 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2783
+        "name": "5000鑽石",
+        "price": 2529
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1443
+        "name": "2100鑽石",
+        "price": 1102
       },
       {
-        "name": "990/29.99禮包",
-        "price": 845
+        "name": "1100鑽石",
+        "price": 589
       },
       {
-        "name": "840/24.99禮包",
-        "price": 743
+        "name": "500鑽石",
+        "price": 273
       },
       {
-        "name": "670/19.99禮包",
-        "price": 572
+        "name": "325鑽石",
+        "price": 191
       },
       {
-        "name": "490/14.99禮包",
-        "price": 418
+        "name": "80鑽石",
+        "price": 44
       },
       {
-        "name": "330/9.99禮包",
-        "price": 282
+        "name": "任務通行證",
+        "price": 273
       },
       {
-        "name": "170/4.99禮包",
-        "price": 148
+        "name": "階段性成長訂閱",
+        "price": 333
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "每月超級訂閱",
+        "price": 273
+      },
+      {
+        "name": "7日獎勵BIG",
+        "price": 273
       }
     ],
     "social": {
@@ -21294,5 +21302,55 @@
       "禮包碼": "gift-codes.html?game=心動防線"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=心動防線"
+  },
+  "新熱血江湖：世界": {
+    "logo": "images/新熱血江湖：世界.webp",
+    "description": "最近滑手機一直看到這款，當年網咖通宵的回憶全回來了。這款《新熱血江湖：世界》主打經典正邪大戰，畫面升級味道沒變，真的是時代眼淚。剛開服肯定很多人到處找最強T0職業攻略，畢竟平民玩家選對職業練功速度差超多。不想慢慢農的人，網路上有很多最新兌換碼與官方禮包碼可以拿免費資源，開局會順很多。如果覺得資源不夠想直上神裝，找專業代儲值也是個好選擇，重點是挑選快速安全的管道才不會被坑。這遊戲很吃情懷，大家準備好肝了嗎？趕緊一起上線刷起來吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "99.99熱血幣",
+        "price": 2793
+      },
+      {
+        "name": "49.99熱血幣",
+        "price": 1448
+      },
+      {
+        "name": "29.99熱血幣",
+        "price": 856
+      },
+      {
+        "name": "19.99熱血幣",
+        "price": 580
+      },
+      {
+        "name": "14.99熱血幣",
+        "price": 424
+      },
+      {
+        "name": "9.99熱血幣",
+        "price": 285
+      },
+      {
+        "name": "4.99熱血幣",
+        "price": 147
+      },
+      {
+        "name": "0.99熱血幣",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/yulgangw.mover/",
+      "官方網站": "https://yulgangw.movergames.com/event/pre/index.html",
+      "App Store": "https://apps.apple.com/tw/app/%E6%96%B0%E7%86%B1%E8%A1%80%E6%B1%9F%E6%B9%96-%E4%B8%96%E7%95%8C/id6756000886",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.mover.twrxjhw",
+      "禮包碼": "gift-codes.html?game=新熱血江湖：世界"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=新熱血江湖：世界"
   }
 }
