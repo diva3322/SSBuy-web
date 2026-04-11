@@ -21352,5 +21352,113 @@
       "禮包碼": "gift-codes.html?game=新熱血江湖：世界"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=新熱血江湖：世界"
+  },
+  "點點英雄：骰子傳說": {
+    "logo": "images/點點英雄：骰子傳說.webp",
+    "description": "今天來推坑這款快節奏的Roguelite新作《點點英雄：骰子傳說》！在這款遊戲裡，每場戰鬥都由你手中的骰子決定命運，點數化作超狂技能，讓你輕鬆體驗像素英雄對決的極致爽快打擊感！想在無盡挑戰中稱霸全場嗎？我們不僅為你準備了最強的新手攻略，還要大放送超多最新兌換碼與官方禮包碼，保證讓你開局就能贏在起跑點！覺得資源有點不夠用嗎？我們也有提供最專業的代儲值服務，整個流程絕對快速安全，讓你免爆肝就能輕鬆升級！快來轉動骰子展開冒險吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2783
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1443
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 845
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 743
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 572
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 418
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 282
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/Dicero.HMT",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E9%BB%9E%E9%BB%9E%E8%8B%B1%E9%9B%84-%E9%AA%B0%E5%AD%90%E5%82%B3%E8%AA%AA/id6740966864",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.bailing.lark.roll.dev&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=點點英雄：骰子傳說"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=點點英雄：骰子傳說"
+  },
+  "夢幻旅團": {
+    "logo": "images/夢幻旅團.webp",
+    "description": "今天要介紹這款治癒系輕冒險MMO《夢幻旅團》！這款遊戲主打放置升級，幫你徹底解放雙手，拒絕無聊爆肝的壓力！還有超萌戰寵陪你一起戰鬥，觸發強大的羈絆合體技逆轉勝負！想要在奇幻世界裡輕鬆脫單嗎？我們特別為你整理了最完整的實用攻略，還有超多最新兌換碼與官方禮包碼大放送，讓你開局就有夢幻陣容！如果覺得抽卡資源有點不夠？我們也有提供超專業的代儲值服務，流程保證絕對快速安全，讓你零壓力爽快變強！快來加入我們快樂冒險吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2783
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1443
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 845
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 743
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 572
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 418
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 282
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/icantw.DC",
+      "官方網站": "https://mr2.icantw.com/event/ob",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A4%A2%E5%B9%BB%E6%97%85%E5%9C%98-%E5%98%86%E6%B0%A3%E7%9A%84%E4%BA%A1%E9%9D%88%E6%83%B3%E9%9A%B1%E9%80%80%E8%81%AF%E5%8B%95/id6756406482",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.icantw.mr2",
+      "禮包碼": "gift-codes.html?game=夢幻旅團"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=夢幻旅團"
   }
 }
