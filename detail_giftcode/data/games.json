@@ -21560,5 +21560,113 @@
       "禮包碼": "gift-codes.html?game=詛咒裝備與地下城"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=詛咒裝備與地下城"
+  },
+  "寶石勇者團：破曉": {
+    "logo": "images/寶石勇者團：破曉.webp",
+    "description": "各位休閒玩家們看過來！超魔性的三消RPG《寶石勇者團：破曉》正式登場啦！這款結合寶石消除與英雄養成的創新神作，玩法真的超級紓壓又上頭！如果卡關不知道怎麼搭隊伍嗎？網路上已經有滿滿的通關攻略可以無腦抄作業囉！記得先去領取最新兌換碼以及專屬的官方禮包碼，超多開服好康千萬別漏掉！想要擁有神級英雄又不想辛苦農資源？強力推薦使用口碑超好的代儲值服務，不僅到帳快速安全，還能讓你輕鬆解鎖頂級陣容，體驗極致爽感，現在就馬上加入冒險行列吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2783
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1443
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 845
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 743
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 572
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 418
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 282
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/MatchGoHeroesTW",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E5%AF%B6%E7%9F%B3%E5%8B%87%E8%80%85%E5%9C%98-%E7%A0%B4%E6%9B%89/id6755032723",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.rpg.match.hero.teewee&fbclid=IwY2xjawRK5zBleHRuA2FlbQIxMABicmlkETFTcDFLbVFXN1dCRFQ1ME5Zc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsWVa5JtWM4vdWAJfZyLU4hM4hdKUqhw8MxTBBalzdDKh1zttruTc1EWxOB0_aem_fVBjUQaJvVvv4mx8np7KXg",
+      "禮包碼": "gift-codes.html?game=寶石勇者團：破曉"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=寶石勇者團：破曉"
+  },
+  "武俠自走棋": {
+    "logo": "images/武俠自走棋.webp",
+    "description": "今天來聊聊超夯的新作《武俠自走棋》！這款結合經典武林題材與燒腦策略的自走棋，絕對讓你玩到停不下來！想要輕鬆搭配出最強陣容嗎？各大論壇已經有超多大神分享的實用攻略啦！當然，新手開局必備的最新兌換碼和官方禮包碼也千萬別錯過，拿滿免費資源就是爽！如果想火速提升戰力、稱霸武林，推薦使用專業的代儲值服務，保證快速安全有保障，讓你的大俠之路順風順水，不用辛苦農也能變強，趕快下載遊戲，與好友們一起享受刺激的對弈樂趣吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2783
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1443
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 845
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 743
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 572
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 418
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 282
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/wxzzq.game/",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/sg/app/%E6%AD%A6%E4%BF%A0%E8%87%AA%E8%B5%B0%E6%A3%8B/id6751992746",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.ecp.wxzzq&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=武俠自走棋"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=武俠自走棋"
   }
 }
