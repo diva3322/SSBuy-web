@@ -21494,40 +21494,28 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2783
+        "name": "7780鑽石",
+        "price": 2735
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1443
+        "name": "3780鑽石",
+        "price": 1418
       },
       {
-        "name": "990/29.99禮包",
-        "price": 845
+        "name": "2260鑽石",
+        "price": 831
       },
       {
-        "name": "840/24.99禮包",
-        "price": 743
+        "name": "1100鑽石",
+        "price": 411
       },
       {
-        "name": "670/19.99禮包",
-        "price": 572
+        "name": "330鑽石",
+        "price": 145
       },
       {
-        "name": "490/14.99禮包",
-        "price": 418
-      },
-      {
-        "name": "330/9.99禮包",
-        "price": 282
-      },
-      {
-        "name": "170/4.99禮包",
-        "price": 148
-      },
-      {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "60鑽石",
+        "price": 28
       }
     ],
     "social": {
@@ -21702,40 +21690,32 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2783
+        "name": "35000寶石",
+        "price": 1922
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1443
+        "name": "10000寶石",
+        "price": 579
       },
       {
-        "name": "990/29.99禮包",
-        "price": 845
+        "name": "3300寶石",
+        "price": 188
       },
       {
-        "name": "840/24.99禮包",
-        "price": 743
+        "name": "每周通行證",
+        "price": 831
       },
       {
-        "name": "670/19.99禮包",
-        "price": 572
+        "name": "月卡通行證",
+        "price": 579
       },
       {
-        "name": "490/14.99禮包",
-        "price": 418
+        "name": "本部等級通行證",
+        "price": 579
       },
       {
-        "name": "330/9.99禮包",
-        "price": 282
-      },
-      {
-        "name": "170/4.99禮包",
-        "price": 148
-      },
-      {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "每日精選禮包",
+        "price": 128
       }
     ],
     "social": {
@@ -21756,40 +21736,40 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2783
+        "name": "1500個寶石",
+        "price": 2644
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1443
+        "name": "750個寶石",
+        "price": 1477
       },
       {
-        "name": "990/29.99禮包",
-        "price": 845
+        "name": "300個寶石",
+        "price": 537
       },
       {
-        "name": "840/24.99禮包",
-        "price": 743
+        "name": "150個寶石",
+        "price": 294
       },
       {
-        "name": "670/19.99禮包",
-        "price": 572
+        "name": "75個寶石",
+        "price": 145
       },
       {
-        "name": "490/14.99禮包",
-        "price": 418
+        "name": "新手禮包",
+        "price": 137
       },
       {
-        "name": "330/9.99禮包",
-        "price": 282
+        "name": "瘋狂通行證",
+        "price": 269
       },
       {
-        "name": "170/4.99禮包",
-        "price": 148
+        "name": "無廣告的世界(永久)",
+        "price": 188
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "瘋狂會員(30天)",
+        "price": 269
       }
     ],
     "social": {
@@ -21810,40 +21790,44 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2783
+        "name": "185K寶石",
+        "price": 1922
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1443
+        "name": "90K寶石",
+        "price": 999
       },
       {
-        "name": "990/29.99禮包",
-        "price": 845
+        "name": "35K寶石",
+        "price": 411
       },
       {
-        "name": "840/24.99禮包",
-        "price": 743
+        "name": "17K寶石",
+        "price": 188
       },
       {
-        "name": "670/19.99禮包",
-        "price": 572
+        "name": "8.5K寶石",
+        "price": 103
       },
       {
-        "name": "490/14.99禮包",
-        "price": 418
+        "name": "3.3K寶石",
+        "price": 51
       },
       {
-        "name": "330/9.99禮包",
-        "price": 282
+        "name": "免廣告禮包",
+        "price": 188
       },
       {
-        "name": "170/4.99禮包",
-        "price": 148
+        "name": "30天助力包",
+        "price": 188
       },
       {
-        "name": "33/0.99禮包",
-        "price": 29
+        "name": "高級禮包",
+        "price": 999
+      },
+      {
+        "name": "傳說裝備禮包",
+        "price": 411
       }
     ],
     "social": {
@@ -22016,5 +22000,59 @@
       "禮包碼": "gift-codes.html?game=風與龍之歌"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=風與龍之歌"
+  },
+  "異環": {
+    "logo": "images/異環.webp",
+    "description": "各位版友注意啦！《異環》這款超酷的超自然都市開放世界RPG準備震撼登場！你在霓虹閃爍的都市裡化身異象獵人，可以開著超跑四處解謎，還能買房買車享受超chill的同居生活！想開局就當大佬嗎？一定要鎖定最神攻略，還要記得狂刷最新兌換碼和官方禮包碼拿滿好康！如果想抽爆限定角色又怕荷包大失血，找專業代儲值絕對是你的好夥伴，保證快速安全又划算，讓你輕鬆課金無負擔！趕快準備好，跟我們一起在異環世界裡飆車解任務，體驗最自由的都市冒險吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2783
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1443
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 845
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 743
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 572
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 418
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 282
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/nte.iwplay/",
+      "官方網站": "https://nte.iwplay.com.tw/?fbclid=IwY2xjawRT0QdleHRuA2FlbQIxMABicmlkETEzR3ZIRVZIclZDalM0WW1yc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkeKIeyPMqHFlwLrjBs6Gwh5KYB5HdZ0XtmqGVODmq4GRMHOMubZzJvgm3_B_aem_Pe_ES3G3lnrmfvBZ086d-w",
+      "App Store": "https://apps.apple.com/tw/app/%E7%95%B0%E7%92%B0/id6751030003",
+      "Google Play": "https://play.google.com/store/apps/details?id=tw.com.iwplay.nte",
+      "禮包碼": "gift-codes.html?game=異環"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=異環"
   }
 }
