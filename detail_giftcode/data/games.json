@@ -22011,39 +22011,39 @@
       },
       {
         "name": "3290/99.99禮包",
-        "price": 2783
+        "price": 2773
       },
       {
         "name": "1690/49.99禮包",
-        "price": 1443
+        "price": 1438
       },
       {
         "name": "990/29.99禮包",
-        "price": 845
+        "price": 850
       },
       {
         "name": "840/24.99禮包",
-        "price": 743
+        "price": 747
       },
       {
         "name": "670/19.99禮包",
-        "price": 572
+        "price": 575
       },
       {
         "name": "490/14.99禮包",
-        "price": 418
+        "price": 421
       },
       {
         "name": "330/9.99禮包",
-        "price": 282
+        "price": 283
       },
       {
         "name": "170/4.99禮包",
-        "price": 148
+        "price": 146
       },
       {
         "name": "33/0.99禮包",
-        "price": 29
+        "price": 28
       }
     ],
     "social": {
@@ -22054,5 +22054,275 @@
       "禮包碼": "gift-codes.html?game=異環"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=異環"
+  },
+  "薑餅人大亂鬥": {
+    "logo": "images/薑餅人大亂鬥.webp",
+    "description": "各位餅乾粉注意啦！超夯新手遊《薑餅人大亂鬥》終於登場囉！這次勇敢餅乾將帶大家進入全3D的刺激戰場大展身手啦～想知道哪隻餅乾最實用？卡關不知道怎麼搭配陣容？快來參考我們的超詳盡攻略！當然好康不會少，這裡為大家整理了最新兌換碼與豐富的官方禮包碼，讓你開局就贏在起跑點！若你想輕鬆抽爆限定餅乾，我們有提供專業代儲值服務，保證快速安全無煩惱。準備好了嗎？趕快揪團上線一起歡樂開戰吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/CookieRunVNG.TW",
+      "官方網站": "https://ovensmash.vnggames.com/event/cros/preregistration?hl=zh&fbclid=IwY2xjawRVKZBleHRuA2FlbQIxMABicmlkETF4S3hBMER0a0wwREt2a1Vlc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqGyR858y0k4oUnWAGcbmp6gu4D4vqlA98kP5Uq1lYzq1dzQfBEplbx57GAc_aem_7Z29tyzu2n2ZHw8gq8mrew",
+      "App Store": "https://apps.apple.com/tw/app/%E8%96%91%E9%A4%85%E4%BA%BA%E5%A4%A7%E4%BA%82%E9%AC%A5/id6739696719",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.vng.cookierun.oven.smash",
+      "禮包碼": "gift-codes.html?game=薑餅人大亂鬥"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=薑餅人大亂鬥"
+  },
+  "貓娘樂園 世界連結": {
+    "logo": "images/貓娘樂園 世界連結.webp",
+    "description": "主人們快點回歸吧！療癒滿點的《貓娘樂園 世界連結》(NEKOPARA: World Connect)暖心上線啦～想跟可愛貓娘們展開全新同居生活嗎？不知道該怎麼培養好感度？別擔心，來看看我們準備的超用心攻略吧！為了慶祝開服，這裡也幫各位收集了最新兌換碼與滿滿的官方禮包碼，讓你開局資源不落後！如果想把最心儀的貓娘帶回家，我們也有提供專業代儲值服務，流程絕對快速安全哦！趕緊下載遊戲，跟香草和巧克力一起享受甜蜜無比的世界吧，喵～",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://x.com/nekoconne",
+      "官方網站": "https://nekoconne.com/?lang=ja",
+      "App Store": "https://apps.apple.com/tw/app/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89-%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88/id6743923238",
+      "Google Play": "https://play.google.com/store/apps/details?id=jp.goodsmile.nekoconne",
+      "禮包碼": "gift-codes.html?game=貓娘樂園 世界連結"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=貓娘樂園 世界連結"
+  },
+  "環形戰爭": {
+    "logo": "images/環形戰爭.webp",
+    "description": "喜歡戰棋的玩家絕對不能錯過這款大作！暗黑史詩級《環形戰爭》(Annulus)磅礴降臨啦！這款主打硬核戰略的手遊，非常考驗你的走位與腦力。新手開局不知道怎麼練角？卡關打不過首領？快來研讀我們整理的超詳盡攻略！此外，這裡也送上最新兌換碼以及海量官方禮包碼，助你輕鬆渡過前期難關！若需要強力角色助陣，我們也有提供專業代儲值服務，保證快速安全有保障，讓你安心暢玩。快點下載遊戲，現在就號召戰友們踏上殘酷戰場，寫下專屬於你的史詩傳奇故事吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100067696366380",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E7%92%B0%E5%BD%A2%E6%88%B0%E7%88%AD/id6753971187",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.nirvana.annulus",
+      "禮包碼": "gift-codes.html?game=環形戰爭"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=環形戰爭"
+  },
+  "Slot & Brave：Roguelike RPG": {
+    "logo": "images/Slot & Brave：Roguelike RPG.webp",
+    "description": "喜歡隨機挑戰的玩家看過來！像素風神作《Slot & Brave: Roguelike RPG》超毒性上線囉～把老虎機結合冒險，真的會讓人欲罷不能！想知道怎麼搭配技能最猛？一直卡關不知道怎麼破局？馬上來看我們的獨家攻略！為了讓你玩得更爽，這裡也大方公開最新兌換碼與超值官方禮包碼，幫你快速累積資源！若想輕鬆解鎖極品裝備與角色，我們提供最專業代儲值服務，流程絕對快速安全！趕快點擊下載，開啟充滿驚喜的奇幻大冒險，看你能闖到第幾關吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/slot-brave-roguelike-rpg/id6760936298",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.TrickStArStudio.SlotAndBrave",
+      "禮包碼": "gift-codes.html?game=Slot & Brave：Roguelike RPG"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Slot & Brave：Roguelike RPG"
+  },
+  "小小三國志：暴走群雄傳": {
+    "logo": "images/小小三國志：暴走群雄傳.webp",
+    "description": "",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/%E5%B0%8F%E5%B0%8F%E4%B8%89%E5%9C%8B%E5%BF%97%E6%9A%B4%E8%B5%B0%E7%BE%A4%E9%9B%84%E5%82%B3-61587079254670/",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B0%8F%E5%B0%8F%E4%B8%89%E5%9C%8B%E5%BF%97-%E6%9A%B4%E8%B5%B0%E7%BE%A4%E9%9B%84%E5%82%B3/id6757461582",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.xxsanguogg.yr_gg",
+      "禮包碼": "gift-codes.html?game=小小三國志：暴走群雄傳"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=小小三國志：暴走群雄傳"
   }
 }
