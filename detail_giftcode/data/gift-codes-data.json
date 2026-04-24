@@ -15733,12 +15733,23 @@
     "banner": "giftcodesbanner/薑餅人大亂鬥-禮包碼.webp",
     "description": "各位餅乾粉注意啦！超夯新手遊《薑餅人大亂鬥》終於登場囉！這次勇敢餅乾將帶大家進入全3D的刺激戰場大展身手啦～想知道哪隻餅乾最實用？卡關不知道怎麼搭配陣容？快來參考我們的超詳盡攻略！當然好康不會少，這裡為大家整理了最新兌換碼與豐富的官方禮包碼，讓你開局就贏在起跑點！若你想輕鬆抽爆限定餅乾，我們有提供專業代儲值服務，保證快速安全無煩惱。準備好了嗎？趕快揪團上線一起歡樂開戰吧！",
     "howTo": [
-      "等待遊戲公司更新"
+      "右上方「三」點進去後到設定複製腳色ID",
+      "到下方網址輸入禮包碼",
+      "https://giftcode.vnggames.com/tw/redeem/A25",
+      "輸入禮包碼即可兌換免費禮包"
     ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "OVENSMASHLAUNCH",
+        "reward": ""
+      },
+      {
+        "code": "OVENSMASHBETA",
+        "reward": ""
       }
     ]
   },
@@ -15765,6 +15776,26 @@
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "4JT7QE",
+        "reward": ""
+      },
+      {
+        "code": "MTL7QE",
+        "reward": ""
+      },
+      {
+        "code": "9HT7QE",
+        "reward": ""
+      },
+      {
+        "code": "T3Y7QE",
+        "reward": ""
+      },
+      {
+        "code": "NPY7QE",
+        "reward": ""
       }
     ]
   },
