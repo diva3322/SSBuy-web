@@ -22296,5 +22296,59 @@
       "禮包碼": "gift-codes.html?game=小小三國志：暴走群雄傳"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=小小三國志：暴走群雄傳"
+  },
+  "勇者鬥惡龍 破限亂鬥": {
+    "logo": "images/勇者鬥惡龍 破限亂鬥.webp",
+    "description": "",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/DQSmashGrow.cht/",
+      "官方網站": "https://smashgrow.dragonquest.com/zh-tw/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D-%E7%A0%B4%E9%99%90%E4%BA%82%E9%AC%A5-%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8Droguelite-rpg/id6747737418",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dqsgw",
+      "禮包碼": "gift-codes.html?game=勇者鬥惡龍 破限亂鬥"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=勇者鬥惡龍 破限亂鬥"
   }
 }
