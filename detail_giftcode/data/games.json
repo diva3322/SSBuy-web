@@ -22644,5 +22644,59 @@
       "禮包碼": "gift-codes.html?game=終結獵鋒K：首爾"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=終結獵鋒K：首爾"
+  },
+  "霸起：暗影重生": {
+    "logo": "images/霸起：暗影重生.webp",
+    "description": "這款名為《霸起：暗影重生》的放置型動作RPG近期強勢登陸啦！本作主打壓倒性的視覺盛宴與暢快淋漓的打擊感，讓玩家享受自動戰鬥的輕鬆同時，也能體驗動作遊戲極致手感。\n\n故事講述戰神德馬克蘭戰敗後，靈魂附體於人類身上，展開向背叛眾神的復仇之旅。遊戲內建無壓力養成系統，大家可以多參考網路高手攻略，培養專屬獨特英雄。\n\n想在成神路上先發制人？千萬別錯過最新兌換碼與各式官方禮包碼，海量資源等你來拿！若想快速提升戰力，也能選擇代儲值服務，流程保證快速安全！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2520
+      },
+      {
+        "name": "1490禮包",
+        "price": 1268
+      },
+      {
+        "name": "990禮包",
+        "price": 850
+      },
+      {
+        "name": "690禮包",
+        "price": 575
+      },
+      {
+        "name": "490禮包",
+        "price": 421
+      },
+      {
+        "name": "320禮包",
+        "price": 275
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61584555663320",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E9%9C%B8%E8%B5%B7-%E6%9A%97%E5%BD%B1%E9%87%8D%E7%94%9F/id6747467952",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.NXN.Rise2025&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=霸起：暗影重生"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=霸起：暗影重生"
   }
 }
