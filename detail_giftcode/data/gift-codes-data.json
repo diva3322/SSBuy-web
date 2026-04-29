@@ -15305,6 +15305,22 @@
       {
         "code": "dicerotop1",
         "reward": ""
+      },
+      {
+        "code": "AKAONI888",
+        "reward": ""
+      },
+      {
+        "code": "ENNA888",
+        "reward": ""
+      },
+      {
+        "code": "KRAPY888",
+        "reward": ""
+      },
+      {
+        "code": "HUA888",
+        "reward": ""
       }
     ]
   },
@@ -15734,12 +15750,78 @@
     "banner": "giftcodesbanner/風與龍之歌-禮包碼.webp",
     "description": "喜愛日系冒險的玩家們有福啦！全新奇幻療癒大作《風與龍之歌》帶你踏上溫馨唯美的旅程。遊戲裡的廣闊大世界超適合到處拍照打卡，帶著萌寵一起戰鬥更是趣味十足。想要在遊戲初期就比別人贏在起跑點，記得多爬文看看高手的陣容攻略，當然最重要的就是趕緊領取最新兌換碼還有官方禮包碼，把各種豪華的登入獎勵通通帶回家！如果你想幫可愛的角色換上華麗時裝或抽限定寵物，我們有超讚的代儲值服務。整個手續保證快速安全，讓你輕鬆無負擔地享受冒險，快來御風飛行吧！",
     "howTo": [
-      "等待遊戲公司更新"
+      "點左上方頭像",
+      "跳出視窗點「兌換」",
+      "輸入禮包碼即可兌換免費禮包"
     ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "day222",
+        "reward": ""
+      },
+      {
+        "code": "day333",
+        "reward": ""
+      },
+      {
+        "code": "GOD666",
+        "reward": ""
+      },
+      {
+        "code": "HOT999",
+        "reward": ""
+      },
+      {
+        "code": "kaze777",
+        "reward": ""
+      },
+      {
+        "code": "Open88",
+        "reward": ""
+      },
+      {
+        "code": "INSTALL111",
+        "reward": ""
+      },
+      {
+        "code": "WELCOME",
+        "reward": ""
+      },
+      {
+        "code": "VIP999",
+        "reward": ""
+      },
+      {
+        "code": "VIP888",
+        "reward": ""
+      },
+      {
+        "code": "VIP777",
+        "reward": ""
+      },
+      {
+        "code": "VIP666",
+        "reward": ""
+      },
+      {
+        "code": "VIP555",
+        "reward": ""
+      },
+      {
+        "code": "TINY666",
+        "reward": ""
+      },
+      {
+        "code": "TINY777",
+        "reward": ""
+      },
+      {
+        "code": "TINY2026",
+        "reward": ""
       }
     ]
   },
