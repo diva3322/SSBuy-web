@@ -22438,47 +22438,47 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2773
+        "name": "2990禮包",
+        "price": 2520
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1438
+        "name": "1490禮包",
+        "price": 1268
       },
       {
-        "name": "990/29.99禮包",
+        "name": "990禮包",
         "price": 850
       },
       {
-        "name": "840/24.99禮包",
-        "price": 747
-      },
-      {
-        "name": "670/19.99禮包",
+        "name": "690禮包",
         "price": 575
       },
       {
-        "name": "490/14.99禮包",
+        "name": "490禮包",
         "price": 421
       },
       {
-        "name": "330/9.99禮包",
-        "price": 283
+        "name": "320禮包",
+        "price": 275
       },
       {
-        "name": "170/4.99禮包",
-        "price": 146
+        "name": "150禮包",
+        "price": 129
       },
       {
-        "name": "33/0.99禮包",
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
         "price": 28
       }
     ],
     "social": {
       "Facebook": "https://www.facebook.com/profile.php?id=61574949557455",
       "官方網站": "https://nbadynasty.sky-shark.com/",
-      "App Store": "https://play.google.com/store/apps/details?id=com.lqfr.shark&shortlink=wwxcd0u0&c=host-google&pid=host-google&af_xp=custom&source_caller=ui",
-      "Google Play": "https://apps.apple.com/tw/app/nba%E7%8E%8B%E6%9C%9D%E5%B4%9B%E8%B5%B7/id6757910692",
+      "App Store": "https://apps.apple.com/tw/app/nba%E7%8E%8B%E6%9C%9D%E5%B4%9B%E8%B5%B7/id6757910692",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.lqfr.shark&shortlink=wwxcd0u0&c=host-google&pid=host-google&af_xp=custom&source_caller=ui",
       "禮包碼": "gift-codes.html?game=NBA王朝崛起"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=NBA王朝崛起"
@@ -22698,5 +22698,155 @@
       "禮包碼": "gift-codes.html?game=霸起：暗影重生"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=霸起：暗影重生"
+  },
+  "心契少女：萌熊覺醒": {
+    "logo": "images/心契少女：萌熊覺醒.webp",
+    "description": "各位指揮官注意啦！《心契少女: 萌熊覺醒》正式登場，這款結合超萌熊熊與美少女的RPG真的讓人心跳加速。不管是精緻的立繪還是多樣的養成系統，絕對讓你停不下來。想要在冒險中脫穎而出？別忘了關注我們提供的超強攻略，還有大家最期待的最新兌換碼與官方禮包碼，讓豐富資源輕鬆入手！如果想快速跟上大佬腳步，小編真心推薦找代儲值服務，全程保證快速安全且低調，讓你在萌熊世界裡盡情享受養成樂趣，不用再為抽卡苦惱，這波新遊真的超級值得入坑，趕快來下載一起同樂吧",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2520
+      },
+      {
+        "name": "1490禮包",
+        "price": 1268
+      },
+      {
+        "name": "990禮包",
+        "price": 850
+      },
+      {
+        "name": "690禮包",
+        "price": 575
+      },
+      {
+        "name": "490禮包",
+        "price": 421
+      },
+      {
+        "name": "320禮包",
+        "price": 275
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/honeypanic6w",
+      "官方網站": "https://6waves.helpshift.com/hc/zh-hant/48-honey-panic-bear-my-heart-%E5%BF%83%E5%A5%91%E5%B0%91%E5%A5%B3-%E8%90%8C%E7%86%8A%E8%A6%BA%E9%86%92/?l=zh-hant",
+      "App Store": "https://apps.apple.com/tw/app/%E5%BF%83%E5%A5%91%E5%B0%91%E5%A5%B3-%E8%90%8C%E7%86%8A%E8%A6%BA%E9%86%92/id6758321384",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.sixwaves.ffmascot&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=心契少女：萌熊覺醒"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=心契少女：萌熊覺醒"
+  },
+  "瑞利昂：NPC的生存記": {
+    "logo": "images/瑞利昂：NPC的生存記.webp",
+    "description": "你有想過在遊戲中當個NPC是什麼感覺嗎？《瑞利昂：NPC的生存記》帶你換個視角玩RPG！這款遊戲設定新穎，玩家將扮演不起眼的NPC努力求生，反諷與趣味十足。想要在這生存考驗中活得比勇者還久？那就不能錯過我們的深度攻略，還有最新的兌換碼與官方禮包碼，助你資源翻倍！如果想省去肝資源的麻煩，小編推薦找專業代儲值，快速安全且到帳極速，讓你在瑞利昂世界裡輕鬆躺平，享受不一樣的養成樂趣，快來下載這款腦洞大開的新遊吧，保證讓你玩到停不下來！真心大推！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "20000寶石",
+        "price": 2099
+      },
+      {
+        "name": "10000寶石",
+        "price": 1087
+      },
+      {
+        "name": "6000寶石",
+        "price": 666
+      },
+      {
+        "name": "2000寶石",
+        "price": 249
+      },
+      {
+        "name": "1000寶石",
+        "price": 103
+      },
+      {
+        "name": "200寶石",
+        "price": 26
+      }
+    ],
+    "social": {
+      "Facebook": "",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E7%91%9E%E5%88%A9%E6%98%82-rellion-npc%E7%9A%84%E7%94%9F%E5%AD%98%E8%A8%98/id6757416807",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.daerigame.rellion&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=瑞利昂：NPC的生存記"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=瑞利昂：NPC的生存記"
+  },
+  "拉蒂亞的骰子之旅": {
+    "logo": "images/拉蒂亞的骰子之旅.webp",
+    "description": "想要來場溫馨的冒險嗎？《拉蒂亞的骰子之旅》絕對是療癒系玩家的首選！這款RPG透過骰子機制來進行冒險，畫風清新脫俗，讓你在壓力山大的生活中找到一片淨土。冒險路上如果卡關，記得來參考我們的專業攻略，並領取最新的兌換碼與官方禮包碼，幫你快速提升角色戰力！為了讓遊戲體驗更順暢，許多老司機都推薦搭配代儲值，全程快速安全有保障，不用擔心失敗，讓你在這段驚喜的骰子旅程中隨時展開冒險，快來體驗療癒魅力吧，保證不玩可惜，趕快下載來跟上，真的超讚的啦！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/LadiaDicetiny/",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E6%8B%89%E8%92%82%E4%BA%9E%E7%9A%84%E9%AA%B0%E5%AD%90%E4%B9%8B%E6%97%85-%E7%99%82%E7%99%92%E7%B3%BB%E5%86%92%E9%9A%AArpg/id6476085555",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.sanctumstudio.poly&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn",
+      "禮包碼": "gift-codes.html?game=拉蒂亞的骰子之旅"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=拉蒂亞的骰子之旅"
   }
 }
