@@ -22812,5 +22812,59 @@
       "禮包碼": "gift-codes.html?game=拉蒂亞的骰子之旅"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=拉蒂亞的骰子之旅"
+  },
+  "ISEKAI GATE": {
+    "logo": "images/ISEKAI GATE.webp",
+    "description": "Awesomepiece 新作《ISEKAI GATE》終於來啦！這款主打 3 人合作的像素風防禦 RPG，節奏快到讓人刷不停耶！玩家要在遊戲中跟好友聯手，守住衣櫃後的異世界大門，像素英雄的動作感跟特效超精緻。想快速變強的朋友必看這篇詳細攻略，裡面整理了最新兌換碼與官方禮包碼，讓你開局就能領滿資源！如果想收齊造型或衝戰力，推薦找專業代儲值，保證服務快速安全！趕快下載組隊刷爆 Boss 守護伊塞凱，這畫風真的可愛到犯規！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/IsekaiGateOfficial",
+      "官方網站": "https://isekai-notice.awesomepiece.com/en",
+      "App Store": "https://apps.apple.com/tw/app/isekai-gate/id6754668985",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.awesomepiece.isekaigate",
+      "禮包碼": "gift-codes.html?game=ISEKAI GATE"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=ISEKAI GATE"
   }
 }

@@ -15321,6 +15321,22 @@
       {
         "code": "HUA888",
         "reward": ""
+      },
+      {
+        "code": "DENKA888",
+        "reward": ""
+      },
+      {
+        "code": "17BABY888",
+        "reward": ""
+      },
+      {
+        "code": "K7888",
+        "reward": ""
+      },
+      {
+        "code": "MARIKA888",
+        "reward": ""
       }
     ]
   },
@@ -16058,12 +16074,18 @@
     "banner": "giftcodesbanner/貓咪與湯：魔法與美食-禮包碼.webp",
     "description": "各位貓奴們注意啦！全新療癒系手遊《貓咪和湯 : 魔法與美食》萌爆登場！這次不僅要熬湯，還加入了奇妙的魔法元素，讓你與超萌貓咪們一起踏上美食之旅。想知道如何快速解鎖全圖鑑？網路上已經有超詳細的攻略等你來抄作業囉！新手上路千萬別忘了領取最新兌換碼與官方禮包碼，超多開局資源免費拿，讓你的魔法餐廳輕鬆贏在起跑點。若想極速擴建貓咪樂園、解鎖超稀有裝飾，推薦尋找專業代儲值服務，保證快速安全絕不踩雷。趕快來與療癒貓貓們一起烹飪魔法大餐吧！",
     "howTo": [
-      "等待遊戲公司更新"
+      "由下方貓頭「設置」",
+      "點進去其他後點「禮包碼」",
+      "輸入禮包碼即可兌換免費禮包"
     ],
     "codes": [
       {
         "code": "最新儲值優惠馬上問問Line@客服",
         "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "83thr5awvf",
+        "reward": ""
       }
     ]
   },
@@ -16084,7 +16106,10 @@
     "banner": "giftcodesbanner/霸起：暗影重生-禮包碼.webp",
     "description": "這款名為《霸起：暗影重生》的放置型動作RPG近期強勢登陸啦！本作主打壓倒性的視覺盛宴與暢快淋漓的打擊感，讓玩家享受自動戰鬥的輕鬆同時，也能體驗動作遊戲極致手感。\n\n故事講述戰神德馬克蘭戰敗後，靈魂附體於人類身上，展開向背叛眾神的復仇之旅。遊戲內建無壓力養成系統，大家可以多參考網路高手攻略，培養專屬獨特英雄。\n\n想在成神路上先發制人？千萬別錯過最新兌換碼與各式官方禮包碼，海量資源等你來拿！若想快速提升戰力，也能選擇代儲值服務，流程保證快速安全！",
     "howTo": [
-      "等待遊戲公司更新"
+      "點遊戲內右下角「齒輪」",
+      "進到「帳號」選項",
+      "點「優惠券」",
+      "輸入禮包碼即可兌換免費禮包"
     ],
     "codes": [
       {
@@ -16149,6 +16174,54 @@
     "howTo": [
       "等待遊戲公司更新"
     ],
-    "codes": []
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      }
+    ]
+  },
+  "ISEKAI GATE": {
+    "banner": "giftcodesbanner/ISEKAI GATE-禮包碼.webp",
+    "description": "Awesomepiece 新作《ISEKAI GATE》終於來啦！這款主打 3 人合作的像素風防禦 RPG，節奏快到讓人刷不停耶！玩家要在遊戲中跟好友聯手，守住衣櫃後的異世界大門，像素英雄的動作感跟特效超精緻。想快速變強的朋友必看這篇詳細攻略，裡面整理了最新兌換碼與官方禮包碼，讓你開局就能領滿資源！如果想收齊造型或衝戰力，推薦找專業代儲值，保證服務快速安全！趕快下載組隊刷爆 Boss 守護伊塞凱，這畫風真的可愛到犯規！",
+    "howTo": [
+      "遊戲內點頭像並複製ID",
+      "到下方網址進行兌換",
+      "https://isekai-coupon.awesomepiece.com/coupon?lang=en"
+    ],
+    "codes": [
+      {
+        "code": "最新儲值優惠馬上問問Line@客服",
+        "reward": "LINE ID：@ssbuy"
+      },
+      {
+        "code": "HELLOISEKAIGATE",
+        "reward": ""
+      },
+      {
+        "code": "ISEKAIGATE1ST",
+        "reward": ""
+      },
+      {
+        "code": "ISEKAIADVENTURE",
+        "reward": ""
+      },
+      {
+        "code": "ENTERTHEGATE",
+        "reward": ""
+      },
+      {
+        "code": "TOGETHERINISEKAI",
+        "reward": ""
+      },
+      {
+        "code": "PLAYISEKAINOW",
+        "reward": ""
+      },
+      {
+        "code": "STARTISEKAILIFE",
+        "reward": ""
+      }
+    ]
   }
 }
