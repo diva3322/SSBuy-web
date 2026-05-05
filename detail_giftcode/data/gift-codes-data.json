@@ -16185,9 +16185,10 @@
     "banner": "giftcodesbanner/ISEKAI GATE-禮包碼.webp",
     "description": "Awesomepiece 新作《ISEKAI GATE》終於來啦！這款主打 3 人合作的像素風防禦 RPG，節奏快到讓人刷不停耶！玩家要在遊戲中跟好友聯手，守住衣櫃後的異世界大門，像素英雄的動作感跟特效超精緻。想快速變強的朋友必看這篇詳細攻略，裡面整理了最新兌換碼與官方禮包碼，讓你開局就能領滿資源！如果想收齊造型或衝戰力，推薦找專業代儲值，保證服務快速安全！趕快下載組隊刷爆 Boss 守護伊塞凱，這畫風真的可愛到犯規！",
     "howTo": [
-      "遊戲內點頭像並複製ID",
-      "到下方網址進行兌換",
-      "https://isekai-coupon.awesomepiece.com/coupon?lang=en"
+      "右上角三條線選單",
+      "點齒輪設定",
+      "跳出畫面點「Redeem」",
+      "輸入禮包碼即可兌換免費禮包"
     ],
     "codes": [
       {
@@ -16220,6 +16221,14 @@
       },
       {
         "code": "STARTISEKAILIFE",
+        "reward": ""
+      },
+      {
+        "code": "THANKYOU100K",
+        "reward": ""
+      },
+      {
+        "code": "0815CGGO",
         "reward": ""
       }
     ]
