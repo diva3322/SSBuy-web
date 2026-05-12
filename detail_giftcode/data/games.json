@@ -23174,5 +23174,113 @@
       "禮包碼": "gift-codes.html?game=超時空街球對決"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=超時空街球對決"
+  },
+  "數碼寶貝UP": {
+    "logo": "images/數碼寶貝UP.webp",
+    "description": "各位被選召的孩子們安安！期待超久的手遊《數碼寶貝UP》(Digimon UP)終於熱血上線啦！這次我們將回到最熟悉的童年，帶著亞古獸跟加布獸一起爽快進化，展開全新數位冒險，經典招式絕對讓你感動滿滿！想要快速培育出最強究極體嗎？別忘了先上網找大神的通關攻略，記得領取最新兌換碼與官方禮包碼，把超肥的進化材料通通帶回家！如果你想馬上抽爆超強數碼獸，交給我們代儲值準沒錯！主打快速安全有保障，讓你瞬間戰力封頂，輕鬆稱霸伺服器！快來抓寶吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/digimon.up.tc/",
+      "官方網站": "https://dgup.bn-ent.net/tc/",
+      "App Store": "https://apps.apple.com/tw/app/%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D-up/id6756247787",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_ww",
+      "禮包碼": "gift-codes.html?game=數碼寶貝UP"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=數碼寶貝UP"
+  },
+  "權力遊戲：國王大道": {
+    "logo": "images/權力遊戲：國王大道.webp",
+    "description": "Netmarble史詩級大作《權力遊戲：國王大道》(Game of Thrones: Kingsroad)震撼登場啦！超真實的高畫質打擊感，帶你親歷原著劇情，跟著雪諾一起爽砍異鬼！想在維斯特洛大陸稱王？記得先去爬新手拓荒攻略，再輸入最新兌換碼與官方禮包碼，開局必備資源直接拿好拿滿！若是想課金抽神級角色又嫌刷卡麻煩，找我們代儲值就對了！保證快速安全有保障，讓你免等待秒拿鑽石，輕鬆當上君臨霸主！快來下載迎戰凜冬！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/GotKingsroad.TC/",
+      "官方網站": "https://gotkingsroad.netmarble.com/tc/preorder",
+      "App Store": "https://apps.apple.com/tw/app/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B2-%E5%9C%8B%E7%8E%8B%E5%A4%A7%E9%81%93/id6755586050",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.netmarble.gotasia&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=權力遊戲：國王大道"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=權力遊戲：國王大道"
   }
 }
