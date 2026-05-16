@@ -23386,5 +23386,59 @@
       "禮包碼": "gift-codes.html?game=Monster GO"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Monster GO"
+  },
+  "幻獸之旅：新紀元": {
+    "logo": "images/幻獸之旅：新紀元.webp",
+    "description": "歡迎來到《幻獸之旅：新紀元》！這是一款充滿奇幻色彩的角色扮演冒險手遊，玩家將穿梭神秘大陸，與各式珍稀幻獸締結契約，展開史詩般的旅程。遊戲內建豐富養成系統與策略戰鬥，讓你輕鬆打造專屬的最強幻獸陣容！想要在開局搶佔先機嗎？我們為您整理了最全面的新手攻略，並持續更新最新兌換碼與官方禮包碼，讓您輕鬆獲取豐厚資源。此外，若想快速提升戰力，我們也提供專業的代儲值服務，流程快速安全，保證讓您的冒險之旅暢通無阻！現在就加入我們，一起探索新紀元吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2773
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1438
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 850
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 747
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 575
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 421
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 283
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 146
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/my.gamexdd/",
+      "官方網站": "https://my.gamexdd.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%B9%BB%E7%8D%B8%E4%B9%8B%E6%97%85-%E6%96%B0%E7%B4%80%E5%85%83/id6757894239",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.jouful.mygg",
+      "禮包碼": "gift-codes.html?game=幻獸之旅：新紀元"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=幻獸之旅：新紀元"
   }
 }
