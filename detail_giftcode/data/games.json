@@ -23396,40 +23396,36 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2773
+        "name": "6500仙玉",
+        "price": 2713
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1438
+        "name": "3280仙玉",
+        "price": 1382
       },
       {
-        "name": "990/29.99禮包",
-        "price": 850
+        "name": "1980仙玉",
+        "price": 834
       },
       {
-        "name": "840/24.99禮包",
-        "price": 747
+        "name": "980仙玉",
+        "price": 413
       },
       {
-        "name": "670/19.99禮包",
-        "price": 575
+        "name": "680仙玉",
+        "price": 287
       },
       {
-        "name": "490/14.99禮包",
-        "price": 421
+        "name": "300仙玉",
+        "price": 129
       },
       {
-        "name": "330/9.99禮包",
-        "price": 283
+        "name": "180仙玉",
+        "price": 77
       },
       {
-        "name": "170/4.99禮包",
-        "price": 146
-      },
-      {
-        "name": "33/0.99禮包",
-        "price": 28
+        "name": "60仙玉",
+        "price": 26
       }
     ],
     "social": {
@@ -23440,5 +23436,113 @@
       "禮包碼": "gift-codes.html?game=幻獸之旅：新紀元"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=幻獸之旅：新紀元"
+  },
+  "聖三國蜀漢霸業": {
+    "logo": "images/聖三國蜀漢霸業.webp",
+    "description": "喜歡經典戰棋與三國歷史的玩家千萬別錯過《聖三國蜀漢霸業》！這款策略 RPG 帶你重溫復古像素風，化身劉備征戰沙場。遊戲完美融合豐富劇情與硬核戰鬥，每場戰役都考驗你的排兵布陣與武將搭配。想在亂世中稱王？網路上有超多實用攻略幫你輕鬆通關！此外，我們也整理了最新兌換碼與官方禮包碼，讓你在開局就能獲得豐厚資源。如果想光速提升戰力，推薦使用專業的代儲值服務，流程快速安全，讓你毫無後顧之憂地享受遊戲。立刻下載，招募三國名將，成就你的蜀漢霸業吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2786
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1445
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 854
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 751
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 578
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 147
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61568991710926&locale=zh_TW",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E8%81%96%E4%B8%89%E5%9C%8B%E8%9C%80%E6%BC%A2%E9%9C%B8%E6%A5%AD/id6762191037",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.elbt.ssgshby.gp&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=聖三國蜀漢霸業"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=聖三國蜀漢霸業"
+  },
+  "亂世美人傳": {
+    "logo": "images/亂世美人傳.webp",
+    "description": "踏入《亂世美人傳》的唯美古風世界，體驗一場浪漫與權謀交織的宮廷邂逅！這款養成遊戲擁有精美細膩的角色立繪，讓你結識各路傾國佳人，經營專屬的龐大後宮陣容。想要在後宮爭鬥中脫穎而出？記得多看大神的通關攻略，掌握升級與晉升技巧！同時別忘了領取最新兌換碼與官方禮包碼，海量虛寶直接入袋，讓你開局就領先別人一步。遇到心儀的稀有絕版造型，推薦選擇我們專業的代儲值服務，流程絕對快速安全，幫你輕鬆守護心愛的妃子。立即下載遊戲，譜寫屬於你的浪漫傳奇吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61588677219752",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E9%86%89%E7%BA%A2%E9%A2%9C/id6757461082",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.playnest.jadecourt&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=亂世美人傳"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=亂世美人傳"
   }
 }
