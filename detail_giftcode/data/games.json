@@ -22776,40 +22776,36 @@
         "price": "ID：@ssbuy"
       },
       {
-        "name": "3290/99.99禮包",
-        "price": 2773
+        "name": "18000彩虹水晶",
+        "price": 2508
       },
       {
-        "name": "1690/49.99禮包",
-        "price": 1438
+        "name": "10000彩虹水晶",
+        "price": 1431
       },
       {
-        "name": "990/29.99禮包",
-        "price": 850
+        "name": "6000彩虹水晶",
+        "price": 838
       },
       {
-        "name": "840/24.99禮包",
-        "price": 747
+        "name": "2000彩虹水晶",
+        "price": 279
       },
       {
-        "name": "670/19.99禮包",
-        "price": 575
+        "name": "1000彩虹水晶",
+        "price": 147
       },
       {
-        "name": "490/14.99禮包",
-        "price": 421
-      },
-      {
-        "name": "330/9.99禮包",
-        "price": 283
-      },
-      {
-        "name": "170/4.99禮包",
-        "price": 146
-      },
-      {
-        "name": "33/0.99禮包",
+        "name": "200彩虹水晶",
         "price": 28
+      },
+      {
+        "name": "每月水晶祝福",
+        "price": 147
+      },
+      {
+        "name": "每周秘境祝福",
+        "price": 483
       }
     ],
     "social": {
@@ -23760,5 +23756,51 @@
       "禮包碼": "gift-codes.html?game=三國志KING"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=三國志KING"
+  },
+  "骷髏要稱王": {
+    "logo": "images/骷髏要稱王.webp",
+    "description": "輕鬆玩轉《骷髏要稱王》！在這款超Chill的放置RPG中，你將化身無名小骷髏，在魔界大陸體驗佛系掛機與花式進化的樂趣，一路輕鬆逆襲成為最強骨王。開局霸氣狂送10000抽，稀有英靈隨手招募，陣容流派自由搭配，戰力瞬間輕鬆爆表！想知道如何快速變強？我們整理了最詳盡的新手攻略，並持續更新最新兌換碼與官方禮包碼等你來領取，助你資源滿倉、通關無壓力！此外，我們提供專業且專屬的代儲值服務，交易流程絕對快速安全，讓你的骷髏軍團神擋殺神，魔界任你馳騁！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "60000鑽石",
+        "price": 2760
+      },
+      {
+        "name": "30000鑽石",
+        "price": 1431
+      },
+      {
+        "name": "18000鑽石",
+        "price": 838
+      },
+      {
+        "name": "9000鑽石",
+        "price": 415
+      },
+      {
+        "name": "6000鑽石",
+        "price": 279
+      },
+      {
+        "name": "3000鑽石",
+        "price": 147
+      },
+      {
+        "name": "600鑽石",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/wz.touchbox",
+      "官方網站": "https://wz.touchboxs.com/reserve/index.html?fbclid=IwY2xjawR9HQ1leHRuA2FlbQIxMABicmlkETF5M1kxWmtDQ3lCZ24wWlFnc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhd3RjXW7Y_k0LD5kZWYBAfMMRPrYnTyewgPamCTUEoXMthqulq7f6roFT9m_aem_p0VAonkEFxFVtj8flh0LPA",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AA%B7%E9%AB%8F%E8%A6%81%E7%A8%B1%E7%8E%8B/id6760324053",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.touchbox.wz",
+      "禮包碼": "gift-codes.html?game=骷髏要稱王"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=骷髏要稱王"
   }
 }
