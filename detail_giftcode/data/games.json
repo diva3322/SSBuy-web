@@ -23856,5 +23856,113 @@
       "禮包碼": "gift-codes.html?game=丞相請出山：破局"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=丞相請出山：破局"
+  },
+  "MLB® The Show™": {
+    "logo": "images/MLB® The Show™.webp",
+    "description": "",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "",
+      "官方網站": "https://theshow.com/",
+      "App Store": "https://apps.apple.com/tw/app/mlb-the-show-mobile-baseball/id6474043167",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.playstation.mlbtheshowmobile&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=MLB® The Show™"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=MLB® The Show™"
+  },
+  "龍村3": {
+    "logo": "images/龍村3.webp",
+    "description": "",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://x.com/highbrow_inc?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2052698861773390079%7Ctwgr%5Ea5cab0f19c15fb3fe5cd760346f077bc295ea25c%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fgamingonphone.com%2Fnews%2Fdragon-village-3-revives-the-classic-ip-after-12-years-with-proper-rpg-sequel-pre-registration-now-live-on-mobile%2F",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/dragon-village-3/id6499562253",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn",
+      "禮包碼": "gift-codes.html?game=龍村3"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=龍村3"
   }
 }
