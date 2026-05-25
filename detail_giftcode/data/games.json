@@ -23751,7 +23751,7 @@
     "social": {
       "Facebook": "https://www.facebook.com/profile.php?id=61587809804693&locale=zh_TW",
       "官方網站": "https://pre.dynastytk.com/a/",
-      "App Store": "",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%89%E5%9C%8B%E5%BF%97king/id6754595303",
       "Google Play": "https://play.google.com/store/apps/details?id=com.dynastytk.king",
       "禮包碼": "gift-codes.html?game=三國志KING"
     },
@@ -23802,5 +23802,59 @@
       "禮包碼": "gift-codes.html?game=骷髏要稱王"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=骷髏要稱王"
+  },
+  "丞相請出山：破局": {
+    "logo": "images/丞相請出山：破局.webp",
+    "description": "準備好在《丞相請出山：破局》中一展宏圖了嗎？這款超人氣策略手遊帶您穿越亂世，招募神將、運籌帷幄，體驗最真實刺激的古代戰場與劇情！想要在群雄割據中脫穎而出？我們為您準備了最實用的通關攻略，助您輕鬆破局。千萬別錯過隱藏的最新兌換碼與官方禮包碼，海量珍稀資源免費領取，讓您戰力瞬間狂飆！若想追求極致的遊戲體驗，強烈推薦使用我們的專業代儲值服務，交易過程絕對快速安全，讓您無後顧之憂地享受征戰天下的樂趣。快來下載體驗，現在就立刻加入成就專屬霸業！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/%E4%B8%9E%E7%9B%B8%E8%AB%8B%E5%87%BA%E5%B1%B1-61587247974866/",
+      "官方網站": "https://cdn.starplaygame.com/reservation/cxqcs/index.html?fbclid=IwY2xjawSA8clleHRuA2FlbQIxMABicmlkETFmNE01NlJKVllIR2NTSjBsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkc6PmzwfHJzKUV5cloeZmrhqWz6heJA9nutBovlmIJs5UkdLprl537DVjoB_aem_ztz2znGERTyJhGXHlzStjg",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%9E%E7%9B%B8%E8%AB%8B%E5%87%BA%E5%B1%B1-%E7%A0%B4%E5%B1%80/id6768947791",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.cqxq.bstar&fbclid=IwY2xjawSA8chleHRuA2FlbQIxMABicmlkETFmNE01NlJKVllIR2NTSjBsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnTuqi9UDA-0OTuMP4i9f0tOBqgNGpLbPUlPcZpAUGws5P7BqKsfToU4GUXv_aem_vDlysrsuI015Y4-8FmZsBA",
+      "禮包碼": "gift-codes.html?game=丞相請出山：破局"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=丞相請出山：破局"
   }
 }
