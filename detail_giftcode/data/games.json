@@ -24072,5 +24072,113 @@
       "禮包碼": "gift-codes.html?game=鋼嵐"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=鋼嵐"
+  },
+  "Illusion Connect：Re": {
+    "logo": "images/Illusion Connect：Re.webp",
+    "description": "歡迎體驗《Illusion Connect: Re》！這款深受喜愛的二次元策略RPG強勢回歸，帶你潛入夢境世界，與眾多魅力女角攜手對抗夢魘。遊戲結合精美立繪與即時戰略，帶來極致視聽饗宴與燒腦樂趣。想在戰鬥中取得優勢？我們準備了深度的陣容攻略，並搜集最新兌換碼與官方禮包碼，讓你輕鬆獲取抽卡資源，快速組建最強戰隊！若想火速突破瓶頸，我們更提供超優質的代儲值服務，保證流程快速安全，絕對是你闖蕩夢境的最佳後盾。現在就下載遊戲，喚醒你的專屬連結者吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/IllusionConnectRe/",
+      "官方網站": "https://mjlj.sugargame.hk/preregister",
+      "App Store": "https://apps.apple.com/tw/app/illusion-connect-re/id6758970424?ppid=5aa2a6a8-159c-410a-a238-7db9f6d9c280",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=Illusion Connect：Re"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=Illusion Connect：Re"
+  },
+  "最強石器：重返尼斯": {
+    "logo": "images/最強石器：重返尼斯.webp",
+    "description": "歡迎來到《最強石器：重返尼斯》！這款經典手遊帶你重溫在尼斯大陸捕捉珍寵、組隊打怪的青春回憶。遊戲完美還原回合制戰鬥與多元寵物養成，讓你在策略交鋒中享受無盡樂趣。想在原始世界快速崛起？我們整理了實用的新手攻略，並持續分享最新兌換碼與官方禮包碼，讓你輕鬆領取豐富資源，培養神獸不落人後！若想更有效率提升戰力，我們提供專業的代儲值服務，交易過程快速安全，保障你的帳號權益。立即加入《最強石器：重返尼斯》，與部落勇士結伴，稱霸這片充滿奇遇的史詩大陸吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61568941851867",
+      "官方網站": "https://page.livenplay.net/saog.tw/prereg/?page_id=21&utm=FacebookFans&name=saro",
+      "App Store": "",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.livenplay.satw.gp",
+      "禮包碼": "gift-codes.html?game=最強石器：重返尼斯"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=最強石器：重返尼斯"
   }
 }
