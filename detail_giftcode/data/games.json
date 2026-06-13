@@ -24558,5 +24558,59 @@
       "禮包碼": "gift-codes.html?game=DC：Dark Legion"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=DC：Dark Legion"
+  },
+  "戰爭誓言": {
+    "logo": "images/戰爭誓言.webp",
+    "description": "《戰爭誓言 War Vow》是一款突破性的現代軍事戰略手遊！遊戲完美融合RTS即時戰術與基地模擬建設，玩家可親手打造鋼鐵堡壘，並招募巴頓、隆美爾等二戰傳奇名將，組建專屬菁英部隊。本作極度考驗排兵布陣與技能施放，讓你體驗以智取勝的戰場快感！想要稱霸世界？除了參考大神攻略，記得輸入最新兌換碼與官方禮包碼，領取豐厚軍備資源，讓開局更順利！若想快速升級軍武，推薦使用SSbuy代儲值服務，流程快速安全，助你在全球聯盟戰中無往不利，輕鬆改寫戰局！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61590502628580",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/war-vow/id6749140416",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.warvow.omgoogle&hl=zh_TW&gl=TW",
+      "禮包碼": "gift-codes.html?game=戰爭誓言"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=戰爭誓言"
   }
 }
