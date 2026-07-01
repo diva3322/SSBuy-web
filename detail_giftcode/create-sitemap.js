@@ -9,6 +9,21 @@ const webRootDir = path.join(__dirname, '..');
 const gamesDataPath = path.join(__dirname, 'data', 'games.json');
 const sitemapPath = path.join(webRootDir, 'sitemap.xml');
 
+// [新增重點 1] 加入將特殊字元轉換為 XML 安全格式的函數
+function escapeXml(unsafeStr) {
+    if (!unsafeStr) return '';
+    return unsafeStr.replace(/[<>&'"]/g, function (c) {
+        switch (c) {
+            case '<': return '&lt;';
+            case '>': return '&gt;';
+            case '&': return '&amp;';
+            case '\'': return '&apos;';
+            case '"': return '&quot;';
+            default: return c;
+        }
+    });
+}
+
 function createSafeUrlSegment(gameName) {
     if (!gameName) return '';
     // [修改重點] 移除了 .toLowerCase()，保留原始大小寫
@@ -18,9 +33,6 @@ function createSafeUrlSegment(gameName) {
     }
     return encodeURI(safeName);
 }
-
-// ... (檔案其餘部分保持不變) ...
-// (為求完整，底下提供完整檔案)
 
 try {
     const allUrls = new Set();
@@ -45,11 +57,13 @@ try {
     }
     
     const urlArray = Array.from(allUrls);
+    
+    // [新增重點 2] 在寫入 <loc> 標籤時，套用 escapeXml 函數對網址進行「消毒」
     const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     ${urlArray.map(url => `
         <url>
-            <loc>${url}</loc>
+            <loc>${escapeXml(url)}</loc>
         </url>
     `).join('')}
 </urlset>
