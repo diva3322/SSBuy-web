@@ -25476,5 +25476,113 @@
       "禮包碼": "gift-codes.html?game=守護！森友家園"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=守護！森友家園"
+  },
+  "CookieRun Classic": {
+    "logo": "images/CookieRun Classic.webp",
+    "description": "重溫最純粹的跑酷樂趣！《CookieRun Classic》帶你回到最初的感動，與勇敢餅乾一起逃出魔女的烤箱。這款經典跑酷遊戲完美還原了豐富的關卡設計與可愛的餅乾角色，操作簡單卻極具挑戰性。我們為各位玩家整理了最實用的高分攻略，讓你輕鬆掌握跳躍與滑行的完美時機！同時，這裡也提供最新兌換碼與官方禮包碼，助你快速解鎖心儀的餅乾與寵物。若想加速提升實力，我們提供專業的代儲值服務，流程快速安全有保障，讓你的跑酷之旅暢通無阻。現在就加入，一起狂奔吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2786
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1445
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 854
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 751
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 578
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 147
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/CRClassicEN/",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/cookierun-classic/id6759596824",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.devsisters.crg",
+      "禮包碼": "gift-codes.html?game=CookieRun Classic"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=CookieRun Classic"
+  },
+  "世界之外": {
+    "logo": "images/世界之外.webp",
+    "description": "踏入未知的無限輪迴體驗！《世界之外》是一款極具沉浸感的無限流言情手遊。在遊戲中，你將穿越於各種截然不同的異世界副本，與多位魅力十足的男主角展開心跳加速的命運邂逅。我們特別為玩家準備了詳盡的通關攻略，幫助你輕鬆應對不同世界的考驗。此外，這裡更彙整了最新兌換碼以及官方禮包碼，讓你開局就能獲得豐厚資源，快速培養好感度。若需要補充心跳體力，我們也提供最划算的代儲值服務，交易過程絕對快速安全，讓你專心享受浪漫劇情，無後顧之憂的盡情探索世界！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2786
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1445
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 854
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 751
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 578
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 423
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 285
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 147
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/HereToEverywhere/",
+      "官方網站": "https://www.heretoeverywhere.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96/id6760813873",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.netease.sjzw.hmt&gl=TW&pid=marketing&af_xp=custom&shortlink=xx2mqgqq&source_caller=ui&c=website_g126na_android",
+      "禮包碼": "gift-codes.html?game=世界之外"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=世界之外"
   }
 }
