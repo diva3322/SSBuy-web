@@ -25584,5 +25584,59 @@
       "禮包碼": "gift-codes.html?game=世界之外"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=世界之外"
+  },
+  "疾風騎士團 放置型RPG": {
+    "logo": "images/疾風騎士團 放置型RPG.webp",
+    "description": "準備好踏上無盡的冒險了嗎？《疾風騎士團 放置型RPG》帶你體驗最爽快的放置掛機樂趣！在這款遊戲中，玩家將招募各具特色的騎士，打造專屬最強陣容，輕鬆享受無限成長的快感。無論是華麗的技能特效，還是豐富的副本挑戰，都能讓你愛不釋手。想在開局就領先群雄嗎？我們提供最全面的新手攻略、最新兌換碼與官方禮包碼資訊，助你輕鬆拿獎勵！此外，若需要資源支援，我們也提供專業代儲值服務，保證快速安全，讓你的騎士團迅速崛起！立即加入，與我們一起守護這片大陸吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "",
+      "官方網站": "https://www.wemademax.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E7%96%BE%E9%A2%A8%E9%A8%8E%E5%A3%AB%E5%9C%98-%E6%94%BE%E7%BD%AE%E5%9E%8Brpg/id6757690255",
+      "Google Play": "https://play.google.com/store/apps/details?id=net.lightcon.windidle&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=疾風騎士團 放置型RPG"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=疾風騎士團 放置型RPG"
   }
 }
