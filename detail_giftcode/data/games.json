@@ -25638,5 +25638,59 @@
       "禮包碼": "gift-codes.html?game=疾風騎士團 放置型RPG"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=疾風騎士團 放置型RPG"
+  },
+  "蟋蟀江湖": {
+    "logo": "images/蟋蟀江湖.webp",
+    "description": "《蟋蟀江湖》是一款正宗還原中國經典鬥蟲文化的模擬經營養成手遊。玩家將從普通的捕蟲少年做起，深入荒草古宅尋覓名蟲異種，親手培育出橫掃擂台的專屬蟲王，體驗豐富的蟋蟀策略對戰。  為了讓玩家迅速取得優勢，我們特別整理了最新兌換碼與官方禮包碼，助你輕鬆兌換極品蟲糧與稀有道具！想在爭霸賽中奪得先機、免去繁瑣的繁育過程，推薦使用本店的代儲值服務，流程快速安全有保障。不論是想尋找最完整的遊戲攻略，還是追求高效率的升級管道，這裡都能滿足你的需求，快來下載開啟屬於你的馴蟲宗師傳奇吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2532
+      },
+      {
+        "name": "1490禮包",
+        "price": 1274
+      },
+      {
+        "name": "990禮包",
+        "price": 854
+      },
+      {
+        "name": "690禮包",
+        "price": 578
+      },
+      {
+        "name": "490禮包",
+        "price": 423
+      },
+      {
+        "name": "320禮包",
+        "price": 276
+      },
+      {
+        "name": "150禮包",
+        "price": 129
+      },
+      {
+        "name": "100禮包",
+        "price": 86
+      },
+      {
+        "name": "30禮包",
+        "price": 28
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61587398828535",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E8%9F%8B%E8%9F%80%E6%B1%9F%E6%B9%96/id6780728088",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.newtv.cricketduel&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=蟋蟀江湖"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=蟋蟀江湖"
   }
 }
