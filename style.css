@@ -908,7 +908,18 @@ img.zoomable {
 }
 
 .index-page h1 {
+    font-size: 2em;
     color: #ffcc00; /* 這一行設定h1文字為黃色 */
+    margin-bottom: 0vh;
+    margin-top: 0vh;
+}
+
+.index-page p {
+    line-height: 1.8;
+    color: #b2b2b2;
+    margin-bottom: 0vh;
+    margin-top: 0vh;
+    max-width: 97ch; /* 限制每行最多剛好 50 個中文字 */
 }
 
 /* login-box input,select,textarea => keep your no px or do partial */ /* 這一行是註解，標示登入區輸入框、下拉選單和文本區域樣式開始 */
@@ -1381,7 +1392,15 @@ margin-bottom: 20px; / 可以根據需要調整下方間距 /
 
 /* ★ 針對小螢幕(≤1024px)：隱藏sidebar、顯示 mobile-top-bar */ /* 這一行是註解，標示小螢幕媒體查詢開始 */
 @media (max-width: 1024px) {
-	
+	.index-page p {
+    line-height: 1.8;
+    color: #b2b2b2;
+    margin-bottom: 0vh;
+    margin-top: 0vh;
+    text-align: justify;
+    word-break: break-all;
+    max-width: 28ch;
+}
 html, body {
     /* 確保寬度不超過螢幕 */
     width: 100vw; 
