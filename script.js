@@ -347,7 +347,7 @@ function setupGiftCodeDetailPageInteraction() {
     loadRecommendations();
 }
 
-// 全局購買彈幕功能 - 外部 JSON 連動 + 全功能可點擊跳轉版
+// 全局購買彈幕功能 - 修正背景分頁凍結重疊 Bug 版
 document.addEventListener("DOMContentLoaded", function() {
     // 1. 自動注入 CSS 樣式
     const style = document.createElement('style');
@@ -358,7 +358,7 @@ document.addEventListener("DOMContentLoaded", function() {
             left: 0;
             width: 100%;
             height: 100%;
-            pointer-events: none; /* 容器穿透，不影響網頁其他地方點擊 */
+            pointer-events: none;
             z-index: 99999;
             overflow: hidden;
         }
@@ -376,26 +376,18 @@ document.addEventListener("DOMContentLoaded", function() {
             align-items: center;
             gap: 8px;
             font-family: 'Kanit', sans-serif, "Microsoft JhengHei";
-            text-decoration: none; /* 移除超連結底線 */
-            
-            /* 允許點擊 */
+            text-decoration: none;
             pointer-events: auto; 
             cursor: pointer;
-            
-            /* 預設在螢幕右側外面 */
             left: 100%; 
             will-change: left;
-            /* 12秒橫穿螢幕 */
             animation: danmakuMove 12s linear forwards;
         }
-        
-        /* 貼心優化：滑鼠移上去時暫停移動，並加上微發光效果 */
         .danmaku-notification:hover {
             animation-play-state: paused;
             box-shadow: 0 4px 20px rgba(255, 183, 3, 0.4);
             background: rgba(15, 15, 15, 0.95);
         }
-        
         .danmaku-notification .highlight-name { color: #ffb703; font-weight: bold; }
         .danmaku-notification .highlight-ip { color: #bbb; font-size: 0.8rem; }
         .danmaku-notification .highlight-pack { color: #00f0ff; font-weight: bold; }
@@ -407,65 +399,49 @@ document.addEventListener("DOMContentLoaded", function() {
     `;
     document.head.appendChild(style);
 
-    // 2. 自動在 body 建立彈幕容器
+    // 2. 自動建立容器
     const container = document.createElement('div');
     container.id = 'purchase-danmaku-container';
     document.body.appendChild(container);
 
-    // 3. 基礎資料池
+    // 3. 資料池
     const lastNames = ["王", "陳", "張", "劉", "李", "吳", "黃", "蔡", "楊", "許", "鄭", "謝", "洪", "蘇", "林", "郭", "馬", "曾", "周", "賴", "高", "羅", "何", "蕭", "詹", "沈", "彭", "胡", "徐", "朱"];
     const firstNames = ["阿明", "小豪", "君", "翔", "宇", "婷", "涵", "傑", "銘", "安", "凱", "琪", "威", "軒", "萱", "霖", "蓉", "哲", "妤", "冠", "晨", "昕", "瑞", "茜", "倫", "雅", "晴", "毅", "茹", "涵", "皓", "婷", "晉", "宏", "琪"];
-    
-    const cityIps = [
-        "114.39.*.* (高雄)", "218.164.*.* (台南)", "125.228.*.* (台北)", "42.77.*.* (中華電信)", 
-        "223.139.*.* (遠傳電信)", "111.255.*.* (台南)", "36.236.*.* (嘉義)", "118.171.*.* (屏東)", 
-        "61.227.*.* (高雄)", "1.173.*.* (台南)", "114.45.*.* (新北)", "220.136.*.* (台北)", 
-        "114.46.*.* (台中)", "125.230.*.* (台中)", "36.234.*.* (彰化)", "111.242.*.* (嘉義)",
-        "49.216.*.* (台灣大哥大)", "101.12.*.* (台灣大哥大)", "27.52.*.* (遠傳電信)", "39.9.*.* (遠傳電信)"
-    ];
-    
+    const cityIps = ["114.39.*.* (高雄)", "218.164.*.* (台南)", "125.228.*.* (台北)", "42.77.*.* (中華電信)", "223.139.*.* (遠傳電信)", "111.255.*.* (台南)", "36.236.*.* (嘉義)", "118.171.*.* (屏東)", "61.227.*.* (高雄)", "1.173.*.* (台南)", "114.45.*.* (新北)", "220.136.*.* (台北)", "114.46.*.* (台中)", "125.230.*.* (台中)", "36.234.*.* (彰化)", "111.242.*.* (嘉義)", "49.216.*.* (台灣大哥大)", "101.12.*.* (台灣大哥大)", "27.52.*.* (遠傳電信)", "39.9.*.* (遠傳電信)"];
     const timeRanges = ["剛剛", "1分鐘前", "2分鐘前", "3分鐘前", "5秒鐘前", "30秒前", "15秒前", "45秒前"];
     const pricePool = [150, 300, 330, 490, 990, 1490, 1690, 2990, 3290];
 
-    // 4. 非同步讀取 games.json
     let gameList = ["熱門手遊"];
+    let timerId = null; // 用來儲存計時器，以便隨時暫停
 
+    // 4. 讀取 JSON
     fetch('/detail_giftcode/data/games.json')
         .then(response => {
             if (!response.ok) throw new Error('無法讀取 games.json');
             return response.json();
         })
         .then(data => {
-            if (Array.isArray(data)) {
-                gameList = data;
-            } else if (typeof data === 'object' && data !== null) {
-                gameList = Object.keys(data);
-            }
-            startDanmakuLoop();
+            if (Array.isArray(data)) gameList = data;
+            else if (typeof data === 'object' && data !== null) gameList = Object.keys(data);
+            initVisibilityListener(); // 讀取成功後初始化監聽器
         })
         .catch(err => {
-            console.warn("彈幕系統路徑偵測失敗，改用內建預設遊戲名:", err);
+            console.warn("彈幕系統改用預設遊戲名:", err);
             const h1Text = document.querySelector('h1')?.innerText;
-            if (h1Text && !h1Text.includes("{{")) {
-                gameList = [h1Text.split(" ")[0]];
-            } else {
-                gameList = ["熱門精選手遊", "最新熱門手遊", "暢銷榜手遊"];
-            }
-            startDanmakuLoop();
+            gameList = (h1Text && !h1Text.includes("{{")) ? [h1Text.split(" ")[0]] : ["熱門精選手遊", "最新熱門手遊"];
+            initVisibilityListener();
         });
 
     function generateProductText() {
         const p1 = pricePool[Math.floor(Math.random() * pricePool.length)];
         const p2 = pricePool[Math.floor(Math.random() * pricePool.length)];
-        if (Math.random() > 0.5) {
-            return `${p1}元禮包`;
-        } else {
-            return `${p1}元禮包 + ${p2}元禮包`;
-        }
+        return Math.random() > 0.5 ? `${p1}元禮包` : `${p1}元禮包 + ${p2}元禮包`;
     }
 
-    // 5. 建立可點擊的彈幕 A 標籤
     function createDanmaku() {
+        // 如果使用者目前不在這個標籤頁，直接攔截不建立，防止排隊
+        if (document.hidden) return;
+
         const randLastName = lastNames[Math.floor(Math.random() * lastNames.length)];
         const randFirstName = firstNames[Math.floor(Math.random() * firstNames.length)];
         const randIp = cityIps[Math.floor(Math.random() * cityIps.length)];
@@ -474,7 +450,6 @@ document.addEventListener("DOMContentLoaded", function() {
         const randProduct = generateProductText();
         const maskedName = randLastName + "X" + randFirstName.substring(randFirstName.length - 1);
 
-        // 將 div 改為 <a> 標籤，並加入指定連結與另開新分頁屬性
         const danmaku = document.createElement("a");
         danmaku.className = "danmaku-notification";
         danmaku.href = "https://ssbuy.link/CziRP";
@@ -493,24 +468,43 @@ document.addEventListener("DOMContentLoaded", function() {
 
         container.appendChild(danmaku);
 
-        // 動畫結束自動銷毀
         danmaku.addEventListener('animationend', function() {
             danmaku.remove();
         });
     }
 
-    // 6. 隨機時間循環啟動器
-    function startDanmakuLoop() {
-        setTimeout(createDanmaku, 3000);
+    // 5. 核心：控管隨機時間與暫停機制
+    function startLoop() {
+        // 清除舊的，確保只有一個計時器在跑
+        clearTimeout(timerId); 
+        
+        const randomDelay = Math.floor(Math.random() * 75000) + 5000; // 5秒~80秒隨機
+        timerId = setTimeout(() => {
+            createDanmaku();
+            startLoop(); // 遞迴呼叫
+        }, randomDelay);
+    }
 
-        function loop() {
-            // 在 5 秒到 80 秒之間隨機亂跳
-            const randomDelay = Math.floor(Math.random() * 75000) + 5000; 
-            setTimeout(() => {
+    function stopLoop() {
+        clearTimeout(timerId);
+    }
+
+    // 6. 監聽使用者是否「切換視窗」
+    function initVisibilityListener() {
+        // 剛進網頁時先啟動
+        createDanmaku();
+        startLoop();
+
+        document.addEventListener("visibilitychange", function() {
+            if (document.hidden) {
+                // 使用者離開網頁 -> 關閉計時器，不清空現有畫面上正在飄的
+                stopLoop();
+            } else {
+                // 使用者回到網頁 -> 清空容器（防止殘留），重新啟動全新計時
+                container.innerHTML = "";
                 createDanmaku();
-                loop(); 
-            }, randomDelay);
-        }
-        setTimeout(loop, 3000);
+                startLoop();
+            }
+        });
     }
 });
