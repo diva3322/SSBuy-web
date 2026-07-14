@@ -26070,5 +26070,63 @@
       "禮包碼": "gift-codes.html?game=刃與三國：烽火爭霸"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=刃與三國：烽火爭霸"
+  },
+  "我在江湖開後宮": {
+    "logo": "images/我在江湖開後宮.webp",
+    "description": "",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "6480元寶",
+        "price": 2268
+      },
+      {
+        "name": "3280元寶",
+        "price": 1156
+      },
+      {
+        "name": "1980元寶",
+        "price": 676
+      },
+      {
+        "name": "1680元寶",
+        "price": 591
+      },
+      {
+        "name": "1280元寶",
+        "price": 462
+      },
+      {
+        "name": "980元寶",
+        "price": 334
+      },
+      {
+        "name": "680元寶",
+        "price": 235
+      },
+      {
+        "name": "600元寶",
+        "price": 209
+      },
+      {
+        "name": "400元寶",
+        "price": 174
+      },
+      {
+        "name": "300元寶",
+        "price": 118
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/kingsharem/?locale=zh_CN",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E6%88%91%E5%9C%A8%E6%B1%9F%E6%B9%96%E9%96%8B%E5%BE%8C%E5%AE%AE/id6760341518",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.gp.jhrm.happytime&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=我在江湖開後宮"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=我在江湖開後宮"
   }
 }
