@@ -26128,5 +26128,51 @@
       "禮包碼": "gift-codes.html?game=我在江湖開後宮"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=我在江湖開後宮"
+  },
+  "猛鬼三國": {
+    "logo": "images/猛鬼三國.webp",
+    "description": "當烽火連天的三國古戰場化為陰森詭譎的幽冥世界，您能否駕馭化身為百鬼的傳奇名將？《猛鬼三國》巧妙結合了神秘的靈異氛圍與極具深度的策略放置玩法，玩家將在百鬼夜行之際佈署獨一無二的驅魔陣容！為了讓主公們在闇夜爭霸中順利突圍，我們特別整理出最實用的通關攻略與最新兌換碼，帶您快速領取超實用的官方禮包碼！若渴望在短時間內大幅提升部隊戰力，推薦您體驗口碑首選的專業遊戲代儲值服務，全程嚴格把關、快速安全，助您在猛鬼肆虐的亂世中輕鬆成就頂尖無敵霸業！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "6480元寶",
+        "price": 2816
+      },
+      {
+        "name": "3280元寶",
+        "price": 1460
+      },
+      {
+        "name": "1980元寶",
+        "price": 863
+      },
+      {
+        "name": "1280元寶",
+        "price": 584
+      },
+      {
+        "name": "680元寶",
+        "price": 288
+      },
+      {
+        "name": "300元寶",
+        "price": 148
+      },
+      {
+        "name": "60元寶",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/ghost3kds/",
+      "官方網站": "https://spg.sgkds.com/preorder/warp",
+      "App Store": "https://apps.apple.com/tw/app/%E7%8C%9B%E9%AC%BC%E4%B8%89%E5%9C%8B/id6774434587",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.kfive.gptw&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn",
+      "禮包碼": "gift-codes.html?game=猛鬼三國"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=猛鬼三國"
   }
 }
