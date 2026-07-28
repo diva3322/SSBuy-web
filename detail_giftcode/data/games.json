@@ -26616,5 +26616,59 @@
       "禮包碼": "gift-codes.html?game=地下城見聞錄"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=地下城見聞錄"
+  },
+  "鬥破蒼穹M：少年崛起": {
+    "logo": "images/鬥破蒼穹M：少年崛起.webp",
+    "description": "《鬥破蒼穹M：少年崛起》正版授權卡牌RPG火熱上線！在這裡你將與蕭炎重返斗氣大陸，邂逅美杜莎、藥老等經典角色。遊戲完美還原三年之約與異火爭奪戰，玩家能自由搭配陣容，體驗爽快戰鬥與華麗技能。想要開局就逆襲？我們提供最全面的攻略，還有最新兌換碼與官方禮包碼讓你福利拿滿！若需進階資源，專業代儲值服務保證快速安全，讓你輕鬆突破境界，踏上斗帝之路！馬上加入這場熱血冒險，收集異火、煉製神丹，不用爆肝也能穩定提升戰力，書寫屬於你的崛起傳奇，快來玩吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2816
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 863
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 759
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 584
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 427
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 288
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/btthtw/",
+      "官方網站": "https://fighter.joystarfun.com/act/fighter?custom_source=google&custom_sub_source=google3-NorNum1-Search&utm_source=google_ads&campaign_id=24058525416&adgroup_id=195598606501&creative_id=818229619118&device=c&loc_interest_ms=&loc_physical_ms=9235344&network=g&placement=&device_model=&match_type=e&keyword=%E9%AC%A5%E7%A0%B4%E8%92%BC%E7%A9%B9m%20%E5%B0%91%E5%B9%B4%E5%B4%9B%E8%B5%B7&gad_source=1&gad_campaignid=24058525416&gbraid=0AAAABEMTNAvxTeCksA87AD-Am4u8I6It0&gclid=CjwKCAjwpqHTBhAcEiwAj2Afuo1yGh05Tl8gFRpoB7zvggJ64Rdl8HEuTZWBIx15P184xr5ENhtK4xoC9eQQAvD_BwE",
+      "App Store": "https://apps.apple.com/tw/app/%E9%AC%A5%E7%A0%B4%E8%92%BC%E7%A9%B9m-%E5%B0%91%E5%B9%B4%E5%B4%9B%E8%B5%B7-%E5%8B%95%E7%95%AB%E6%AD%A3%E7%89%88%E6%8E%88%E6%AC%8A/id6761587218",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.joystar.btthgp&referrer=customSource%3Dgoogle%26customSubSource%3Dgoogle3-NorNum1-Search%26source%3Dgoogle_ads%26medium%3D%26campaignId%3D24058525416%26campaignName%3D%26adgroupId%3D195598606501%26adgroupName%3D%26creativeId%3D818229619118%26creativeName%3D%26adTerm%3D%26adContent%3D%26adPlacement%3D%26pageUniqueId%3Db7bf4f27-2df4-4007-bfb5-0b1bda26f763",
+      "禮包碼": "gift-codes.html?game=鬥破蒼穹M：少年崛起"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=鬥破蒼穹M：少年崛起"
   }
 }
