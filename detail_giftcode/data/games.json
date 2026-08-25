@@ -27966,5 +27966,59 @@
       "禮包碼": "gift-codes.html?game=錢途無量"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=錢途無量"
+  },
+  "解憂夢幻島": {
+    "logo": "images/解憂夢幻島.webp",
+    "description": "《解憂夢幻島》是一款主打療癒放鬆的模擬經營手遊。玩家將在專屬的海島上開墾農田、釣魚採集、研發料理並自由裝扮海景小屋，體驗無拘無束的田園慢生活。想要輕鬆打造理想島嶼，掌握新手攻略至關重要，開局別忘了領取官方禮包碼與最新兌換碼，免費獲取豐富資源與稀有裝飾道具！若想加速島嶼建設與解鎖限定外觀，推薦選擇快速安全的專業代儲值服務，即時到帳更有保障。快加入《解憂夢幻島》，一起告別日常壓力，享受溫馨治癒的時光吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2559
+      },
+      {
+        "name": "1490禮包",
+        "price": 1287
+      },
+      {
+        "name": "990禮包",
+        "price": 863
+      },
+      {
+        "name": "690禮包",
+        "price": 584
+      },
+      {
+        "name": "490禮包",
+        "price": 427
+      },
+      {
+        "name": "320禮包",
+        "price": 279
+      },
+      {
+        "name": "150禮包",
+        "price": 131
+      },
+      {
+        "name": "100禮包",
+        "price": 87
+      },
+      {
+        "name": "30禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/dreamscapeisland/",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E8%A7%A3%E6%86%82%E5%A4%A2%E5%B9%BB%E5%B3%B6/id6790720778",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.aidiangames.garden.gp",
+      "禮包碼": "gift-codes.html?game=解憂夢幻島"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=解憂夢幻島"
   }
 }
