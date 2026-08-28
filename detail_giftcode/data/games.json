@@ -28236,5 +28236,59 @@
       "禮包碼": "gift-codes.html?game=我欲修仙-塔防肉鴿"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=我欲修仙-塔防肉鴿"
+  },
+  "永恆聖域": {
+    "logo": "images/永恆聖域.webp",
+    "description": "《永恆聖域》是一款高自由度西方魔幻大世界MMORPG手遊，玩家能踏入沉浸宏偉的聖域大陸，體驗深度多元的職業養成、海域秘境探索、神裝鍛造與熱血跨服競技團戰。想要在開服初期迅速強勢崛起？本站為你整理必看新手攻略與最新兌換碼，輸入官方禮包碼即可直接免費解鎖稀有神裝與海量培養資源！追求極致戰力排名的冒險者，推薦選擇專業手遊代儲值服務，享受快速安全、即時到帳與超值回饋，助你無憂強化裝備、輕鬆稱霸全服。立即領取專屬福利，展開屬於你的魔幻史詩冒險旅程！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2816
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 863
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 759
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 584
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 427
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 288
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/yt.gamexdd/",
+      "官方網站": "https://yt.gamexdd.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E6%B0%B8%E6%81%86%E8%81%96%E5%9F%9F/id6795384233",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.jumpautech.ytgg",
+      "禮包碼": "gift-codes.html?game=永恆聖域"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=永恆聖域"
   }
 }
