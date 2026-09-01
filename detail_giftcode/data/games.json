@@ -28290,5 +28290,113 @@
       "禮包碼": "gift-codes.html?game=永恆聖域"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=永恆聖域"
+  },
+  "嘎嘎特攻": {
+    "logo": "images/嘎嘎特攻.webp",
+    "description": "《嘎嘎特攻》是一款極具趣味與爽快打擊感的策略割草冒險手遊！在怪獸肆虐的危機世界中，玩家將化身勇敢戰士抵禦無盡敵潮，透過自由搭配多元技能與強化裝備武器，享受流暢走位與全螢幕極限清怪快感。想快速通關必看新手養成攻略，即刻掌握最新兌換碼與官方禮包碼，免費兌換海量鑽石與超值限定虛寶。追求頂級陣容與極致戰力更推薦專業代儲值服務，流程快速安全、優惠省時有保障，助你輕鬆突破難關稱霸排行榜！現在就立即登入領取豐富福利，展開屬於你的熱血割草冒險旅程吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2816
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 863
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 759
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 584
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 427
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 288
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/p/%E5%98%8E%E5%98%8E%E7%89%B9%E6%94%BB-61591105783886/",
+      "官方網站": "https://ducksurvivaltw.acenetgame.com/p-reg/?ss_vwvs=act&fbclid=IwY2xjawUDyiVwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWlmTTdFYzZIV2FSYksyaTdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeXoIITPlour2WxkdePSEm5u0xH3moCcsBZc6g0Pe2NXiePjujSiBW_VVB9gU_aem_xBX5jhKqprunG_Qvk_RxhQ",
+      "App Store": "https://apps.apple.com/tw/app/%E5%98%8E%E5%98%8E%E7%89%B9%E6%94%BB/id6778309357",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.mrtgd2.tw.and&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=嘎嘎特攻"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=嘎嘎特攻"
+  },
+  "賢者同盟": {
+    "logo": "images/賢者同盟.webp",
+    "description": "《賢者同盟》是一款人氣爆棚的日系奇幻美少女冒險RPG手遊！玩家將化身救世賢者深入神秘地下城探索，招募各具魅力的夥伴少女，透過策略陣容編排與技能屬性剋制破解層層迷宮。想快速提升隊伍戰力必讀新手拓荒攻略，第一時間掌握最新兌換碼與官方禮包碼，免費領取海量魔晶石與限定稀有召喚道具。追求全圖鑑與頂級養成更推薦專業代儲值服務，流程快速安全、優惠省時有保障，助你輕鬆打造最強無敵陣容！現在就立即登入領取豐富好禮，展開屬於你的奇幻地下城冒險旅程吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2559
+      },
+      {
+        "name": "1490禮包",
+        "price": 1287
+      },
+      {
+        "name": "990禮包",
+        "price": 863
+      },
+      {
+        "name": "690禮包",
+        "price": 584
+      },
+      {
+        "name": "490禮包",
+        "price": 427
+      },
+      {
+        "name": "320禮包",
+        "price": 279
+      },
+      {
+        "name": "150禮包",
+        "price": 131
+      },
+      {
+        "name": "100禮包",
+        "price": 87
+      },
+      {
+        "name": "30禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/AllianceSages/?locale=zh_TW",
+      "官方網站": "http://www.sheenagames.com/",
+      "App Store": "https://apps.apple.com/tw/app/%E8%B3%A2%E8%80%85%E5%90%8C%E7%9B%9F/id6779146908",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.sheenagames.sages&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=賢者同盟"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=賢者同盟"
   }
 }
