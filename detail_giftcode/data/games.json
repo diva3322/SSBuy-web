@@ -27853,7 +27853,7 @@
     "social": {
       "Facebook": "https://www.facebook.com/wildwaterworldTW/",
       "官方網站": "https://flotshelter.eworldgame.com/",
-      "App Store": "",
+      "App Store": "https://apps.apple.com/tw/app/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
       "Google Play": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=zh_TW",
       "禮包碼": "gift-codes.html?game=瘋狂水世界"
     },
@@ -30072,5 +30072,113 @@
       "禮包碼": "gift-codes.html?game=大時代-Tvb正版授權"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=大時代-Tvb正版授權"
+  },
+  "天上碑K": {
+    "logo": "images/天上碑K.webp",
+    "description": "《天上碑K》是一款承襲經典IP精髓的全新模擬經營與武俠角色扮演手遊。遊戲重現原汁原味的江湖武俠世界，玩家可自由修練各種武學功法、體驗多元化的角色養成與門派幫會對戰，享受極致的江湖歷練。想在高手雲集的江湖中搶佔先機？這裡提供最全面的新手攻略、最新兌換碼與官方禮包碼，幫你快速累積成長資源。需要補充虛寶的玩家，推薦使用優質代儲值管道，享有快速安全的儲值體驗。現在就加入《天上碑K》，重溫最純粹的熱血江湖夢！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2816
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 863
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 759
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 584
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 427
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 288
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/TW.STK/",
+      "官方網站": "https://stk.mangot5.com/game/stk/preRegist/index",
+      "App Store": "https://apps.apple.com/tw/app/%E5%A4%A9%E4%B8%8A%E7%A2%91k/id6786564242",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.mangot5.stk",
+      "禮包碼": "gift-codes.html?game=天上碑K"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=天上碑K"
+  },
+  "怪物地城＋": {
+    "logo": "images/怪物地城＋.webp",
+    "description": "《怪物地城＋》是一款結合經典地城探險與策略養成要素的熱門手遊。玩家將深入變幻莫測的地下城，召喚並培養各具特色的怪物夥伴，展開精彩絕倫的冒險旅程。遊戲內建豐富的角色養成系統、策略陣容搭配與刺激的副本挑戰，呈現流暢爽快的戰鬥體驗。想在遊戲中快速脫穎而出？我們特別整理了最新新手攻略、限時最新兌換碼與官方禮包碼，助你輕鬆領取豐厚獎勵！若想快速提升戰力的玩家，選擇專業的代儲值服務不僅快速安全，還能享有超值優惠。立即下載體驗，開啟專屬你的怪物冒險吧！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "3290/99.99禮包",
+        "price": 2816
+      },
+      {
+        "name": "1690/49.99禮包",
+        "price": 1460
+      },
+      {
+        "name": "990/29.99禮包",
+        "price": 863
+      },
+      {
+        "name": "840/24.99禮包",
+        "price": 759
+      },
+      {
+        "name": "670/19.99禮包",
+        "price": 584
+      },
+      {
+        "name": "490/14.99禮包",
+        "price": 427
+      },
+      {
+        "name": "330/9.99禮包",
+        "price": 288
+      },
+      {
+        "name": "170/4.99禮包",
+        "price": 148
+      },
+      {
+        "name": "33/0.99禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=61593257952772#",
+      "官方網站": "",
+      "App Store": "https://apps.apple.com/tw/app/%E6%80%AA%E7%89%A9%E5%9C%B0%E5%9F%8E/id6792964778",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.clony.mamodan.tw",
+      "禮包碼": "gift-codes.html?game=怪物地城＋"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=怪物地城＋"
   }
 }
