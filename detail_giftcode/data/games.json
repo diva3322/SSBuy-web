@@ -30612,5 +30612,59 @@
       "禮包碼": "gift-codes.html?game=極樂事件簿"
     },
     "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=極樂事件簿"
+  },
+  "全民修煉：重製版": {
+    "logo": "images/全民修煉：重製版.webp",
+    "description": "《全民修煉：重製版》是一款以修煉成長為核心的1對1戰鬥RPG，結合基礎訓練、裝備合成、強化升級與PVP對戰，體驗從新手逐步成為強者的成長樂趣。想快速提升戰力？立即查看全民修煉：重製版攻略，掌握新手培養技巧、裝備強化方向、最新兌換碼與官方禮包碼，領取更多遊戲資源。透過合理分配資源、持續修煉與挑戰對手，打造專屬戰鬥優勢。需要購買遊戲點數或優惠禮包，也可選擇速速幫代儲值服務，享受快速安全的便利體驗。立即掌握最新資訊，開啟你的修煉之路！",
+    "products": [
+      {
+        "name": "最新優惠價格請洽Line@",
+        "price": "ID：@ssbuy"
+      },
+      {
+        "name": "2990禮包",
+        "price": 2559
+      },
+      {
+        "name": "1490禮包",
+        "price": 1287
+      },
+      {
+        "name": "990禮包",
+        "price": 863
+      },
+      {
+        "name": "690禮包",
+        "price": 584
+      },
+      {
+        "name": "490禮包",
+        "price": 427
+      },
+      {
+        "name": "320禮包",
+        "price": 279
+      },
+      {
+        "name": "150禮包",
+        "price": 131
+      },
+      {
+        "name": "100禮包",
+        "price": 87
+      },
+      {
+        "name": "30禮包",
+        "price": 29
+      }
+    ],
+    "social": {
+      "Facebook": "",
+      "官方網站": "https://daerisoft.imweb.me/",
+      "App Store": "https://apps.apple.com/tw/app/%E5%85%A8%E6%B0%91%E4%BF%AE%E7%85%89-%E9%87%8D%E8%A3%BD%E7%89%88/id6803365307",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.daerigame.scarecrow&hl=zh_TW",
+      "禮包碼": "gift-codes.html?game=全民修煉：重製版"
+    },
+    "canonical_url": "https://www.ssbuy.tw/game-detail.html?game=全民修煉：重製版"
   }
 }
